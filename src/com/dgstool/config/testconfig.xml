@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<data>
+	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the start time from which simulation records will be generated -->
+	<startindex name="Time Stamp">2012-09-28T16:41:12</startindex>
+	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the end time till which simulation records will be generated -->
+	<endindex>2012-10-28T23:57:44</endindex>
+	<!-- This is the time delta between two generated records. This will be in milliseconds. -->
+	<step>50000000</step>
+	<!-- For each Column the below configuration needs to be provided -->
+	<column name="Column Name A">
+		<minimum>0</minimum>
+		<maximum>500</maximum>
+		<!-- Datatype supported - Integer, Float, Decimal  -->
+		<datatype>Integer</datatype>
+		<!-- Type Suported : Random_normal  -->
+		<!-- Types to Support : Treading_up, Trending_down,Sine_with_randomness, Guassianwhitenoise, Weiner_process, -->
+		<pattern></pattern>
+		<!-- Mean : This support needs to be thought of  -->
+		<mean></mean>
+		<!-- Standard Deviation -->
+		<stdev></stdev>
+		<!-- Slope of Data -->
+		<slope></slope>
+	</column>
+	<column name="Column Name B">
+		<minimum>1</minimum>
+		<maximum>10</maximum>		
+		<datatype>Integer</datatype>		
+		<pattern></pattern>		
+		<mean></mean>		
+		<stdev></stdev>		
+		<slope></slope>
+	</column>
+	<column name="Column Name C">
+		<minimum>45</minimum>
+		<maximum>95</maximum>		
+		<datatype>Integer</datatype>		
+		<pattern></pattern>		
+		<mean></mean>		
+		<stdev></stdev>		
+		<slope></slope>
+	</column>
+</data>
