@@ -7,6 +7,7 @@ Created on Aug 30, 2015
 import xml.etree.ElementTree as ET
 import csv
 import datetime
+import random
 
 class DataGenerator(object):
     '''
@@ -46,7 +47,7 @@ class DataGenerator(object):
         
     def process(self):
         '''
-        Parcs the Config and generates the data
+        Parse the Config and generates the data
         '''
         self.root=self.processXMLConfig()
         self.insertToCSVFile(self.getHeading(),'wb')
@@ -56,15 +57,15 @@ class DataGenerator(object):
         startTime=datetime.datetime.strptime(self.root.find('startindex').text, "%Y-%m-%dT%H:%M:%S")
         endTime=datetime.datetime.strptime(self.root.find('endindex').text, "%Y-%m-%dT%H:%M:%S")
         timeIterator=startTime
-        count=1
+        
         while timeIterator < endTime:
             record=[]
             record.append(timeIterator)
             #To do for other records
-            record.append('A random'+str(count))
-            record.append('B random'+str(count))
-            record.append('C random'+str(count))
-            count+=1
+            for column in self.root.findall('column'):
+                #Process column information
+                record.append(random.random())
+            
             timeIterator += datetime.timedelta(milliseconds=int(self.root.find('step').text))            
             self.insertToCSVFile(record,'ab')        
         return True

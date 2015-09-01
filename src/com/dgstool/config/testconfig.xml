@@ -40,4 +40,22 @@
 		<stdev></stdev>		
 		<slope></slope>
 	</column>
+	<column name="Column Name D">
+		<minimum>45</minimum>
+		<maximum>95</maximum>		
+		<datatype>Integer</datatype>		
+		<pattern></pattern>		
+		<mean></mean>		
+		<stdev></stdev>		
+		<slope></slope>
+	</column>
+	<column name="Column Name E">
+		<minimum>45</minimum>
+		<maximum>95</maximum>		
+		<datatype>Integer</datatype>		
+		<pattern></pattern>		
+		<mean></mean>		
+		<stdev></stdev>		
+		<slope></slope>
+	</column>
 </data>
