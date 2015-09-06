@@ -3,6 +3,7 @@ Created on Sep 6, 2015
 
 @author: Subhasis
 '''
+import random
 
 class DecimalGenrator(object):
     '''
@@ -10,8 +11,11 @@ class DecimalGenrator(object):
     '''
 
 
-    def __init__(self, params):
+    def __init__(self, dataConf):
         '''
         Constructor
         '''
-        
+        self.dataConf=dataConf
+    
+    def getRandom(self):
+        pass

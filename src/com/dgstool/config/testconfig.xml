@@ -19,58 +19,47 @@
 		<description>This column will generate random float numbers in he interval [0,1). 
 		If not additional information is available his option will be chosen. </description>		
 	</column>
-	<column name="Basic Random Float Numbers">
-		<description>This column will generate random float numbers in he interval [0,1). 
-		If not additional information is available his option will be chosen. </description>
+	<column name="Basic Random Integer Numbers">
+		<description>This column will generate random integer numbers in the interval [minimum,maximum]. 
+		If not additional information is available his option will be chosen. </description>		
+		<datatype>Integer</datatype>		
+		<pattern>Random_normal</pattern>
+		<minimum>10</minimum>
+		<maximum>1000</maximum>		
+	</column>
+	<column name="Basic Random Integer Numbers With Step">
+		<description>This column will generate random integer numbers in he interval [minimum,maximum]. 
+		The Step can be used to choose select integers in the range[]. </description>		
+		<datatype>Integer</datatype>		
+		<pattern>Random_normal</pattern>
+		<minimum>1000</minimum>
+		<maximum>100001</maximum>	
+		<step>2</step>	<!-- Step 2 will ensure only even or odd are generated based on mimimum -->
+	</column>
+	<column name="Basic Random Float Numbers In a Range">
+		<description>This column will generate random float numbers in he interval [mimimum,maximum]. 
+		</description>		
+		<datatype>Float</datatype>		
+		<pattern>Random_normal</pattern>
+		<minimum>5</minimum>
+		<maximum>50</maximum>		
+	</column>
+	<column name="Basic Random Float Numbers In a Range with maximum distribution near mean">
+		<description>A random floating point number N such that it is in [minimum,maximum] and with the specified mean between those bounds.
+		The mean argument defaults to the midpoint between the bounds, giving a symmetric distribution.</description>
 		<!-- Datatype supported - Integer, Float -->
 		<!-- To Support : Choice, String -->
 		<datatype>Float</datatype>
 		<!-- Type Suported : Random_normal  -->
 		<!-- Types to Support : Treading_up, Trending_down,Sine_with_randomness, Guassianwhitenoise, Weiner_process, -->
 		<pattern>Random_normal</pattern>
-		<minimum>0</minimum>
-		<maximum>1</maximum>
-		<!-- Mean : This support needs to be thought of  -->
-		<mean></mean>
+		<minimum>5</minimum>
+		<maximum>50</maximum>
+		<!-- Mean : This can be used to generate a bell curve data. -->
+		<mean>40</mean>
 		<!-- Standard Deviation -->
-		<stdev></stdev>
+		<!-- <stdev></stdev> -->
 		<!-- Slope of Data -->
-		<slope></slope>
-	</column>
-	<column name="Column Name B">
-		<minimum>1</minimum>
-		<maximum>10</maximum>		
-		<datatype>Integer</datatype>		
-		<pattern></pattern>		
-		<mean></mean>		
-		<stdev></stdev>		
-		<slope></slope>
-	</column>
-	<column name="Column Name C">
-		<minimum>45</minimum>
-		<maximum>95</maximum>		
-		<datatype>Integer</datatype>		
-		<pattern></pattern>		
-		<mean></mean>		
-		<stdev></stdev>		
-		<slope></slope>
-	</column>
-	<column name="Column Name D">
-		<minimum>45</minimum>
-		<maximum>95</maximum>		
-		<datatype>Integer</datatype>		
-		<pattern></pattern>		
-		<mean></mean>		
-		<stdev></stdev>		
-		<slope></slope>
-	</column>
-	<column name="Column Name E">
-		<minimum>45</minimum>
-		<maximum>95</maximum>		
-		<datatype>Integer</datatype>		
-		<pattern></pattern>		
-		<mean></mean>		
-		<stdev></stdev>		
-		<slope></slope>
-	</column>
+		<!-- <slope></slope> -->
+	</column>	 
 </data>

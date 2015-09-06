@@ -13,6 +13,7 @@ from com.dgstool.common.RandomConfig import RandomConfig
 from com.dgstool.common.IntegerGenrator import IntegerGenrator
 from com.dgstool.common.FloatGenrator import FloatGenrator
 from com.dgstool.common.DecimalGenrator import DecimalGenrator
+from _csv import Error
 
 class DataGenerator(object):
     '''
@@ -37,25 +38,29 @@ class DataGenerator(object):
           
     def generateData(self,record):  
         #To do for other records
-        for column in self.root.findall('column'):
-            dataConf=RandomConfig(column)
-            value= None
-            if dataConf.dataType == "Integer":                
-                value=IntegerGenrator(dataConf).getRandom()
-            elif dataConf.dataType == "Float":
-                value=FloatGenrator(dataConf).getRandom()
-            elif dataConf.dataType == "Decimal":
-                value=DecimalGenrator(dataConf).getRandom()
-            elif dataConf.dataType == "Choice": #TODO : based on choice present selct
-                value=random.random()
-            elif dataConf.dataType == "String": #TODO : based on string set available randomise 
-                value=random.random() 
-            elif dataConf.dataType == "Tweet": #TODO : based on string set available randomise 
-                value=random.random()   
-            else: # will be considered float (0,1]
-                value=random.random()                    
-            #Process column information
-            record.append(value)  
+        try:        
+            for column in self.root.findall('column'):
+                dataConf=RandomConfig(column)
+                value= None
+                if dataConf.dataType == "Integer":                
+                    value=IntegerGenrator(dataConf).getRandom()
+                elif dataConf.dataType == "Float":
+                    value=FloatGenrator(dataConf).getRandom()
+                elif dataConf.dataType == "Decimal":
+                    value=DecimalGenrator(dataConf).getRandom()
+                elif dataConf.dataType == "Choice": #TODO : based on choice present selct
+                    value=random.random()
+                elif dataConf.dataType == "String": #TODO : based on string set available randomise 
+                    value=random.random() 
+                elif dataConf.dataType == "Tweet": #TODO : based on string set available randomise 
+                    value=random.random()   
+                else: # will be considered float (0,1]
+                    value=random.random()                    
+                #Process column information
+                record.append(value) 
+        except:
+            #TO DO handle any error
+            raise         
         return record    
    
     def getHeading(self):

@@ -24,5 +24,3 @@ class CSVFileManager(object):
             writer = csv.writer(csvfile, delimiter=',')
             writer.writerow(dataList)
         return True
-    
-    

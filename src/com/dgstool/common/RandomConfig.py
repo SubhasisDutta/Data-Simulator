@@ -18,8 +18,9 @@ class RandomConfig(object):
         #kwargs -- dictionary of named arguments
         self.dataType = column.findtext('datatype',default='Float')
         self.pattern=column.findtext('pattern',default='Random_normal')
-        self.minimum=column.findtext('minimum',default=0)
-        self.maximum=column.findtext('maximum',default=1)
+        self.minimum=column.findtext('minimum',default=None)
+        self.maximum=column.findtext('maximum',default=None)
+        self.step=column.findtext('step',default=None)
         self.mean=column.findtext('mean',default=None)
         self.stdev=column.findtext('stdev',default=None)
         self.slope=column.findtext('slope',default=None)
