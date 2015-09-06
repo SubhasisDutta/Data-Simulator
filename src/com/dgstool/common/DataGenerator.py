@@ -9,6 +9,10 @@ import datetime
 import random
 from com.dgstool.common.ConfigValidator import ConfigValidator
 from com.dgstool.common.CSVFileManager import CSVFileManager
+from com.dgstool.common.RandomConfig import RandomConfig
+from com.dgstool.common.IntegerGenrator import IntegerGenrator
+from com.dgstool.common.FloatGenrator import FloatGenrator
+from com.dgstool.common.DecimalGenrator import DecimalGenrator
 
 class DataGenerator(object):
     '''
@@ -21,6 +25,7 @@ class DataGenerator(object):
         '''
         self.inputConfigFile=inputConfigFile   
         self.manager = None   
+        self.generate = None
         
     def processXMLConfig(self):
         '''
@@ -29,35 +34,28 @@ class DataGenerator(object):
         tree = ET.parse(self.inputConfigFile)
         root = tree.getroot()              
         return root
-    
-    def processColumn(self,column):
-        #Set the defaults
-        dataType="Float"
-        pattern="Random_normal"
-        minimum=0
-        maximum=1
-        mean=0
-        stdev=0
-        slope=1
-        choice=[]
-        
-        return [dataType,pattern,minimum,maximum,mean,stdev,slope,choice]
-       
+          
     def generateData(self,record):  
         #To do for other records
         for column in self.root.findall('column'):
-            [dataType,pattern,minimum,maximum,mean,stdev,slope,choice]=self.processColumn(column)
+            dataConf=RandomConfig(column)
             value= None
-            if dataType == "Integer":
-                value=""
-            elif dataType == "Choice":
-                value=""
-            elif dataType == "String":
-                value=""    
-            else: # will be considered float
-                value=""                    
+            if dataConf.dataType == "Integer":                
+                value=IntegerGenrator(dataConf).getRandom()
+            elif dataConf.dataType == "Float":
+                value=FloatGenrator(dataConf).getRandom()
+            elif dataConf.dataType == "Decimal":
+                value=DecimalGenrator(dataConf).getRandom()
+            elif dataConf.dataType == "Choice": #TODO : based on choice present selct
+                value=random.random()
+            elif dataConf.dataType == "String": #TODO : based on string set available randomise 
+                value=random.random() 
+            elif dataConf.dataType == "Tweet": #TODO : based on string set available randomise 
+                value=random.random()   
+            else: # will be considered float (0,1]
+                value=random.random()                    
             #Process column information
-            record.append(random.random())  
+            record.append(value)  
         return record    
    
     def getHeading(self):
@@ -84,8 +82,6 @@ class DataGenerator(object):
         
         self.outputFormat = self.root.find('resulttype').find('format').text
         self.outputMode= self.root.find('resulttype').find('mode').text
-        
-        
         
         if self.outputFormat == 'CSV' and self.outputMode == 'FILE':
             self.manager=CSVFileManager(self.root)  
