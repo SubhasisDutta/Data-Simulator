@@ -5,21 +5,22 @@ Created on Aug 30, 2015
 '''
 
 import xml.etree.ElementTree as ET
-import csv
 import datetime
 import random
+from com.dgstool.common.ConfigValidator import ConfigValidator
+from com.dgstool.common.CSVFileManager import CSVFileManager
 
 class DataGenerator(object):
     '''
     This does all the processing to take an XML input and create an output that is persisted.
     '''
     
-    def __init__(self,inputConfigFile,resultFile):
+    def __init__(self,inputConfigFile):
         '''
         Constructor
         '''
-        self.inputConfigFile=inputConfigFile
-        self.resultFile=resultFile
+        self.inputConfigFile=inputConfigFile   
+        self.manager = None      
         
     def processXMLConfig(self):
         '''
@@ -29,14 +30,12 @@ class DataGenerator(object):
         root = tree.getroot()              
         return root
     
-    def generateData(self,confObj):  
-        pass 
-    
-    def insertToCSVFile(self,dataList,writeType):
-        with open(self.resultFile, writeType) as csvfile:
-            writer = csv.writer(csvfile, delimiter=',')
-            writer.writerow(dataList)
-        return True
+    def generateData(self,record):  
+        #To do for other records
+        for column in self.root.findall('column'):
+            #Process column information
+            record.append(random.random())  
+        return record    
    
     def getHeading(self):
         heading=[]
@@ -49,24 +48,57 @@ class DataGenerator(object):
         '''
         Parse the Config and generates the data
         '''
+        '''
+        This checks if the Configuration is in corect format.
+        '''
+        configValidator=ConfigValidator()
+        if not configValidator.validate(self.inputConfigFile):
+            return False
+        '''
+        This loads the configuration into an object.
+        '''
         self.root=self.processXMLConfig()
-        self.insertToCSVFile(self.getHeading(),'wb')
         
-        print self.root.find('startindex').text
+        self.outputFormat = self.root.find('resulttype').find('format').text
+        self.outputMode= self.root.find('resulttype').find('mode').text
         
+        
+        
+        if self.outputFormat == 'CSV' and self.outputMode == 'FILE':
+            self.manager=CSVFileManager(self.root)  
+            self.manager.push(self.getHeading(),'wb')                      
+        else:
+            return False
+        
+                       
         startTime=datetime.datetime.strptime(self.root.find('startindex').text, "%Y-%m-%dT%H:%M:%S")
         endTime=datetime.datetime.strptime(self.root.find('endindex').text, "%Y-%m-%dT%H:%M:%S")
         timeIterator=startTime
-        
-        while timeIterator < endTime:
-            record=[]
-            record.append(timeIterator)
-            #To do for other records
-            for column in self.root.findall('column'):
-                #Process column information
-                record.append(random.random())
             
-            timeIterator += datetime.timedelta(milliseconds=int(self.root.find('step').text))            
-            self.insertToCSVFile(record,'ab')        
+        while timeIterator < endTime:
+            record=[]            
+            record.append(timeIterator)                    
+                        
+            self.manager.push(self.generateData(record),'ab')
+                            
+            timeIterator += self.getTimeDelta()
+        
         return True
 
+    def getTimeDelta(self):
+        timeDelta=self.root.find('timedelta').text
+        timedeltaunit=self.root.find('timedeltaunit').text
+        #microseconds, milliseconds, seconds, minutes, hours, days, weeks
+        if timedeltaunit == 'microseconds':
+            return datetime.timedelta(seconds=int(timeDelta))
+        if timedeltaunit == 'milliseconds':
+            return datetime.timedelta(milliseconds=int(timeDelta))
+        if timedeltaunit == 'minutes':
+            return datetime.timedelta(minutes=int(timeDelta))
+        if timedeltaunit == 'hours':
+            return datetime.timedelta(hours=int(timeDelta))
+        if timedeltaunit == 'days':
+            return datetime.timedelta(days=int(timeDelta))
+        if timedeltaunit == 'weeks':
+            return datetime.timedelta(weeks=int(timeDelta)) 
+        return datetime.timedelta(seconds=int(timeDelta))
