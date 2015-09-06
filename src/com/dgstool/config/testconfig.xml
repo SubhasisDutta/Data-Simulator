@@ -15,14 +15,21 @@
 	<timedelta>120</timedelta>
 	<timedeltaunit>minutes</timedeltaunit><!-- microseconds, milliseconds, seconds, minutes, hours, days, weeks. Default is seconds -->
 	<!-- For each Column the below configuration needs to be provided -->
-	<column name="Column Name A">
-		<minimum>0</minimum>
-		<maximum>500</maximum>
-		<!-- Datatype supported - Integer, Float, Decimal  -->
-		<datatype>Integer</datatype>
+	<column name="Basic Random Float Numbers">
+		<description>This column will generate random float numbers in he interval [0,1). 
+		If not additional information is available his option will be chosen. </description>		
+	</column>
+	<column name="Basic Random Float Numbers">
+		<description>This column will generate random float numbers in he interval [0,1). 
+		If not additional information is available his option will be chosen. </description>
+		<!-- Datatype supported - Integer, Float -->
+		<!-- To Support : Choice, String -->
+		<datatype>Float</datatype>
 		<!-- Type Suported : Random_normal  -->
 		<!-- Types to Support : Treading_up, Trending_down,Sine_with_randomness, Guassianwhitenoise, Weiner_process, -->
-		<pattern></pattern>
+		<pattern>Random_normal</pattern>
+		<minimum>0</minimum>
+		<maximum>1</maximum>
 		<!-- Mean : This support needs to be thought of  -->
 		<mean></mean>
 		<!-- Standard Deviation -->

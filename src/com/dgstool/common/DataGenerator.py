@@ -20,7 +20,7 @@ class DataGenerator(object):
         Constructor
         '''
         self.inputConfigFile=inputConfigFile   
-        self.manager = None      
+        self.manager = None   
         
     def processXMLConfig(self):
         '''
@@ -30,9 +30,32 @@ class DataGenerator(object):
         root = tree.getroot()              
         return root
     
+    def processColumn(self,column):
+        #Set the defaults
+        dataType="Float"
+        pattern="Random_normal"
+        minimum=0
+        maximum=1
+        mean=0
+        stdev=0
+        slope=1
+        choice=[]
+        
+        return [dataType,pattern,minimum,maximum,mean,stdev,slope,choice]
+       
     def generateData(self,record):  
         #To do for other records
         for column in self.root.findall('column'):
+            [dataType,pattern,minimum,maximum,mean,stdev,slope,choice]=self.processColumn(column)
+            value= None
+            if dataType == "Integer":
+                value=""
+            elif dataType == "Choice":
+                value=""
+            elif dataType == "String":
+                value=""    
+            else: # will be considered float
+                value=""                    
             #Process column information
             record.append(random.random())  
         return record    
