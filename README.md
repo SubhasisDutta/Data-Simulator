@@ -12,7 +12,7 @@ A sample template is present in test\templatefiles\csv_random_sample_template.xm
 This file contains all details you will need to configure and generate the output.
 
 To run the Simulator you will need to go inside src folder and execute the main.py using the below command.
-python main.py <absolute path to congiguration template> 
+python main.py absolute path to congiguration template 
 
 To execute the sample :
-python main.py <Absolute path>/test/templatefiles/csv_random_sample_template.xml 
+python main.py Absolute path/test/templatefiles/csv_random_sample_template.xml 
