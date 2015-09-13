@@ -7,13 +7,13 @@ Created on Aug 30, 2015
 import xml.etree.ElementTree as ET
 import datetime
 import random
-from com.dgstool.common.ConfigValidator import ConfigValidator
-from com.dgstool.common.CSVFileManager import CSVFileManager
-from com.dgstool.common.RandomConfig import RandomConfig
-from com.dgstool.common.IntegerGenrator import IntegerGenrator
-from com.dgstool.common.FloatGenrator import FloatGenrator
-from com.dgstool.common.DecimalGenrator import DecimalGenrator
-from _csv import Error
+from datasimu.validator.ConfigValidator import ConfigValidator
+from datasimu.manager.CSVFileManager import CSVFileManager
+from datasimu.config.RandomConfig import RandomConfig
+from datasimu.generator.IntegerGenrator import IntegerGenrator
+from datasimu.generator.FloatGenrator import FloatGenrator
+from datasimu.generator.DecimalGenrator import DecimalGenrator
+
 
 class DataGenerator(object):
     '''
