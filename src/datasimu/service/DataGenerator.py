@@ -9,6 +9,7 @@ import datetime
 import random
 from datasimu.validator.ConfigValidator import ConfigValidator
 from datasimu.manager.CSVFileManager import CSVFileManager
+from datasimu.manager.CassandraManager import CassandraManager
 from datasimu.config.RandomConfig import RandomConfig
 from datasimu.generator.IntegerGenrator import IntegerGenrator
 from datasimu.generator.FloatGenrator import FloatGenrator
@@ -75,10 +76,10 @@ class DataGenerator(object):
         Parse the Config and generates the data
         '''
         '''
-        This checks if the Configuration is in corect format.
+        This checks if the Configuration file is in correct format.
         '''
         configValidator=ConfigValidator()
-        if not configValidator.validate(self.inputConfigFile):
+        if not configValidator.valid(self.inputConfigFile):
             return False
         '''
         This loads the configuration into an object.
@@ -91,6 +92,8 @@ class DataGenerator(object):
         if self.outputFormat == 'CSV' and self.outputMode == 'FILE':
             self.manager=CSVFileManager(self.root)  
             self.manager.push(self.getHeading(),'wb')                      
+        elif self.outputFormat == 'CSV' and self.outputMode == 'CASSANDRA':
+            self.manager=CassandraManager(self.root)
         else:
             return False
         
@@ -101,10 +104,8 @@ class DataGenerator(object):
             
         while timeIterator < endTime:
             record=[]            
-            record.append(timeIterator)                    
-                        
-            self.manager.push(self.generateData(record),'ab')
-                            
+            record.append(timeIterator) 
+            self.manager.push(self.generateData(record),'ab')                            
             timeIterator += self.getTimeDelta()
         
         return True

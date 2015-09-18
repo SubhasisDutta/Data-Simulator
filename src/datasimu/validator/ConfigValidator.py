@@ -16,7 +16,7 @@ class ConfigValidator(object):
         '''                    
         #Curentl Empty
         
-    def validate(self,inputConfigFile):
+    def valid(self,inputConfigFile):
         self.inputConfigFile=inputConfigFile
         #TO DO : get the file and validate the format. Currently assuming the file is in correct format
         return True
