@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<data>
+	<resulttype>
+		<format>TWEET</format> <!-- This is a special Case for Generating Tweets in random -->
+		<mode>FILE</mode><!-- Curren support for Cassendra and CSV -->
+		<location>D:\Workspace\freelance\serendio\RandomDataSimulator\target\testdatatwet.csv</location>		
+	</resulttype>
+	
+	<specialtype>TweetGenerate</specialtype> <!-- This asumes the generation is for tweets-->
+	
+	<tweetload>
+		<tweetseed>D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\SampleTweetData.csv</tweetseed>
+		<seedauthor>1</seedauthor>
+		<seedtweet>2</seedtweet>
+		
+		<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the start time from which simulation records will be generated -->
+		<startindex name="Time Stamp" dbColumnName='timesamp' type="timestamp">2012-09-28T00:00:00</startindex>
+		<totaltweet>300000</totaltweet><!-- this is the total number of tweets that need to be generated -->		
+		<patternrepeat>3</patternrepeat>
+		<patternrepeatunit>day</patternrepeatunit> <!-- Can only be hour(60),day(24),week(7),month(30) -->
+		<patternloaddistribution>  
+			<!-- range start is always 0 and end is detmined by patternrepeatunit. The load is in Percenage of per pattern distribution -->
+			<range stat="0" end="6" load="5"/>
+			<range stat="6" end="10" load="5"/>
+			<range stat="10" end="12" load="15"/>
+			<range stat="12" end="15" load="15"/>
+			<range stat="15" end="16" load="10"/>
+			<range stat="16" end="17" load="25"/>
+			<range stat="17" end="20" load="15"/>
+			<range stat="20" end="24" load="10"/>			
+		</patternloaddistribution>
+	
+	</tweetload>
+	
+	<column name="Basic Random Float Numbers" dbColumnName='"BasicRandomFloatNumbers"'>
+		<description>This column will generate random float numbers in he interval [0,1). 
+		If not additional information is available his option will be chosen. </description>		
+	</column>
+	<column name="Basic Random Integer Numbers" dbColumnName='"BasicRandomIntegerNumbers"'>
+		<description>This column will generate random integer numbers in the interval [minimum,maximum]. 
+		If not additional information is available his option will be chosen. </description>		
+		<datatype>Integer</datatype>		
+		<pattern>Random_normal</pattern>
+		<minimum>10</minimum>
+		<maximum>1000</maximum>		
+	</column>
+	<column name="Basic Random Integer Numbers With Step" dbColumnName='"BasicRandomIntegerNumbersWithStep"'>
+		<description>This column will generate random integer numbers in he interval [minimum,maximum]. 
+		The Step can be used to choose select integers in the range[]. </description>		
+		<datatype>Integer</datatype>		
+		<pattern>Random_normal</pattern>
+		<minimum>1000</minimum>
+		<maximum>100001</maximum>	
+		<step>2</step>	<!-- Step 2 will ensure only even or odd are generated based on mimimum -->
+	</column>
+	<column name="Basic Random Float Numbers In a Range" dbColumnName='"BasicRandomFloatNumbersInaRange"'>
+		<description>This column will generate random float numbers in he interval [mimimum,maximum]. 
+		</description>		
+		<datatype>Float</datatype>		
+		<pattern>Random_normal</pattern>
+		<minimum>5</minimum>
+		<maximum>50</maximum>		
+	</column>
+	<column name="Basic Random Float Numbers In a Range with maximum distribution near mean" dbColumnName='"BasicRandomFloatNumbersInaRangewithmaximumdistributionnearmean"'>
+		<description>A random floating point number N such that it is in [minimum,maximum] and with the specified mean between those bounds.
+		The mean argument defaults to the midpoint between the bounds, giving a symmetric distribution.</description>
+		<!-- Datatype supported - Integer, Float -->
+		<!-- To Support : Choice, String -->
+		<datatype>Float</datatype>
+		<!-- Type Suported : Random_normal  -->
+		<!-- Types to Support : Treading_up, Trending_down,Sine_with_randomness, Guassianwhitenoise, Weiner_process, -->
+		<pattern>Random_normal</pattern>
+		<minimum>5</minimum>
+		<maximum>50</maximum>
+		<!-- Mean : This can be used to generate a bell curve data. -->
+		<mean>40</mean>
+		<!-- Standard Deviation -->
+		<!-- <stdev></stdev> -->
+		<!-- Slope of Data -->
+		<!-- <slope></slope> -->
+	</column>	 
+</data>

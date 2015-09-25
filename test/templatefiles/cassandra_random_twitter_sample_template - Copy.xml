@@ -1,25 +1,36 @@
 <?xml version="1.0"?>
 <data>
 	<resulttype>
-		<format>CSV</format> <!-- Currently only csv , TODO: JSON,XML or any other -->
-		<mode>FILE</mode><!-- TO DO : STREAMING -->
-		<location>D:\Workspace\target\testdata.csv</location>  <!-- Please change the target path before running -->
-		<!-- Before running he code ensure a dummy file with same name is present in the location -->
-		<!-- Needed if mode is FILE. The path is an absolute path -->
+		<format>TWEET</format> <!-- This is a special Case for Generating Tweets in random -->
+		<mode>FILE</mode><!-- Curren support for Cassendra and CSV -->
+		<location>D:\Workspace\freelance\serendio\RandomDataSimulator\target\testdatatwet.csv</location>
+		<clusters>
+			<cluser>127.0.0.1</cluser>
+		</clusters>
+		<port>9042</port>
+		<keyspace>DataSimulator</keyspace> <!-- Data simulator assumes tat the keyspace is already present in Cassandra -->
+		<table>"TweetTest"</table> <!-- Data Simulator assumes that the table has been created in Cassandra. The script to creat the table is Cql_for_Cassandra_random_sample_template.cql -->		
+		<!-- The Table should have a id column as Primary Key of type uuid -->
 	</resulttype>
+	
+	<specialtype>TweetGenerate</specialtype> <!-- This asumes the generation is for tweets
+	
 	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the start time from which simulation records will be generated -->
-	<startindex name="Time Stamp">2012-09-28T16:41:12</startindex>
+	<startindex name="Time Stamp" dbColumnName='"TimeStamp"' type="timestamp">2012-09-28T16:41:12</startindex>
 	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the end time till which simulation records will be generated -->
 	<endindex>2012-10-28T23:57:44</endindex>
 	<!-- This is the time delta between two generated records. This will be in milliseconds. -->
 	<timedelta>120</timedelta>
 	<timedeltaunit>minutes</timedeltaunit><!-- microseconds, milliseconds, seconds, minutes, hours, days, weeks. Default is seconds -->
 	<!-- For each Column the below configuration needs to be provided -->
-	<column name="Basic Random Float Numbers">
+	
+	
+	
+	<column name="Basic Random Float Numbers" dbColumnName='"BasicRandomFloatNumbers"'>
 		<description>This column will generate random float numbers in he interval [0,1). 
 		If not additional information is available his option will be chosen. </description>		
 	</column>
-	<column name="Basic Random Integer Numbers">
+	<column name="Basic Random Integer Numbers" dbColumnName='"BasicRandomIntegerNumbers"'>
 		<description>This column will generate random integer numbers in the interval [minimum,maximum]. 
 		If not additional information is available his option will be chosen. </description>		
 		<datatype>Integer</datatype>		
@@ -27,7 +38,7 @@
 		<minimum>10</minimum>
 		<maximum>1000</maximum>		
 	</column>
-	<column name="Basic Random Integer Numbers With Step">
+	<column name="Basic Random Integer Numbers With Step" dbColumnName='"BasicRandomIntegerNumbersWithStep"'>
 		<description>This column will generate random integer numbers in he interval [minimum,maximum]. 
 		The Step can be used to choose select integers in the range[]. </description>		
 		<datatype>Integer</datatype>		
@@ -36,7 +47,7 @@
 		<maximum>100001</maximum>	
 		<step>2</step>	<!-- Step 2 will ensure only even or odd are generated based on mimimum -->
 	</column>
-	<column name="Basic Random Float Numbers In a Range">
+	<column name="Basic Random Float Numbers In a Range" dbColumnName='"BasicRandomFloatNumbersInaRange"'>
 		<description>This column will generate random float numbers in he interval [mimimum,maximum]. 
 		</description>		
 		<datatype>Float</datatype>		
@@ -44,7 +55,7 @@
 		<minimum>5</minimum>
 		<maximum>50</maximum>		
 	</column>
-	<column name="Basic Random Float Numbers In a Range with maximum distribution near mean">
+	<column name="Basic Random Float Numbers In a Range with maximum distribution near mean" dbColumnName='"BasicRandomFloatNumbersInaRangewithmaximumdistributionnearmean"'>
 		<description>A random floating point number N such that it is in [minimum,maximum] and with the specified mean between those bounds.
 		The mean argument defaults to the midpoint between the bounds, giving a symmetric distribution.</description>
 		<!-- Datatype supported - Integer, Float -->
@@ -61,31 +72,5 @@
 		<!-- <stdev></stdev> -->
 		<!-- Slope of Data -->
 		<!-- <slope></slope> -->
-	</column>
-	<column name="Float Numbers Given Mean and Standard Deviation">
-		<description>Generate a float given mean and standard deviation.</description>
-		<!-- Datatype supported - Integer, Float -->
-		<!-- To Support : Choice, String -->
-		<datatype>Float</datatype>
-		<!-- Type Suported : Random_normal  -->
-		<!-- Types to Support : Treading_up, Trending_down,Sine_with_randomness, Guassianwhitenoise, Weiner_process, -->
-		<pattern>Standard_Deviation</pattern>		
-		<!-- Mean : This can be used to generate a bell curve data. -->
-		<mean>5.8</mean>
-		<!-- Standard Deviation -->
-		<stdev>0.1</stdev>		
-	</column>
-	<column name="Intiger Given Mean and Standard Deviation">
-		<description>Generate a integer given mean and standard deviation.</description>
-		<!-- Datatype supported - Integer, Float -->
-		<!-- To Support : Choice, String -->
-		<datatype>Integer</datatype>
-		<!-- Type Suported : Random_normal  -->
-		<!-- Types to Support : Treading_up, Trending_down,Sine_with_randomness, Guassianwhitenoise, Weiner_process, -->
-		<pattern>Standard_Deviation</pattern>		
-		<!-- Mean : This can be used to generate a bell curve data. -->
-		<mean>40</mean>
-		<!-- Standard Deviation -->
-		<stdev>5</stdev> 		
-	</column>
+	</column>	 
 </data>

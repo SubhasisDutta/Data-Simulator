@@ -19,7 +19,7 @@ class CSVFileManager(object):
         self.config=config
         self.resultFile=self.config.find('resulttype').find('location').text
         
-    def push(self,dataList,writeType):
+    def push(self,dataList,writeType='ab'):
         with open(self.resultFile, writeType) as csvfile:
             writer = csv.writer(csvfile, delimiter=',')
             writer.writerow(dataList)

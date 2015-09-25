@@ -14,6 +14,7 @@ from datasimu.config.RandomConfig import RandomConfig
 from datasimu.generator.IntegerGenrator import IntegerGenrator
 from datasimu.generator.FloatGenrator import FloatGenrator
 from datasimu.generator.DecimalGenrator import DecimalGenrator
+from datasimu.service.TweetService import TweetService
 
 
 class DataGenerator(object):
@@ -89,25 +90,29 @@ class DataGenerator(object):
         self.outputFormat = self.root.find('resulttype').find('format').text
         self.outputMode= self.root.find('resulttype').find('mode').text
         
-        if self.outputFormat == 'CSV' and self.outputMode == 'FILE':
+        if self.outputMode == 'FILE':
             self.manager=CSVFileManager(self.root)  
             self.manager.push(self.getHeading(),'wb')                      
-        elif self.outputFormat == 'CSV' and self.outputMode == 'CASSANDRA':
+        elif self.outputMode == 'CASSANDRA':
             self.manager=CassandraManager(self.root)
         else:
             return False
+        specialtype=self.root.find('specialtype')
         
-                       
-        startTime=datetime.datetime.strptime(self.root.find('startindex').text, "%Y-%m-%dT%H:%M:%S")
-        endTime=datetime.datetime.strptime(self.root.find('endindex').text, "%Y-%m-%dT%H:%M:%S")
-        timeIterator=startTime
+        if specialtype is None:
+            startTime=datetime.datetime.strptime(self.root.find('startindex').text, "%Y-%m-%dT%H:%M:%S")
+            endTime=datetime.datetime.strptime(self.root.find('endindex').text, "%Y-%m-%dT%H:%M:%S")
+            timeIterator=startTime
             
-        while timeIterator < endTime:
-            record=[]            
-            record.append(timeIterator) 
-            self.manager.push(self.generateData(record),'ab')                            
-            timeIterator += self.getTimeDelta()
-        
+            while timeIterator < endTime:
+                record=[]            
+                record.append(timeIterator) 
+                self.manager.push(self.generateData(record))                            
+                timeIterator += self.getTimeDelta()
+        elif specialtype.text == 'TweetGenerate':
+            TweetService(self.manager,self.root).process()            
+        else:
+            return False
         return True
 
     def getTimeDelta(self):
