@@ -14,7 +14,6 @@ class CassandraManager(object):
     '''
     This class takes care of writing the results into a cassandra file.
     '''
-
     def __init__(self, config):
         '''
         Constructor

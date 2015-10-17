@@ -10,8 +10,6 @@ class IntegerGenrator(object):
     '''
     classdocs
     '''
-
-
     def __init__(self, dataConf):
         '''
         Constructor

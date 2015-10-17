@@ -72,6 +72,14 @@ class DataGenerator(object):
             heading.append(column.get('name'))
         return heading
         
+    def initiateManager(self):
+        if self.outputMode == 'FILE':
+            self.manager=CSVFileManager(self.root)
+        elif self.outputMode == 'CASSANDRA':
+            self.manager=CassandraManager(self.root)
+        else:
+            raise IOError
+    
     def process(self):
         '''
         Parse the Config and generates the data
@@ -90,16 +98,12 @@ class DataGenerator(object):
         self.outputFormat = self.root.find('resulttype').find('format').text
         self.outputMode= self.root.find('resulttype').find('mode').text
         
-        if self.outputMode == 'FILE':
-            self.manager=CSVFileManager(self.root)  
-            self.manager.push(self.getHeading(),'wb')                      
-        elif self.outputMode == 'CASSANDRA':
-            self.manager=CassandraManager(self.root)
-        else:
-            return False
+        self.initiateManager()
+        
         specialtype=self.root.find('specialtype')
         
         if specialtype is None:
+            self.manager.push(self.getHeading(),'wb')  
             startTime=datetime.datetime.strptime(self.root.find('startindex').text, "%Y-%m-%dT%H:%M:%S")
             endTime=datetime.datetime.strptime(self.root.find('endindex').text, "%Y-%m-%dT%H:%M:%S")
             timeIterator=startTime
@@ -107,10 +111,10 @@ class DataGenerator(object):
             while timeIterator < endTime:
                 record=[]            
                 record.append(timeIterator) 
-                self.manager.push(self.generateData(record))                            
+                self.manager.push(self.generateData(record))         
                 timeIterator += self.getTimeDelta()
         elif specialtype.text == 'TweetGenerate':
-            TweetService(self.manager,self.root).process()            
+            TweetService(self.manager,self.root).process()       
         else:
             return False
         return True
@@ -119,7 +123,7 @@ class DataGenerator(object):
         timeDelta=self.root.find('timedelta').text
         timedeltaunit=self.root.find('timedeltaunit').text
         #microseconds, milliseconds, seconds, minutes, hours, days, weeks
-        if timedeltaunit == 'microseconds':
+        if timedeltaunit == 'seconds':
             return datetime.timedelta(seconds=int(timeDelta))
         if timedeltaunit == 'milliseconds':
             return datetime.timedelta(milliseconds=int(timeDelta))
