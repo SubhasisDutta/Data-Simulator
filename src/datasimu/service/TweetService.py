@@ -22,7 +22,7 @@ class TweetService(object):
         self.generator=TweetGenerator(self.config)
         
     def process(self):
-        startTime=datetime.datetime.strptime(self.config.find('tweetload').find('startindex').text, "%Y-%m-%dT%H:%M:%S")
+        startTime=datetime.datetime.strptime(self.config.find('startindex').text, "%Y-%m-%dT%H:%M:%S")
                        
         totaltweet = int(self.config.find('tweetload').find('totaltweet').text)
         patternrepeat = int(self.config.find('tweetload').find('patternrepeat').text)

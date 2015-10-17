@@ -49,7 +49,7 @@ class CassandraManager(object):
             dbCols.append(column.get('dbColumnName'))
         return dbCols
     
-    def push(self,dataList,writeType):        
+    def push(self,dataList,writeType='ab'):        
         insertStatement ='INSERT INTO '+self.resultTable+' ("id",'+self.dbColumnNames+') VALUES ('+self.insertPoints+')'                  
         dataList[0]=dataList[0].strftime("%Y-%m-%d %H:%M:%S")
         dataList.insert(0,uuid.uuid1())        
