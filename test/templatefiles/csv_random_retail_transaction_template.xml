@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<data>
+	<resulttype>
+		<format>CSV</format> <!-- Currently only csv , TODO: JSON,XML or any other -->
+		<mode>FILE</mode><!-- TO DO : STREAMING -->
+		<location>D:\Workspace\target\test_retail_data.csv</location>  <!-- Please change the target path before running -->
+		<!-- Before running he code ensure a dummy file with same name is present in the location -->
+		<!-- Needed if mode is FILE. The path is an absolute path -->
+	</resulttype>
+	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the start time from which simulation records will be generated -->
+	<startindex name="Time Stamp">2012-09-28T16:41:12</startindex>
+	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the end time till which simulation records will be generated -->
+	<endindex>2012-10-28T23:57:44</endindex>
+	<!-- This is the time delta between two generated records. This will be in milliseconds. -->
+	<timedelta>120</timedelta>
+	<timedeltaunit>minutes</timedeltaunit><!-- microseconds, milliseconds, seconds, minutes, hours, days, weeks. Default is seconds -->
+	<!-- This provids a unique id whic is ideal for keeping track of records -->
+	<column name="Transaction ID">
+		<description>This is a unique ID generated for each retail transaction.</description>		
+		<datatype>GUID</datatype>
+	</column>
+	<column name="Paid">
+		<description>Gives a boolean value to say if the transaction has been paid.</description>
+		<datatype>BOOLEAN</datatype>
+	</column>
+	<!-- This selects a random choice from a list of choice -->
+	<column name="User ID">
+		<description>This selects a user Id from a list of user ID's available.</description>		
+		<datatype>ORDINAL</datatype>
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\UserID.txt"></choice>
+	</column>
+	<!-- Select a random integer between 1 and 10 -->
+	<column name="Quantity Purchased">
+		<description>Number of items purchased.</description>		
+		<datatype>Integer</datatype>		
+		<pattern>Random_normal</pattern>
+		<minimum>1</minimum>
+		<maximum>10</maximum>		
+	</column>
+	<!-- This selects a random choice from a list of choice -->
+	<column name="Item ID">
+		<description>This selects a random item from a list of item.</description>		
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<option>Item ID 1</option>
+			<option>Item ID 2</option>
+			<option>Item ID 3</option>
+			<option>Item ID 4</option>
+			<option>Item ID 5</option>
+			<option>Item ID 6</option>
+			<option>Item ID 7</option>
+			<option>Item ID 8</option>
+		</choice>
+	</column>
+	
+	<!-- This shows how to randomly generate a string of length bounded by minimum and maximum length -->
+	<column name="Transaction description">
+		<description>This generates a random string.</description>		
+		<datatype>STRING</datatype>
+		<pattern>Random_normal</pattern>
+		<minimum>23</minimum>
+		<maximum>50</maximum>
+		<choice> <!-- default is alpha numerical (digits+lowercase+uppercase) -->
+			<option>digits</option> <!-- '0123456789' -->
+			<option>hexdigits</option> <!-- '0123456789abcdefABCDEF' -->
+			<option>lowercase</option> <!-- 'abcdefghijklmnopqrstuvwxyz' -->
+			<option>octdigits</option> <!-- '01234567' -->
+			<!--<option>punctuation</option> -->
+			<option>uppercase</option> <!-- 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' -->
+			<!--<option>whitespace</option> --><!-- characters space, tab, linefeed, return, formfeed, and vertical tab -->			
+		</choice>
+	</column>
+	<!-- This shows how to randomly generate a string of fixed length  -->
+	<column name="Transaction Code">
+		<description>This generates a default alpha numeric random string.</description>		
+		<datatype>STRING</datatype>		
+		<fixed>6</fixed>
+	</column>
+	<!-- This shows how to randomly generate a digit of fixed length  -->
+	<column name="Transaction Number">
+		<description>This generates a default numeric random string of fixed length.</description>		
+		<datatype>STRING</datatype>		
+		<fixed>10</fixed>
+		<choice> <!-- default is alpha numerical (digits+lowercase+uppercase) -->
+			<option>digits</option> <!-- '0123456789' -->					
+		</choice>
+	</column>	
+	<column name="Price of transaction">
+		<description>This column will generate random float numbers in he interval [mimimum,maximum]. 
+		</description>		
+		<datatype>DECIMAL</datatype>		
+		<pattern>Random_normal</pattern>
+		<minimum>5.0</minimum>
+		<maximum>150.0</maximum>		
+	</column>
+</data>

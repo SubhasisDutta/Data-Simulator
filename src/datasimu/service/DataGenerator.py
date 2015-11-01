@@ -15,7 +15,10 @@ from datasimu.generator.IntegerGenrator import IntegerGenrator
 from datasimu.generator.FloatGenrator import FloatGenrator
 from datasimu.generator.DecimalGenrator import DecimalGenrator
 from datasimu.service.TweetService import TweetService
-
+from datasimu.generator.GUIDGenerator import GUIDGenerator
+from datasimu.generator.ORDINALGenerator import ORDINALGenerator
+from datasimu.generator.BOOLEANGenerator import BOOLEANGenerator
+from datasimu.generator.STRINGGenerator import STRINGGenerator
 
 class DataGenerator(object):
     '''
@@ -48,12 +51,16 @@ class DataGenerator(object):
                     value=IntegerGenrator(dataConf).getRandom()
                 elif dataConf.dataType == "Float":
                     value=FloatGenrator(dataConf).getRandom()
-                elif dataConf.dataType == "Decimal":
+                elif dataConf.dataType == "DECIMAL":
                     value=DecimalGenrator(dataConf).getRandom()
-                elif dataConf.dataType == "Choice": #TODO : based on choice present selct
-                    value=random.random()
-                elif dataConf.dataType == "String": #TODO : based on string set available randomise 
-                    value=random.random() 
+                elif dataConf.dataType == "GUID":
+                    value=GUIDGenerator(dataConf).getRandom()
+                elif dataConf.dataType == "ORDINAL": 
+                    value=ORDINALGenerator(dataConf).getRandom()
+                elif dataConf.dataType == "BOOLEAN": 
+                    value=BOOLEANGenerator(dataConf).getRandom()
+                elif dataConf.dataType == "STRING": 
+                    value=STRINGGenerator(dataConf).getRandom()
                 elif dataConf.dataType == "Tweet": #TODO : based on string set available randomise 
                     value=random.random()   
                 else: # will be considered float (0,1]

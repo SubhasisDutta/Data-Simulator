@@ -8,7 +8,7 @@ from datetime import datetime
 from datasimu.service.DataGenerator import DataGenerator
 
 if __name__ == '__main__':    
-    print str(datetime.now())
+    print "Starting @ ",str(datetime.now())
     inputConfigurationFile=sys.argv[1]
     dataGenObj=DataGenerator(inputConfigurationFile)  
               
@@ -17,4 +17,4 @@ if __name__ == '__main__':
         print "DONE"
     else:
         print "NOT FINISHED."
-    print str(datetime.now())
+    print "Finished @ ",str(datetime.now())

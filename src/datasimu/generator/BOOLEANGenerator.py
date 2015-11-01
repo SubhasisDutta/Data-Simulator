@@ -4,14 +4,11 @@ Created on Sep 6, 2015
 @author: Subhasis
 '''
 import random
-from datasimu.generator.FloatGenrator import FloatGenrator
 
-class DecimalGenrator(object):
+class BOOLEANGenerator(object):
     '''
     classdocs
     '''
-
-
     def __init__(self, dataConf):
         '''
         Constructor
@@ -19,4 +16,4 @@ class DecimalGenrator(object):
         self.dataConf=dataConf
     
     def getRandom(self):
-        return round(FloatGenrator(self.dataConf).getRandom(),2)
+        return random.random() < 0.5

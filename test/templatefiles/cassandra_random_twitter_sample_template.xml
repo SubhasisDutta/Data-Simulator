@@ -19,7 +19,7 @@
 	<column name="Author" dbColumnName='authorhandle'></column>
 	<column name="Tweet" dbColumnName='tweet'></column>
 	<tweetload>
-		<tweetseed>D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\SampleTweetData.csv</tweetseed>
+		<tweetseed>D:\Workspace\serendio\RandomDataSimulator\test\data\SampleTweetData.csv</tweetseed>
 		<seedauthor>1</seedauthor>
 		<seedtweet>2</seedtweet>
 		

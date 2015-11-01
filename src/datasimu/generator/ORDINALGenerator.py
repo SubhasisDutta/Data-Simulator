@@ -4,9 +4,8 @@ Created on Sep 6, 2015
 @author: Subhasis
 '''
 import random
-from datasimu.generator.FloatGenrator import FloatGenrator
 
-class DecimalGenrator(object):
+class ORDINALGenerator(object):
     '''
     classdocs
     '''
@@ -19,4 +18,6 @@ class DecimalGenrator(object):
         self.dataConf=dataConf
     
     def getRandom(self):
-        return round(FloatGenrator(self.dataConf).getRandom(),2)
+        count=len(self.dataConf.choice)
+        c= random.randint(0,count-1)
+        return self.dataConf.choice[c]

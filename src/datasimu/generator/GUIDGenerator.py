@@ -3,10 +3,9 @@ Created on Sep 6, 2015
 
 @author: Subhasis
 '''
-import random
-from datasimu.generator.FloatGenrator import FloatGenrator
+import uuid
 
-class DecimalGenrator(object):
+class GUIDGenerator(object):
     '''
     classdocs
     '''
@@ -19,4 +18,4 @@ class DecimalGenrator(object):
         self.dataConf=dataConf
     
     def getRandom(self):
-        return round(FloatGenrator(self.dataConf).getRandom(),2)
+        return uuid.uuid1()
