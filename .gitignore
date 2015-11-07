@@ -58,3 +58,4 @@ docs/_build/
 RemoteSystemsTempFiles/
 target/testdatatweet.csv
 target/testdatatwet.csv
+test/data/TweetTableData.txt

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<data>
+	<resulttype>
+		<format>TWEET</format> <!-- This is a special Case for Generating Tweets in random -->
+		<mode>FILE</mode><!-- Curren support for Cassendra and CSV -->
+		<location>D:\Workspace\freelance\serendio\RandomDataSimulator\target\testdatatweet.csv</location>		
+	</resulttype>
+	
+	<specialtype>TweetGenerate</specialtype> <!-- This asumes the generation is for tweets-->
+	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the start time from which simulation records will be generated -->
+	<startindex name="Time Stamp" dbColumnName='timesamp' type="timestamp">2012-09-28T00:00:00</startindex>
+	
+	<tweetload>
+		<tweetseed>D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\SampleTweetData.csv</tweetseed>
+		<seedauthor>1</seedauthor>
+		<seedtweet>2</seedtweet>
+		
+		
+		<totaltweet>300000</totaltweet><!-- this is the total number of tweets that need to be generated -->
+		<!-- this is the total number of records that need to be generated -->		
+		<patternrepeat>1</patternrepeat>
+		<patternrepeatunit>hour</patternrepeatunit> 
+		<!-- Can be hour(60),day(24),week(7),month(30) -->
+		<patternloaddistribution>  
+			<!-- range start is always 0 and end is detmined by patternrepeatunit. 
+			The load is in Percenage of per pattern distribution -->
+			<range start="0" end="6" load="5"/>
+			<range start="6" end="10" load="5"/>
+			<range start="10" end="12" load="15"/>
+			<range start="12" end="15" load="19"/>
+			<range start="15" end="26" load="14"/>
+			<range start="26" end="35" load="25"/>
+			<range start="35" end="50" load="15"/>
+			<range start="50" end="60" load="2"/>			
+		</patternloaddistribution>
+	</tweetload>
+</data>

@@ -31,14 +31,16 @@ class TweetService(object):
                 
         for i in range(patternrepeat):            
             self.processSinglePattern(startTime+(i*datetime.timedelta(seconds=self.getPatternSeconds(patternrepeatunit))),perloadCount,patternrepeatunit)
+            
+        self.manager.flushBatch()
     
     def processSinglePattern(self,startTime,perloadCount,patternrepeatunit):        
         #This gets the distribution in the time interval        
-        loadDistribution= self.getLoadDistibutionCount(perloadCount,self.getPaternRange(patternrepeatunit),self.config.find('tweetload').find('patternloaddistribution'))        
+        loadDistribution= self.getLoadDistibutionCount(perloadCount,self.getPaternRange(patternrepeatunit),self.config.find('tweetload').find('patternloaddistribution'))                
         second_distribution=[]
         for tweet_count in loadDistribution:
             second_distribution.append(self.generateSecondDistribution(tweet_count,self.getPatternUnitSeconds(patternrepeatunit)))        
-        
+         
         t=startTime                
         for i,sd in enumerate(second_distribution):
             keys=sorted(sd, key=sd.get)
@@ -53,6 +55,7 @@ class TweetService(object):
             record=[] 
             record.append(timestamp)            
             self.manager.push(self.generator.getRandomTweetRecord(record)) 
+        
 
     def generateSecondDistribution(self,tweet_count,seconds_in_distribution):
         random_delta=int(tweet_count/1000)
