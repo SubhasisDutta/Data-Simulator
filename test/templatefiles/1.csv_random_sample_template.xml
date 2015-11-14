@@ -7,9 +7,9 @@
 		<!-- Before running he code ensure a dummy file with same name is present in the location -->
 		<!-- Needed if mode is FILE. The path is an absolute path -->
 	</resulttype>
+	
 	<timesliceType>UNIFORM</timesliceType>
-	
-	
+		
 	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the start time from which simulation records will be generated -->
 	<startindex name="Time Stamp">2012-09-28T16:41:12</startindex>
 	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the end time till which simulation records will be generated -->

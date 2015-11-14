@@ -24,18 +24,19 @@ class LoadService(object):
     def process(self):
         startTime=datetime.datetime.strptime(self.config.find('startindex').text, "%Y-%m-%dT%H:%M:%S")
                        
-        totaltweet = int(self.config.find('tableload').find('total').text)
-        patternrepeat = int(self.config.find('tableload').find('patternrepeat').text)
-        patternrepeatunit = self.config.find('tableload').find('patternrepeatunit').text               
+        totaltweet = int(self.config.find('timedistribution').find('totalrecord').text)
+        patternrepeat = int(self.config.find('timedistribution').find('patternrepeat').text)
+        patternrepeatunit = self.config.find('timedistribution').find('patternrepeatunit').text               
         perloadCount=totaltweet/patternrepeat
                 
         for i in range(patternrepeat):            
             self.processSinglePattern(startTime+(i*datetime.timedelta(seconds=self.getPatternSeconds(patternrepeatunit))),perloadCount,patternrepeatunit)            
+        
         self.manager.flushBatch()
     
     def processSinglePattern(self,startTime,perloadCount,patternrepeatunit):        
         #This gets the distribution in the time interval        
-        loadDistribution= self.getLoadDistibutionCount(perloadCount,self.getPaternRange(patternrepeatunit),self.config.find('tableload').find('patternloaddistribution'))                
+        loadDistribution= self.getLoadDistibutionCount(perloadCount,self.getPaternRange(patternrepeatunit),self.config.find('timedistribution').find('patternloaddistribution'))                
         second_distribution=[]
         for tweet_count in loadDistribution:
             second_distribution.append(self.generateSecondDistribution(tweet_count,self.getPatternUnitSeconds(patternrepeatunit)))        

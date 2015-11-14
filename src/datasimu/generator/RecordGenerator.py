@@ -50,9 +50,11 @@ class RecordGenerator(object):
                 elif dataConf.dataType == "STRING":                     
                     value=STRINGGenerator(dataConf).getRandom(self.stringChoice[column.get('name')])
                 elif dataConf.dataType == "TIMESTAMP":
-                    value=timeStamp   
-                else: # will be considered float (0,1]
-                    value=random.random()                    
+                    value=timeStamp 
+                elif dataConf.dataType == "NULL":
+                    value=None  
+                else: 
+                    value=None                    
                 #Process column information
                 record.append(value) 
         except:
@@ -95,30 +97,28 @@ class RecordGenerator(object):
                 choice=column.find('choice')
                 seed=choice.get('seed',default=None)
                 if seed is not None:
-                    with open(seed) as f:
-                        options=f.read().splitlines()            
+                    columnNO=choice.get('column',default=None)
+                    if columnNO is None:
+                        with open(seed) as f:
+                            options=f.read().splitlines() 
+                    else:  
+                        options=self.loadSelectedColumn(seed, columnNO)
                 else:
                     for opt in choice.findall('option'):
                         options.append(opt.text)        
-                choicedict[column.get('name')]= options
-        #loads the tweet seed data
-#       self.seed_authors,self.seed_tweets=self.loadTweetSeed(self.config.find('tableload').find('seed').text)        
+                choicedict[column.get('name')]= options      
         return choicedict  
 
-#     def loadTweetSeed(self,file_path):
-#         author_row=int(self.config.find('tableload').find('seedauthor').text)-1
-#         tweet_row=int(self.config.find('tableload').find('seedtweet').text)-1                        
-#         authors=[]
-#         tweets =[]     
-#         try:
-#             with open(file_path, 'rb') as f:
-#                 reader = csv.reader(f, delimiter=',')                
-#                 for row in reader:                    
-#                     authors.append(row[author_row])
-#                     tweets.append(row[tweet_row])                
-#         except csv.Error as e:
-#             print "Seed file not found"
-#             raise e
-#         authors=list(set(authors[1:]))
-#         tweets=list(set(tweets[1:]))
-#         return authors,tweets 
+    def loadSelectedColumn(self,seed,column):
+        columnNo=int(column)-1                                
+        options=[]         
+        try:
+            with open(seed, 'rb') as f:
+                reader = csv.reader(f, delimiter=',')                
+                for row in reader:                    
+                    options.append(row[columnNo])                                  
+        except csv.Error as e:
+            print "Seed file not found"
+            raise e
+        options=list(set(options[1:]))       
+        return options 

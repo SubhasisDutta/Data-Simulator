@@ -1,0 +1,298 @@
+<?xml version="1.0"?>
+<data>	
+	<resulttype>
+		<format>CSV</format> <!-- Currently only csv , TODO: JSON,XML or any other -->
+		<mode>CASSANDRA</mode><!-- TO DO : STREAMING -->
+		<clusters>
+			<cluser>127.0.0.1</cluser>
+		</clusters>
+		<port>9042</port>
+		<batchsize>1000</batchsize>
+		<keyspace>testkeyspace</keyspace> <!-- Data simulator assumes tat the keyspace is already present in Cassandra -->
+		<table>tweets</table> <!-- Data Simulator assumes that the table has been created in Cassandra. The script to creat the table is Cql_for_Cassandra_random_sample_template.cql -->		
+		<!-- The Table should have a id column as Primary Key of type uuid -->
+	</resulttype>
+			
+	<column name="ID" dbColumnName='id'>				
+		<datatype>GUID</datatype>
+	</column>
+	<column name="acronyms" dbColumnName='acronyms'>				
+		<datatype>STRING</datatype>
+		<fixed>5</fixed>
+	</column>
+	<column name="boundingboxcoordinates" dbColumnName='boundingboxcoordinates'>				
+		<datatype>STRING</datatype>
+		<minimum>10</minimum>
+		<maximum>40</maximum>
+	</column>
+	<column name="boundingboxtype" dbColumnName='boundingboxtype'>				
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<option>Item ID 1</option>
+			<option>Item ID 2</option>
+			<option>Item ID 3</option>
+			<option>Item ID 4</option>
+			<option>Item ID 5</option>
+			<option>Item ID 6</option>
+			<option>Item ID 7</option>
+			<option>Item ID 8</option>
+		</choice>		
+	</column>
+	<column name="coordinates" dbColumnName='coordinates'>				
+		<datatype>STRING</datatype>
+		<minimum>10</minimum>
+		<maximum>40</maximum>
+	</column>
+	<column name="countrycode" dbColumnName='countrycode'>				
+		<datatype>STRING</datatype>
+		<fixed>5</fixed>
+	</column>
+	<column name="currentuserretweetid" dbColumnName='currentuserretweetid'>				
+		<datatype>INTEGER</datatype>
+		<minimum>1000000000</minimum>
+		<maximum>9999999999</maximum>
+	</column>
+	<column name="description" dbColumnName='description'>				
+		<description>This picks data from a selected column from a CSV seed data file.</description>
+		<datatype>ORDINAL</datatype>
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\SampleTweetData.csv" column="2">			
+		</choice>
+	</column>
+	<column name="displayurl" dbColumnName='displayurl'>				
+		<datatype>STRING</datatype>
+		<fixed>25</fixed>
+	</column>
+	<column name="emoticons" dbColumnName='emoticons'>				
+		<datatype>STRING</datatype>
+		<fixed>5</fixed>
+	</column>
+	<column name="entrytime" dbColumnName='entrytime'>				
+		<datatype>INTEGER</datatype>
+		<minimum>1</minimum>
+		<maximum>3600</maximum>
+	</column>
+	<column name="expandedurl" dbColumnName='expandedurl'>				
+		<datatype>ORDINAL</datatype>
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\SampleTweetData.csv" column="2">			
+		</choice>		
+	</column>
+	<column name="favoritecount" dbColumnName='favoritecount'>				
+		<datatype>INTEGER</datatype>
+		<minimum>1</minimum>
+		<maximum>999999</maximum>
+	</column>
+	<column name="favouritescount" dbColumnName='favouritescount'>				
+		<datatype>INTEGER</datatype>
+		<minimum>1</minimum>
+		<maximum>999999</maximum>
+	</column>
+	<column name="followerscount" dbColumnName='followerscount'>				
+		<datatype>INTEGER</datatype>
+		<minimum>1</minimum>
+		<maximum>999999999</maximum>
+	</column>
+	<column name="friendscount" dbColumnName='friendscount'>				
+		<datatype>INTEGER</datatype>
+		<minimum>1</minimum>
+		<maximum>9999</maximum>
+	</column>
+	<!--<column name="hashtags" dbColumnName='hashtags'>				
+		<datatype>NULL</datatype>
+	</column>-->
+	<column name="inreplytoscreenname" dbColumnName='inreplytoscreenname'>				
+		<datatype>STRING</datatype>
+		<minimum>10</minimum>
+		<maximum>60</maximum>
+	</column>
+	<column name="inreplytostatusid" dbColumnName='inreplytostatusid'>				
+		<datatype>INTEGER</datatype>
+		<minimum>1000000000</minimum>
+		<maximum>9999999999</maximum>
+	</column>
+	
+	<column name="inreplytouserid" dbColumnName='inreplytouserid'>				
+		<datatype>INTEGER</datatype>
+		<minimum>1000000000</minimum>
+		<maximum>9999999999</maximum>
+	</column>
+	<column name="isfavorited" dbColumnName='isfavorited'>				
+		<datatype>BOOLEAN</datatype>
+	</column>
+	<column name="isgeoenabled" dbColumnName='isgeoenabled'>				
+		<datatype>BOOLEAN</datatype>
+	</column>
+	<column name="ispossiblysensitive" dbColumnName='ispossiblysensitive'>				
+		<datatype>BOOLEAN</datatype>
+	</column>
+	<column name="isprotected" dbColumnName='isprotected'>				
+		<datatype>BOOLEAN</datatype>
+	</column>
+	<column name="isretweeeted" dbColumnName='isretweeeted'>				
+		<datatype>BOOLEAN</datatype>
+	</column>
+	<column name="isretweet" dbColumnName='isretweet'>				
+		<datatype>BOOLEAN</datatype>
+	</column>
+	<column name="isretweetedbyme" dbColumnName='isretweetedbyme'>				
+		<datatype>BOOLEAN</datatype>
+	</column>
+	<column name="isverified" dbColumnName='isverified'>				
+		<datatype>BOOLEAN</datatype>
+	</column>
+	<column name="language" dbColumnName='language'>				
+		<datatype>STRING</datatype>
+		<minimum>10</minimum>
+		<maximum>20</maximum>
+	</column>
+	<column name="listedcount" dbColumnName='listedcount'>				
+		<datatype>INTEGER</datatype>
+		<minimum>10</minimum>
+		<maximum>60</maximum>
+	</column>
+	<column name="location" dbColumnName='location'>				
+		<datatype>STRING</datatype>
+		<minimum>10</minimum>
+		<maximum>60</maximum>
+	</column>
+	<column name="name" dbColumnName='name'>				
+		<datatype>ORDINAL</datatype>
+		<description>This picks data from a selected column from a CSV seed data file.</description>
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\SampleTweetData.csv" column="1">			
+		</choice>
+	</column>
+	<column name="pickupdate" dbColumnName='pickupdate'>				
+		<datatype>TIMESTAMP</datatype>
+	</column>
+	<column name="placefullname" dbColumnName='placefullname'>				
+		<datatype>STRING</datatype>
+		<minimum>10</minimum>
+		<maximum>60</maximum>
+	</column>
+	<column name="placeid" dbColumnName='placeid'>				
+		<datatype>STRING</datatype>
+		<fixed>10</fixed>
+	</column>
+	<column name="placename" dbColumnName='placename'>				
+		<datatype>STRING</datatype>
+		<minimum>10</minimum>
+		<maximum>50</maximum>
+	</column>
+	<column name="posteddate" dbColumnName='posteddate'>				
+		<datatype>TIMESTAMP</datatype>
+	</column>
+	<column name="profileimageurl" dbColumnName='profileimageurl'>				
+		<datatype>ORDINAL</datatype>
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\SampleTweetData.csv" column="2">			
+		</choice>
+	</column>
+	<column name="profileimageurlhttps" dbColumnName='profileimageurlhttps'>				
+		<datatype>ORDINAL</datatype>
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\SampleTweetData.csv" column="2">			
+		</choice>
+	</column>
+	<column name="quotedstatusid" dbColumnName='quotedstatusid'>				
+		<datatype>INTEGER</datatype>
+		<minimum>0</minimum>
+		<maximum>100</maximum>
+	</column>
+	<column name="retweetcount" dbColumnName='retweetcount'>				
+		<datatype>INTEGER</datatype>
+		<minimum>0</minimum>
+		<maximum>100000</maximum>
+	</column>
+	<column name="screenname" dbColumnName='screenname'>				
+		<datatype>STRING</datatype>		
+		<minimum>5</minimum>
+		<maximum>50</maximum>
+	</column>
+	<column name="sentiments" dbColumnName='sentiments'>				
+		<datatype>INTEGER</datatype>
+		<minimum>1</minimum>
+		<maximum>10</maximum>
+	</column>
+	<column name="source" dbColumnName='source'>				
+		<datatype>STRING</datatype>
+		<pattern>Random_normal</pattern>
+		<minimum>20</minimum>
+		<maximum>150</maximum>
+	</column>
+	<column name="statusescount" dbColumnName='statusescount'>				
+		<datatype>INTEGER</datatype>
+		<pattern>Random_normal</pattern>
+		<minimum>1</minimum>
+		<maximum>10</maximum>
+	</column>
+	<column name="streetaddress" dbColumnName='streetaddress'>				
+		<datatype>STRING</datatype>
+		<pattern>Random_normal</pattern>
+		<minimum>23</minimum>
+		<maximum>50</maximum>
+		<choice> <!-- default is alpha numerical (digits+lowercase+uppercase) -->
+			<option>digits</option> <!-- '0123456789' -->
+			<!--<option>hexdigits</option>  '0123456789abcdefABCDEF' -->
+			<option>lowercase</option> <!-- 'abcdefghijklmnopqrstuvwxyz' -->
+			<!--<option>octdigits</option>  '01234567' -->
+			<!--<option>punctuation</option> -->
+			<option>uppercase</option> <!-- 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' -->
+			<!--<option>whitespace</option> --><!-- characters space, tab, linefeed, return, formfeed, and vertical tab -->			
+		</choice>
+	</column>
+	<column name="text" dbColumnName='text'>				
+		<description>This picks data from a selected column from a CSV seed data file.</description>
+		<datatype>ORDINAL</datatype>
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\SampleTweetData.csv" column="2">			
+		</choice>
+	</column>
+	<column name="timezone" dbColumnName='timezone'>				
+		<datatype>STRING</datatype>
+		<fixed>10</fixed>
+	</column>
+	<!-- LIST<text> -->
+	<column name="topics" dbColumnName='topics'>				
+		<datatype>NULL</datatype>
+	</column>
+	<column name="tweetid" dbColumnName='tweetid'>				
+		<datatype>INTEGER</datatype>
+		<pattern>Random_normal</pattern>
+		<minimum>100000000000000000</minimum>
+		<maximum>999999999999999999</maximum>
+	</column>
+	<!--<column name="uniqueid" dbColumnName='uniqueid'>				
+		<datatype>INTEGER</datatype>
+		<pattern>Random_normal</pattern>
+		<minimum>100000000000000000</minimum>
+		<maximum>999999999999999999</maximum>
+	</column>-->	
+	<column name="url" dbColumnName='url'>
+		<datatype>ORDINAL</datatype>
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\SampleTweetData.csv" column="2">			
+		</choice>
+	</column>
+	<column name="userid" dbColumnName='userid'>				
+		<datatype>INTEGER</datatype>
+		<pattern>Random_normal</pattern>
+		<minimum>1000000000</minimum>
+		<maximum>9999999999</maximum>
+	</column>
+	
+	
+	<timesliceType>LOAD_GENERATE</timesliceType> <!-- This generats timesamp in a random manner based on load parameters -->
+	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the start time from which simulation records will be generated -->
+	<startindex name="Time Stamp">2015-10-28T00:00:00</startindex>
+	<timedistribution>
+		<totalrecord>1000</totalrecord><!-- this is the total number of records that need to be generated -->		
+		<patternrepeat>1</patternrepeat>
+		<patternrepeatunit>day</patternrepeatunit> <!-- Can only be hour(60),day(24),week(7),month(30) -->
+		<patternloaddistribution>  
+			<!-- range start is always 0 and end is detmined by patternrepeatunit. The load is in Percenage of per pattern distribution -->
+			<range start="0" end="6" load="5"/>
+			<range start="6" end="10" load="5"/>
+			<range start="10" end="12" load="15"/>
+			<range start="12" end="15" load="15"/>
+			<range start="15" end="16" load="10"/>
+			<range start="16" end="17" load="25"/>
+			<range start="17" end="20" load="15"/>
+			<range start="20" end="24" load="10"/>			
+		</patternloaddistribution>
+	</timedistribution>	
+</data>

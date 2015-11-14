@@ -1,15 +1,18 @@
 <?xml version="1.0"?>
-<data>
+<data>	
 	<resulttype>
-		<format>TWEET</format> <!-- This is a special Case for Generating Tweets in random -->
-		<mode>FILE</mode><!-- Curren support for Cassendra and CSV -->
-		<location>D:\Workspace\freelance\serendio\RandomDataSimulator\target\testdatatweet.csv</location>		
+		<format>CSV</format> <!-- Currently only csv , TODO: JSON,XML or any other -->
+		<mode>CASSANDRA</mode><!-- TO DO : STREAMING -->
+		<clusters>
+			<cluser>127.0.0.1</cluser>
+		</clusters>
+		<port>9042</port>
+		<batchsize>5000</batchsize>
+		<keyspace>DataSimulator</keyspace> <!-- Data simulator assumes tat the keyspace is already present in Cassandra -->
+		<table>"TweetTest"</table> <!-- Data Simulator assumes that the table has been created in Cassandra. The script to creat the table is Cql_for_Cassandra_random_sample_template.cql -->		
+		<!-- The Table should have a id column as Primary Key of type uuid -->
 	</resulttype>
-	
-	<timesliceType>LOAD_GENERATE</timesliceType> <!-- This generats timesamp in a random manner based on load parameters -->
-	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the start time from which simulation records will be generated -->
-	<startindex name="Time Stamp">2012-09-28T00:00:00</startindex>
-	
+		
 	<column name="ID" dbColumnName='id'>				
 		<datatype>GUID</datatype>
 	</column>
@@ -30,9 +33,12 @@
 		</choice>
 	</column>
 	
-	<tweetload>
-		<totaltweet>3000</totaltweet><!-- this is the total number of tweets that need to be generated -->		
-		<patternrepeat>3</patternrepeat>
+	<timesliceType>LOAD_GENERATE</timesliceType> <!-- This generats timesamp in a random manner based on load parameters -->
+	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the start time from which simulation records will be generated -->
+	<startindex name="Time Stamp">2015-09-28T00:00:00</startindex>
+	<timedistribution>
+		<totalrecord>100000</totalrecord><!-- this is the total number of records that need to be generated -->		
+		<patternrepeat>1</patternrepeat>
 		<patternrepeatunit>day</patternrepeatunit> <!-- Can only be hour(60),day(24),week(7),month(30) -->
 		<patternloaddistribution>  
 			<!-- range start is always 0 and end is detmined by patternrepeatunit. The load is in Percenage of per pattern distribution -->
@@ -45,5 +51,5 @@
 			<range start="17" end="20" load="15"/>
 			<range start="20" end="24" load="10"/>			
 		</patternloaddistribution>
-	</tweetload>
+	</timedistribution>	 
 </data>

@@ -3,20 +3,13 @@
 	<resulttype>
 		<format>TWEET</format> <!-- This is a special Case for Generating Tweets in random -->
 		<mode>FILE</mode><!-- Curren support for Cassendra and CSV -->
-		<location>D:\Workspace\freelance\serendio\RandomDataSimulator\target\testdatatweet.csv</location>		
+		<location>D:\Workspace\target\testdatatweet_new2.csv</location>		
 	</resulttype>
-	
-	<timesliceType>LOAD_GENERATE</timesliceType> <!-- This generats timesamp in a random manner based on load parameters -->
-	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the start time from which simulation records will be generated -->
-	<startindex name="Time Stamp">2012-09-28T00:00:00</startindex>
-	
-	<column name="ID" dbColumnName='id'>				
-		<datatype>GUID</datatype>
-	</column>
+		
 	<column name="Time Stamp" dbColumnName='timestamp'>
 		<description>This puts the time stamp.</description>
 		<datatype>TIMESTAMP</datatype>
-	</column>
+	</column>		
 	<column name="Author" dbColumnName='authorhandle'>
 		<datatype>ORDINAL</datatype>
 		<description>This picks data from a selected column from a CSV seed data file.</description>
@@ -30,13 +23,11 @@
 		</choice>
 	</column>
 	
-	<tweetload>
-		<tweetseed>D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\SampleTweetData.csv</tweetseed>
-		<seedauthor>1</seedauthor>
-		<seedtweet>2</seedtweet>
-		
-		
-		<totaltweet>300000</totaltweet><!-- this is the total number of tweets that need to be generated -->
+	<timesliceType>LOAD_GENERATE</timesliceType> <!-- This generats timesamp in a random manner based on load parameters -->
+	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the start time from which simulation records will be generated -->
+	<startindex name="Time Stamp">2012-09-28T00:00:00</startindex>
+	<timedistribution>
+		<totalrecord>3000</totalrecord><!-- this is the total number of tweets that need to be generated -->
 		<!-- this is the total number of records that need to be generated -->		
 		<patternrepeat>1</patternrepeat>
 		<patternrepeatunit>hour</patternrepeatunit> 
@@ -53,5 +44,5 @@
 			<range start="35" end="50" load="15"/>
 			<range start="50" end="60" load="2"/>			
 		</patternloaddistribution>
-	</tweetload>
+	</timedistribution>
 </data>
