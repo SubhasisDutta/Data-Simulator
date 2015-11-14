@@ -19,6 +19,7 @@
 	<timedelta>120</timedelta>
 	<timedeltaunit>minutes</timedeltaunit><!-- microseconds, milliseconds, seconds, minutes, hours, days, weeks. Default is seconds -->
 	<!-- For each Column the below configuration needs to be provided -->
+	
 	<column name="Basic Random Float Numbers" dbColumnName='"BasicRandomFloatNumbers"'>
 		<description>This column will generate random float numbers in he interval [0,1). 
 		If not additional information is available his option will be chosen. </description>		

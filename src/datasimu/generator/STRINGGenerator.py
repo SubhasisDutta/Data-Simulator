@@ -18,14 +18,14 @@ class STRINGGenerator(object):
         '''
         self.dataConf=dataConf
     
-    def getRandom(self):
+    def getRandom(self,choice):
         if self.dataConf.pattern == 'Random_normal':
             if self.dataConf.minimum is None and self.dataConf.maximum is None:
-                return ''.join(random.SystemRandom().choice(self.dataConf.choice) for _ in range(10))
+                return ''.join(random.SystemRandom().choice(choice) for _ in range(10))
             elif self.dataConf.maximum is None:
-                return ''.join(random.SystemRandom().choice(self.dataConf.choice) for _ in range(int(self.dataConf.minimum)))                       
+                return ''.join(random.SystemRandom().choice(choice) for _ in range(int(self.dataConf.minimum)))                       
             else:
                 range_length=random.randint(int(self.dataConf.minimum),int(self.dataConf.maximum))
-                return ''.join(random.SystemRandom().choice(self.dataConf.choice) for _ in range(range_length))       
+                return ''.join(random.SystemRandom().choice(choice) for _ in range(range_length))       
         else:
             return "XXXXX"

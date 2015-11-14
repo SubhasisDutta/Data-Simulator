@@ -6,16 +6,31 @@
 		<location>D:\Workspace\freelance\serendio\RandomDataSimulator\target\testdatatweet.csv</location>		
 	</resulttype>
 	
-	<specialtype>TweetGenerate</specialtype> <!-- This asumes the generation is for tweets-->
+	<timesliceType>LOAD_GENERATE</timesliceType> <!-- This generats timesamp in a random manner based on load parameters -->
 	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the start time from which simulation records will be generated -->
-	<startindex name="Time Stamp" dbColumnName='timesamp' type="timestamp">2012-09-28T00:00:00</startindex>
+	<startindex name="Time Stamp">2012-09-28T00:00:00</startindex>
+	
+	<column name="ID" dbColumnName='id'>				
+		<datatype>GUID</datatype>
+	</column>
+	<column name="Time Stamp" dbColumnName='timestamp'>
+		<description>This puts the time stamp.</description>
+		<datatype>TIMESTAMP</datatype>
+	</column>
+	<column name="Author" dbColumnName='authorhandle'>
+		<datatype>ORDINAL</datatype>
+		<description>This picks data from a selected column from a CSV seed data file.</description>
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\SampleTweetData.csv" column="1">			
+		</choice>
+	</column>
+	<column name="Tweet" dbColumnName='tweet'>
+		<description>This picks data from a selected column from a CSV seed data file.</description>
+		<datatype>ORDINAL</datatype>
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\SampleTweetData.csv" column="2">			
+		</choice>
+	</column>
 	
 	<tweetload>
-		<tweetseed>D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\SampleTweetData.csv</tweetseed>
-		<seedauthor>1</seedauthor>
-		<seedtweet>2</seedtweet>
-		
-		
 		<totaltweet>3000</totaltweet><!-- this is the total number of tweets that need to be generated -->		
 		<patternrepeat>3</patternrepeat>
 		<patternrepeatunit>day</patternrepeatunit> <!-- Can only be hour(60),day(24),week(7),month(30) -->

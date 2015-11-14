@@ -3,10 +3,13 @@
 	<resulttype>
 		<format>CSV</format> <!-- Currently only csv , TODO: JSON,XML or any other -->
 		<mode>FILE</mode><!-- TO DO : STREAMING -->
-		<location>D:\Workspace\target\testdata.csv</location>  <!-- Please change the target path before running -->
+		<location>D:\Workspace\target\testdata_new.csv</location>  <!-- Please change the target path before running -->
 		<!-- Before running he code ensure a dummy file with same name is present in the location -->
 		<!-- Needed if mode is FILE. The path is an absolute path -->
 	</resulttype>
+	<timesliceType>UNIFORM</timesliceType>
+	
+	
 	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the start time from which simulation records will be generated -->
 	<startindex name="Time Stamp">2012-09-28T16:41:12</startindex>
 	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the end time till which simulation records will be generated -->
@@ -14,7 +17,13 @@
 	<!-- This is the time delta between two generated records. This will be in milliseconds. -->
 	<timedelta>120</timedelta>
 	<timedeltaunit>minutes</timedeltaunit><!-- microseconds, milliseconds, seconds, minutes, hours, days, weeks. Default is seconds -->
+	
+	
 	<!-- For each Column the below configuration needs to be provided -->
+	<column name="Time Stamp">
+		<description>This puts the time stamp.</description>
+		<datatype>TIMESTAMP</datatype>
+	</column>
 	<column name="Basic Random Float Numbers">
 		<description>This column will generate random float numbers in he interval [0,1). 
 		If not additional information is available his option will be chosen. </description>		
@@ -22,7 +31,7 @@
 	<column name="Basic Random Integer Numbers">
 		<description>This column will generate random integer numbers in the interval [minimum,maximum]. 
 		If not additional information is available his option will be chosen. </description>		
-		<datatype>Integer</datatype>		
+		<datatype>INTEGER</datatype>		
 		<pattern>Random_normal</pattern>
 		<minimum>10</minimum>
 		<maximum>1000</maximum>		
@@ -30,7 +39,7 @@
 	<column name="Basic Random Integer Numbers With Step">
 		<description>This column will generate random integer numbers in he interval [minimum,maximum]. 
 		The Step can be used to choose select integers in the range[]. </description>		
-		<datatype>Integer</datatype>		
+		<datatype>INTEGER</datatype>		
 		<pattern>Random_normal</pattern>
 		<minimum>1000</minimum>
 		<maximum>100001</maximum>	
@@ -39,7 +48,7 @@
 	<column name="Basic Random Float Numbers In a Range">
 		<description>This column will generate random float numbers in he interval [mimimum,maximum]. 
 		</description>		
-		<datatype>Float</datatype>		
+		<datatype>FLOAT</datatype>		
 		<pattern>Random_normal</pattern>
 		<minimum>5</minimum>
 		<maximum>50</maximum>		
@@ -49,7 +58,7 @@
 		The mean argument defaults to the midpoint between the bounds, giving a symmetric distribution.</description>
 		<!-- Datatype supported - Integer, Float -->
 		<!-- To Support : Choice, String -->
-		<datatype>Float</datatype>
+		<datatype>FLOAT</datatype>
 		<!-- Type Suported : Random_normal  -->
 		<!-- Types to Support : Treading_up, Trending_down,Sine_with_randomness, Guassianwhitenoise, Weiner_process, -->
 		<pattern>Random_normal</pattern>
@@ -66,7 +75,7 @@
 		<description>Generate a float given mean and standard deviation.</description>
 		<!-- Datatype supported - Integer, Float -->
 		<!-- To Support : Choice, String -->
-		<datatype>Float</datatype>
+		<datatype>FLOAT</datatype>
 		<!-- Type Suported : Random_normal  -->
 		<!-- Types to Support : Treading_up, Trending_down,Sine_with_randomness, Guassianwhitenoise, Weiner_process, -->
 		<pattern>Standard_Deviation</pattern>		
@@ -79,7 +88,7 @@
 		<description>Generate a integer given mean and standard deviation.</description>
 		<!-- Datatype supported - Integer, Float -->
 		<!-- To Support : Choice, String -->
-		<datatype>Integer</datatype>
+		<datatype>INTEGER</datatype>
 		<!-- Type Suported : Random_normal  -->
 		<!-- Types to Support : Treading_up, Trending_down,Sine_with_randomness, Guassianwhitenoise, Weiner_process, -->
 		<pattern>Standard_Deviation</pattern>		

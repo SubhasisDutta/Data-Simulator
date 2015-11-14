@@ -6,11 +6,11 @@ Created on Sep 23, 2015
 
 import datetime
 from random import randint
-from datasimu.generator.TweetGenerator import TweetGenerator
+from datasimu.generator.RecordGenerator import RecordGenerator
 
-class TweetService(object):
+class LoadService(object):
     '''
-    This will generate Tweets based on seed Author and tweets and push data to storege of choice.
+    This will generate variable timestamp based record based on load patern.
     '''
 
     def __init__(self, manager,config):
@@ -19,24 +19,23 @@ class TweetService(object):
         '''
         self.manager=manager
         self.config=config
-        self.generator=TweetGenerator(self.config)
+        self.generator=RecordGenerator(self.config)
         
     def process(self):
         startTime=datetime.datetime.strptime(self.config.find('startindex').text, "%Y-%m-%dT%H:%M:%S")
                        
-        totaltweet = int(self.config.find('tweetload').find('totaltweet').text)
-        patternrepeat = int(self.config.find('tweetload').find('patternrepeat').text)
-        patternrepeatunit = self.config.find('tweetload').find('patternrepeatunit').text               
+        totaltweet = int(self.config.find('tableload').find('total').text)
+        patternrepeat = int(self.config.find('tableload').find('patternrepeat').text)
+        patternrepeatunit = self.config.find('tableload').find('patternrepeatunit').text               
         perloadCount=totaltweet/patternrepeat
                 
         for i in range(patternrepeat):            
-            self.processSinglePattern(startTime+(i*datetime.timedelta(seconds=self.getPatternSeconds(patternrepeatunit))),perloadCount,patternrepeatunit)
-            
+            self.processSinglePattern(startTime+(i*datetime.timedelta(seconds=self.getPatternSeconds(patternrepeatunit))),perloadCount,patternrepeatunit)            
         self.manager.flushBatch()
     
     def processSinglePattern(self,startTime,perloadCount,patternrepeatunit):        
         #This gets the distribution in the time interval        
-        loadDistribution= self.getLoadDistibutionCount(perloadCount,self.getPaternRange(patternrepeatunit),self.config.find('tweetload').find('patternloaddistribution'))                
+        loadDistribution= self.getLoadDistibutionCount(perloadCount,self.getPaternRange(patternrepeatunit),self.config.find('tableload').find('patternloaddistribution'))                
         second_distribution=[]
         for tweet_count in loadDistribution:
             second_distribution.append(self.generateSecondDistribution(tweet_count,self.getPatternUnitSeconds(patternrepeatunit)))        
@@ -45,16 +44,14 @@ class TweetService(object):
         for i,sd in enumerate(second_distribution):
             keys=sorted(sd, key=sd.get)
             for key in keys:
-                self.generateTweets(t+datetime.timedelta(seconds=key), sd[key])
+                self.generateRecords(t+datetime.timedelta(seconds=key), sd[key])
             t+= datetime.timedelta(seconds=int(self.getPatternUnitSeconds(patternrepeatunit)))
-            print "Tweets done for : %s - Twets added %s" %(t,loadDistribution[i])
+            print "Insert done for : %s - Records added %s" %(t,loadDistribution[i])
            
         
-    def generateTweets(self,timestamp,numbers):
-        for i in range(numbers):
-            record=[] 
-            record.append(timestamp)            
-            self.manager.push(self.generator.getRandomTweetRecord(record)) 
+    def generateRecords(self,timestamp,numbers):
+        for i in range(numbers):                        
+            self.manager.push(self.generator.generateData(timestamp)) 
         
 
     def generateSecondDistribution(self,tweet_count,seconds_in_distribution):

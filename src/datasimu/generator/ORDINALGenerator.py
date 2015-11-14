@@ -15,9 +15,9 @@ class ORDINALGenerator(object):
         '''
         Constructor
         '''
-        self.dataConf=dataConf
+        self.dataConf=dataConf        
     
-    def getRandom(self):
-        count=len(self.dataConf.choice)
+    def getRandom(self,choice):
+        count=len(choice)
         c= random.randint(0,count-1)
-        return self.dataConf.choice[c]
+        return choice[c]

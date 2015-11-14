@@ -5,20 +5,12 @@ Created on Aug 30, 2015
 '''
 
 import xml.etree.ElementTree as ET
-import datetime
-import random
 from datasimu.validator.ConfigValidator import ConfigValidator
 from datasimu.manager.CSVFileManager import CSVFileManager
 from datasimu.manager.CassandraManager import CassandraManager
-from datasimu.config.RandomConfig import RandomConfig
-from datasimu.generator.IntegerGenrator import IntegerGenrator
-from datasimu.generator.FloatGenrator import FloatGenrator
-from datasimu.generator.DecimalGenrator import DecimalGenrator
-from datasimu.service.TweetService import TweetService
-from datasimu.generator.GUIDGenerator import GUIDGenerator
-from datasimu.generator.ORDINALGenerator import ORDINALGenerator
-from datasimu.generator.BOOLEANGenerator import BOOLEANGenerator
-from datasimu.generator.STRINGGenerator import STRINGGenerator
+from datasimu.service.UniformService import UniformService
+from datasimu.service.LoadService import LoadService
+
 
 class DataGenerator(object):
     '''
@@ -40,41 +32,9 @@ class DataGenerator(object):
         tree = ET.parse(self.inputConfigFile)
         root = tree.getroot()              
         return root
-          
-    def generateData(self,record):  
-        #To do for other records
-        try:        
-            for column in self.root.findall('column'):
-                dataConf=RandomConfig(column)
-                value= None
-                if dataConf.dataType == "Integer":                
-                    value=IntegerGenrator(dataConf).getRandom()
-                elif dataConf.dataType == "Float":
-                    value=FloatGenrator(dataConf).getRandom()
-                elif dataConf.dataType == "DECIMAL":
-                    value=DecimalGenrator(dataConf).getRandom()
-                elif dataConf.dataType == "GUID":
-                    value=GUIDGenerator(dataConf).getRandom()
-                elif dataConf.dataType == "ORDINAL": 
-                    value=ORDINALGenerator(dataConf).getRandom()
-                elif dataConf.dataType == "BOOLEAN": 
-                    value=BOOLEANGenerator(dataConf).getRandom()
-                elif dataConf.dataType == "STRING": 
-                    value=STRINGGenerator(dataConf).getRandom()
-                elif dataConf.dataType == "Tweet": #TODO : based on string set available randomise 
-                    value=random.random()   
-                else: # will be considered float (0,1]
-                    value=random.random()                    
-                #Process column information
-                record.append(value) 
-        except:
-            #TO DO handle any error
-            raise         
-        return record    
-   
+       
     def getHeading(self):
-        heading=[]
-        heading.append(self.root.find('startindex').get('name'))
+        heading=[]        
         for column in self.root.findall('column'):
             heading.append(column.get('name'))
         return heading
@@ -82,6 +42,7 @@ class DataGenerator(object):
     def initiateManager(self):
         if self.outputMode == 'FILE':
             self.manager=CSVFileManager(self.root)
+            self.manager.push(self.getHeading(),'wb')
         elif self.outputMode == 'CASSANDRA':
             self.manager=CassandraManager(self.root)
         else:
@@ -107,39 +68,12 @@ class DataGenerator(object):
         
         self.initiateManager()
         
-        specialtype=self.root.find('specialtype')
+        specialtype=self.root.find('timesliceType')
         
-        if specialtype is None:
-            self.manager.push(self.getHeading(),'wb')  
-            startTime=datetime.datetime.strptime(self.root.find('startindex').text, "%Y-%m-%dT%H:%M:%S")
-            endTime=datetime.datetime.strptime(self.root.find('endindex').text, "%Y-%m-%dT%H:%M:%S")
-            timeIterator=startTime
-            
-            while timeIterator < endTime:
-                record=[]            
-                record.append(timeIterator) 
-                self.manager.push(self.generateData(record))         
-                timeIterator += self.getTimeDelta()
-        elif specialtype.text == 'TweetGenerate':
-            TweetService(self.manager,self.root).process()       
+        if specialtype is None or specialtype.text == 'UNIFORM':
+            UniformService(self.manager,self.root).process()
+        elif specialtype.text == 'LOAD_GENERATE':
+            LoadService(self.manager,self.root).process()      
         else:
             return False
         return True
-
-    def getTimeDelta(self):
-        timeDelta=self.root.find('timedelta').text
-        timedeltaunit=self.root.find('timedeltaunit').text
-        #microseconds, milliseconds, seconds, minutes, hours, days, weeks
-        if timedeltaunit == 'seconds':
-            return datetime.timedelta(seconds=int(timeDelta))
-        if timedeltaunit == 'milliseconds':
-            return datetime.timedelta(milliseconds=int(timeDelta))
-        if timedeltaunit == 'minutes':
-            return datetime.timedelta(minutes=int(timeDelta))
-        if timedeltaunit == 'hours':
-            return datetime.timedelta(hours=int(timeDelta))
-        if timedeltaunit == 'days':
-            return datetime.timedelta(days=int(timeDelta))
-        if timedeltaunit == 'weeks':
-            return datetime.timedelta(weeks=int(timeDelta)) 
-        return datetime.timedelta(seconds=int(timeDelta))
