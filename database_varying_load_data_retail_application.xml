@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<data>
+	<!-- Configuration for Data Distribution -->
+	<resulttype>		
+		<mode>CASSANDRA</mode>
+		<clusters>
+			<cluser>host1</cluser>
+			<cluser>host2</cluser>
+			<cluser>hostn</cluser>
+		</clusters>
+		<port>9042</port>
+		<batchsize>5000</batchsize>
+		<!-- Data simulator assumes tat the keyspace is already present in Cassandra -->
+		<keyspace>DataSimulator</keyspace> 
+		<!-- Data Simulator assumes that the table has been created in Cassandra. -->		
+		<table>"TweetTest"</table> 
+		<!-- The Table should have a id column as Primary Key of type uuid -->
+	</resulttype>
+	
+	
+	<!-- Configuration for Data Generation -->
+	<!-- Used to generate record with varying timestamp -->
+	<!-- This generats timesamp in a random manner based on load parameters -->
+	<timesliceType>LOAD_GENERATE</timesliceType> 
+	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the start time from which simulation records will be generated -->
+	<startindex name="Time Stamp">2015-09-28T00:00:00</startindex>
+	<timedistribution>
+		<!-- This is the total number of records that need to be generated -->
+		<totalrecord>3000000000</totalrecord>	
+		<!-- Indicate the times the below load patern needs to be repeated -->
+		<patternrepeat>3</patternrepeat>
+		<!-- Can be hour(60),day(24),week(7),month(30) -->
+		<patternrepeatunit>day</patternrepeatunit> 
+		<patternloaddistribution>  
+			<!-- range start is always 0 and end is detmined by patternrepeatunit. The load is in Percenage of per pattern distribution -->
+			<range start="0" end="6" load="5"/>
+			<range start="6" end="10" load="5"/>
+			<range start="10" end="12" load="15"/>
+			<range start="12" end="15" load="15"/>
+			<range start="15" end="16" load="10"/>
+			<range start="16" end="17" load="25"/>
+			<range start="17" end="20" load="15"/>
+			<range start="20" end="24" load="10"/>			
+		</patternloaddistribution>
+	</timedistribution>
+	
+	
+	<!-- Data Generation Description -->
+	<column name="Transaction ID">
+		<description>This is a unique ID generated for each retail transaction.</description>		
+		<datatype>GUID</datatype>
+	</column>
+	<column name="Time Stamp">
+		<description>This puts the time stamp.</description>
+		<datatype>TIMESTAMP</datatype>
+	</column>
+	<column name="Paid">
+		<description>Gives a boolean value to say if the transaction has been paid.</description>
+		<datatype>BOOLEAN</datatype>
+	</column>
+	<!-- This selects a random choice from a list of choice -->
+	<column name="User ID">
+		<description>This selects a user Id from a list of user ID's available.</description>		
+		<datatype>ORDINAL</datatype>
+		<choice seed="{location to seed data file}"></choice>
+	</column>
+	<!-- Select a random integer between 1 and 10 -->
+	<column name="Quantity Purchased">
+		<description>Number of items purchased.</description>		
+		<datatype>INTEGER</datatype>		
+		<pattern>Random_normal</pattern>
+		<minimum>1</minimum>
+		<maximum>10</maximum>		
+	</column>
+	<!-- This selects a random choice from a list of choice -->
+	<column name="Item ID">
+		<description>This selects a random item from a list of item.</description>		
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<option>Item ID 1</option>
+			<option>Item ID 2</option>
+			<option>Item ID 3</option>
+			<option>Item ID 4</option>
+			<option>Item ID 5</option>
+			<option>Item ID 6</option>
+			<option>Item ID 7</option>
+			<option>Item ID 8</option>
+		</choice>
+	</column>
+	
+	<!-- This shows how to randomly generate a string of length bounded by minimum and maximum length -->
+	<column name="Transaction description">
+		<description>This generates a random string.</description>		
+		<datatype>STRING</datatype>
+		<pattern>Random_normal</pattern>
+		<minimum>23</minimum>
+		<maximum>50</maximum>
+		<choice> <!-- default is alpha numerical (digits+lowercase+uppercase) -->
+			<option>digits</option> <!-- '0123456789' -->
+			<option>hexdigits</option> <!-- '0123456789abcdefABCDEF' -->
+			<option>lowercase</option> <!-- 'abcdefghijklmnopqrstuvwxyz' -->
+			<option>octdigits</option> <!-- '01234567' -->
+			<!--<option>punctuation</option> -->
+			<option>uppercase</option> <!-- 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' -->
+			<!--<option>whitespace</option> --><!-- characters space, tab, linefeed, return, formfeed, and vertical tab -->			
+		</choice>
+	</column>
+	<!-- This shows how to randomly generate a string of fixed length  -->
+	<column name="Transaction Code">
+		<description>This generates a default alpha numeric random string.</description>		
+		<datatype>STRING</datatype>		
+		<fixed>6</fixed>
+	</column>
+	<!-- This shows how to randomly generate a digit of fixed length  -->
+	<column name="Transaction Number">
+		<description>This generates a default numeric random string of fixed length.</description>		
+		<datatype>STRING</datatype>		
+		<fixed>10</fixed>
+		<choice> <!-- default is alpha numerical (digits+lowercase+uppercase) -->
+			<option>digits</option> <!-- '0123456789' -->					
+		</choice>
+	</column>
+	<column name="Price of transaction">
+		<description>This column will generate random float numbers in he interval [mimimum,maximum]. 
+		</description>		
+		<datatype>DECIMAL</datatype>		
+		<pattern>Random_normal</pattern>
+		<minimum>5.0</minimum>
+		<maximum>150.0</maximum>		
+	</column>
+</data>

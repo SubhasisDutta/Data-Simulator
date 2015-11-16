@@ -9,7 +9,7 @@
 		<port>9042</port>
 		<batchsize>1000</batchsize>
 		<keyspace>testkeyspace</keyspace> <!-- Data simulator assumes tat the keyspace is already present in Cassandra -->
-		<table>tweets</table> <!-- Data Simulator assumes that the table has been created in Cassandra. The script to creat the table is Cql_for_Cassandra_random_sample_template.cql -->		
+		<table>tweets_new</table> <!-- Data Simulator assumes that the table has been created in Cassandra. The script to creat the table is Cql_for_Cassandra_random_sample_template.cql -->		
 		<!-- The Table should have a id column as Primary Key of type uuid -->
 	</resulttype>
 			
@@ -278,7 +278,7 @@
 	
 	<timesliceType>LOAD_GENERATE</timesliceType> <!-- This generats timesamp in a random manner based on load parameters -->
 	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the start time from which simulation records will be generated -->
-	<startindex name="Time Stamp">2015-10-28T00:00:00</startindex>
+	<startindex name="Time Stamp">2013-10-28T00:00:00</startindex>
 	<timedistribution>
 		<totalrecord>1000</totalrecord><!-- this is the total number of records that need to be generated -->		
 		<patternrepeat>1</patternrepeat>
