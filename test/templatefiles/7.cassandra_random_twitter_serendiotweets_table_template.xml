@@ -278,9 +278,9 @@
 	
 	<timesliceType>LOAD_GENERATE</timesliceType> <!-- This generats timesamp in a random manner based on load parameters -->
 	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the start time from which simulation records will be generated -->
-	<startindex name="Time Stamp">2013-10-28T00:00:00</startindex>
+	<startindex name="Time Stamp">2013-11-20T00:00:00</startindex>
 	<timedistribution>
-		<totalrecord>1000</totalrecord><!-- this is the total number of records that need to be generated -->		
+		<totalrecord>10000</totalrecord><!-- this is the total number of records that need to be generated -->		
 		<patternrepeat>1</patternrepeat>
 		<patternrepeatunit>day</patternrepeatunit> <!-- Can only be hour(60),day(24),week(7),month(30) -->
 		<patternloaddistribution>  
