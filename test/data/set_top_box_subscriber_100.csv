@@ -1,0 +1,1001 @@
+CustomerId,Name,Street Address,City,State,Zipcode,Subscription PlanId,NumOfSTB,CustomerSince,DVR Model
+04889680-a70a-11e5-8fa8-7845c4b142f6,QIOctyDcBVzvdF,0iFpfAoSstfPLYChzjTYKzOtoRgTxspdHDRd,Occidental,UT,49506,Dual,5,2001,Single Tuner
+04889681-a70a-11e5-9c82-7845c4b142f6,nZQMgyQjHqbCBkhYpicqPIUd,TBTRGVegkmGYfDBhHzHyJk1C6qKI9Yj,Skokie,MD,43316,Triple,3,2014,Single Tuner
+048b0780-a70a-11e5-8fc6-7845c4b142f6,KuYkHRIhfPkgARfyMHiZ,2owmICLKOf73pni1VW3ZRnA1SAZjb,Paicines,NC,49418,Dual,1,2000,Single Tuner
+048b0781-a70a-11e5-b84e-7845c4b142f6,YtzwgKjtBqcichmyvekjXVHg,8rUGEgykjYGQhdxB322qPwdYMXOSY0uczQNUpP,Gibsonville,MI,51430,Single,2,2003,Double Tuner
+048b0782-a70a-11e5-8e46-7845c4b142f6,RvJBfIMzXWydwYDHE,4ShDMisM7oMhVn1zPQmCPQtxZG0TbS0AqW,Quality,WV,67437,Dual,5,2004,Double Tuner
+048b0783-a70a-11e5-841e-7845c4b142f6,pDBMtpjQCJqRDzzxtC,mXczOTnyoFW3MUXU7MMgFNd,Longs,OK,55752,Triple,5,2000,Double Tuner
+048b0784-a70a-11e5-a9c6-7845c4b142f6,RfEeccQvAZKjZWGlxTafz,QeYHrwaDEpMSagAm4cNPGIfwl37JmOPrZkx58y8,Linn,VA,32066,Dual,2,2011,Double Tuner
+048b0785-a70a-11e5-9a82-7845c4b142f6,affZPXiIBQlEmapcbNmY,rQPrfFstUKVRkd9Zj4w4NGlPj1y1IaDxmEjhLjS6gxH,Cherry Tree,NE,27298,Single,2,2008,Double Tuner
+048b0786-a70a-11e5-8753-7845c4b142f6,ZMefLHIcZu,5Gt39G6FJw1ePezH2JeDprMyXg22ftB3n,Gering,NV,41635,Triple,4,2006,Single Tuner
+048d7880-a70a-11e5-a368-7845c4b142f6,huGcFiyiBwoLTF,7oiELY0kT4AuBJMqbLMRcXkLf2Z1g3EHLMqTvhZHV,Ashburnham,SD,53963,Triple,1,2002,Double Tuner
+048d7881-a70a-11e5-944d-7845c4b142f6,JaxiTzKVBaLOK,dGM4VuNoUaeWsf0g0eELlukIdha46oMSUBiE2SqJHrdE7fE17C,Ventura,WV,68624,Single,1,2002,Single Tuner
+048d7882-a70a-11e5-afae-7845c4b142f6,WArVqxnSBXGelKSwFnrPGwGck,XmzOtsrHIwoI9jQem5es8LAsV4fh9o2gSeC,Walton,UT,20601,Single,3,2003,Single Tuner
+048d7883-a70a-11e5-96f8-7845c4b142f6,WQhVxlBVHeQRuTROrbjiUJ,c4UTojhckYBpOOSsJGjzTGnfWUuEf,Sparkill,OH,15133,Dual,1,2007,Double Tuner
+048d7884-a70a-11e5-81a3-7845c4b142f6,fQctsXeFOAyLzNvRGReghlHv,QRSHkDIsv9G7B5XNw2rRUJc,Bement,NM,28434,Single,4,2005,Double Tuner
+048d7885-a70a-11e5-b9de-7845c4b142f6,BfRDXJJnUG,bQh5pOQWJNxSHg59zOD33ww,Davis Junction,KY,75009,Dual,1,2006,Single Tuner
+048fc26e-a70a-11e5-8f62-7845c4b142f6,vEAgOJMBzcLAHAaGB,wcVaCOujDNYQ73YlV2aM8lp8au9P1FQqWuj,Sicily Island,ID,53554,Dual,3,2001,Single Tuner
+048fc26f-a70a-11e5-909f-7845c4b142f6,KrNMYIGhOMUjIFtdUj,OteU5r0pEHn0rC5YDv56vI9g,Bond,VT,31028,Triple,3,2000,Double Tuner
+048fc270-a70a-11e5-8ee5-7845c4b142f6,nLeRuHcWICPIRuQRhkMVS,qU7FRmGWld6Q72mfyRB9LCJJZz,Duxbury,DC,49622,Dual,5,2010,Double Tuner
+048fc271-a70a-11e5-aa70-7845c4b142f6,zUZppDrFEn,guV8sHvLcfG7tPTyiu7W3r8AcmQwuMTT,Aberdeen Proving,CO,5201,Dual,3,2008,Single Tuner
+048fc272-a70a-11e5-a194-7845c4b142f6,EkaPTnTWZkgW,qqdHJZlZcfJff7K6njX71limsFk,Spaulding,SC,76116,Single,4,2010,Single Tuner
+048fc273-a70a-11e5-bbea-7845c4b142f6,DaJBiaSEnECmADBEIUJwHtEJa,gx5mPGjJQPv1YnhMrbTgfE2y9m0lI6eNFFZPAAshJ,Chapmansboro,LA,70577,Triple,4,2006,Double Tuner
+048fc274-a70a-11e5-b996-7845c4b142f6,ebnKZYRRjKlkKCHOkdasrwJ,w41OlaNUOXc3AbZN2UknL7LqaQT27UDmuj0oFxEXsurs,Knierim,AL,94108,Dual,3,1998,Double Tuner
+04923370-a70a-11e5-ad64-7845c4b142f6,ehvZmebxdmPMNNvtLtkWLB,qGQB2Hpf9QeDnIBYJzVBKrLdbyS5yedwtdgJ8CXyQ,Pittsview,NJ,61415,Triple,3,2014,Single Tuner
+04923371-a70a-11e5-867f-7845c4b142f6,VnkzUCNxPcDU,WkuqOuKG8ImuZaHBTirFxeMQXMyHNxUQcrCiT,Tillman,HI,68724,Triple,1,2006,Single Tuner
+04923372-a70a-11e5-a576-7845c4b142f6,wlJjEtferPVKEarAkeYPKl,ygC6mUNhrDOixsjbJVetEh3xCcfFHkqvqqd2FMv,Germfask,LA,38703,Triple,1,2000,Single Tuner
+04923373-a70a-11e5-94ba-7845c4b142f6,pxVheSROBHYxZGEjTlKGUs,0CemMWHqM2l0CL9jy5hlE16JZ5pefG05IbQsH,Wibaux,NE,75135,Triple,1,2014,Double Tuner
+04923374-a70a-11e5-a7a1-7845c4b142f6,ndpJGYaQBiVuAKsB,ebVurNaYUO4RSEZbSk2MMLnlIGqx7SNQAtsVVB0UNmCj59Kar,Rainelle,AR,7607,Dual,1,2004,Single Tuner
+04923375-a70a-11e5-8568-7845c4b142f6,GJjGaKeITJ,198gYBKDbvM5HKSCYzlZ3Jisf6RVKiQs1EqDqclUKp,Flatonia,NV,72368,Triple,5,2002,Single Tuner
+0494a470-a70a-11e5-99f2-7845c4b142f6,JgkIqczYMBnxYdBezhwznrQwF,94QbmAB9ZLjMZJiplsbgZK1PUTDqagMVOSzQqP7eqnWdIVILIw,Highland Lakes,VT,93555,Dual,3,2007,Single Tuner
+0494a471-a70a-11e5-90bb-7845c4b142f6,yUOFpJqxLVrakFZdtHRqfXhAA,g4mr2MDnt6hE99oD5Y8L3s1T7yHb,Ontario,CO,60632,Single,5,2015,Double Tuner
+0494a472-a70a-11e5-94f1-7845c4b142f6,VcffAzqLYGtCPmq,I73x4fRy6wSaS13uIGjQYnsJXqoEKR5YpPOI,41429,ID,42104,Triple,3,2006,Double Tuner
+0494a473-a70a-11e5-aa1f-7845c4b142f6,tbBRtVvGockArTqXcdxEa,9u3TKPzArTDLymCm0kHCuJ6eKH6hKll,41429,VT,94010,Single,2,2009,Single Tuner
+0494a474-a70a-11e5-871f-7845c4b142f6,ewFZLosMvTfdFu,TJha4ADOVD0eNvs8A6Adgr0ToEhIkFfuSjLeLwKLtFjkf2D,Eatontown,IL,70040,Triple,2,2008,Single Tuner
+0494a475-a70a-11e5-a106-7845c4b142f6,YBZRECxsnAdRpGajcoDP,rfQf68iK9T4IK5bAGUiNOFGfLdl4fxtRG,Honor,CA,39113,Single,4,2009,Single Tuner
+0496ee61-a70a-11e5-ae28-7845c4b142f6,raBXQLcsLVx,W2i5b81MrNtklGZL1wlZ9tFF4yVvvjlyZeMO8i0qru69w,Geismar,AK,76579,Single,3,1998,Double Tuner
+0496ee62-a70a-11e5-a5bf-7845c4b142f6,HUyqLbysjHRvDTGdYuYYwO,WqnrI4WebGVg0ArrR9a2t8HSgHpT,Lihue,DE,47404,Single,5,2004,Single Tuner
+0496ee63-a70a-11e5-a223-7845c4b142f6,CtZAIUYeTLIyfqRSJNRxyzuC,OtUokNcEZ6B1DT2syeSfR3R5kqpbp,Giltner,NJ,85301,Dual,5,2011,Double Tuner
+0496ee64-a70a-11e5-ada0-7845c4b142f6,BSnSrrBlTxOPXJXHr,faUAKHfLWSD4Sw166lFR0FjbHKluhctg,Gahanna,OH,59257,Single,5,1998,Double Tuner
+0496ee65-a70a-11e5-8dfc-7845c4b142f6,JILmHKhzViNMIHqPXisAlmUlt,rtgj4F3Mcv5iVCROYlIfFtUHaRF2LmJtHPPr,Saint Xavier,VT,33323,Triple,2,2007,Double Tuner
+04995f61-a70a-11e5-be1c-7845c4b142f6,XQoeZXMMxHHiU,iXNOtDWEwaX5j3doS6kilhc9nPQujZDxHZ7gj,Bland,GA,12956,Single,4,2001,Single Tuner
+04995f62-a70a-11e5-b8d2-7845c4b142f6,lKvSCHIMOhcGWGUlGTDUoWzeB,XOJn2TfDkWBL0dRgS3qXfecJ,Winnsboro,TX,53038,Triple,1,2004,Double Tuner
+04995f63-a70a-11e5-9ab9-7845c4b142f6,sxxDHuHnmVjwHpb,wEjGnuu7jkWsRN4vBSUSTtyKcSxT4jh9f9,Bryn Mawr,MS,70123,Dual,1,2001,Double Tuner
+04995f64-a70a-11e5-9641-7845c4b142f6,CiZeuPeZypQoUfLIcyUmGo,vR0vkPpjngEWrrsDTQSGq3dIf,Bonneau,IA,97381,Dual,3,2000,Double Tuner
+04995f65-a70a-11e5-ae86-7845c4b142f6,zGrrFCsYmAu,DEb5ka3R3zYjBQD5kYvPmn2H2oa9mJzL38vfYEYWzP26D,Keith,LA,17828,Triple,4,2005,Double Tuner
+04995f66-a70a-11e5-9224-7845c4b142f6,arNqpRiGMcMIYIGtrFT,KzIOja9iLq6coBmdi6R2gMmVabKtyU8gSfqoYhZByX1,Smithland,HI,18032,Single,2,2009,Single Tuner
+049ba94f-a70a-11e5-8476-7845c4b142f6,fjMWOPJIGKdJzx,BZroAQE4LQCXeemmDI4KurRGa,Washgtin,MD,99684,Single,4,2013,Single Tuner
+049ba950-a70a-11e5-8972-7845c4b142f6,QoKgxKOeBgmpG,3EbQTNVj4pNG40Lhe7n2ALkekhdSf8bubWm7Rj1,Farnhamville,IL,18947,Single,1,2010,Double Tuner
+049ba951-a70a-11e5-8fe7-7845c4b142f6,IrOuvrMzxxtT,a2FlB1azTwc605GvlUUXdhrQgusrhV,Yorba Linda,MS,74549,Single,4,2015,Double Tuner
+049ba952-a70a-11e5-bd38-7845c4b142f6,UoXmEBBRiwKvcKKOKEghqF,gaJ5vwADCYYOc4UJGTcFD4lEKqM6h7FzuIe9,Halcyon,DE,68442,Triple,5,2010,Double Tuner
+049ba953-a70a-11e5-b86e-7845c4b142f6,ZyhgDIDIBbTUG,UiCCkzKirEHgcIWk2lst5bKVnN6HQq02Gze4mpEHG9F2A,Myra,OK,37709,Triple,2,2001,Double Tuner
+049ba954-a70a-11e5-b998-7845c4b142f6,BVEnLNsFQsDenBKHUzlYNP,6Jp1Ke8ggzujqZ6scuPCYrQu3ww032zf2o0S7OSwLh5z,Agency Village,CT,98629,Triple,1,2007,Single Tuner
+049e1a4f-a70a-11e5-8d1f-7845c4b142f6,ZvEOAqbSIoCRPjnCQcrvMo,xzrHULkOcWCyHHSS9qr9G1CrmeONpxuxSwNeYFRUAF159qV23,Glynn,ND,30265,Triple,5,2007,Double Tuner
+049e1a50-a70a-11e5-928d-7845c4b142f6,aqlqnKPqkMfuOGexmvAczoNPx,WvHPkEa8JcpXrGlA81JD57NUedVeRcOcJ30m,Imperial,UT,71069,Dual,2,2000,Single Tuner
+049e1a51-a70a-11e5-b188-7845c4b142f6,fqrJNstJsyknGadDvdY,TFF6ue2NEhpZOKHlyuFHlkpAeHNROPQCnZBi26HxioZghT,Ontonagon,RI,71412,Dual,1,1998,Double Tuner
+049e1a52-a70a-11e5-892e-7845c4b142f6,KFKFMhHDMCMkW,CkqmFMJrmARcQWUorrP0Ihl7TqPcR64PCNC6zfH5ppFRKMDw1w,Bryson City,WY,44837,Single,2,2014,Double Tuner
+049e1a53-a70a-11e5-b5fc-7845c4b142f6,VvbmbrucsuCmzP,Ql7wJmLJsy3kSHcEEYVDJxX,Iaeger,MN,76028,Triple,5,1998,Double Tuner
+049e1a54-a70a-11e5-b42e-7845c4b142f6,HnINGxFcVHpKhDVV,l6yJI3MrDcxtTXOBP1ztnvnbR,Gearhart,PA,99568,Single,5,2008,Single Tuner
+04a08b4f-a70a-11e5-a7af-7845c4b142f6,IUuduTbUfGTqba,2FZpQzpe7blkxiqtUgKgJGaGIGchFfCbVFrf5BY0YJxss,Pisinemo,DE,14008,Single,4,1998,Single Tuner
+04a08b50-a70a-11e5-a7d0-7845c4b142f6,sbRnCbNRbJEsWcpEE,9I6jUuyT8rekB1fEvbeLqRHMammyizCOYRAqj7K1yULmSr3fo,Mclean,VT,51546,Single,4,1998,Single Tuner
+04a08b51-a70a-11e5-a899-7845c4b142f6,OdRTenWdBdFbl,oigOPHKli14tOeibbl1dw5tEafOPXjtw5W,Brandy Station,UT,59033,Dual,1,2003,Single Tuner
+04a08b52-a70a-11e5-bb04-7845c4b142f6,zLyiFGdhDaDbeOkTBDoLURXyo,pFcLOTEpb1ehi9Oa7xMItxRZTL2hiVAIi8,Gardena,KY,65083,Triple,4,2002,Single Tuner
+04a08b53-a70a-11e5-b159-7845c4b142f6,lKGTrUstOpPdVaeIqa,P2mdb9ToCaNONQwskXhM1f16TeM30lAXeiiQTU4s,Perkinston,CT,71325,Dual,5,2006,Double Tuner
+04a08b54-a70a-11e5-8eb1-7845c4b142f6,vDIkfkhhMNCwHRsvih,QZzgNPZVh8mkAagjUbQPdal5nEpjYtD3J8YaSFAkkFtwF8,New Riegel,NJ,98586,Dual,2,2001,Single Tuner
+04a2d540-a70a-11e5-9ce7-7845c4b142f6,CIoJjiVWKbqAvcsUrxDHuLxw,zC1UvH3KkuEyNRUEojIkOVM1w7wmI6IbWgAgpftSu,Shelburne,ND,83263,Dual,4,2013,Single Tuner
+04a2d541-a70a-11e5-8b08-7845c4b142f6,bfdEuvjuOm,qq4H9f17SRzM9qvYpus0ot1zCI7SegQ9kkp3nW5k,College Miserico,AR,83704,Triple,2,2015,Single Tuner
+04a2d542-a70a-11e5-9448-7845c4b142f6,lbplixuuyumJiLAzOfrTG,vI0clRdr0t5G7UtSAzsWA4oXzm9qm2n9Ul5YxMXFTbJx3EQ,Pinedale,AK,12843,Single,4,2007,Single Tuner
+04a2d543-a70a-11e5-873d-7845c4b142f6,rykHCwTRRDYKXnRfopZAmSUw,662AfqtJC7D0JmlUJmwgIUN,Claude,UT,59843,Single,3,2007,Single Tuner
+04a2d544-a70a-11e5-bd16-7845c4b142f6,zxlJfgulrfvVdhLKQbvPHD,tTS0Mug8P3e1BQCK6zomFYID6pc5vby0ok4puyp8BA2vWh,Ola,OR,19107,Dual,5,2004,Double Tuner
+04a2d545-a70a-11e5-b8d3-7845c4b142f6,mibwGLosSHJbmVxGwZnQGKVG,XubJM9FO9Cn6fEDELT2DqVOuFd3rrQ,Ruidoso Downs,SD,59925,Single,3,2006,Double Tuner
+04a54640-a70a-11e5-a759-7845c4b142f6,ZVcKyIyaXBRvNYcHDFF,lhKUDbsFGCqZLVEBp92IsHwgdhxCdLBtGCTdQZwUJDH7O3c,Pimmit,NM,53557,Dual,4,2006,Single Tuner
+04a54641-a70a-11e5-9c24-7845c4b142f6,DidCRVAtkh,cMGYj0urqi2C0yfogdj0XWO7EOQ7A7dEaiKPw9h6xpx,Cedar Park,NC,61354,Triple,5,2004,Single Tuner
+04a54642-a70a-11e5-962a-7845c4b142f6,MzjkiLmStqXyV,SWHXQeCxQ6n1Cotu4gIFJxg,Farragut,NE,74016,Single,3,1998,Single Tuner
+04a54643-a70a-11e5-815d-7845c4b142f6,NHDCxKyMtD,6hV7sqgd1ToGhsXUI1GJ0kCHJZCoXtM4lp1qFI,Extension,AK,94547,Triple,5,2002,Single Tuner
+04a54644-a70a-11e5-a883-7845c4b142f6,FFyYSDEoLAMGSbmKy,5qfdjXgEgYcGQvElQ1q5uqP7,West Logan,WV,58056,Triple,2,1998,Single Tuner
+04a54645-a70a-11e5-a42c-7845c4b142f6,tHdKriGVAwiyhgL,QugJNtXkyLQDFyar309HBlVVjHe,Artas,LA,32533,Triple,5,2007,Double Tuner
+04a7b740-a70a-11e5-a24d-7845c4b142f6,FfJhMQZJzMrihMu,bVuPLDuarYkDfmce3jgd9ugfu3SeSyvOxGTABpLVmgVkc,Shepard,OK,58537,Dual,4,2005,Double Tuner
+04a7b741-a70a-11e5-bfad-7845c4b142f6,roLvJHgINhp,hx0QoyHmEf2djPPuSHR3efp8RTOcGacVCD,Dushore,FL,14545,Dual,1,2006,Double Tuner
+04a7b742-a70a-11e5-936e-7845c4b142f6,wtimCVGSxmDTYR,ehITmEf9ao8u9S75o2lqeZFrKBfQ1lbFk,Broadview,MS,64161,Single,1,2009,Single Tuner
+04a7b743-a70a-11e5-86ae-7845c4b142f6,WKbzWXJMpGCBZO,3xnwZZMyN2cvN9gD6Y3mRA3UX9xp87jXauLhNGWFNBjcyhUd,North Loup,NV,26101,Dual,3,2006,Single Tuner
+04a7b744-a70a-11e5-b40c-7845c4b142f6,jufOLvKIYfAV,zrzwzniN735wctTS2WOFe5VxQBHyuLxioI1d8bKOWED,Forrest,NE,32564,Dual,1,2012,Single Tuner
+04a7b745-a70a-11e5-ac1b-7845c4b142f6,orOCSFnFvVKIpbIPb,PnVcO0vdZKyYMqUvSa6FAY0rixUuS,Zeeland,MN,97358,Dual,3,2014,Double Tuner
+04aa0130-a70a-11e5-a0e2-7845c4b142f6,IOhTFQPznAhrGQaNsuhdKq,czHvelR1Pq804VzWwnsB6c9jVdJzy7WWDNk,Hammondsport,ID,97222,Dual,3,2008,Single Tuner
+04aa0131-a70a-11e5-91f5-7845c4b142f6,whdsoDrMcupQBrX,eW2M9JvmzP4yfjvffvsxrKLUbhJkGjdC0QXyjeZ9Ean,Sequim,AK,41306,Dual,3,2013,Single Tuner
+04aa0132-a70a-11e5-bf03-7845c4b142f6,DQQQwsdYDQKraOaVPesPmuu,MemomL9he2m9mGEtboKsoWA,Brookesmith,WA,70637,Triple,3,2002,Single Tuner
+04aa0133-a70a-11e5-8d32-7845c4b142f6,dhoPKBokkFjrHoQkFmRXrFzsS,oVMuJvUJKFDcz3dmZtYD7Rn9dFmIuM,Pinckneyville,KY,52651,Triple,5,2007,Double Tuner
+04aa0134-a70a-11e5-b536-7845c4b142f6,cWltdIdPTrA,R9jdbUdYaSiOZ6EyQFUvKf6s8W,Ashville,DE,62956,Triple,4,2009,Single Tuner
+04ac7230-a70a-11e5-9131-7845c4b142f6,AdzqlAtbpFtAyvdBupCw,m0PaTRJgkNRHhjF3b7KAaTy9pQlMP8Vd2wNVYZAkjTT8g7oc9,Avera,PA,44202,Triple,4,2011,Single Tuner
+04ac7231-a70a-11e5-aa7d-7845c4b142f6,PUqAkjcTmhnD,oosd9KFcrJOOFfLn9SIOqpHYqmg,Kelly A F B,MS,41015,Triple,1,2007,Double Tuner
+04ac7232-a70a-11e5-9858-7845c4b142f6,egxKpdTAhzxxLhtL,a7kt6emDpvoCtGC3C3hkpBT,Orting,WY,58411,Dual,3,2000,Double Tuner
+04ac7233-a70a-11e5-9046-7845c4b142f6,HzNSEQMhhkBRilEUmhlK,mMQqpjBceIaEZavbfGHfET6ne1,Bonita,CT,99760,Single,3,2010,Single Tuner
+04ac7234-a70a-11e5-8b40-7845c4b142f6,gNSKYSBVvCYXnhJWjXzKUXrTa,AOAZCuHMWtmxbmpyBrNhEKomU9En5SlgKPuqaGw7R,West Worthington,GA,63966,Triple,2,2005,Double Tuner
+04ac7235-a70a-11e5-8a6c-7845c4b142f6,XIYaYCIojHwgcWi,FRli80TRJrTUi7cyqqeVKKmHSF0tkq3F,Hoquiam,KS,87556,Dual,2,2008,Single Tuner
+04aebc1e-a70a-11e5-8212-7845c4b142f6,QzFVYgCdHOVixXYb,nCXC9wrTiiBI8o46KGT3ADOOa7DJXDO8AX0UEs8Rc,Mc Rae,NY,98404,Triple,4,2000,Single Tuner
+04aebc1f-a70a-11e5-b48b-7845c4b142f6,qINCfZpJXSGkDomCp,Dv4DXa1yv7741gX9ljqgzzkGvp3xUfqt,Merrittstown,CA,12745,Dual,1,2008,Double Tuner
+04aebc20-a70a-11e5-9376-7845c4b142f6,mTehnxbIkOD,cgJpQRJrHGo8IzQfekQnaZUqJvtfJ,Saint Patrick,WV,66842,Single,2,2015,Single Tuner
+04aebc21-a70a-11e5-907d-7845c4b142f6,NhAoTGvEFKwncHNjMtMeAmr,K5ofc46N7CQT5UcPdpRHEbiX1I6wzCWHSgfOda,Handsom,PA,26631,Triple,5,2009,Single Tuner
+04aebc22-a70a-11e5-8c7f-7845c4b142f6,cKousypgFTLzYVwAWQsnmk,MGX6HGFo5SiSPYt9vX5aDdyx1D0JgGzMPM4yLS4,Forest Home,MD,69031,Triple,2,1999,Single Tuner
+04aebc23-a70a-11e5-b8a9-7845c4b142f6,KQBGmqkbQwZyDQyyGFyMINha,U6o3LpJeNuprU592Q8ixvwTM3xQZpaSLHYEGuz8,La Mirada,AK,37687,Single,1,2002,Double Tuner
+04b12d21-a70a-11e5-aa55-7845c4b142f6,bUWzLIJtbZzstHlcagS,HA78RaH7JWRC77DwTJ76zrK1WBzgFyPVLXfCtwhYE,Veteran,NH,43311,Dual,5,2014,Single Tuner
+04b12d22-a70a-11e5-8c73-7845c4b142f6,JNJSWXYTkx,w9JMER72A7etafnaQF85F8mMo,Sherburne,WA,21629,Dual,1,2008,Single Tuner
+04b12d23-a70a-11e5-bbfe-7845c4b142f6,eXOvCUbTzNDUFYCZxD,jxCv8lcv0r9JZnDSK0ERAcefyMJH4RLBQ2NipI,Thida,WY,38359,Dual,3,2014,Single Tuner
+04b12d24-a70a-11e5-bbdd-7845c4b142f6,MfPujAQcYrE,SQ3NjJuMnJKXVLMdBwmEoE7jgAeRVtsCk6bv7Av,South Boston,MN,7023,Dual,1,2009,Double Tuner
+04b12d25-a70a-11e5-bc61-7845c4b142f6,kUxIEOnJtNHQnqE,CqZMMnYWB7eph42M4ibj0nUNFfLqWgd8Ike52Z7o,Prairie Du Roche,VT,62967,Dual,2,2011,Double Tuner
+04b12d26-a70a-11e5-bf25-7845c4b142f6,nKggzOsXmKbKkMl,WQQf6fvdbkqPuS1Nd8utDg5TlPtR,Brandt,IA,53954,Triple,1,2004,Double Tuner
+04b39e21-a70a-11e5-a5b9-7845c4b142f6,YFEzyXCgJfqlGUADwyT,BnvLO9WgJLz4Sp1QvoyM9VwUdHE6THvXtcfQOhJvvhg0yw4N,Goodnews Bay,HI,32097,Dual,1,2000,Single Tuner
+04b39e22-a70a-11e5-ab22-7845c4b142f6,tuMDCMmzasLTuE,C10OrQACBgK5Dl0WzYXeIJOq1,Hyannis,WV,40513,Triple,5,2002,Single Tuner
+04b39e23-a70a-11e5-8127-7845c4b142f6,DQdqMYwfTbAECxn,Y0j0dDFL5ShMvB9OWjlhgESOQ6d1wTdFtmxG,Antwerp,NM,46703,Dual,5,2010,Single Tuner
+04b39e24-a70a-11e5-a86d-7845c4b142f6,IHTgciPLfGoRe,eWQgiCj14uKn3E70MZAwbp9BPTFvK,Port Hadlock,AK,76849,Triple,3,2005,Double Tuner
+04b39e25-a70a-11e5-bd62-7845c4b142f6,dotqIpQKTOqKExEEpHap,PM9JMxGdRIsDAhdw1YOkiIAIAvG,Goodwin,OH,62634,Dual,2,2009,Single Tuner
+04b5e80f-a70a-11e5-b9fa-7845c4b142f6,qPuYbZySXzdirBEDrJVaFkI,43h4Hz1utxkTuoR4e9G5UZhpcsRSWIDPo5OSzUnfxMHK0,Meadow Bluff,MN,40023,Dual,2,2010,Double Tuner
+04b5e810-a70a-11e5-af6a-7845c4b142f6,QXXXlDgHunogUMFxwzsDvZ,zDDfDN9DRX7scPUSNWD0Csl,Canon City,SD,68131,Triple,4,2000,Double Tuner
+04b5e811-a70a-11e5-a6ec-7845c4b142f6,sQPgtjaQsmoNryUWyjw,Jv7zzKoSFA9ut5PFgCzPedjI3k6UiqqnPG1IdFiY5WRSCWyh96,Merrimac,VT,95118,Single,4,2011,Single Tuner
+04b5e812-a70a-11e5-96d6-7845c4b142f6,SEsXknNNyX,9oELLEr6pkCrVRRExOQ2jA41tlpARmlRp8UOw8D3Vt8Lj,Long Lake,MO,76712,Single,1,2006,Double Tuner
+04b5e813-a70a-11e5-912b-7845c4b142f6,QaBjbZXlwAKeMGAvlRpKYxF,ZxOjED4axqPW7PXQHoiEvhluydZjQxAB,Kosciusko,NH,60072,Single,1,2006,Double Tuner
+04b5e814-a70a-11e5-9e25-7845c4b142f6,goajlmSPiwMUtaeVNcqObMH,df0C9Ip8LfsLoUYQ0PG9adcolD,Kief,DE,98001,Dual,3,2002,Double Tuner
+04b8590f-a70a-11e5-854b-7845c4b142f6,asBxrYFIFvhrBXlx,89JT5sWn5sQDXgBvByTdYrrcIOOhIT6xeUJZL,Quanah,ME,37723,Dual,3,2004,Single Tuner
+04b85910-a70a-11e5-9c1c-7845c4b142f6,qLHqtxDpFwiQyzmIUioz,4YA7GnRmSPin7SmV8ULo78dxSJSrMWiOi,Brimson,VT,39645,Triple,5,2000,Single Tuner
+04b85911-a70a-11e5-b5b2-7845c4b142f6,tDKwfQZGQVPYNWJS,aRbuzABzAXGmyrAajiGFQtQA3z9hc4oI3lIpT7SnYdq7ph,Barrett,IN,47230,Dual,4,2004,Single Tuner
+04b85912-a70a-11e5-93c4-7845c4b142f6,zqPMiLXnVEkfMGaAiH,XwGgvfUpN6aWIHiciYdsNqG3,Hampstead,VA,49870,Triple,5,2001,Double Tuner
+04b85913-a70a-11e5-8214-7845c4b142f6,QMOOyvnfZknIka,helg0AGhWd47KmrZ02AOke47d,Briar,TX,30642,Triple,4,1998,Double Tuner
+04b85914-a70a-11e5-9c02-7845c4b142f6,qjoaulMMLiicRqYriq,Kde256Xh1jAJsnOEsRr1xWK4QNaY0tK6SIEv1,Tell,CT,74523,Triple,1,2014,Double Tuner
+04baca0f-a70a-11e5-9c27-7845c4b142f6,FzvDRSFDFfkReLE,poXYDLpIjoxG4FNWqUXj8vteCp1II43N1fFWdVD1pfox,Thaxton,VA,80020,Single,5,2005,Double Tuner
+04baca10-a70a-11e5-aa3d-7845c4b142f6,xTHjgeCJyfBKWAhSmAvcMl,4AaYsiMlbrROro74epBw0rGIEtGwaT2mrKywTrtBUOdoHU8C,Frankewing,MN,92635,Dual,5,2001,Single Tuner
+04baca11-a70a-11e5-8f86-7845c4b142f6,jqwwXfqJurHoNuitHbyZiTQtX,f0q3kg76SJYx6OAC4wNmnFrrOxYRwJ1PtkuTlaSXJ7NWG5Y,Constable,TN,55720,Triple,5,2014,Single Tuner
+04baca12-a70a-11e5-b840-7845c4b142f6,ZHrDkKGUhdJCY,5FMTJGSI6ELsXGQ9Jfu1hlzSW72D1RlRqZ7xpF,El Cajon,RI,29301,Triple,1,1998,Single Tuner
+04baca13-a70a-11e5-8b41-7845c4b142f6,pIobxMrbaroiSiThQnjrInwh,DxwN5OJ8uuIxcBlzgnAa9FfYv0x25B5,Stuarts Draft,AZ,77830,Triple,1,1998,Double Tuner
+04bd1400-a70a-11e5-86fc-7845c4b142f6,pPvwsFbAuiXIbGGz,UouHliflROpvI7MxSvj1zIGYOZXCYfAb,Cooksburg,WY,55421,Dual,3,2009,Single Tuner
+04bd1401-a70a-11e5-b16c-7845c4b142f6,cJvdexSYKqceGbuUt,5gsVoFPO6CnVKXNBgqAEGXm,Finland,HI,28174,Dual,2,2003,Single Tuner
+04bd1402-a70a-11e5-b5f0-7845c4b142f6,JZEvuBUObbrrmTnXntSIbSnK,Pi7XIjCpwJk7PmE5M5Ht6mwnKWEHjKaiHlYJMR,Dixon,TN,8850,Single,3,2001,Double Tuner
+04bd1403-a70a-11e5-9736-7845c4b142f6,EMehdmSOmvBxAB,76yytKUCQy9H11vfK91s0lkl2UURnpc2s6GPpTK9bhUbEqa,Heber Springs,NV,78725,Triple,3,2001,Double Tuner
+04bd1404-a70a-11e5-8a0e-7845c4b142f6,HQUIXCcBJUpaEoNJYF,7m55NapnnquXjzjQAa51Cznehc5vWvW,Westchester,AK,7851,Triple,4,2003,Single Tuner
+04bd1405-a70a-11e5-b9c3-7845c4b142f6,ofShOhlncNVRscfvQMhB,W3MqX0UPDQj7KE0ftqqGT7SknnYoHMLYkXOQSwfzV96Sgmio1q,Kerhonkson,VA,70403,Dual,5,2010,Single Tuner
+04bf8500-a70a-11e5-9103-7845c4b142f6,jTDFeyIgJYytRZNG,ywiDJj3DihcVM2wHDNCAzUsmF5D5HuyLV,Luckey,HI,76945,Single,3,2010,Double Tuner
+04bf8501-a70a-11e5-a7ae-7845c4b142f6,kppOXJoFPGigHyN,T5yWL84jFjqHuraslntyNaN86fafrsLAqtQff54cViY,Old Fields,IL,58421,Triple,4,2006,Double Tuner
+04bf8502-a70a-11e5-975e-7845c4b142f6,wfSlwGRpZbioqJl,SwnC5xENWdjzd9hHzHF3o08DXQ3wnNyx2w03rYbezKmp9,Stayton,LA,8078,Single,3,2010,Double Tuner
+04bf8503-a70a-11e5-a425-7845c4b142f6,LraTjxOAYCgGPuAu,tIkWc43FXgLbyot6ktkIc7DkrawyrNi5xXRa9363PzXIRE7,Negaunee,ND,56327,Triple,1,2001,Double Tuner
+04bf8504-a70a-11e5-8ff9-7845c4b142f6,kQUDYkepkBmcwbCxV,RDXoygAft8okItZRRTOOHaBxsLPfoklq,Emily,AL,21225,Single,5,2009,Double Tuner
+04bf8505-a70a-11e5-8aa9-7845c4b142f6,uHEoQbVEOZQqHr,fLbeg0g7QezDIZ706ikvTicJaXNqc0jwmYGVmbCSgZ5e,Red Banks,UT,53590,Triple,2,2000,Single Tuner
+04c1cef0-a70a-11e5-a53d-7845c4b142f6,zYlUlUGbMUrvKaEWZG,4xiIqUgkyRydL0NJUu1o1cuaP,Wellsboro,PA,53023,Dual,5,2014,Double Tuner
+04c1cef1-a70a-11e5-a35e-7845c4b142f6,NehThNphWGyTGuhyFKCgEQl,A1qmeespIcXk9yg8S2o74aOoOY6k5Km,Camarillo,SD,20676,Triple,5,2001,Single Tuner
+04c1cef2-a70a-11e5-97f9-7845c4b142f6,RBvxItPskERsuDpiwz,AHi3gIUUyH4ZBHR8gBfH67bTU5JmCr,Anamosa,SC,62318,Single,3,2005,Single Tuner
+04c1cef3-a70a-11e5-b8fd-7845c4b142f6,nFzrTVpuaePTNXKqu,zG8TSrFVYXEySaCOYjRD5TBwHeRXnHAC8R82fc,Ophir,UT,11942,Single,2,2008,Double Tuner
+04c1cef4-a70a-11e5-b1a8-7845c4b142f6,ZHFTbtOCTCYedVHHVPXKdytQ,Zkj3AqaKYwFEgTenwKBHkH4,Norwood,OH,16671,Triple,2,2014,Double Tuner
+04c43ff0-a70a-11e5-a1a9-7845c4b142f6,smymOahTswAHdeLEpDqPUsJJT,ZlRYLmU8kiWPWsRm1y2eRyRTfL,Cresaptown,SD,54490,Dual,1,2007,Single Tuner
+04c43ff1-a70a-11e5-a2cf-7845c4b142f6,jZvMEVlKMqrcNgjOS,tc4NMSfyukS1PpiY97IqBh6c6uviEJnUC4xM6tiTz,Papaaloa,DE,28690,Triple,4,2014,Double Tuner
+04c43ff2-a70a-11e5-a767-7845c4b142f6,viEaPJbnfJlgcHusMNfbVtyih,S802d0zE41zrSlEPdERA6Khv57FCLt3dTjV0CfpPfBqQj99,Huxley,ID,82215,Single,2,2001,Single Tuner
+04c43ff3-a70a-11e5-a09c-7845c4b142f6,JICIqGIWQCFGEnaZfx,So5oyGY9btw3Hfc16w3jSrRHLlMODcgSaQgRNH,Stovall,ND,74015,Triple,2,2005,Single Tuner
+04c43ff4-a70a-11e5-80d4-7845c4b142f6,JSbswnARqTNMUyyVIMPBdFs,y3vd5Kb7d3AoPlBN1CgrAngKrukVWR4U2950B8,Boonton,HI,26264,Dual,5,2004,Single Tuner
+04c43ff5-a70a-11e5-9320-7845c4b142f6,yxnPbXCYjkGjCPgMTvYSUAd,8RIbq7ZWIakYOcZBy6YFs1eWuL,Kerrville,VT,95822,Triple,2,2011,Double Tuner
+04c6b0f0-a70a-11e5-9a3d-7845c4b142f6,FwFqKCUyqPmJDPWHG,fSmpNwN0f6cNZl7AFaVBoTKUeeXGbyUA,Wray,WI,46221,Single,5,2009,Single Tuner
+04c6b0f1-a70a-11e5-87ae-7845c4b142f6,PApIECRluePOuYeej,mNIJ46LGHLCGlvDlNpCrQE02Nxb,San Mateo,AZ,31775,Dual,3,2011,Double Tuner
+04c6b0f2-a70a-11e5-9699-7845c4b142f6,kOwCANFTbX,cho7WbZUFt137v8UqzRcDpYicTppti8vhqJJ,Milliken,IL,86025,Dual,1,2011,Single Tuner
+04c6b0f3-a70a-11e5-9177-7845c4b142f6,THETavjKQVHKsFDRmxo,Ary18NZ4y5Zd3xDCtJ777lsMKsTDGh6oufxz9mzG,Cale,LA,40028,Dual,5,2000,Double Tuner
+04c6b0f4-a70a-11e5-b909-7845c4b142f6,tfBoPFjvIxdnMFeIkJHJ,OUB4KdnBX2c9312uo4wFfKQFRgFi3gflOihLeGguUJZ00R,Browns Mills,CO,35206,Dual,2,2012,Double Tuner
+04c6b0f5-a70a-11e5-b8b4-7845c4b142f6,qoBmXFofIeGCSaJiBbiLuA,gNv1WxJUHtNwvFb1cR1h0Rwi0PsG7co5Lq2ZXD6BjSsdPm8kF,Sophia,IA,67203,Triple,1,2012,Double Tuner
+04c8fade-a70a-11e5-89f5-7845c4b142f6,PzssQrgTtzoQYUNhJkDIRVX,4i27QOdFPQaVS1tFfi7wJdth3vQieW1kJdyxrZfBX3qPY9YK,Center Ossipee,NV,23922,Single,2,2014,Double Tuner
+04c8fadf-a70a-11e5-b8c8-7845c4b142f6,eSYElfnWWaJJwAdjNDVIMZ,f3rBHYnBewVNJRjuoQqRCnd4YUOGhGT6Q9hhFS7vRR6GQtV,Sunburst,MD,48335,Dual,3,1999,Double Tuner
+04c8fae0-a70a-11e5-9dd7-7845c4b142f6,YkwQdSAJKghYmagUumMPRGOi,lI9rnpD0WTlIJsnjNrFnbrW0mdwou963opP6rKaQPPIJNR40w1,Indialantic,NE,37098,Triple,5,2009,Double Tuner
+04c8fae1-a70a-11e5-ac21-7845c4b142f6,JSMoQjYDrguLbIOyJmaG,xYwRPbu5S8cFu6RsbBU94N921emUmRSVM,Surveyor,PA,7088,Triple,2,2001,Single Tuner
+04c8fae2-a70a-11e5-a802-7845c4b142f6,IsphmvHVnMtSbfEqbBLJj,j18o0LDTWBuzJnX9Ewgfu40c,Walnut,CT,57724,Single,2,1999,Double Tuner
+04cb6bde-a70a-11e5-b8f0-7845c4b142f6,KFcstZLtryIiwZWrWnJhyWa,b6hGK3y2DaaTgScYGZ6TaaV8SDi3Dy3mTpLXkxMk7UV6foo,Greenough,NM,27344,Dual,3,2009,Single Tuner
+04cb6bdf-a70a-11e5-9bf1-7845c4b142f6,ggSjpbWVYYgWAN,69leQT2ljTzTjxRgS14pUBwJr,Makinen,MI,24150,Triple,2,1998,Single Tuner
+04cb6be0-a70a-11e5-8050-7845c4b142f6,KTEPcDnjOsgJKlsCYPaRbCM,Z6bwZgZ6Uo44itS5QQL4HBBNKJ4HrmOzmrf1U4F,Ochopee,SC,68423,Single,1,2015,Double Tuner
+04cb6be1-a70a-11e5-9057-7845c4b142f6,fcMEFHEVZRDSFRWJqC,s5K6EMDYKAXpELGEWGbZJVLXaIypeqoo0,Ricetown,MO,41736,Triple,3,2004,Double Tuner
+04cb6be2-a70a-11e5-ba66-7845c4b142f6,bKlGfBDKIAeJEv,c7sA80fbjGUfmVeqicE2K107p0VPgil8aOmDnb3sKC,Nineveh,OR,56367,Triple,1,2007,Single Tuner
+04cb6be3-a70a-11e5-b931-7845c4b142f6,uYHpNUgegNmg,2agp9kLP5txudm7uK4LcjOLOxRP,Sandgap,WI,49436,Triple,1,2010,Double Tuner
+04cddcde-a70a-11e5-b7d5-7845c4b142f6,CXspOqQZIMWrELNMauAdrkrF,SwlpqxDFfeiXpJUSRANusaZN9XntGt2,Fort Plain,TX,65259,Single,1,2001,Single Tuner
+04cddcdf-a70a-11e5-a27f-7845c4b142f6,FjYnIQirYSdENLsptIOWkU,ZhuAWRK7UBH4iXWU02wl6GWBTm6hdQn,Chesterland,MO,84660,Single,2,2015,Double Tuner
+04cddce0-a70a-11e5-a2bb-7845c4b142f6,pDsQmFsQBEDwkd,6bYYAQySyCJSXryfsk1G4EmU0hn3ZPJUxs3ebh,Crewe,IN,2346,Single,2,2008,Double Tuner
+04cddce1-a70a-11e5-b95d-7845c4b142f6,ARduPQfaWbV,t9nM8ZA1EwikzFJS8fDnWeIKlJrUUZ2x65DVfPW,Nelsonville,SD,11208,Single,4,2009,Single Tuner
+04cddce2-a70a-11e5-b2a4-7845c4b142f6,ZAntcPqRXqCXUeOOypJX,yiDBJWnK2NMHdrYOGfeBPZIpCElB,Round Rock,OK,11231,Triple,5,2002,Single Tuner
+04cddce3-a70a-11e5-b37e-7845c4b142f6,CbkFQoIBOiPeMBicUrb,LQD67q04o9Eemr23Ax5NPuOJ,Orrstown,SD,78880,Dual,5,2003,Single Tuner
+04d026d1-a70a-11e5-b9d3-7845c4b142f6,wVNAyfqkSjKujJyB,5dt8NZ2cP909iSzmcC64Zgzz5Cr,Pueblo,VA,99683,Triple,4,2014,Single Tuner
+04d026d2-a70a-11e5-bacc-7845c4b142f6,DjWSwMxelaFPYOdmV,DQunUsInuqKSP14xZobJPgoyqZT9tZWJfyEBVJNx9f,Boonton,MD,91306,Dual,5,2009,Single Tuner
+04d026d3-a70a-11e5-8820-7845c4b142f6,TrBtiSMAOomUtfuz,IW6FUbOeAQRm3hZTSLAF2GUMgXfMlbDjIxCbwDy8kca72vN,Honomu,NV,51026,Triple,3,1998,Single Tuner
+04d026d4-a70a-11e5-97b9-7845c4b142f6,tpWVsJmmPWyeeXWXhciHkQwj,qCZ3MlmEddTtwEDADgrJ8vXUTTedS2ABxKf,Monroe City,NE,92627,Triple,3,2004,Single Tuner
+04d026d5-a70a-11e5-8b4c-7845c4b142f6,hppbyMblur,bYc5lw7gTCtJz0FId7FVZvwYXjrapqhLY,Cerritos,CA,30060,Dual,5,2001,Double Tuner
+04d297d1-a70a-11e5-ac34-7845c4b142f6,WvoRGpKOguXKNSidmnr,JrCXTlJ8cBxPXistVixdKxOB7XHXdpNS9Vj8WGWjY,Leighton,AR,75153,Dual,5,2008,Single Tuner
+04d297d2-a70a-11e5-bef8-7845c4b142f6,SlqXliYahYZaZ,J2QRg8704Rp1aumXONQvkv3,Southside,WY,16025,Dual,2,2015,Double Tuner
+04d297d3-a70a-11e5-b4b6-7845c4b142f6,tEHjFxpDyjDeKnEYWg,Iqgd4EeCee5yEplXUBvPPRqQQwNTdtTy,Big Chimney,CT,6390,Single,5,2010,Double Tuner
+04d297d4-a70a-11e5-814d-7845c4b142f6,OkiGApNVazMI,JsQxC2CEJhlLJSrpeGGpsa4cIsH19R7A9sDtC,Jackson Belden,OR,62931,Single,4,2015,Single Tuner
+04d297d5-a70a-11e5-8cd9-7845c4b142f6,XnKKKuRBryLDkWVR,Yfy3u1G8UOkm4hLn2ToiV0uDYxIUvOlNUreqf,Casselton,WV,49834,Single,2,2005,Double Tuner
+04d297d6-a70a-11e5-b9da-7845c4b142f6,LFPIzpPoxUTUTGnDUCtaAp,4zir53hasc1NTpgFQ1gPhEOFwCNsJbL4FUrUqjImnxPcQuoIWt,Lonepine,ID,85338,Dual,2,2015,Double Tuner
+04d4e1c0-a70a-11e5-bcab-7845c4b142f6,DDPNZeluFovdUOC,pCpixBeSHm4EjHbrw285SOO5UtzooL,Waterman,OK,38221,Triple,5,2012,Double Tuner
+04d4e1c1-a70a-11e5-a488-7845c4b142f6,JPaMrjbvnYwbdnezpqq,ksoMtDEhzKy2iztSmZBGF3l4m6lhCR3RRG,Washington Colle,AZ,67860,Triple,2,2010,Single Tuner
+04d4e1c2-a70a-11e5-afbb-7845c4b142f6,ZIruZieZvaaShRLuM,5j5jdQ4961hkgxiuB2HvwUb5zl,Kobuk,IN,31798,Single,5,1998,Single Tuner
+04d4e1c3-a70a-11e5-bc2a-7845c4b142f6,epdNnwrlIYCzJCbB,3tKcjsOy0a4UCUYYREsyzKTa5Te3bCVgV6qxKxCz1pGvxq55,Keeseville,TN,59052,Triple,5,2004,Single Tuner
+04d4e1c4-a70a-11e5-91de-7845c4b142f6,yLuzGsFgmrHRwjjKzIQdTQ,XgcojZrRl9WqzvneAxzQyc2WzADe7X6HqSWx4dAD,Bennet,NC,71643,Single,5,2009,Single Tuner
+04d4e1c5-a70a-11e5-80ee-7845c4b142f6,slXvDHoSyLUcijh,1BnCNyU9Ue9zQbel5kZoYK60,Orderville,VT,28612,Triple,4,2008,Double Tuner
+04d752c0-a70a-11e5-999b-7845c4b142f6,ZAsItmqLWdTsxfcdtUlzZ,6g3VVbA78l6y1u6tuLuu6IhDA59AWIAEZyM,Shelocta,IL,91303,Single,5,2015,Double Tuner
+04d752c1-a70a-11e5-9353-7845c4b142f6,QaGuVwviFImvshp,Aqfd9LTotwcvGLdpUZ85Rp4j7Pr17zD0th5iS9zUsBi,Lummi Island,HI,11234,Triple,2,2010,Single Tuner
+04d752c2-a70a-11e5-b6e4-7845c4b142f6,KSqhvYgbMpWYL,FFs4nmsL5SyEzm3gy0KOrR65HimLUtAlEn0u7UgA8rO5,Mount Zion,NE,14422,Single,4,2003,Double Tuner
+04d752c3-a70a-11e5-80ef-7845c4b142f6,tWedOXPqjcAfygVX,TuwY7VJIJBc48V8JClqhW5wSjgOv1lG9Dll7ZmvFIeg,Kittery Point,NC,97752,Triple,2,2008,Single Tuner
+04d752c4-a70a-11e5-87d2-7845c4b142f6,FXBKtYMFUPTcISGFDLfx,ulrVxrRWt59V3IVOWAgAXND,Chappaqua,IN,47354,Triple,2,2011,Double Tuner
+04d752c5-a70a-11e5-9aab-7845c4b142f6,CQIrIRzFergpJeVQhIDs,sks9maFE8a3hORB3XQHm6AH3s2hctT2u0JkOFReGzhfm,Robinette,AR,72717,Single,5,1998,Double Tuner
+04d9c3c0-a70a-11e5-a917-7845c4b142f6,CISbxrNLGlupP,cTwkTZbXtXZnvFeWOOkoWHdflzmCMLxB20CF,Ida,NJ,23457,Triple,3,2003,Single Tuner
+04d9c3c1-a70a-11e5-afda-7845c4b142f6,acSpLgVjrErnPiyNZmVOIlEP,AZs7shx7KsbLfSR2VxCUCZLpYDEuut5bBA9PnkYybxmCaeTssR,Ecru,HI,21667,Single,5,2015,Double Tuner
+04d9c3c2-a70a-11e5-bcb6-7845c4b142f6,AeRFhGYFAG,SzwgpWC5mGJJe6nhq80ORdybU,Reeder,SD,48886,Triple,3,1999,Single Tuner
+04d9c3c3-a70a-11e5-b50f-7845c4b142f6,NZJPiEhjvV,B5wMZgqePeslObFb9DCVnN1VF,Traverse City,DE,48875,Dual,5,2008,Double Tuner
+04d9c3c4-a70a-11e5-91bf-7845c4b142f6,XvCMUPePVgiGcYvn,5BRrRpRaKt76UZyf2pgL9DNYNOBSCC,Frankenmuth,MT,22436,Dual,1,2013,Double Tuner
+04d9c3c5-a70a-11e5-8c3a-7845c4b142f6,ETNZGJJwUEysKqFKJeBoPPAGI,1QsvoR2iiH07Mphq6XFOze0HZkmqLGJNeatimuojQEaP,Delmita,SC,97048,Single,4,2010,Single Tuner
+04dc0dae-a70a-11e5-b129-7845c4b142f6,lWNSXDlHExvVBRDa,xrxbHqx5kKJD860MJOZfHE0qh3XCjA59E,Stanberry,UT,62346,Single,5,2000,Double Tuner
+04dc0daf-a70a-11e5-879a-7845c4b142f6,zmHzgurnvWbWSDNX,oMq0Vs6dIgyq3hAii2NqkSIkl,Purchase,OR,46507,Dual,5,2014,Single Tuner
+04dc0db0-a70a-11e5-a9ec-7845c4b142f6,xJjvOuFPCPZUafaNK,bm4yJWLwhOByQVWVzvHevCmpRGQpHwAO7v,West Bethesda,FL,75149,Dual,5,2008,Single Tuner
+04dc0db1-a70a-11e5-b3b4-7845c4b142f6,lNbNJpYGJbQVNARYoDTDCrlZ,MrminEh2m7CfmvUCb72K3X4E5P,Blue Diamond,DC,6378,Single,3,2013,Double Tuner
+04dc0db2-a70a-11e5-b739-7845c4b142f6,HpvQLShIHyfAqcBrYB,fEeE9sKeBcarWITZcBVmurAZcH,Otoe,MD,27544,Triple,1,2003,Single Tuner
+04dc0db3-a70a-11e5-9a69-7845c4b142f6,iLnvlJZRtAKwLFNfGRm,wyOttaOOEuBT9ropH7PLwnFy,Sinking Spring,GA,58430,Single,3,2006,Double Tuner
+04de7eb0-a70a-11e5-aa33-7845c4b142f6,nzCpHpDRflrKDv,kFgtpipKywuraxSkl3ZrpoySHK8HkA1FN,Coward,WY,83313,Single,3,2005,Single Tuner
+04de7eb1-a70a-11e5-acdc-7845c4b142f6,IOIKIWQPZARJVHgNOfxs,XYDORgv43WhI915VsIUeihrt7tyLnzZ2ABg0ofhGseockgo83,Tarawa Terrace,NE,41178,Single,5,2015,Single Tuner
+04de7eb2-a70a-11e5-8335-7845c4b142f6,TpkLJlNXWovJnWxEJVl,EFLwf9eylNlOtcHD7uCQRlGCMXvr7nqEb20BDTqxNlkvsXjN,Mancelona,GA,30080,Triple,3,2008,Single Tuner
+04de7eb3-a70a-11e5-947e-7845c4b142f6,QVIJXtXccyKdJJLMI,wFq4irwBtoWKovf8nUG0qI9tNi4xlcEi,Arlee,ID,59276,Single,3,2015,Double Tuner
+04de7eb4-a70a-11e5-bd43-7845c4b142f6,oRsZDExYDYEKaSLUVj,yrHhg4rDCdx9aksTUUi7F3MXm,Valley City,ID,75657,Triple,2,2001,Double Tuner
+04e0efb0-a70a-11e5-8b00-7845c4b142f6,UlhtYvJihdFtHoIHPPANY,7LU24HrULe5qAQ5PzPfjrndb,Valley Ford,MN,26184,Single,2,2015,Double Tuner
+04e0efb1-a70a-11e5-8219-7845c4b142f6,LvYDIdGBVotUjXUSVRcrHCq,57osPw1wPcClwRyENlUkwVvZqmz7oA4px7VKtmj8n,Windsor Heights,NM,49418,Single,5,2011,Double Tuner
+04e0efb2-a70a-11e5-81c2-7845c4b142f6,JNxfXqnFrAZDnAASiKQiFajLG,E9nnG0ESvpRToVD9DdIn3MSo71rTcannic1,Geddes,GA,60962,Triple,4,2000,Double Tuner
+04e0efb3-a70a-11e5-b879-7845c4b142f6,TCvAGJPWbMzNFq,UkYn6uvPDzSeZLHrcwZaLtOiyidWFVCQHP84kniKQkkF,Holgate,OH,38646,Triple,3,2006,Double Tuner
+04e0efb4-a70a-11e5-8515-7845c4b142f6,TkJRiPpXgmmgoGAormwFDgU,c3CiDTMAgl6uV5IdGX3Jq4GD,Harbor City,IL,48135,Single,2,2004,Single Tuner
+04e0efb5-a70a-11e5-a21a-7845c4b142f6,YKlAzHIXOmD,sVQDo4ZTwhjeRaTlUojgrU6Vdvn8TC3E0aqaF0Wzc,Leighton,ME,93950,Dual,3,2009,Double Tuner
+04e339a1-a70a-11e5-90bf-7845c4b142f6,BkAugfyGAghvraLpAov,jTJlQlaIyDZG0LxtQgguBbB9Fuh8wadn,Coquille,NV,13801,Single,3,2009,Double Tuner
+04e339a2-a70a-11e5-a2d4-7845c4b142f6,vmujgkjIgMbKQSUeLxgYdq,cjewZMBH8LDWJHIbkuDLkZjRHGr3ojM507eaOlO5XPiiWp,Sealy,NM,70819,Triple,1,2008,Single Tuner
+04e339a3-a70a-11e5-952b-7845c4b142f6,IJhsezQsGmXQPcLzQPdG,Wt2EbPNVerO6oqzo18U7bnsA52MMz6y9e1zc,Newington,PA,77880,Triple,2,2013,Double Tuner
+04e339a4-a70a-11e5-976a-7845c4b142f6,xgQAqWiREfqWBWGJRIQ,nxQYyXOkfxC71s3Nr7lctgV,South Pasadena,TX,36703,Triple,1,2009,Double Tuner
+04e339a5-a70a-11e5-b7e7-7845c4b142f6,NxZejXXxTjVlxcePLH,A9AKjrE6ueUcfkheCdjW7XqBifIz6rROqKlB,Logsden,VA,45804,Single,1,2003,Double Tuner
+04e339a6-a70a-11e5-be83-7845c4b142f6,KImzehHiNtGluRmSdjfxd,uuqvEbBtbyaOCtl05NtgM5Hv6rySErNHWe,Owatonna,NJ,55003,Single,5,2007,Single Tuner
+04e5aaa1-a70a-11e5-9364-7845c4b142f6,SBqDGvBOkHVqmPXhyGFbyKl,iGZ8KwzKreLoELGqOvArjwrt3FbAHdvMtLbfZ,Hurt,MI,80030,Triple,5,2008,Double Tuner
+04e5aaa2-a70a-11e5-95ab-7845c4b142f6,SfHvFAzgmhCETgFahcX,ZXts815mNtxOITIbetagrKCrIQ9DksvPJy4OR0id,Thomasville,OR,54618,Single,3,2000,Double Tuner
+04e5aaa3-a70a-11e5-9f21-7845c4b142f6,uESRltDHAgBRlbFbthyqlyq,AOaX9QpJKv3cygwh9pvkreZHAFnEp0eJtpy9h2gLOeBkig1k,Noyes,IA,68325,Dual,1,2014,Double Tuner
+04e5aaa4-a70a-11e5-ab87-7845c4b142f6,ENdXfxGuDxqceCIHpQ,p0TbWdO1dCmDb3ysSo9KuHoBqXs0Xre9Q5sr5CnTqFIk2qTz9,Creedmoor,TN,73734,Triple,5,1998,Single Tuner
+04e5aaa5-a70a-11e5-baf9-7845c4b142f6,EhVQgnmwHZhALkXeZsk,sHlzmTeScwPbPR0NHSyILBFSm5aq3QVUMRIsHE70qJbJ,Washington Cross,AL,4226,Triple,1,2004,Single Tuner
+04e5aaa6-a70a-11e5-9c7a-7845c4b142f6,YVyMIZJohkxwXRpxj,HZfBzYX6sH4VBaHyCtpGI1K5Wnlcujz1Hc52scg,Riva,KY,5468,Single,3,1998,Double Tuner
+04e7f48f-a70a-11e5-b1d5-7845c4b142f6,kJnBlBruDjPdhrcSk,QDjZw0SiHn6qqU51w9WfrJlnZnAivb11WGxqfOI,Suffield,MA,96014,Single,2,2005,Single Tuner
+04e7f490-a70a-11e5-9092-7845c4b142f6,wKlcsaJiUJdCZp,9yVpJEsHyHvImCLuhx2KqfV65ZLL80qGpZ9F0AxQlvcNEz3GWR,Grand Coulee,VT,62253,Triple,1,1998,Single Tuner
+04e7f491-a70a-11e5-999a-7845c4b142f6,elMRGZjWcgpklmvboZYNtLb,K9eW65rttTYw4K0IEbEe7MJPA1qWy25C7MQmsfYdtz,Windyville,AK,30269,Triple,3,2006,Double Tuner
+04e7f492-a70a-11e5-927d-7845c4b142f6,oQkaESGlnEURCxB,rVioYBjtNPxlwWQnntNL836h1PRX3nenqzoLuhQlY,Round Pond,VA,8406,Triple,3,2013,Double Tuner
+04e7f493-a70a-11e5-894c-7845c4b142f6,VUziAFEAFAPRuktvtO,VQU9Hqbf4lrkugNWZ07AWGmsrr8dk2yZvVm,Replete,KS,99005,Dual,5,2015,Double Tuner
+04ea658f-a70a-11e5-8632-7845c4b142f6,cNzAQEnunKSBnoM,YJOwfHz6aXn1W6arI4rlnbAMbA,Braithwaite,IN,14891,Triple,2,2011,Double Tuner
+04ea6590-a70a-11e5-ba99-7845c4b142f6,cOKJACjNTcjpspAUjTDXtJRp,vAooWrnC2NXSyoK17u9aUQkwCCWLMInHKoxCZdDOqk,Valle Crucis,VA,73539,Single,2,2005,Single Tuner
+04ea6591-a70a-11e5-a8de-7845c4b142f6,QSKlTmHUgTZp,7dXaLfDYpoVIIgJK88rq0hnU,Walsh,AR,84621,Triple,5,2010,Double Tuner
+04ea6592-a70a-11e5-b0cd-7845c4b142f6,YrAEvrwZCT,IVHKvjDz0dk8vREaDyNKYyEYuBiOgP0mhHnAP3qsU,Arp,ID,48607,Dual,4,2007,Double Tuner
+04ea6593-a70a-11e5-95f3-7845c4b142f6,pDTAkdRkABkgKnaw,fl3A1i9XbOBhzf0Rlpaawgax3PbUx1uLNGpT1SIn7W,Horseshoe Beach,KY,61369,Single,4,2006,Double Tuner
+04ea6594-a70a-11e5-8c6d-7845c4b142f6,AjXLqYFUZAnfmzFmwtUvFX,AAjTolSBc4FF4oy3nyTAi3IJublE7H5NmUBceFfeLhUxB,Knob Noster,MS,27408,Single,2,2003,Single Tuner
+04ecd68f-a70a-11e5-8051-7845c4b142f6,ZxMLtSPpsUxfB,BdOcH4e9ZmnPn3MEzLnkMgTkkHxdJco2DPtDBzoMzMDVwHOsR0,Arcade,AZ,95445,Single,5,2005,Double Tuner
+04ecd690-a70a-11e5-bd72-7845c4b142f6,YWFMbJBPGpvamJosLln,AEZSDORlTgES7q9M1coS7nJbdECGOoMWF5tQagiVFuG,Los Banos,MT,61018,Dual,2,2014,Single Tuner
+04ecd691-a70a-11e5-a65d-7845c4b142f6,uKWtIiXbEgWQOMaEHBFgva,b2Fb728LGIh0j4fBlrdZWcedfsUOeIgTUlVdPi,Dunkel,IN,92373,Triple,4,2014,Double Tuner
+04ecd692-a70a-11e5-882c-7845c4b142f6,NBMCvsfSHXOfroD,dMoWdWJNc62zRmzLCIK6r9nfKgw8U9KwmYF33uyIGTJxY,Heflin,KS,74106,Single,5,2002,Double Tuner
+04ecd693-a70a-11e5-9585-7845c4b142f6,zZUXyCmYzufkwVVkSUDKde,BW80GZa9t4l0WxfgCetYNYWv,New Baden,VT,92301,Triple,1,2013,Double Tuner
+04ecd694-a70a-11e5-a946-7845c4b142f6,QvplybAGFbrrVeqwNkF,ceeQBOU2itsn0XVy8skBcQq7gczl3ze0u,Neelyville,GA,47123,Dual,1,2008,Single Tuner
+04ef2080-a70a-11e5-9546-7845c4b142f6,FIWcqeFNTtbzIiEeeCsbr,QZec1z9bIGWxdyL0DrU4GlSUBWHA4ev4Yb4O,North Oxford,NV,6262,Triple,3,1999,Single Tuner
+04ef2081-a70a-11e5-bd68-7845c4b142f6,UgjhupodjnGfQnxPRvszV,1qrfwDZD8z6z0MzftMHHE875SBxwEVclavIBr,Olive,WI,78602,Triple,1,2006,Double Tuner
+04ef2082-a70a-11e5-915c-7845c4b142f6,fVYwvKWeSukurfDrEc,iMKiPa5jjYT4jLoygjciS21yLjHY2d2Xm14gEPQkyVRCwdEKO,Brevard,OK,58240,Single,5,2002,Single Tuner
+04ef2083-a70a-11e5-960a-7845c4b142f6,PQyBdGEIrqFNT,dR9NajbNS8Yi8oJ7vEQcObEoik2gCKLsyNO44f,Port Hadlock,WY,1057,Single,4,2014,Single Tuner
+04ef2084-a70a-11e5-8409-7845c4b142f6,mLrGqoAruPRBpwgTvKOpIWFsO,kf7ffGJ4xniMgIwglJhjCDQYSmz,Knobel,ND,63748,Triple,4,2008,Single Tuner
+04ef2085-a70a-11e5-a4b9-7845c4b142f6,tDyjesyLckKyWcVRzvVEXrCF,CkSovEt816TZXYKB2AbRsqrd2iWgckWLSTeBh1R3iM,Hazelhurst,VA,60911,Triple,4,2002,Double Tuner
+04f19180-a70a-11e5-aca9-7845c4b142f6,OfpUEnCmdefS,NYPv34anPs036S22zuCq1hHAHa,Still Pond,CO,42141,Single,2,2010,Double Tuner
+04f19181-a70a-11e5-8236-7845c4b142f6,vyUAJPnzjWZW,0pS42Km49HqnO10D6GBJOMdtlTe,Sorrento,GA,25253,Dual,5,2011,Single Tuner
+04f19182-a70a-11e5-b800-7845c4b142f6,OFtJTigbSg,2DML7O9Sc0Ve1jHOdkJGwSJTDO,Mount Herman,TN,84526,Triple,4,2007,Single Tuner
+04f19183-a70a-11e5-90ce-7845c4b142f6,eafkaZtVBJsbUB,2X6zJjz0qmQCwRaLrwaRbPRRQtFAonX21A,Red Lake Falls,OH,68765,Dual,5,2013,Single Tuner
+04f19184-a70a-11e5-8fd3-7845c4b142f6,rNBhDIfWXofeSjnFLOD,DTv0H3GZeXcwI3gb8r3bs3xuiIC,Port Hueneme,MT,8816,Single,2,2010,Double Tuner
+04f19185-a70a-11e5-af59-7845c4b142f6,dfzecupUSAZAwd,IcSjhghtWWFwemLg3TGyMOxnjnrJFFUa751P,Stantonville,WY,23409,Triple,3,2012,Single Tuner
+04f40280-a70a-11e5-9a42-7845c4b142f6,XlgHGhFNbkdoNVXDhvdk,oI3S9k9KNsUR2rKPCw5fZRWG8ZOL4cMsrH,Beach,GA,29643,Dual,1,2012,Single Tuner
+04f40281-a70a-11e5-9720-7845c4b142f6,eAKTuKQLhmijSzYEXzO,57uVW84IyWSfyGDxrdJIVxLHV,Cuddebackville,OR,24250,Dual,2,2002,Double Tuner
+04f40282-a70a-11e5-88c4-7845c4b142f6,zUbakmjqdELTuDLgu,KiEi1UH6AEr1pUT8hFPSrBMwgESTC7cZgsria5njInIM8Cc,Champlain,MA,5084,Single,4,2002,Double Tuner
+04f40283-a70a-11e5-8938-7845c4b142f6,nanHbIkjdt,X2rU0LiGuZcV0PMHZ9z9wnze9i6EUS8B2pcW5p66W7Ss,Homestead Air Fo,MS,6029,Single,4,2012,Double Tuner
+04f40284-a70a-11e5-9ab7-7845c4b142f6,wzCLMuMuyhPSH,yKkQo5hPbm5KYhwgDqiq2pk0UoSOJCPhzzv,Lugoff,MA,33125,Triple,2,2011,Double Tuner
+04f40285-a70a-11e5-9f64-7845c4b142f6,zKCPZMtUbXHULCdqGHrp,UoynKEMp14xHBjy4tlJXWIFvQycVZsA5m2CGNhpnHC,Sutter,MN,25258,Dual,1,2010,Single Tuner
+04f64c70-a70a-11e5-b462-7845c4b142f6,kNkwLVQswCEkHIjPMpxnq,0kJAHKEuv7V6zKuOf1FE0hTVZawsdrY91RHy6uN1A,Davidsville,WA,33477,Single,4,2001,Double Tuner
+04f64c71-a70a-11e5-9fe7-7845c4b142f6,otowSTdfbNYApRrwTHdrFL,uQvjKeaNWFC1YNzmRlpB7mntNBXkUgdqTAc,North Andover,SC,8558,Single,3,2003,Double Tuner
+04f64c72-a70a-11e5-87f7-7845c4b142f6,RUGJDnHSNKYhf,ibMQlYn1uCeAPudTVHLowB0qMtLE,Three Mile Bay,MS,48315,Single,4,2009,Single Tuner
+04f64c73-a70a-11e5-9e3c-7845c4b142f6,fNyzUFzPCJIh,LVi7w7bzluMaMe8DTIZbbn7m8Gf1YlUQXZs8xBVt196mzVH5e,Veedersburg,CO,74135,Dual,5,1998,Single Tuner
+04f64c74-a70a-11e5-82d2-7845c4b142f6,xTyjzEETAYNmzs,PY1ZZ2owRxSblranHLCr7AE1QUVtQ,Strongstown,MA,56178,Triple,1,2002,Single Tuner
+04f8bd70-a70a-11e5-b9f8-7845c4b142f6,rKjdNDOEHodtSetzqZnJO,kd7Ux8t5gY95bZwKuroHK3JiDWgyfyiBxPL7NSKRAlDBj5s,Afton,NV,76890,Single,5,2012,Double Tuner
+04f8bd71-a70a-11e5-8512-7845c4b142f6,gbWUSaMJOwPGTBDeeAs,TBVR2JXu7cXUV4aBD68uhaBGDuseLfuNzbSvyvnf0,Delair,OH,49270,Dual,2,2013,Single Tuner
+04f8bd72-a70a-11e5-ad7a-7845c4b142f6,mEBSpWqnbiC,U6TDEgzZFBJbBLBOknJ5IbBQFItKam8jPmvSsJInVbwEb,Kernersville,CT,37075,Dual,2,2009,Double Tuner
+04f8bd73-a70a-11e5-9af0-7845c4b142f6,IkdNBWfkKiTuVVrPNUm,eDhI0kmma7yBzeu1pbutKoaIG9fvud4IA4WfmWSU,Alsea,FL,58239,Single,2,2006,Double Tuner
+04f8bd74-a70a-11e5-b593-7845c4b142f6,dkKuSyWodzJwJRZz,InZvdUywiKv9Ir7RFXhHUAy,Rio Dell,TX,57355,Triple,1,2009,Double Tuner
+04f8bd75-a70a-11e5-8cde-7845c4b142f6,BDxxWtCYERBdQLpJJdSXEWJj,0MgrrI9MZq6e582LK8I1D0GVI,Shiner,VA,57440,Single,3,2007,Single Tuner
+04fb2e6e-a70a-11e5-8178-7845c4b142f6,JrprTOBREwXfBAyqTcYb,N2l0szmcUsWEloEJ16JZiJBIOAXxXl7MR,Glen Raven,GA,65582,Single,3,2004,Double Tuner
+04fb2e6f-a70a-11e5-822f-7845c4b142f6,chDsmdLivfFrXrYYrSZrpJxm,WzFyd2R0kiCZVFXBQR7XNfUBi6p0UtgOGAhoB,Talbotton,VA,5086,Triple,5,1998,Single Tuner
+04fb2e70-a70a-11e5-b3ca-7845c4b142f6,zuWLYAlPXcNlIkQNKC,cbjyWtsomjNCZWPrQ85cGB2a0tAVWP7YINh76mMdqIZ5EFG,Rulo,NY,37047,Triple,5,2014,Double Tuner
+04fb2e71-a70a-11e5-ba80-7845c4b142f6,iNJsUJFIKhUJJdxOSAcWuyTP,qGmj5LDXtMJKEnRVd4tXEMIiOI7fdvPw2MS,Elysburg,TN,2877,Dual,5,2015,Double Tuner
+04fb2e72-a70a-11e5-8578-7845c4b142f6,krYPxkJIJAolPdkYtLT,DP9lhnNni6oNEOo1ZmFWAsyGPbqdsLguxTWPEQ,Braymer,NH,94539,Triple,2,2002,Single Tuner
+04fb2e73-a70a-11e5-9712-7845c4b142f6,rvoHawLgJyfHwTXaAPAYu,Yiey8SGmrVgETU2g4B8uz4DleQS3oUpAPmj6o9ig82E4zPWQ,Siren,TX,75488,Dual,5,2004,Double Tuner
+04fd7861-a70a-11e5-a3a6-7845c4b142f6,veDHJpHbPyk,utd3jG5ChoeVdCoRmowkLQlKAIHFCMMlq,Dunn,VA,78838,Dual,4,2000,Single Tuner
+04fd7862-a70a-11e5-a1ff-7845c4b142f6,CqpEDNSMryiGTOdF,gOnuRTojjCd3uAU9pbcAaAQpONuxLewiPIAu8Hu1WF,Islesboro,OH,18631,Dual,4,2000,Single Tuner
+04fd7863-a70a-11e5-a583-7845c4b142f6,jAUawJBLTdVqngIGIKVnRildX,a2bqqzk3ObknvgyDmeP1D5Bfnm4m0n,Moody,AL,45229,Dual,5,1999,Single Tuner
+04fd7864-a70a-11e5-861c-7845c4b142f6,FEOQODwaPWAIOTIijn,vKUO737LJsgztwOtEspOpbvVv3,Newberg,WA,59469,Triple,2,2008,Single Tuner
+04fd7865-a70a-11e5-ba3c-7845c4b142f6,mnADNebmypLEeV,93IDB6AMDaGyRHM5t1f2RCKkk,Milanville,MD,57457,Single,3,2005,Double Tuner
+04fd7866-a70a-11e5-b85d-7845c4b142f6,XSxNHLVfGWBfjdRB,Cno28V5A0AlPQQNU7vdWu3inEt4Q6T4novkvhH4NUzo,Hayward,KS,37853,Dual,1,1999,Single Tuner
+04ffe961-a70a-11e5-8b20-7845c4b142f6,nzQuBQXBcaLVIkUNMBWZZ,9sFI9P8AKOz0oDvthpHCywy3OcjwzldgXB77gQPPI7P45k82K,Gilbert,WI,16503,Triple,1,2001,Double Tuner
+04ffe962-a70a-11e5-b6f3-7845c4b142f6,hjkZSgUfpJlQArXRfCH,051zoUYZcGrLZUvilVBOXfAtFoEklrElMPRean,Lolo,MO,41635,Triple,4,2009,Double Tuner
+04ffe963-a70a-11e5-bf3d-7845c4b142f6,jNdkdtLyVSMjqAMFQBCNkx,koonoPwy218hYTN6hSU9df7zxjvlp,Lackawanna,MD,87530,Single,3,2002,Double Tuner
+04ffe964-a70a-11e5-812e-7845c4b142f6,JDmIJDjTAaQJhE,2eUJjeX25jU6g32qEipRNqhQkTTH5o0aeKAjrlpWrRH25Oj07,Darwin,PA,17972,Triple,2,2013,Double Tuner
+04ffe965-a70a-11e5-b1df-7845c4b142f6,PdNcgpJVuBKwsmQqUxSn,3xEh1OrFU0iao3XjBEKpo57wc6QeUqkH,Gilman City,DC,72730,Single,1,2013,Single Tuner
+04ffe966-a70a-11e5-a4df-7845c4b142f6,elPkIIEZioYENlykgRC,cnm7qsbCXSNZ5wbckbP0bLJQGKm,Gruetli Laager,CO,36871,Triple,5,2004,Double Tuner
+0502334f-a70a-11e5-a9ef-7845c4b142f6,uMGQwwqROcZAXsI,RbfwY08qruY2L61VXvxwsTsTsut8ka,Talleyville,MN,26264,Single,5,2013,Double Tuner
+05023350-a70a-11e5-9b5b-7845c4b142f6,wNbqgoiEsYyOC,KTbUoqnXdmSJH4rF46a2SquIfcm1szocTIvc,Samson,SD,56560,Dual,4,2009,Double Tuner
+05023351-a70a-11e5-8dd6-7845c4b142f6,zUTgRsppvxigGORNhXvDWa,u6aOalYwXIIvVwe5JGX7DfDJczFIIJO4j9nkHetdh,West Creek,MS,13333,Triple,2,2008,Double Tuner
+05023352-a70a-11e5-bcfa-7845c4b142f6,YVOKXzDRqALadVHiocBC,aayiBdCgYtTiTNI5ZDZAjKYBXzW,Higganum,NH,14802,Dual,1,2002,Single Tuner
+05023353-a70a-11e5-92f3-7845c4b142f6,hTxEvebPQEpoglUTvC,5pViA1v46IhpLhKMajJT30Zv2EOD3ghASta4248b7Z2,Ashford,WI,12762,Triple,5,2000,Double Tuner
+05023354-a70a-11e5-9827-7845c4b142f6,ouEkgKnlGnkuOYUg,BEVOAhD4qYeTeW8l5uTOd7qVJ662BOkxoXUg,Waukee,NH,48315,Single,1,1998,Double Tuner
+0504a44f-a70a-11e5-a68e-7845c4b142f6,MSpdjOnTGNbMXkfeRGCPFkSIz,ZT7NCh8rECSP2b1N5pyJBe1RkR9wUXAYm,Alvo,MN,18441,Triple,4,2011,Single Tuner
+0504a450-a70a-11e5-9d41-7845c4b142f6,PlgefMiVzTIRFjsCt,ucblSRiBSgkWxyyCM3KYHmpmdNKROLMPy0zZeLmT,Wileyville,HI,72052,Dual,4,2009,Single Tuner
+0504a451-a70a-11e5-9c33-7845c4b142f6,xpZLLJEldlnLxsPCgKcrq,DgPq3NYhJn8PVNsJkVkeztHEJydm10VcOJEKh4dTjJq6sLHZsg,Santa Anna,KY,66416,Dual,3,1998,Double Tuner
+0504a452-a70a-11e5-9b4c-7845c4b142f6,VGEwZOBYjCPmVJFFvKtd,hAJiHcZaOLJOHg4nLGl6DQlU3xYl4kkybreXYKfgRFfmZo,Winnabow,CO,16334,Triple,5,2013,Single Tuner
+0504a453-a70a-11e5-a8ef-7845c4b142f6,LtezovoMVfqaD,er3awADkrSIw9lAhuMBiDoVGdd,Saint Ansgar,WY,59041,Single,3,2005,Double Tuner
+0507154f-a70a-11e5-8fa8-7845c4b142f6,iufLKOMDtdvESUYlzjX,H9TbAeflnUj1YszBipn9e9AwX,Fruitland,TX,56267,Single,2,2007,Single Tuner
+05071550-a70a-11e5-a6f8-7845c4b142f6,EztCdHdxpTYKCqyKhRJEM,SPLiS3l9BsR9yW2f9p4aMBBAaRWaCmdquhaLBnEj2dVbq,Ashton,NM,71063,Single,5,2003,Single Tuner
+05071551-a70a-11e5-8546-7845c4b142f6,ltoPxUqidxBfXo,Lq3pBUn9DzDRmb27kPmsfNkBNA0alXi6gowWdqGTNoAoHmai,Gowanda,LA,47567,Triple,3,2009,Single Tuner
+05071552-a70a-11e5-af4e-7845c4b142f6,raDBkwJYWRNNxRYFxlOmC,yzVVei8Z9NPdb9UKOP50cj9vRTNs,Kasson,TN,82832,Dual,2,2001,Double Tuner
+05071553-a70a-11e5-b07d-7845c4b142f6,PmqNnlRFTQhpWUlmhHLT,0FJbWBK5VK4FwCZ8lK5cYpdT2MfL3Yeo1RTlJS1,North Haven,CA,4857,Triple,5,2007,Single Tuner
+05071554-a70a-11e5-9c8f-7845c4b142f6,EolzdqOfTgDflZFT,lOEvue2gtnULMmWsa8RqKf4DwksfOj,Glen Ellen,NM,84712,Single,3,2015,Single Tuner
+05095f40-a70a-11e5-bcb3-7845c4b142f6,MbRjCsJBxodE,QTS8j1FLvzWyiISDEX0zkMSKfXs5,Byrnedale,VA,56437,Single,1,2011,Single Tuner
+05095f41-a70a-11e5-9ade-7845c4b142f6,ZEAziBmoWYyQOZGNyrqsf,um5BI7THR5PsLhD2NhDtp8XXxUtPGb4I,Leetsdale,FL,55725,Single,3,2005,Single Tuner
+05095f42-a70a-11e5-88a8-7845c4b142f6,yBnZZssDgsdBXwiJkeWeFvvgv,wDdub1FAtZjGRqgz6yDqgHb6trdnF6dxbFY3nQ0fDK9,Keweenaw Bay,VA,91006,Single,5,2002,Single Tuner
+05095f43-a70a-11e5-8cbb-7845c4b142f6,dBniSKsYCeNvkDxHDLwscVmc,znwDuLFVvAJIPl8bC7RvAyMH6sS8gXt1QWo,Espyville,OH,32220,Triple,1,2000,Double Tuner
+05095f44-a70a-11e5-af22-7845c4b142f6,vefDPSWdHRBaP,fN0VfHLXjcrhK8t8FYfIEhMgrfORdiE1j,Chestnut,MI,69351,Single,4,2001,Single Tuner
+05095f45-a70a-11e5-9205-7845c4b142f6,XTwmWAYAKqczq,hZ2MePbt19oy6131UCp0AAKcb,Wittman,AZ,10512,Dual,5,2008,Double Tuner
+050bd040-a70a-11e5-a5e6-7845c4b142f6,wfkHmyIqmJpITbGtG,cBoscjT5Vdizs7NRgIG9BVP0JTA0RVyArdEhOHIGhyP9MxPsf,Caruthersville,OR,66758,Triple,2,2001,Single Tuner
+050bd041-a70a-11e5-81b2-7845c4b142f6,kHRBcypGzVdOamtOmXy,BTy9rkrtUZpmTnEiahwbXwvo7O7,Kernville,NM,16120,Triple,5,2014,Single Tuner
+050bd042-a70a-11e5-96f3-7845c4b142f6,UcwggMxLBtOuUtGXvlJkbyjF,MpLCSsJXEUxLk8A6KuuZ4z0pOVqd2VwQESFUqcB,Saint James City,OH,42081,Dual,3,2006,Double Tuner
+050bd043-a70a-11e5-87d4-7845c4b142f6,jcbBCSFWhbsQQAKlBeMquyH,YGtxfQ5uzypLekIwMxf8SU8fMxm,Lytton,WY,94586,Single,4,2012,Single Tuner
+050bd044-a70a-11e5-821b-7845c4b142f6,OeDuKrmWUf,Ow8aWzPB15tlOHaJV8tguRsHQyoNttrygFuKx5T7Vai,Hoolehua,LA,41360,Triple,2,2014,Double Tuner
+050bd045-a70a-11e5-84ce-7845c4b142f6,LJKKKNWMtd,DiBfx7IgRa3PHDtBoPysXtw,Beersheba Spring,TN,37308,Single,2,2012,Single Tuner
+050e4140-a70a-11e5-9c2f-7845c4b142f6,itotGjTooDyALSK,eeroLoH4pCO2zcbYg461XYjzjN0cXxqzbxah50BA,Mulliken,KS,29927,Single,5,2004,Single Tuner
+050e4141-a70a-11e5-ba99-7845c4b142f6,vuUBdQgOFueu,sauCSZ5bEeEKDNUVvSM4blehNwXon29QEDkRPOXPDEeK,Plainview,IA,11692,Single,1,2005,Double Tuner
+050e4142-a70a-11e5-a0f2-7845c4b142f6,YKtyTLlmnz,jHE9TriRvMOFMFHgXZXRY7goO4SZXOnsgcwsgpPzVPOK,Cape Canaveral,IL,35466,Dual,2,1998,Double Tuner
+050e4143-a70a-11e5-bb58-7845c4b142f6,TzNWBErNLNxQoUOjzFDHFc,871d7LsAsK2ejgtSrj7MiLSm4,South Glastonbur,FL,60615,Dual,5,2015,Single Tuner
+050e4144-a70a-11e5-81d3-7845c4b142f6,SmMsGHVfyXqfxBPhEETr,qu4gGG2GIDBrVMSCauhWHJ98TYB6EEG,Clearville,MT,99030,Dual,1,2013,Double Tuner
+050e4145-a70a-11e5-9f0e-7845c4b142f6,yQRIyICakbkhBXkUNuObS,UX5qLVCusIM9u7skTLqwHsbozEdDu4yGD0vQRb,Hayti Heights,WI,56670,Triple,3,2000,Double Tuner
+05108b30-a70a-11e5-a297-7845c4b142f6,YCGccHzfWQlUAbriVaUbRrDIH,HXqYk0iPCXV8Bza1SB5DRaCY5kNcd83Yz6QcG,Smithwick,MN,28510,Dual,4,2013,Single Tuner
+05108b31-a70a-11e5-ac8c-7845c4b142f6,aLkUSoEAfKDlMkSnFj,O8XzBrvrjuE2gWaex3NeYmzCLz3fbPfWxh,New Milton,VT,99569,Triple,4,2006,Single Tuner
+05108b32-a70a-11e5-af09-7845c4b142f6,bfXNQSOmqcV,jNrCai9fYpILIfOQhefyHCeZdNdBDhIDMcZW4Q1nSWq0ZZ,Wading River,ID,48006,Single,1,2010,Double Tuner
+05108b33-a70a-11e5-a01c-7845c4b142f6,tuhypJlhlKSrSdGyXDOVSl,qWK8y4GpQESKF2SAIWJqHBgVijlRtfxioPME9EL10We6eAMpS,North Cape May,LA,48157,Triple,3,2009,Double Tuner
+05108b34-a70a-11e5-9150-7845c4b142f6,owcypLfvmAPjZZFbvBoXWLAyF,1JCGl86DnUDOqyQpACU1EBEJhmg74RFU6t9gOA,Solo,TN,64865,Dual,3,1998,Double Tuner
+0512fc30-a70a-11e5-94e1-7845c4b142f6,dQidLtsBsCHjAjCQlQLkQxv,maV4g2AD6SLbCIQxwOpk2PNIron,Witter,WA,28734,Triple,1,2007,Single Tuner
+0512fc31-a70a-11e5-944e-7845c4b142f6,pdabhusTloM,KNMRnIMCgyaFbR8P0woBd7BV9hLLRfeGeMFILJ4zJ18ugLkv4,Elfrida,SC,75088,Dual,5,2002,Single Tuner
+0512fc32-a70a-11e5-b61c-7845c4b142f6,ZZkqLVgzTVEw,JMecBDwnBl0pEibfrnA7zCS608WekFHkUJn,Sandborn,OR,6750,Single,2,2012,Double Tuner
+0512fc33-a70a-11e5-99d9-7845c4b142f6,XQGtuvwEgYJOMnLKkP,1pLsret8PsOOKM5q5aLExElkyh1UI3Nkc5,Blanchard,DE,55082,Triple,5,2010,Double Tuner
+0512fc34-a70a-11e5-a100-7845c4b142f6,FsfrliqZsPQaeAcwzv,7ayFVfViX9qetYDMvHV0a1gkeZHvYIHo5IGC,Roessleville,FL,11977,Triple,2,2001,Single Tuner
+0512fc35-a70a-11e5-af06-7845c4b142f6,DknBaQWobjenHgLNfrGfJ,GRe3eoEWa2is7RUVRZUX6yECQZVnbTZYaFVU,Eaton,MO,51521,Triple,5,2012,Double Tuner
+0515461e-a70a-11e5-85ec-7845c4b142f6,jhoTNClLKzkygBgUsTwzUJH,xpw8vPUcg6VN6MT5aojAo1N9nT8knpgZ7YDuhm1x,Home,KY,18944,Single,2,2013,Double Tuner
+0515461f-a70a-11e5-9898-7845c4b142f6,qnculjFcglTlBFgVOr,SOSnfqMTT2NsYW2oN4nEev6sVi,Harsens Island,ND,66865,Dual,1,2014,Double Tuner
+05154620-a70a-11e5-9998-7845c4b142f6,mjrDtCYNHBrhykZCuLb,c7mPnVkjtxz8847Rjj48NH4mBeQ6B4BCHUYMyqnyZDEVzF,Pine Haven,LA,27966,Triple,5,2013,Double Tuner
+05154621-a70a-11e5-a622-7845c4b142f6,VFRknmbNgPQxGF,KXZj2dJFZBjxx3PDtSsVOELUoCag,Hettick,MI,80521,Dual,1,2014,Double Tuner
+05154622-a70a-11e5-8e8a-7845c4b142f6,UVjQVjnrGWxNdXYHnU,weZJ3qV7n04Ktsl8xSKWmJ0KDBteUVe7rw6UmfHYcZ28py,Staunton,MI,79040,Triple,2,2008,Single Tuner
+05154623-a70a-11e5-9cba-7845c4b142f6,pbdhyIfESsuTfakjkDJAcdrL,1IkLCj2i8QIoGp5p5XDhbbPUsFfvNhQO2npUFSo3b1jSnN0vY,Lynch Station,VT,26409,Triple,3,2004,Single Tuner
+0517b71e-a70a-11e5-b540-7845c4b142f6,ohaTYtNOYkrpxRQfgdRk,VoXGzVIlDRLcC6g5C0DMk3JbnrtVXRil,Little Ferry,LA,25865,Triple,4,2001,Single Tuner
+0517b71f-a70a-11e5-a3eb-7845c4b142f6,rgaLmRPSeUsUl,Tq9KYT5ahDmYOd7DepAJZ4OgYcRl1QRsCVRzj6RpwVKJY3,Edgartown,DC,1451,Single,3,2012,Single Tuner
+0517b720-a70a-11e5-adf9-7845c4b142f6,aosFMQwnxYod,WzSmWvBCnAM1VWNG1HjmX0sjfto3r,Parkersburg,IA,62049,Single,2,2000,Double Tuner
+0517b721-a70a-11e5-8c3e-7845c4b142f6,NiAPeTlhNve,eRIlWb4u8KvMLCcmVYVnPk6s,Odenton,NH,22567,Dual,4,2008,Double Tuner
+0517b722-a70a-11e5-a2b6-7845c4b142f6,fdHaMmdtcndkXrezrDmZSXqUv,a8SgkBEXD85Fq7vcAIZUEGUBCpiZXQ7GlKg9BxV8uv,Port Hadlock,OH,83839,Dual,2,2010,Double Tuner
+051a281e-a70a-11e5-a3bf-7845c4b142f6,ZNOjExpHungnRwPLKvOdKB,1GwXwg3qcZloryOAY2db94dJ50Hiw0nz19U,New Enterprise,OK,96109,Triple,5,2000,Double Tuner
+051a281f-a70a-11e5-82dd-7845c4b142f6,NpKpwEaqoncVJfazTEyLfHg,F4396ikYtEj9GzsPPrNedMKHtcHPcbQfH1w,East Burke,IL,59860,Dual,2,1999,Double Tuner
+051a2820-a70a-11e5-a99c-7845c4b142f6,IZBEZjLSgJf,BShY4mQ6aUhw2fW6YXgj1AtGoKUVI9GjAdaE7C9UZEYSI,Hokes Bluff,NJ,19405,Triple,2,2010,Double Tuner
+051a2821-a70a-11e5-94fd-7845c4b142f6,ubDVXyCRBcerdEQwTyrfqcAX,A9xAgALSQknol2E3WmFVYoVrWlRcfcOQRupk5hm7FGLe,Hosford,MA,56169,Triple,2,2001,Double Tuner
+051a2822-a70a-11e5-bdf2-7845c4b142f6,etZdlVZJqBFYMeeCY,h8HtB4wFjrRthR3F0aiU3FHqPPs3FNAJlbZvFhyaTZMvcca,Alfred Station,DC,63645,Dual,4,2013,Single Tuner
+051c7211-a70a-11e5-b66c-7845c4b142f6,qXTtFWqySB,5bXCBbqoZCse2FhYCSZt1c8aM4fvmJcu9rwXfeOKwR6rIM,Pevely,NC,74332,Single,5,2008,Single Tuner
+051c7212-a70a-11e5-9347-7845c4b142f6,BQeyifuApdci,1ppdux2BizEjZXrUGMisp4mefDDLwd98tcZHw,Shoal Creek,PA,50228,Dual,2,2011,Double Tuner
+051c7213-a70a-11e5-9a87-7845c4b142f6,bnSGDFLgPLdZYWef,lzhhr3SZjyRPYLEuuG3DdkQ4j,Numa,TN,21212,Single,5,2015,Double Tuner
+051c7214-a70a-11e5-b819-7845c4b142f6,DBOChQOsJoexkYeO,rJjwBxju93UVeuU6EnQRZ5CutPjpWqOjwTYvq5eC1eahkoEF0u,Burdette,NC,62378,Dual,3,2001,Single Tuner
+051c7215-a70a-11e5-b83d-7845c4b142f6,JMAMHhwodDwqNos,mbKW6OFIY0XUKLj6GHZpnNs6raPK2SvNVjmkipdacdU,Jarvisburg,VA,26201,Dual,3,1998,Single Tuner
+051c7216-a70a-11e5-947e-7845c4b142f6,tjcQGvovjrZwcJRSWpoxo,6bUwAuGLbx0DzxlhIvFTRKD1IEHp99idXZ,Rossburg,CO,22718,Triple,3,2010,Single Tuner
+051ee311-a70a-11e5-a333-7845c4b142f6,myQtBElefWqgeClUp,IEd0aO5euSnPdrYNd6Ykrl9Ksl7jVXYFGnG09TCDe7THM,Kasota,VA,14435,Dual,2,2006,Double Tuner
+051ee312-a70a-11e5-8514-7845c4b142f6,gwgwNQCPJIDLGgUNnZ,a6E7ToPxbDcG0FiZVWq3zQPeEiEy9CZvoVfPi6hQzEGV,Critz,IN,46204,Dual,1,2004,Double Tuner
+051ee313-a70a-11e5-8865-7845c4b142f6,ZLDOBIsSrJoIuTyIJDSToZ,FfZRQjLwjeC6enAMj9ajLmHiMTvDBLT8SSkGYotzxWKRluZz,Neillsville,MT,24530,Dual,2,2004,Double Tuner
+051ee314-a70a-11e5-8bc3-7845c4b142f6,LKOkHmgQRTDYS,d2hUZNBPoU3cYD37pInKSet1MOdXRMQyog,Duncan,MS,98027,Triple,3,2012,Single Tuner
+051ee315-a70a-11e5-b710-7845c4b142f6,bzZZhtBmropsXgmnywtHlU,epGyDaQzHn4qzA8jkCMZGS5AfyicSiPGEOmzywoxOD8555l,Normantown,MI,18925,Dual,3,2015,Double Tuner
+0521540f-a70a-11e5-8a19-7845c4b142f6,GufClForCrJvXnzyAWJK,4NKZ61sB0Tmwi6HCF8GK13SZtMYStRaTdO,Clint,KS,55454,Triple,5,2001,Single Tuner
+05215410-a70a-11e5-a48c-7845c4b142f6,aTTROReuvRsFnl,GjcM2TVYcr4a6FiPKsVtiLH1IXdiLRCZPLHJX7OBTWCou,Westerly,OR,77861,Single,2,2005,Single Tuner
+05215411-a70a-11e5-ad05-7845c4b142f6,DgTsjTNrgtPHxEKczT,gQ9oO2ytvfNqWKP2EWQjIsDtgMPjTH1ArSlLrv,Laguna Hills,VT,95249,Single,5,2005,Double Tuner
+05215412-a70a-11e5-bee8-7845c4b142f6,UqcMdeqyKtmuRBP,MoyW2rxFFdUQNjiFea9ME6Qx6MIomtD,Bluff Park,KS,8030,Single,1,2015,Double Tuner
+05215413-a70a-11e5-8ee2-7845c4b142f6,yCluZGQvKapYMbZMGfzFZ,8e2ftzep4DsYFoBgBZ5UgRi8Ab64cgTKXQyc0JPIe23rp,East Los Angeles,MN,11211,Triple,5,2005,Double Tuner
+05215414-a70a-11e5-b87b-7845c4b142f6,JwypQDduYYCTNkHtOgBoWf,eZLQkK4vfEW08ZcBff5vET7k,Toddville,IN,37869,Triple,5,2001,Single Tuner
+05239e00-a70a-11e5-9f42-7845c4b142f6,GiOpEGHNWqUxEbhcIJayMLvx,TRT6rrpnwoAO2ExQPajPtKof30AIs,Newmansville,PA,45659,Single,4,2014,Double Tuner
+05239e01-a70a-11e5-b2a7-7845c4b142f6,vMFzvoDRkKlAHR,1JgPyybLh0wr1vhQItjbev4CxyrNnH2KMroY9Y,North Vernon,AR,1923,Dual,1,2007,Double Tuner
+05239e02-a70a-11e5-ae48-7845c4b142f6,bVOXFUUcfPiFXubBkQTkWBsCf,syWzyDmXYL7Q3b08nSQ0yqope1FcvkMOT9O0,West Harwich,DC,42330,Dual,3,2003,Single Tuner
+05239e03-a70a-11e5-bbf9-7845c4b142f6,hEczJxTiQEMeCnWFYXQy,cjRgpEjE0WFPhX8Yg9O7g8fqJ57yCCT,Roggen,SC,59225,Triple,3,2013,Double Tuner
+05239e04-a70a-11e5-b575-7845c4b142f6,XHMAHGYBHrJNPrPIMHMNEV,uxminZJcbwGe8ebhE5gtyRKe79j3ZxFu,Mozier,MD,84772,Single,4,2000,Double Tuner
+05260f00-a70a-11e5-afab-7845c4b142f6,NpDbAqpkfVRzRwoaLSr,xd9SpTkDUYtgFCWJ1gXMbUG2A2P,Redowl,AZ,43772,Dual,1,2010,Double Tuner
+05260f01-a70a-11e5-a605-7845c4b142f6,ozpuiGnqVIbZKgrMBy,mzFK7mbYad3TQBTdq4xBSlYmx,Waverly Hall,IN,45130,Dual,3,2003,Double Tuner
+05260f02-a70a-11e5-9615-7845c4b142f6,lfRCQuUNWiTQ,EFApd1mWmS1joRfC2USPknBu5HYDF8s,Lake Junaluska,WA,29706,Single,5,2004,Double Tuner
+05260f03-a70a-11e5-8c33-7845c4b142f6,UEVysmapTAQcoNEQwWgbU,mIlwZV4gSPyYFQ0wx0ke6zcTz0,Caddo Gap,UT,50030,Single,5,2001,Double Tuner
+05260f04-a70a-11e5-a3e0-7845c4b142f6,KmMqogvipdDHNhOMtH,JLmic9UjkEl00kJh9esK6aHqA1zJpvriALz,Salt Lake City,WA,43154,Triple,2,2014,Single Tuner
+05260f05-a70a-11e5-89d2-7845c4b142f6,XqBVKEHMFUFGFFxFiFjRnvHo,iTHpqN4F7fPaXDCQ1ZMjWqqXUMMIYUQu4QvLYGSqMaJ,Essex Junction,TN,17084,Triple,5,2010,Single Tuner
+052858ee-a70a-11e5-85d9-7845c4b142f6,czpcQaBGxqCRWXKkqIlSKzsq,Ww1bTlXXwB9IEeNF614vxabM9T5i3eA,Rigby,UT,21076,Dual,3,2004,Double Tuner
+052858ef-a70a-11e5-b5c0-7845c4b142f6,POMbwegbNUJIQbD,FYlqmplVPixfa0ZHQl0EKe5XJP0DFYEFdR05gPihcgbTG1dGX,Weatherford,WA,52321,Dual,4,2012,Single Tuner
+052858f0-a70a-11e5-842e-7845c4b142f6,djgeStwdbmB,H2oAqvL6gKfKdhEj8aIYk8f,Desloge,SD,67416,Dual,2,2011,Double Tuner
+052858f1-a70a-11e5-bbab-7845c4b142f6,EfcSyFJvldPNbkM,qB2WUq9mMg6aH9rbIRwyarYC3gCHRPFdqmbXxhGm3uutuj9,Dakota,PA,12970,Triple,2,2012,Single Tuner
+052858f2-a70a-11e5-989c-7845c4b142f6,hMJCVCRiHHJPBVjOQlRoNK,giSssGd9Rfr8V6O9SCts4VaAdy8KDS0qC,Townville,ID,89703,Single,1,2002,Double Tuner
+052858f3-a70a-11e5-b16b-7845c4b142f6,mQEtyUAcSIeSQON,HKR1NTM5jOQn5M2QFkTmPPG63f9FGux,Dorothy,KS,25537,Triple,1,2004,Double Tuner
+052ac9f0-a70a-11e5-9ee2-7845c4b142f6,kfolcoxIgmTIH,42tL5pWxjz1PXWNnMOGQG3fc7ViV6BwbhbMWjG81Q1dxrc,Poyen,NJ,45337,Dual,5,1998,Single Tuner
+052ac9f1-a70a-11e5-ad68-7845c4b142f6,MgAQtWEcBmyMkbnj,R0e2tFjcxGgzk8GytU6vSXFoRs4,Auberry,CO,72832,Single,3,2008,Single Tuner
+052ac9f2-a70a-11e5-92ff-7845c4b142f6,pKpRUhKebcJYWMuDVRLuz,kfYzkyZssQzEiJnhKkEBBUEe7ETWstO9RHviLQCce2,Dewitt,MA,24528,Triple,5,1999,Single Tuner
+052ac9f3-a70a-11e5-bd1c-7845c4b142f6,JyzPIwPSEfxW,SlxZVcckjAyzZyhzpxxJNYtfX8Xz9RXBO6EOeU8,Parshall,OK,46164,Dual,2,2014,Single Tuner
+052ac9f4-a70a-11e5-9f1c-7845c4b142f6,QNMIoLltEearguiPVxX,3gibc3cCJmtk0AmP0DCs1f8Gpb69xgV7c2TWKy9pyo7hpB8V,Bedford,IL,50311,Single,1,2003,Double Tuner
+052ac9f5-a70a-11e5-a1f5-7845c4b142f6,fxolCDFYtzePdnlGFPKf,USm3JBpFbxqWsesgybkTrife,South Thomaston,AK,98022,Triple,1,2004,Double Tuner
+052d3af0-a70a-11e5-a0d5-7845c4b142f6,vrXnNLYOnBBWfg,lMxvvgEXfFnxAs8aZ34knOZkozrVlbNKR,Houghton Lake,ID,24065,Dual,5,2003,Single Tuner
+052d3af1-a70a-11e5-9d8b-7845c4b142f6,izOetokjPsnb,lEMyov0FFxc8uWpW7pwROwKkKpHKKT8GdqD,Mc Daniels,AR,10020,Single,4,2005,Single Tuner
+052d3af2-a70a-11e5-a4a7-7845c4b142f6,GmXWufJeuUIDGkwWmblAI,W771ygMPL1zxhqY11qOWACkBHenkhiCX9aH,Tenstrike,MD,57468,Triple,4,2007,Single Tuner
+052d3af3-a70a-11e5-906f-7845c4b142f6,CXkKmjyROwneaO,F7GmZPtkKT8pmFPXKw4KrK2IoEvc7QGkXhoGFMLhUlHK7L5MI,Mattituck,WV,78254,Triple,1,1998,Single Tuner
+052d3af4-a70a-11e5-850f-7845c4b142f6,QKnhMEqCgVDlxTpkb,MDNT3oJmTyBsBOr87OQJOv4Bg1gTLbzpbEFWi9HiuHH9omH,Lindsey,TN,23042,Triple,5,2000,Single Tuner
+052f84e1-a70a-11e5-ad14-7845c4b142f6,rNDVhHQZSwZCcFEJcuB,OyCQPCIiwrmvonmST24y5IyAjj6vogEeXx6St9NuAq85dhlB,Diamond Point,IN,84726,Single,4,2005,Double Tuner
+052f84e2-a70a-11e5-a1f2-7845c4b142f6,crBfKyySUgG,CTXdiIonnlfEzmyhOIpvKthC8K6vwdoT,Duncombe,NV,81239,Single,4,2001,Double Tuner
+052f84e3-a70a-11e5-be3b-7845c4b142f6,eyRJgBRKVeKhlsX,BZtOFcvv52YCOttylaVxYklvsWOKbAKVZ,Pleasant Hill,DE,87942,Dual,2,2002,Single Tuner
+052f84e4-a70a-11e5-ba32-7845c4b142f6,ordwjapsIsXs,FWZAUFG2pWJd2cYIN1TFayIZvt219tD9a0u3qkx4BSNw2q7,Anamosa,FL,4221,Single,5,2009,Double Tuner
+052f84e5-a70a-11e5-a879-7845c4b142f6,yPVRHvFOXDaHYNfKXIOikgXIn,OePHGbdUtlOhdZ6Nt4aMrP1NzgVEPq08qt,Endicott,TN,42124,Dual,3,1999,Double Tuner
+052f84e6-a70a-11e5-92ec-7845c4b142f6,FtxuuArMtoBevqojGPZ,0TvSxq4e8ZabgwcwhQ6kPAozXxu4EKuJqCkC,Santa Rosa,IN,53035,Single,1,1998,Single Tuner
+0531f5e1-a70a-11e5-a963-7845c4b142f6,HkFZKjALZxNALDnQ,l5GTaZbAKSHxDh3gnuCuAHnkkaKQg37fDV28hLKUrRssQa,Big Arm,CO,61880,Single,5,2004,Single Tuner
+0531f5e2-a70a-11e5-9bd9-7845c4b142f6,wcSMLdDgZeG,NBpm6EYGvR1B1qek1A3uvdNLyDebzUCOmn,Vendor,NV,17370,Single,2,2010,Double Tuner
+0531f5e3-a70a-11e5-abcb-7845c4b142f6,jXIPJMbpieOvDUoQtkTmbSV,LEnxGkQnZrZZ7KXL0OVrzmGWxGbo6t3ViN3,Elroy,TN,71331,Single,2,2013,Double Tuner
+0531f5e4-a70a-11e5-b379-7845c4b142f6,NrRZItYnyAUAbWSo,qsCvhUkCiL6R8eP3mo9aMlPifEpILe,Wolverine,AZ,65251,Single,4,2013,Single Tuner
+0531f5e5-a70a-11e5-98fd-7845c4b142f6,RHQLNIGifcnnjwRpX,YZtg9apwDRuHiMUVC6qJJSMZHlUeph,Fenton,UT,56721,Dual,5,2013,Single Tuner
+0531f5e6-a70a-11e5-bec2-7845c4b142f6,EVvtLLEpgqxR,lunaoSheEJDYqOqk3h0TwbABtS6n38dkJp39aI,Kelford,WA,44826,Dual,4,2012,Double Tuner
+05348df0-a70a-11e5-9a57-7845c4b142f6,UKAocgmrxthhBisZcXckSZ,CHbArKCuepOSTABzCSj43GFXJZeEXJxxHzmDcCyO,Blairs Mill,MS,56672,Triple,2,2007,Double Tuner
+05348df1-a70a-11e5-beaa-7845c4b142f6,AJLknWwpuANfbFODbV,xOZIij1MxrrLKvRBaQV7YoxMrVk902ENKp92VM2ZRAzMQM0X,Loves Park,CT,76820,Dual,4,2002,Double Tuner
+05348df2-a70a-11e5-b507-7845c4b142f6,VlJwQmNRXkniIkowiooBcxQ,VsvlunWwn3aJHuqbp2uVzb0jpyNL5FYNsN5y,Daviston,NJ,83349,Triple,5,2003,Single Tuner
+05348df3-a70a-11e5-a525-7845c4b142f6,pqUOYkOtyZRurAdsw,uvYqSeKTXulKuPfCILHN96h0vUjAfthmdkPYMIqAoJ6,Caddoa,IA,21222,Dual,3,2004,Double Tuner
+05348df4-a70a-11e5-ae95-7845c4b142f6,eEskXFDmEfIbDaBaBG,noYsej4DajwLkmd80Csm0snMaA0lqbteYrarzP,Muenster,ND,55768,Dual,5,2012,Single Tuner
+0536d7de-a70a-11e5-80c8-7845c4b142f6,XZYMMOhVQbj,Zqkw9SVeC5RhkbrbeY0zORbzpaWjSu9EPk8WOT,Lorain,VA,47516,Single,4,2001,Single Tuner
+0536d7df-a70a-11e5-9664-7845c4b142f6,brNNySEXLCEIvThFYelvMaZb,rMKGtt32G0AXnmsSNhe5m2wBw,Oracle,TN,61841,Dual,5,2010,Double Tuner
+0536d7e0-a70a-11e5-9338-7845c4b142f6,dXsfCLnWkdjz,Xu95df0YHE5uZ10zi9F7svsutKUhkU,Neligh,DE,19525,Single,4,2007,Double Tuner
+0536d7e1-a70a-11e5-9032-7845c4b142f6,PSBUJGBpPKSvWENmwcqzWNy,SBlMtME7ZcUln1jeVHiNrPTNwjfd,Snyder,DE,75182,Triple,5,2000,Single Tuner
+0536d7e2-a70a-11e5-87b7-7845c4b142f6,vDQvCBFxkTfBOpBobeCfs,ROH91ZAZK27piwpYP98mLQRaHrK3fQ,Ridott,DE,25540,Triple,3,2000,Single Tuner
+0536d7e3-a70a-11e5-85cc-7845c4b142f6,eQsZzxIJiN,eouvoKHvEGLjZBMc5cFORfeo5PjKYFtTMG1PA3,Industrial Airpo,MD,70648,Dual,5,2002,Single Tuner
+053948de-a70a-11e5-ba55-7845c4b142f6,MoUVdGCbfcHdxgFqEz,ZC6gDlTNapOKMLsORsvGHLZhlShGBIoVX6kJSVVqJHd8,Providence Forge,AK,57336,Single,5,2004,Double Tuner
+053948df-a70a-11e5-ab35-7845c4b142f6,wVfqGVaJkijERqoQSNeh,TdjvATIsBcHsndNCHFmiL9m9vYe,Abilene,KY,11783,Triple,5,2012,Single Tuner
+053948e0-a70a-11e5-81db-7845c4b142f6,VUFgCCUnCnfP,imwNQPqIVvLxthsMVHVJOzYJp0NGAbHsC1nYsMqCM8k,Clyde,MO,40729,Single,1,2012,Double Tuner
+053948e1-a70a-11e5-9aed-7845c4b142f6,cACHRnNGXYOhEUhetnNvAwI,V0DoAhs1DiJymftSbkH36e8Bh6qXfMO,Chesnee,UT,98134,Dual,3,2002,Double Tuner
+053948e2-a70a-11e5-beca-7845c4b142f6,RllixsFLfETOojzToqcr,SCIaGKQGOlAWpaEdS8Vdb0S6wUFU519,Twin Bridges,MT,48703,Triple,4,2007,Double Tuner
+053948e3-a70a-11e5-9275-7845c4b142f6,VPQQgqtsKQOqWseIfmio,oXJL48olhvHQBwoYZY0AmLP9CvcB7P3,Ludlow,KS,32202,Triple,3,1999,Double Tuner
+053b92d1-a70a-11e5-bd91-7845c4b142f6,RWcLoZOtiNJaq,Hi2LeQFXhUdNRi6BNQYnQoWW7fRHcWMq,East Pittsburgh,RI,52047,Triple,1,2014,Double Tuner
+053b92d2-a70a-11e5-81c3-7845c4b142f6,mwyBoEAChSfn,npV3dlXPoFjVtL2gNil5l5XSCu4Ral71U,Hillsville,NY,13044,Triple,5,2000,Single Tuner
+053b92d3-a70a-11e5-98df-7845c4b142f6,AzKvFlsFyBqxm,qkj09isD0sRi3UHuLIvXV6pAXBXeUw8ClKaUW6q8i58y,Millersville,ID,73735,Triple,4,2001,Double Tuner
+053b92d4-a70a-11e5-9ffc-7845c4b142f6,ylUfOKpYzjyfvYZNNng,I5FcT63ROOv7TP1LiBMK9ynahtnsxPX5ZF0u3o4wnQIYIZ9,Roaring Branch,CT,4661,Triple,1,2013,Single Tuner
+053b92d5-a70a-11e5-8a5d-7845c4b142f6,krlJCOPxgkFAVHoOO,L6g7mJddeXBLGEPHuyOv0QqBm,Galva,AZ,55419,Single,2,2009,Double Tuner
+053b92d6-a70a-11e5-bed0-7845c4b142f6,WwHOjxYhdGGjPj,s73epnNN2Zq2igsf2sUNTKVKUHwxlPKIvW3G5ujpxukhWQlEv,Crazy Horse,WA,5667,Single,4,2012,Single Tuner
+053e03d1-a70a-11e5-a5c2-7845c4b142f6,MuHEJCHlsujE,aP1nFvxQaio7BNiPpWhbkJooCoE50F6s,Surry,VA,61354,Dual,5,2009,Double Tuner
+053e03d2-a70a-11e5-9ecd-7845c4b142f6,stfYuzcWSGg,okiDc0j2aMVjrV0aDAM3zpoR8qHFM3TX7iX1,Matlock,FL,23840,Single,2,2010,Double Tuner
+053e03d3-a70a-11e5-8516-7845c4b142f6,aBePZTxuBhyCO,m3q0dL0qxughIqN8398IzF3HtV,Jordanville,WA,62021,Dual,3,1998,Single Tuner
+053e03d4-a70a-11e5-83bd-7845c4b142f6,GnSASaNcLpMmGzldIRNJvDV,5l31YkC5A8r405EcOoh1wLIEMIq4s6eDrXAIabN,Deal,NE,96067,Dual,4,2010,Double Tuner
+053e03d5-a70a-11e5-a25c-7845c4b142f6,lgyfTZZpKlVEPLT,7VGYHDokckhjk7hCzISiVIEKa0MLTIZ2CgtNaXcW54DSii,Athelstane,MD,94127,Triple,3,2012,Double Tuner
+053e03d6-a70a-11e5-a45c-7845c4b142f6,ipMEOSiFCcCevbR,M4wtqRZMXcqtMRW2BQv1cCTbDRLMQtmQyYj,Kampsville,NM,8045,Single,3,1999,Single Tuner
+054074cf-a70a-11e5-b365-7845c4b142f6,cXTzdGoueZoj,mWxzRN2GkDF2aYJgE2Y2toFfuyOb2solEbLM1Z9ZJHyZ5u,Clay,OR,25133,Triple,4,2001,Single Tuner
+054074d0-a70a-11e5-bd16-7845c4b142f6,XHtELbuVSGQzOfNFIj,84J196kOVpkQQGWBuHmglXhmxc9oPabBHhUPQ5rK5uI,Ecorse,HI,38967,Single,2,2004,Single Tuner
+054074d1-a70a-11e5-9e72-7845c4b142f6,uCYUhYnWkkAy,r00m1QbbhuFUo7990ZLB9lmjlFhUtuHNv0qB75qWZodNbLui7,Sale Creek,VT,22741,Dual,4,2014,Double Tuner
+054074d2-a70a-11e5-9d7c-7845c4b142f6,XfirnoimUYmvCp,6Y5pqr4QlYapJYoe1dMTdqIqQBlgH8h,Farner,MA,55390,Dual,4,2004,Double Tuner
+054074d3-a70a-11e5-8b55-7845c4b142f6,jLZqCmRaicv,pLZWKrDXy3zsHVxG9Fim4a4uYWXMgI3pelSEjL6KIHHg,Pelican Lake,KY,74133,Triple,4,2009,Single Tuner
+054074d4-a70a-11e5-b965-7845c4b142f6,xQQfMUHcAVawZWuGUjoJi,s89QbhIx0xZkqyhj8RTFKBcEUKJ7Fr08pwqiI12Ip2tlwPPJY,Shenango,MS,19007,Single,4,2008,Single Tuner
+0542bec0-a70a-11e5-aa77-7845c4b142f6,uofLmPiEFC,Qze91zGt7dJY0VjQTc0v86b4Krb,Greenbackville,IN,10470,Single,3,2009,Double Tuner
+0542bec1-a70a-11e5-b95e-7845c4b142f6,MUqpGQidCMCyaA,XRL1JbRWag4XigPDv3Qwd9I8hKhy8m6Q0ikWuOSf7Euf,Murdock,WA,52590,Dual,4,2005,Double Tuner
+0542bec2-a70a-11e5-947e-7845c4b142f6,cLaFQKDtgLIzJQRfKzTDOtz,BhtCRoGsyebCv2SsPGwXnGH7OOXqGtcE,Fort Wainwright,CA,62644,Dual,3,2013,Single Tuner
+0542bec3-a70a-11e5-9619-7845c4b142f6,OsnxvZptfvmRS,zYxcvJJ618FfUB0v75h1cQcvsicXuZ2gZVm5x7ih6dEP,Flint,SC,71201,Single,5,2006,Double Tuner
+0542bec4-a70a-11e5-9537-7845c4b142f6,gbpipGjKRwAlyzKFotpmPrM,TRxW0opUHB0FQMgUOSwexFZZuArjVgA,Blakeslee,SD,25832,Triple,3,2004,Single Tuner
+05452fc0-a70a-11e5-b137-7845c4b142f6,kALMJkTVefGcn,eKZQC3l3n8KYsdiA5HRmD4QEhvBlBRz0NLaVccNe2TSix,Callaway,IN,60513,Triple,4,2015,Double Tuner
+05452fc1-a70a-11e5-b29e-7845c4b142f6,xglSPlhrxqRCmEMjmu,l7GZJyyvVPdrey7jUWNNcN3UE9crWx7yJL6ac9wnCM1,Arabi,WV,95836,Triple,2,2011,Double Tuner
+05452fc2-a70a-11e5-950c-7845c4b142f6,AonjFUzqAYczW,N3NR9dirH2nB4sGTxSP8RhYBibyuz,Amlin,HI,16354,Single,2,2009,Single Tuner
+05452fc3-a70a-11e5-be17-7845c4b142f6,pcgqyoRApWZ,VTBoke4E50jF90hW5jRNc6c,Deweese,GA,66615,Triple,1,2011,Single Tuner
+05452fc4-a70a-11e5-9a28-7845c4b142f6,BUiZcItXuqb,uptVKRU05tdH7lB5K8HgQPCS,Breese,DE,35958,Single,3,2013,Single Tuner
+05452fc5-a70a-11e5-9262-7845c4b142f6,HvTpzUIXnZTcoGiveWCFqRgIF,pk8KHqr0bO0PbTrrjrXsZ9QhDzant9LnR5X,Saint Leo,NH,6511,Single,2,2005,Single Tuner
+0547a0c0-a70a-11e5-ba66-7845c4b142f6,vJJWqQaSHlcOyAqQnjLe,hNUd0iSVpn2UmKlPBorHpCeGbvwtY,Fairburn,ME,91765,Triple,5,2000,Double Tuner
+0547a0c1-a70a-11e5-ad70-7845c4b142f6,sDVHOhfoZjziASz,WcPQMtqouKqTEUv4IOy2cJIzjKHxPhneYt,Smiths,WY,36053,Single,5,2004,Single Tuner
+0547a0c2-a70a-11e5-a8ef-7845c4b142f6,rlobUlubBtAthULNPRd,JwYogquXa3lU8f2fWIQftLW9iouZdjn59XbK3,Novelty,GA,14521,Single,1,2014,Double Tuner
+0547a0c3-a70a-11e5-8b97-7845c4b142f6,eKHMnIBmPGW,kInyQbgoX8iNokK9x9ulF6Xz0FTv8U98gIVeuChwm2YCEMl,Laquey,NM,49876,Single,4,1999,Double Tuner
+0547a0c4-a70a-11e5-b2bf-7845c4b142f6,fSLMNnmpYxaC,tFGnB4LK8YSZnrye6rmfcChnhYEdSRL9dhpOsE,Screven,NM,64740,Triple,2,2001,Double Tuner
+0547a0c5-a70a-11e5-b0f1-7845c4b142f6,DNzpwTytNN,UBp24nqs10eFGtdlWyfDHPMYeKb67T,Sebastian,OK,54888,Single,2,2001,Single Tuner
+0549eab0-a70a-11e5-bbe1-7845c4b142f6,dmrWxlUdQBwjtVwd,tvS5oxCoVxOnGfDybXVFDzDjiJkPk1gULgffw,Egnar,MO,55448,Triple,3,2014,Single Tuner
+0549eab1-a70a-11e5-b7b2-7845c4b142f6,gzcXvAzzaDXUKjlaFS,IEN7YcoLahLbQaHaCXSTtUbvIr,Lost Lake,MI,31738,Triple,2,2010,Double Tuner
+0549eab2-a70a-11e5-b82c-7845c4b142f6,fZiPcZZvTEWyKsRpLSepJgOnZ,YFLlid9GmuGceDgY0IwfwmEJejYL3rI2y3iu8KRDVtQJLlQ,Joes,KY,58214,Single,5,2004,Single Tuner
+0549eab3-a70a-11e5-bac4-7845c4b142f6,DIeQKRzWBbSkCACppiy,6W0PMR4BGO4eCcwNIX2T8ejNP1dFF1b5CGK9B4srQ7r,Bowersville,ND,23915,Triple,5,2002,Double Tuner
+0549eab4-a70a-11e5-849c-7845c4b142f6,ghxUdqrwRqTbYp,kaZ2Mt4buGkfg1ixQw4z0Irzj155IokSlEP7Ss,Yarmouth Port,KY,27845,Single,4,2000,Double Tuner
+0549eab5-a70a-11e5-aa42-7845c4b142f6,nMbpqRduSkMRNCiABbH,K2GGuOtcyURUG89SM0ANURkrcXBn4kgyk69a,V A Hospital,CA,5483,Triple,2,2014,Double Tuner
+054c5bb0-a70a-11e5-94ee-7845c4b142f6,dDJbTKqIPMTWrzBmMwOTebb,wLeCjMbi6cPAAgZBhRZhA5KUo4L1ZVxaW2meM9QSIad,Chefornak,ND,11953,Single,4,2012,Single Tuner
+054c5bb1-a70a-11e5-9eee-7845c4b142f6,XSTzSamYpwMgysXW,YxoGgJFYxxaM7Y4ZDNK4JvitrMLs7ph7JOWLqw,Port Townsend,RI,29115,Dual,2,2012,Single Tuner
+054c5bb2-a70a-11e5-a512-7845c4b142f6,VJBVKjxjDqRWxjXd,LlIgFoDntCWaZQYqgr6zDf6Y3PI3Pp,Lobata,ND,47588,Triple,5,1999,Single Tuner
+054c5bb3-a70a-11e5-99e8-7845c4b142f6,dRkyRfahXMCyZ,bPmH03jK0hIH4WQcAAd1ABp4a5Fy3rD,Rocklake,SC,97850,Dual,3,2000,Double Tuner
+054c5bb4-a70a-11e5-b80a-7845c4b142f6,RcctNUIIuxCDZ,5XWMgsJBo8F72fEHintAdoRlwxN7X4LJY0Zn8zZ0drapjkl,Scalf,WI,33184,Triple,2,2000,Double Tuner
+054c5bb5-a70a-11e5-ade1-7845c4b142f6,UaxVWiRKuAMlVvMGLHeKCp,Vj78UiAjORtqX7jW4Yee95ZBp2a,Eagle Lake,OH,80227,Dual,5,2003,Double Tuner
+054ea5a1-a70a-11e5-89fc-7845c4b142f6,GaYbgamSWu,hJq6uMrzMeJS62hOzf6Fr7601kKlpsmCrmRwFQ,Germantown,DE,22923,Dual,1,1998,Single Tuner
+054ea5a2-a70a-11e5-95f5-7845c4b142f6,plFcUSCnKab,gCWKQSrOdO3IRG5vLj6VDPfRizAJOUJRpsC5Zv97OaQF3YYNZ,Gallipolis,NM,15477,Triple,1,2011,Double Tuner
+054ea5a3-a70a-11e5-8140-7845c4b142f6,WzMPbICdwWSY,tghSOcmyaK4vVc47YXYFeWBeV181,Spruce Head,IN,94920,Triple,1,2007,Double Tuner
+054ea5a4-a70a-11e5-9ff3-7845c4b142f6,DvoubVToCSYdoAx,te6oxNPuqrGp6Z1ZwrnusyfX7LZrJRCUhsxNXdeLQLEMf,Anchor,MI,15946,Dual,3,2011,Single Tuner
+054ea5a5-a70a-11e5-ab8a-7845c4b142f6,xuPhrjwGbns,af5MqL3xAQYfMjHvnTvUfnePef1,Mc Gregor,MN,79713,Triple,1,2011,Single Tuner
+054ea5a6-a70a-11e5-9af0-7845c4b142f6,hQLqLsKExDsCny,V4FiEsR2MqzIXWm6mK9NVkPM8RbHarM3,Leck Kill,MS,48081,Triple,4,2013,Single Tuner
+055116a1-a70a-11e5-8321-7845c4b142f6,tFZlTJHmlUyxKEhbX,OSog9b3r5j3SyxaF6ZpdR9Si5LezNs1hjawc352hnrUbX3fMW,Lewellen,KS,72068,Triple,2,2004,Single Tuner
+055116a2-a70a-11e5-91b8-7845c4b142f6,xcfdpwDtkTWWDmcIdq,BTmKg1xdiVj5UUq9eNy6em5ktGpXSvli,Colter Bay,NH,77388,Triple,4,2005,Double Tuner
+055116a3-a70a-11e5-9c2e-7845c4b142f6,avlbluwJDyIqNtsXFE,K3yidz8KT5jUrR8jdaSk3z5QW2zHp,Wasco,KS,49421,Dual,5,2010,Single Tuner
+055116a4-a70a-11e5-8ed2-7845c4b142f6,aUtNIKwAOu,voHz1DkU2ywg4eiHUMIYcwZqNvU,Hillsborough,NE,61312,Triple,3,2013,Single Tuner
+055116a5-a70a-11e5-92e3-7845c4b142f6,riphzcFdUcpGReyMKOTWiHtER,o8S8wecgeLEM07qNlHSUGTQqhGQBT,Stanley,WI,41419,Single,5,2010,Single Tuner
+055116a6-a70a-11e5-9275-7845c4b142f6,xoKaSUGUXpqBdvNJePAIBQfzA,EDHnt85JUnbuBJXaJwORmfyeFt9m2MYTkLWplTGGOaVf,Tobyhanna,IL,83854,Single,1,2015,Double Tuner
+0553879e-a70a-11e5-8c81-7845c4b142f6,gzOCSkvRux,VbgLXnqDXRMQU66RbQunI7t1Lya2,Emily,ID,44214,Dual,5,2011,Double Tuner
+0553879f-a70a-11e5-b312-7845c4b142f6,eLuxiDRvsDRykyckWIkBGUSLG,CKoTcG8xGplZCTL20dAERB7enq54Y5cne8IrubBvkrfWKq0A3,Anadarko,MS,78219,Triple,2,2014,Double Tuner
+055387a0-a70a-11e5-acb7-7845c4b142f6,ndXhHSEoSYBXdkEZdObp,Q256wjgQCHLu4wG8qT5qe02pp3AOJ07K66sb,Ronceverte,DC,41092,Triple,4,2007,Double Tuner
+055387a1-a70a-11e5-bf7b-7845c4b142f6,dvMufFZToGkhXnkx,dRXjH0byOsflB8XjYMfdEBjzqHN8yBw9n6kUDkYIU372xo,Lusk,GA,13670,Triple,5,2012,Double Tuner
+055387a2-a70a-11e5-acbd-7845c4b142f6,zlgDMpFlOepxiMFz,6JYn0GXgRWj6yP5eYsZ2QI9Sdilv4grxeYg,Anaheim,AR,25169,Single,3,2003,Double Tuner
+055387a3-a70a-11e5-845d-7845c4b142f6,lcYkpGYyuuAlN,h5MJicpxSshAQqIoaboQatwav3PGACdf7yxwif,Tarpley,MS,15612,Single,4,2000,Double Tuner
+0555d18f-a70a-11e5-b7e5-7845c4b142f6,IrJkJPhnCoM,AgOgsDKe8Jdhb8p8VlKU1qMqh,Batson,AR,58231,Dual,3,2010,Single Tuner
+0555d190-a70a-11e5-8759-7845c4b142f6,BdwMQtqUiiHpSNORkHXlimr,uOr09qaewAHH894zjRBIJEWonhfERc3ThxmjuRwOeqIKsIAU,Wood,RI,97493,Triple,4,2007,Single Tuner
+0555d191-a70a-11e5-810c-7845c4b142f6,qtGVypQqXSDRfwyqlzjjuL,2wlLVVWg7cQlD9ryRVKSemRjZBMQ,Manitowoc,FL,47529,Single,2,2008,Double Tuner
+0555d192-a70a-11e5-a7e0-7845c4b142f6,BPnANByGyr,bnvuzs3JquhG87ObGnr24CMgli,Cass Lake,TN,44099,Dual,1,2011,Double Tuner
+0555d193-a70a-11e5-9ae9-7845c4b142f6,ehLIDlUEcXjJgNdAQEHGqN,L0cFZCFRtjm7yxIq7eVtyPaMaIY,Lone Tree,AZ,63462,Single,5,1999,Single Tuner
+0555d194-a70a-11e5-8cd9-7845c4b142f6,OrBkuLbWpUBGuuzjQbHMRT,Ot9sb7kFAEbxu7CpltA45f8SjeftV,Poway,DC,62028,Single,3,2008,Single Tuner
+0558428f-a70a-11e5-8827-7845c4b142f6,rvRUiKwJIpTCYJUtiZyUKEWyz,GXaQsUzxcQQuLTmFrI0QGEz4ewcPXlbjtJrSC2LIJcP3p17Nfb,Whitetop,AK,68947,Triple,4,2015,Double Tuner
+05584290-a70a-11e5-ad74-7845c4b142f6,flUYZCpSzZiOJaHfaMVtmGli,DFQa12ry1IWMlVo1Os5G9EL4tth4c3AVtC,Emigrant Gap,WI,68343,Dual,4,2001,Double Tuner
+05584291-a70a-11e5-b706-7845c4b142f6,YgsJJJMxckr,ylXCYetB6DjTqleJNDlfRHnB8cLubkhZ,Butztown,NY,99780,Triple,3,2009,Double Tuner
+05584292-a70a-11e5-a401-7845c4b142f6,JuLoUSAYcArtlMPleKcXdciDT,fL9VAKZPe7Z2PFyx0u4Ef0zGNwQhsl,Kanawha,SD,67470,Triple,4,2007,Single Tuner
+05584293-a70a-11e5-8b55-7845c4b142f6,jSTRciXefkvWP,tJpRfG1tpXxOyK0YKytmakQXrOpXL3Uc6Ay,Assaria,MD,62942,Single,4,2011,Double Tuner
+05584294-a70a-11e5-8c6e-7845c4b142f6,AcAuLsdkVXJz,n7O3bBdP5ZcV80SpkNgq3BvwJsZ9UBuOWoq,New City,MO,94933,Triple,4,2010,Double Tuner
+055ab391-a70a-11e5-9bd0-7845c4b142f6,CmnIbAcDbWHh,AHNMHlgsuvISZynqVeFChA1RCRKiSAyBYifX58dwbJc,Chesterland,NC,59761,Triple,1,2010,Single Tuner
+055ab392-a70a-11e5-90e4-7845c4b142f6,ltUCMppYDekSKitku,ZiAvPrFqVIa1sdBpEF9ruhcNC4j50RvemOCigqGQj,Euclid,NH,84339,Dual,3,2014,Single Tuner
+055ab393-a70a-11e5-94f0-7845c4b142f6,MbKUtwzbhmuO,ktzpIjh82zOKVhhQJVvvJ88LS,Ridge Farm,TN,43062,Dual,2,1999,Single Tuner
+055ab394-a70a-11e5-bf59-7845c4b142f6,PsALBlZwibQyfBum,rn8jKzbscZa2ihChmd5ZNO7Xaop2Zjr,Oswayo,RI,7480,Triple,4,2015,Single Tuner
+055ab395-a70a-11e5-b3aa-7845c4b142f6,CUrDhgywkxqbnmYEqNbGrkW,OfPMc0VhVQWbCHXFWcniJlSWAhncuU7dAMz99En,West Lafayette,TX,74881,Single,1,2001,Single Tuner
+055cfd80-a70a-11e5-aa29-7845c4b142f6,LvwXvOSVsRa,uPp3JIB52q5tEpU7Ku7RKTzu5P9ev4Mnx8AnomRHsYZJWVI08A,Cope,DE,41385,Triple,4,2011,Double Tuner
+055cfd81-a70a-11e5-abcb-7845c4b142f6,zmiCXPUivbA,71GKYkTWXehBWE3cEx8Edf6QlRP2aTw,Irasburg,SC,45711,Single,3,2005,Double Tuner
+055cfd82-a70a-11e5-a154-7845c4b142f6,tlWpONZStmAUYIlVzQyEOs,qjT1EcC8WBgAUbpQa8yCF23XrHfAa1SUWYU,Susanville,TX,54761,Dual,3,2013,Double Tuner
+055cfd83-a70a-11e5-8310-7845c4b142f6,qrpYEOoOhPMH,rsbAJGfEzFXDT13bXgizHuCQxs0ZKmPVa8,Bloom City,NV,38351,Dual,1,2010,Double Tuner
+055cfd84-a70a-11e5-a03b-7845c4b142f6,ehOkYhQrAYHykSwvwDbIaGki,CrcWVTQPKZHxrRMukDMObdASgt53Z,Lake Wylie,WA,52070,Triple,2,1999,Single Tuner
+055cfd85-a70a-11e5-9169-7845c4b142f6,gwtsuxrefaKsZeigQWHF,xjj45zVJ0p7miMQKYLGzVp8yzf9hOsU3Z,Flatwoods,WA,37779,Dual,3,2007,Single Tuner
+055f6e80-a70a-11e5-878a-7845c4b142f6,IIKZzPMjxJlJEym,pOjS0QSYO3DdTyeA4OrhxTAZp0XfqDOqQAdrgo85AUxK7,Berea,LA,6254,Triple,4,2002,Double Tuner
+055f6e81-a70a-11e5-b00a-7845c4b142f6,nMbVBUIOAkRTGWGHoTSv,iigakfJBb3HLEjVMPZoxk0189zsL8wY,Neshanic Station,NH,17814,Dual,1,2011,Double Tuner
+055f6e82-a70a-11e5-b0d5-7845c4b142f6,AsnUVfVtTiDRhcRLYYldI,kykUNkyeyfJo4WB0ZFfYNeY6fLkYPrRPvvnJ3tItkpup30pPg,Young America,MI,6109,Triple,4,2001,Single Tuner
+055f6e83-a70a-11e5-80c3-7845c4b142f6,UzYZbRCCfDYz,IAwJMzruBUfpM5uTL9FLKms,Industry,GA,72679,Dual,2,2004,Single Tuner
+055f6e84-a70a-11e5-a4f9-7845c4b142f6,dvnWYdbzVTJqRoVMv,h9tXF0H9VNKz5WYTPUB2fto,Sequim,MN,68035,Triple,3,2006,Double Tuner
+055f6e85-a70a-11e5-a005-7845c4b142f6,qjjzvppQHyDfMT,nAGTFJchsqcRUArIZCDNlSrN06WQesfYQFV,Century,PA,73151,Dual,4,2008,Double Tuner
+0561b870-a70a-11e5-b852-7845c4b142f6,ugKHgeENabcBeSNwnuZTlQgpj,EgzJrOhKaWPgHXkBt7eCFrxsj,Elkport,AR,28326,Dual,1,2007,Single Tuner
+0561b871-a70a-11e5-b9f4-7845c4b142f6,tPTYjKHaFbjynGuQLotUQVqQv,WQs7e1w3Dfd00Wy49J0Rihwkcj7tr4wyTpMPmEQVrPYVyC,Peytonsburg,ME,33139,Triple,4,2004,Double Tuner
+0561b872-a70a-11e5-9d22-7845c4b142f6,TuGGkLYoBiVaWxtjeIJClIj,FnKdOC8Z6qVzlAQqaIQ7wOAsCWra2R6grCb6,Rociada,AR,21214,Single,1,2013,Single Tuner
+0561b873-a70a-11e5-b8da-7845c4b142f6,OlQzyZinBTjTGghanYe,vMc8Bk9gTNJokb5hsPdbgNiWaceYq3LQheHvU0HRns,Edinburg,MA,58033,Triple,2,2004,Double Tuner
+0561b874-a70a-11e5-af67-7845c4b142f6,qjRokKPNGxPoHT,j6OXqGX47bu2H7bl9xa2ZUjk3vc528UuucM3bt2,Sapulpa,AL,3882,Single,2,2010,Double Tuner
+0561b875-a70a-11e5-9b83-7845c4b142f6,AnwvcwVhKpeCFTwGplKMorxFc,bZnFDY4PUEItrS19zjWbpynWuJiIKi87X9fLUJ3B,Fife Lake,VT,71007,Single,4,2000,Single Tuner
+05642970-a70a-11e5-a33e-7845c4b142f6,vIRYhTJwqb,ezIEJqYTbKs7vd494gKaQUXZP8taYJUJe1lL2IqVJ,Ravinia,VT,81043,Dual,5,2004,Single Tuner
+05642971-a70a-11e5-989e-7845c4b142f6,HoyzTBwTniGRJDVixW,OJS0RfPrafwvUAfGRJgCNh1Ak0MIMqAjCk9lYNA6L6rtz,Sanatoga,CA,30441,Triple,2,2009,Single Tuner
+05642972-a70a-11e5-bf3e-7845c4b142f6,TmUkUjQqaTThUOcHHxt,iaxOn2cKtseidBCiQ3eULz5MNpclKVJZl1,Mavisdale,OK,12780,Single,4,1998,Double Tuner
+05642973-a70a-11e5-891c-7845c4b142f6,axwPtdZSNDPVD,1JgYY9vAOdp1UNCRsRpVsOkxJ7B,Pond Gap,CA,39078,Triple,1,2014,Single Tuner
+05642974-a70a-11e5-b170-7845c4b142f6,xjpgqSREwLnUymwNsbzX,PxwoGZaZfijADtA3YHYZx830q,Los Angeles,PA,85624,Single,2,1999,Single Tuner
+05642975-a70a-11e5-8c52-7845c4b142f6,MfqVjXqGLXi,JoU9FFwodF2ZHZbj6BMUoEk8fgCdpVQ,Boligee,IL,13120,Single,1,2008,Single Tuner
+05669a6e-a70a-11e5-a79b-7845c4b142f6,PNYjEKoSYpFoWwUd,Oi0rtMQwgEiweGG9mFVQvRpyvqVAcBxqsNn7QAX3dXoko,Mullens,ND,59024,Triple,1,2010,Single Tuner
+05669a6f-a70a-11e5-8055-7845c4b142f6,qOmAePWrCrxATPbF,SIfT0NZ3pYvrDXlZ4UAm5p4FVmyOHJ,Lore City,SC,78073,Dual,4,2009,Double Tuner
+05669a70-a70a-11e5-9645-7845c4b142f6,kmEDTcJjvRKFgMf,exONAOpLYaxJ5FYST4Uql1lhga5XKcM1LmxDLMGXIPkQSQjrFm,Chetopa,ID,57043,Triple,5,2003,Single Tuner
+05669a71-a70a-11e5-a88a-7845c4b142f6,asKRppqxjxLS,DbBAo9Maokfo0mmxCnwDWQIpLbKGT5Awhuk,Summerhill,WY,80121,Single,4,2001,Single Tuner
+0568e461-a70a-11e5-afb9-7845c4b142f6,nglckFPUkCFUfbTNHPMRH,WyGk7PlWlcylq4PyMcrbfePVxyJXxFF9V4uXQm8UlshqKcS,Fairdale,MN,51650,Single,2,2006,Single Tuner
+0568e462-a70a-11e5-9fdc-7845c4b142f6,VHBtxoqMtTzPJLzEYaT,ABrlOKe30xGDwNioXrctURLLBr6XveFGMUyQcTmmQEoeLjLR6,Shepherd,NM,18614,Dual,2,2008,Single Tuner
+0568e463-a70a-11e5-854a-7845c4b142f6,skMlBHPjlmV,mfXvxajqsyo16tNwB6DNh5p5Bt86HsVucaNLnw2l,North County,IL,43557,Triple,2,2013,Single Tuner
+0568e464-a70a-11e5-824e-7845c4b142f6,BKmYasALEdJxT,guHi0NmSvM5kvwLqCfpKwxNvewm45VxYwjNHCTXxY28W0eRiuo,Castle Rock,IL,80729,Single,5,2013,Double Tuner
+0568e465-a70a-11e5-99c9-7845c4b142f6,UdjFQkoIvnRRxDVueeKcQ,lFo89jTup4AlFg4O2E7d32HMKbGEXGICC2Sk,Wimbledon,OK,78750,Dual,4,2012,Double Tuner
+0568e466-a70a-11e5-b31e-7845c4b142f6,WUHTgrHjnhFBMRHvqLQd,BC6XzxRQoj0sd3YefXqLrXXY,Nephi,CO,21628,Single,2,2001,Double Tuner
+056b5561-a70a-11e5-9a98-7845c4b142f6,YXrqddgrzOKnbkGDNDouCDzq,zqpDpFaRYjQifJ0GKd8xrznFZCu8P,Rich Hill,WY,30248,Dual,1,2014,Single Tuner
+056b5562-a70a-11e5-b07f-7845c4b142f6,YUqGlaZotynNoNlESaHqpcYbQ,xJkTkzcp5a4dZbk7e2U3LcuSsbur2YiD1rb7UbnTzYEys,Glen Spey,FL,28754,Triple,3,2006,Double Tuner
+056b5563-a70a-11e5-8b7f-7845c4b142f6,LosEmQBOEzWBkYfGLHbtUU,rL2UXUURBsM8rc243LSBYYa8C3bi,Smyrna,NJ,53075,Triple,3,2008,Single Tuner
+056b5564-a70a-11e5-a693-7845c4b142f6,raCjkUZLQSGWSsAb,uVNueYn1vL0f5R03UEmbsroMqyRw2XPXNquJCyxVYlf65X,Levittown,CA,22718,Triple,2,2012,Double Tuner
+056b5565-a70a-11e5-b8e8-7845c4b142f6,TJDvKgalXTyhkxtxokjAMq,KDJY1eMVenb6QHgzS9Qy78VZ5exSmYxjQBybvkZb,West Greenwich,OK,68514,Single,2,2015,Double Tuner
+056dc661-a70a-11e5-a1ac-7845c4b142f6,MKbOaXNYoSmEXVDHQt,lRLnNh9WvmZ54b26eqdL1AdKqUgbLytU17LY,Barnum,AK,26547,Single,5,2004,Double Tuner
+056dc662-a70a-11e5-a66d-7845c4b142f6,VYRJSfAYPCWVi,iHMHvMwtKzUA02UTrdC6KwSceyG1G5,Fredericktown,WY,58731,Triple,2,1999,Single Tuner
+056dc663-a70a-11e5-8bfc-7845c4b142f6,iczYSAaDZmocaW,wu766SLSfzfOCppzJUk56pds0eF,Vineland,CA,52057,Dual,4,2002,Double Tuner
+056dc664-a70a-11e5-bf48-7845c4b142f6,YiXqknQebStXqHEKTNjVbSyKI,4oska8tP2DbvvmMSDDu8evCqYFkWHLku4HTOz,Mc Dougal,NJ,62428,Single,1,2005,Double Tuner
+056dc665-a70a-11e5-9572-7845c4b142f6,XHxPhjNoCULkgFWw,2idBltnzm0bRey9UypdtlsbF0JxrKNQIaKrzCYz,Sand Lake,MA,31069,Single,1,2006,Single Tuner
+056dc666-a70a-11e5-9b2e-7845c4b142f6,VJGNxRlGTTNdPhiVzdXf,Rs4rqIZsPxGpLQglVhQNPu7qU,Moorpark,AL,74083,Dual,1,2008,Double Tuner
+0570104f-a70a-11e5-b5ba-7845c4b142f6,oWtoqJvkRBEJpBSf,8ghoh8NEGJllZjudIcUEbbjxez8ZsKLO5HkgU6DIL,Larchmont,AL,83650,Dual,2,2007,Double Tuner
+05701050-a70a-11e5-9687-7845c4b142f6,YfTYFUFWUwzHVYlgmfjrhFa,12rUZmYfu9ZwTRMGL1OHqwm2ol7vorsA8C,Bass,MO,84050,Single,4,2000,Double Tuner
+05701051-a70a-11e5-874f-7845c4b142f6,eTctwvLxgeYosmHKimU,e1eWVKC4ZNMnkyJH5W5j3LFi6,Clute,RI,52753,Triple,4,2014,Single Tuner
+05701052-a70a-11e5-b4c6-7845c4b142f6,QShUPwulVJegLCkugwOjtwc,2sNdrYhZXcnh8BX7cNLqLYuR7HJl6cOuYKA,Dairy,CA,48612,Dual,2,2001,Single Tuner
+05701053-a70a-11e5-adb1-7845c4b142f6,QWyThhPlTn,A4VpzxPwB55xy6cxa1D6YiLlmDk8rLDLyeI7RuQPDg0,Stratham,MA,49919,Dual,4,2003,Double Tuner
+05701054-a70a-11e5-a10a-7845c4b142f6,INeuVXKLdDybrtqZUvrxnnJ,MeDyUZJZo9QelEgJkcvEXnEIz,Bunceton,CA,21620,Dual,3,2012,Single Tuner
+0572814f-a70a-11e5-8709-7845c4b142f6,bCPbSDRmLSW,G5gjtPfEzlOv9Oqrr7J5hL8llNR4NGKWiRpqY5guSEAnp,Gateway,DC,73448,Single,1,2015,Double Tuner
+05728150-a70a-11e5-a3a0-7845c4b142f6,zIBWvqVFTWeWFj,C8uDhffauYFMDuR8KjBhTb4ypVNbp,Pima,DC,55706,Single,5,2014,Single Tuner
+05728151-a70a-11e5-a4b4-7845c4b142f6,ZKGWcBxvlBY,cYAjOJUfWLn4qNAKK9q6NwIuWx77dweyToDVxKQAv5a4l,Nocona,RI,53936,Single,2,2002,Single Tuner
+05728152-a70a-11e5-b364-7845c4b142f6,ShXiMaFABoFYPFfGvfP,5FQ59KJOASiIhuwRDatK0fJvWT,Iraan,SD,44506,Single,1,2008,Single Tuner
+05728153-a70a-11e5-b097-7845c4b142f6,FKbWqMeluqatnMPcu,FOuSNBCHY8bjN9IdluqmoLlQG1CQJyRc44,Bacliff,WA,67743,Dual,2,2013,Double Tuner
+05728154-a70a-11e5-a83a-7845c4b142f6,jYcdqMqFXIYzO,I1kNrA0PiyMgR9gzDjDexM3586YRzSb7gtV1ZnnVr,Centerville Gwin,WV,3777,Single,3,2010,Double Tuner
+0574cb40-a70a-11e5-a049-7845c4b142f6,AlAgrEGQcpS,a2xYqBnqQJqQBDepaywNp2L4VG2V,Conowingo,OR,44085,Single,4,2000,Single Tuner
+0574cb41-a70a-11e5-a94b-7845c4b142f6,EHKSVWIHWVRyFfqjyXp,vQsnFc6LXQYNmMyYTLoDElm5hjs4YoJdsNvg1GxP5q,Pearsonville,MO,52637,Dual,3,2011,Double Tuner
+0574cb42-a70a-11e5-bdfa-7845c4b142f6,UqqySiJvCKAMPJRdio,7ZHYDQUPwAzKniGyViY1eP9,Crapo,IA,21647,Single,4,2015,Single Tuner
+0574cb43-a70a-11e5-86ff-7845c4b142f6,snNrmUlevEAaadoDWm,851GVKG124JArAHkOLc7aWALfndWNGQR,Wynne,NM,35062,Single,2,2008,Double Tuner
+0574cb44-a70a-11e5-a82c-7845c4b142f6,wIaqsKLBWXSlqnU,ZUwnuufh4S2ETRr7brAb77xdtA7YtAx2imbEQ0v1r,Sunfield,SD,58570,Single,5,2015,Single Tuner
+0574cb45-a70a-11e5-bf4b-7845c4b142f6,IFUWblQbPYRGqnXsTvYwCdpvO,8LByRkJjDb7LlVHZMC2mfA7z9bu1TVnltqntP26V,Havensville,ND,58344,Dual,4,2012,Double Tuner
+05773c40-a70a-11e5-be73-7845c4b142f6,OOokuXhuELnQj,5VFv6lY7811GHY7DHQFCLWUvaN,East Rockaway,NH,57475,Single,4,2015,Single Tuner
+05773c41-a70a-11e5-9ae9-7845c4b142f6,KHPApGoLbrLIuK,4VgiNsCe94epJBhy5Vb1iTK3wgVr93f36stX,Palmyra,NE,98108,Dual,2,1998,Single Tuner
+05773c42-a70a-11e5-9863-7845c4b142f6,yQSVgSQsSWcJoYoKkP,ZAr6BjaM8QW85wC2PDO0zjuFJN6iVQ9dJYA4,Singleton,OR,63633,Dual,4,2000,Single Tuner
+05773c43-a70a-11e5-9635-7845c4b142f6,iHVGSFJtdQHsFf,Tw5teptwTNT4OeZWc33g1nRkXi75dviJDfueg6iV4NmLu5BoT,Sciota,MA,68432,Dual,2,2002,Single Tuner
+05773c44-a70a-11e5-8702-7845c4b142f6,vyICjFKUxpceAlUSg,3K6yfASB1koiyktVsJ7my8UlxZ1arXwEOAF1p0i7U,Kinta,NM,80728,Dual,3,2009,Double Tuner
+05773c45-a70a-11e5-ab0e-7845c4b142f6,pjxxyIGOtLwxCgPHHbPpH,jLHQVm2gApFzKPmAs0oZRQwf7JSzLTW09105JC0jy,Stinson Beach,KS,61482,Triple,1,2008,Double Tuner
+0579ad40-a70a-11e5-a458-7845c4b142f6,tobIVecyFOZMcHPepEy,z3D1YVFzbydM91Pi04CCctdeR8vFcdnyRFNPlPBPAdhh5uDa,New Glarus,NV,22820,Single,3,2014,Single Tuner
+0579ad41-a70a-11e5-bad3-7845c4b142f6,lcIkWOgyzLsB,9wLV4EMtz6twcma8VZFfKHXVxW84sieNeCp3JyWq1vZzqXz9o7,Hanson,NH,26621,Triple,3,2011,Double Tuner
+0579ad42-a70a-11e5-b31b-7845c4b142f6,eFMiDEwIkvtrntJXfq,5rAs5IoKlK3HWeqtWMInXY4NmPO9t0GAC3LvjsjCC05a,Pacific House,LA,84743,Triple,2,2006,Single Tuner
+0579ad43-a70a-11e5-a0c0-7845c4b142f6,vSMTRLBvwJUXsIX,VzxL42qyUhIkDxoEes2rLFWGMZj,Lehigh,CT,64752,Triple,3,2014,Single Tuner
+0579ad44-a70a-11e5-9f23-7845c4b142f6,LEFZagnpEzdWvPslQyXjf,fFNPnNaf4Tf5zKs9Nl5gKurEHJs,Richfield,WA,38555,Triple,3,2002,Double Tuner
+0579ad45-a70a-11e5-ac94-7845c4b142f6,gJCJeHSwNFp,2JeCm2lTCl8JnWHaQXjrIM997p,Gayville,DC,27371,Dual,3,2012,Single Tuner
+057bf730-a70a-11e5-ab9f-7845c4b142f6,DEPmsPDAjzeXr,Ga2T5ecE1ZiR6Ggkok20OT5pQ14TBOA1pD,Steinhatchee,MA,7103,Dual,3,2004,Double Tuner
+057bf731-a70a-11e5-811d-7845c4b142f6,bRXgMmcJytrLAHpuqXe,os3SkKMXN4Vce5rLf6pw9b6nolyV,Lake Williams,RI,56732,Dual,1,2005,Single Tuner
+057bf732-a70a-11e5-a55f-7845c4b142f6,AriSgRpHGLlz,ygRpHKzpkXuJpsPVzHnTyPrTR9glVIVJ,Latrobe,SD,62064,Dual,4,2008,Single Tuner
+057bf733-a70a-11e5-ac52-7845c4b142f6,tXqSgSgDCArnVgLsqO,3lsxcn6CMBQqxZInVgzPFslw634qGmqnTw,Beechmont,AZ,40906,Single,2,2010,Single Tuner
+057bf734-a70a-11e5-990f-7845c4b142f6,CWpVxsSRFzCHfAGCDrTAlGqH,rWPc0rw2H57iunyr0RxXJfx8SuMsxT,Lake Saint Louis,AL,46065,Single,2,2011,Single Tuner
+057bf735-a70a-11e5-b7a1-7845c4b142f6,ahTcBPGdLcDDqAAXyYZUfUj,wywndjSF6McB3PzCgbdAgduDSt9nigNPBdCr,Cougar,DE,45840,Single,3,2001,Double Tuner
+057e6830-a70a-11e5-9d82-7845c4b142f6,qPXeemROoBKMcbrpLLOY,xD3cbLo1QG7TbvtxIhSeymclAwH7yeeL3jIkQYtBNfNld1pDgM,Timber,OH,83605,Dual,4,2009,Single Tuner
+057e6831-a70a-11e5-afa7-7845c4b142f6,OIudaxfAqwPpoXGdGMMEZpt,y5skyPG2bW0MJnoRMOM9njpvyhWlSmWeSsR4KpFWeCmZsuz,Fishkill,NM,40178,Dual,1,1998,Single Tuner
+057e6832-a70a-11e5-8584-7845c4b142f6,YukXiwmmuDXruXpVYVXis,8XEJAqfA9HLqK8P8VVZgZ6v5q7B6p9Kqo5VUkNsQUGwrZv3IQ,Saxe,ME,39581,Single,5,2001,Single Tuner
+057e6833-a70a-11e5-a59b-7845c4b142f6,hstbMzDRZfeMkTKynNLgmwsK,TsMiGCiGmcBPj5SRMM6EUAb5k2T2oVic3EOB6PQfwfP,Willacoochee,NJ,77327,Triple,4,2010,Double Tuner
+057e6834-a70a-11e5-823b-7845c4b142f6,vWXYrxkKJnmSAeAtSAUxref,uIlyfL1uVESAwfIlRrIXdxN3FNz8wb,Fennimore,WA,57628,Dual,5,2003,Double Tuner
+0580d930-a70a-11e5-a12a-7845c4b142f6,bwwZYHRJJDqYRbtq,cBh9Qd58xSl6GLZU9cMSGOdNjsAlO,Susank,GA,38059,Triple,5,2009,Double Tuner
+0580d931-a70a-11e5-928e-7845c4b142f6,qsRVXnGjfLZXLqYeGluKChK,kBirwruLqBF3MU5JFPTro8hC2H8pa5vc5uPrwGBE5mj1qvBYR,Coolspring,TN,63556,Single,5,2001,Double Tuner
+0580d932-a70a-11e5-a2a6-7845c4b142f6,TyGkbnNrDwzyVLV,LNcR4WLuyZa4xJGYEcxk4aU1NX3d7OWqZKhK7VaR,Ragley,AR,78613,Single,4,2006,Double Tuner
+0580d933-a70a-11e5-94e8-7845c4b142f6,nNwtPairyPRnoLgpUJMZhryN,NY8FWX3FeU0Rwd8Vq6fWkBkkyqZ9m6YWjX8lbi,Mifflinville,MO,57462,Single,5,2013,Double Tuner
+0580d934-a70a-11e5-b66c-7845c4b142f6,ENASJINuQMSgPFNEvnSq,9elS7wiAdu1Xa6HkXIYVfUPJPuLhq,Clem,OK,55019,Triple,1,2002,Single Tuner
+0580d935-a70a-11e5-a713-7845c4b142f6,xxMkkoWlwieTKLlfjcAnNWead,nK19LMMLVbHbAjpHxcW0P75zz,Salt Gum,AZ,19023,Dual,3,2000,Double Tuner
+0583231e-a70a-11e5-8688-7845c4b142f6,wkhUYXxJOuRGnRYnDlLkOCfp,hOYQNtwXyu8EefveIu5j1jzs9vaYjRz4v1IewmGDCbi94bBgC6,Roscoe,MT,44116,Single,5,2008,Double Tuner
+0583231f-a70a-11e5-a92d-7845c4b142f6,pRwdHHlimIUe,WhiBWjyIcPAFfBDF8BOIBOLQ7jhon8l1kNbG82r2Q,Oaktown,NC,91759,Triple,4,2004,Double Tuner
+05832320-a70a-11e5-a135-7845c4b142f6,YVBjMejsAje,gNzdxWtKLAeY6JFETriivt4ZWkVCGkt4NAJ,Fruitdale,GA,71828,Dual,3,2014,Double Tuner
+05832321-a70a-11e5-881d-7845c4b142f6,xtRwVyLVxwQCDQKleq,PnfYWZsxLkj8oIITZZyJCVFhvlwMgkvcTROBI2,Glenrock,ME,83423,Single,2,2011,Double Tuner
+05832322-a70a-11e5-8ec1-7845c4b142f6,zGCgIXNxhxeWeiIS,yXRlwZFfhMTohqGn79rLLRnUs32bB37tdTT6RY4PjCL,Aspermont,RI,60417,Dual,4,1999,Single Tuner
+05832323-a70a-11e5-88df-7845c4b142f6,DCadWDnwcfkfYLnMzR,yN0BAxMhSk4wkeeDPQ25aaBzyQMV0drUb,Potrero,PA,77850,Dual,5,2009,Double Tuner
+0585941e-a70a-11e5-96f1-7845c4b142f6,kfWnyswxQxMDOuGbu,qV6fUc31gSiRY2YjkcYHKEHmpl8oBw1aOQohRBd7hBChrDuAxN,Siberia,WA,46914,Triple,1,2015,Double Tuner
+0585941f-a70a-11e5-833b-7845c4b142f6,oVNBJPrKFPFvzIpCmgX,3J9nI89VphTi9VC9hRk9ZLf04ISf6w,Chubbuck,ND,16240,Triple,3,1999,Double Tuner
+05859420-a70a-11e5-9269-7845c4b142f6,YqaRNrGHPMuxTenO,njdWtLHXQa1R3twvQGlPWM3yVx8yfHwMXv,West Jefferson,CO,97741,Triple,4,2012,Single Tuner
+05859421-a70a-11e5-925c-7845c4b142f6,iuDxGfyRRSoVZM,z5jW2Ha1U4lNgV3NEuSTvVBxtsRtbK4WItvRvU2A6JKbqw,Beverly,MD,44846,Single,5,2001,Single Tuner
+05859422-a70a-11e5-8160-7845c4b142f6,nuxXrLbMGgEQRTnjeOdsEn,j8VytLYUIVUmjKkU1kk1ZZ1Yq1SMx1GZa549O9P3R,Akutan,ME,78236,Single,1,2009,Single Tuner
+05859423-a70a-11e5-8adf-7845c4b142f6,sUjdsdeIyhBGHvbEJe,f0bgO9EH32cIVY56gfefbiZb8DMklca0iFGmQ9yF4,Islesboro,ME,20876,Triple,2,2000,Double Tuner
+0587de11-a70a-11e5-abdd-7845c4b142f6,hPdDnCUJnsOkT,jUUbUyihsKox9e0aejOJQDpfplPGJZ,Fellsmere,IN,30084,Dual,3,2013,Single Tuner
+0587de12-a70a-11e5-8c2d-7845c4b142f6,bIOFjYXVjbkKFvRoWM,L4PfLT3XH9jNmaIb23iHFmomiL3APlhC,Readsboro,SD,77379,Dual,4,2000,Single Tuner
+0587de13-a70a-11e5-b860-7845c4b142f6,fULlupAjqKCxDZRuGgJlj,4AfZtzuja0Qaz5ari4T3u47d0DSM3cN7OVioJbaPXwpUR2,Winnett,TN,60650,Dual,4,2004,Single Tuner
+0587de14-a70a-11e5-97c0-7845c4b142f6,HvdVfmwpNunuJ,fLIOQB0tGDYtuQFUyo0vgZOD560T8GoGrYC,Talbott,NE,62671,Single,2,1999,Single Tuner
+0587de15-a70a-11e5-b593-7845c4b142f6,ReRpFlDZmnfWZSk,Lv9tnTr09I4FcjsquOxK0D9PGTocAqNjounPfIvL,Amenia,TX,62294,Dual,2,2012,Single Tuner
+0587de16-a70a-11e5-b870-7845c4b142f6,JGeCvdYxFxKwLGC,oHSZ5G1gCwrjbeY52vrXgnHnuxtY16WfP7A6OXg,Davis,GA,57005,Triple,1,2014,Double Tuner
+058a4f11-a70a-11e5-afeb-7845c4b142f6,doqFdtxXeAcRSNTdrxJfMnooP,2muQNwOrHLqoEa8xqvyyLqnSU86QhC,Morrison,SC,60201,Triple,3,2002,Double Tuner
+058a4f12-a70a-11e5-b75b-7845c4b142f6,lwDbYGXxvGKrMHRFQLapctti,ie6mJuBWFP3pyoZ34SuKGQqiHuFL4UDs4hXaY,Worth,NY,15321,Dual,1,2011,Single Tuner
+058a4f13-a70a-11e5-b139-7845c4b142f6,LVPEcRUTjxijwNHrHf,TXKiKpIrCcHaDN0wsGCSBlpNWne0Wr1EOMZMIabQN,Point Marion,MN,75702,Single,3,2014,Single Tuner
+058a4f14-a70a-11e5-a27f-7845c4b142f6,wJSoihMBMLQGsYTkjjSt,uAbwYBe4iaksCgszOsCAPfGRSXKy7mxqbK2AIrEAt,Tonalea,MO,49099,Triple,3,2012,Double Tuner
+058a4f15-a70a-11e5-b51c-7845c4b142f6,hkAXIcnPUbCUvblBV,UaPwk7oC0qhIwDroPMq0CEqwAxtuR1YL9DKDhj,Delano,IA,43771,Triple,4,2004,Single Tuner
+058cc00f-a70a-11e5-892c-7845c4b142f6,qPbFwYCqFrQZvs,iZiwgMt5lmbnNXG8hG0s1y4i,Humbird,CO,44133,Dual,3,2014,Double Tuner
+058cc010-a70a-11e5-8126-7845c4b142f6,nsDbnThUEC,0z6RfZlZtZ0zaIfE4gSor8mYldc4v,Boley,MS,7028,Dual,4,2009,Double Tuner
+058cc011-a70a-11e5-8c01-7845c4b142f6,KvUsynWIIcgobb,C1lpHouxNgnLUZMQ36EHC7Ugx,Lake Toxaway,IL,13057,Dual,3,2004,Single Tuner
+058cc012-a70a-11e5-8c5f-7845c4b142f6,kbQRjSLzidpANpFhIjL,eP6l0P4vJ4dRzzYn5SHIzN0IIXfq3y56r7Mdgmmz4SVNogcSKJ,Garyville,AL,49030,Dual,3,2007,Double Tuner
+058cc013-a70a-11e5-aa68-7845c4b142f6,WbIMWkBBCSdZ,ViDWhFWzQYqBP54nW23YkgJ84qIATul66sFvtz9,Boyd Tavern,NC,84758,Triple,1,2009,Single Tuner
+058cc014-a70a-11e5-8fc1-7845c4b142f6,ILZnrzQauOhbcmwyxopLocQR,r2o1JPQl5CgIIWAMQ4OVW7caiCmQVhg8VqmywA,Cyril,CA,33332,Single,5,2014,Double Tuner
+058f0a00-a70a-11e5-8e65-7845c4b142f6,alAeHJIAlVNOgtVNWc,vfOhSxRFQhT6vfu5tAF7GV6774kVLDJsoXkbh,Dorothy,TX,29520,Triple,4,2006,Double Tuner
+058f0a01-a70a-11e5-bbb6-7845c4b142f6,ZHxndWQothVUIy,P82zSRjXuSnjb9NBxKVZzMgvzxXuwA9zW45jTngTtY,Sunbury,MT,10706,Single,1,2002,Double Tuner
+058f0a02-a70a-11e5-8a48-7845c4b142f6,fephsdzckGBrBHXs,g3uy4ELUWgzoVwh4fsAw1NUD,Sioux Center,WY,35443,Dual,1,2007,Single Tuner
+058f0a03-a70a-11e5-878b-7845c4b142f6,fPGAJBXJaanonyj,1LELmfWgFdSmekIZsH2zISnqX8AniZ,Mechanicstown,TX,8540,Single,4,1998,Single Tuner
+058f0a04-a70a-11e5-9adb-7845c4b142f6,LUiYUJpUAl,XyPJBb5FXzmQsNnrdvcRPxTLnOaQKTMR4k8nC6h1njg,Hudsonville,MA,87045,Dual,2,2002,Single Tuner
+058f0a05-a70a-11e5-aa31-7845c4b142f6,kbkiQgHgXltytlnBNxvPOoaVA,JfyRN12AbtM8yp1rz7gU5t31L2x7MsUMLhiT6hB4bSBs,Elm Mott,KY,14615,Dual,1,1998,Single Tuner
+05917b00-a70a-11e5-919d-7845c4b142f6,iQyeQAvsOsQzTrm,gUC4Bg9qsaSoRLh6taFwDYQkhO9vY4HC1sLwhDQ,Ninole,WI,51557,Dual,4,1999,Single Tuner
+05917b01-a70a-11e5-8f64-7845c4b142f6,UmlvtreTQsXOWQYKrECEdYdYh,8GuyfuhLI3thgpxWG93IkFLGDWjbrioaROQmLUXQgL4r3EH,Morse Bluff,GA,42776,Triple,5,2004,Single Tuner
+05917b02-a70a-11e5-8dc4-7845c4b142f6,voFmKtZcsMJltMy,73GQV7p8J2yamoVZrBmKKG3K4T0XEV,Waymart,IN,50677,Dual,2,2015,Single Tuner
+05917b03-a70a-11e5-8db0-7845c4b142f6,QGxpjjZDzGmosrR,QTksS7phsmBUGHEvDez8skX5S4SrIZSol8iM34W,Quinault,MO,84781,Dual,1,2012,Single Tuner
+05917b04-a70a-11e5-8a28-7845c4b142f6,qIkPFWdhnrFS,nauiUpMMmDXpXxIkKKtGPsPQdP0hPaXcRhPMD6uP,Cliffwood,NV,64874,Triple,4,2008,Double Tuner
+05917b05-a70a-11e5-a742-7845c4b142f6,MZmVeBhaqVTHXKUj,Gtb6RPFfCq6QmVzpa9zbkF9p4Er,Tightwad,NJ,61252,Triple,5,2005,Double Tuner
+0593ec00-a70a-11e5-a6b9-7845c4b142f6,XDcIfJsFieavrxsKESWjAAV,ZGdCcdgy9fn7xpMtQMFquvKD9RLlwGrcWKAGV54HJ3,Rio Grande,GA,97525,Single,3,2012,Double Tuner
+0593ec01-a70a-11e5-a24a-7845c4b142f6,mlATysfBqofTmVJLBxbA,i7CHvaMMtokVPuLsQGQvLkgnqDe9KAxq0JZB0RVgdUov,Collyer,TN,64117,Dual,2,2012,Double Tuner
+0593ec02-a70a-11e5-b65a-7845c4b142f6,gVYmauteZLFyNfGqofaifHE,xWluK5lP6Pi3KkrjujCl7NO5aFT7XZZByCBVe1pixfwsh8R,Vanleer,NJ,43334,Dual,1,2008,Single Tuner
+0593ec03-a70a-11e5-846c-7845c4b142f6,FMXGQJErAxXywDKNsRhDrJDnG,qRyc3dHsmwnDCmFSvPowOTu6H8lwxMMuKpn8Eo7Mjdq4Gl5,Mc Clurg,UT,90405,Triple,4,2011,Double Tuner
+0593ec04-a70a-11e5-b224-7845c4b142f6,akYkhuxrWzEr,vM8kIuivPhxNPn5ip46jyD79Y5s6LC2On4SNiFtha,Medimont,WY,67119,Single,5,2011,Double Tuner
+0593ec05-a70a-11e5-9975-7845c4b142f6,VxNgyjEXuPmtzgY,9dcdPScY7a3fosYtt8h97iAYSGvfo4hWyPQSLKqRRFKoTz,Artas,OH,83837,Single,1,2014,Double Tuner
+059635f0-a70a-11e5-a4db-7845c4b142f6,LbCgaczEgsZcujoLPpTgx,3BRZ648jt6SBM74BN2o5wqufO2FTRSJu8aF3E1DWJQWDUZ,Toomsuba,NE,17901,Dual,4,2007,Double Tuner
+059635f1-a70a-11e5-9489-7845c4b142f6,whagXUTMwTBwWcNwJdazxj,hAhcL7g7xbkcJsDGpvJu0QwBIIs4GCACThCrnn10xjmVWXaC5t,Strawn,SC,28723,Dual,3,2012,Double Tuner
+059635f2-a70a-11e5-99c8-7845c4b142f6,zHVZrkUkyG,BpSjzFX3DzotdbIIzGxsBwhBxv5FSpjK0xzlNCN9H1CnJ,Rocheport,NM,38856,Single,3,2000,Double Tuner
+059635f3-a70a-11e5-bf71-7845c4b142f6,faLUQwnIEWTMPBKgy,3LNPRblAmz5aFknUEYmfWFXyo,Ellaville,IA,6390,Dual,2,2001,Double Tuner
+059635f4-a70a-11e5-a0fe-7845c4b142f6,azuWTGAPZPHmmsaBLNYsJnfX,dwaupz01QyNjV20lvDcWYTVMZYsh,North Dartmouth,AZ,72335,Dual,1,2014,Single Tuner
+059635f5-a70a-11e5-89c6-7845c4b142f6,SeKfcwWcjBiHMt,kM303sObPdxxpWg0YsyySNI7OmLLQ8s9nDWcwYhevq,Borden,GA,48076,Dual,4,2003,Single Tuner
+0598a6f0-a70a-11e5-85b6-7845c4b142f6,lIsClVvack,EctJ1riAVcIWjyc9B4HBXw2tbyl8YDv6,Baltimore,MA,63630,Triple,4,2008,Double Tuner
+0598a6f1-a70a-11e5-abaa-7845c4b142f6,WfpIaxzyataQECLWqVRy,AfV1MoAfs5qN9ggnsOp8u1pwKm,Prudence Island,WY,45503,Dual,2,2000,Double Tuner
+0598a6f2-a70a-11e5-a8c9-7845c4b142f6,yDTxvEbyfusf,Y6rCURT8lpQ6eO6s7Sb6VrRWXdqZ4ZIl1z53LOg9E,Putnam Station,OK,91702,Triple,1,2007,Single Tuner
+0598a6f3-a70a-11e5-803d-7845c4b142f6,beLwmuMvpiSN,cvnGW0GGEnMhthtN42nSOOJ9vGcvQwTLy4g4,Hardaway,NV,28357,Single,3,2015,Single Tuner
+0598a6f4-a70a-11e5-b342-7845c4b142f6,hEdzpwkkuIwhkZdprbdGSIsR,9V29rmnL6ycNJLsNdegSb8DTV2jbXWZ6pwCR,Azalea,NC,79904,Triple,4,2000,Double Tuner
+0598a6f5-a70a-11e5-8d9b-7845c4b142f6,IPGAGKRTgjwUAkWaB,ACXkwOGgVyjnpZHs9jGNGLkE1MihxhQ7s0LkX2M2m8,Momence,AR,44683,Single,4,2010,Single Tuner
+059af0e1-a70a-11e5-bf28-7845c4b142f6,fWIdICWRNPeQNoVOh,G2Ycxm8yGd7Fb5TOMhxhz7a,East Burke,MD,52132,Dual,4,2015,Double Tuner
+059af0e2-a70a-11e5-b2c1-7845c4b142f6,zrMvcvCvtzfKfgRBTzgpV,QzBSwv9Te8o2pmBCBXXDqFphPhXDiMXkei,Orondo,VA,75141,Dual,1,2000,Double Tuner
+059af0e3-a70a-11e5-9118-7845c4b142f6,SkGlmjAWDTEsULJbURSUwgeh,ECYbqhaAaZFbrn17IXTu57PyfTMosaEMuDiuOYxVxOa,Morrill,LA,54661,Triple,4,2006,Double Tuner
+059af0e4-a70a-11e5-9ecf-7845c4b142f6,pKqqviqpJkGEjRACg,ONgA3VHDjYFfhqslcQPZUZnVQE,South China,HI,88136,Dual,1,2009,Single Tuner
+059af0e5-a70a-11e5-98e7-7845c4b142f6,CXfUCSDGCEq,CoemMUDzYADV8JUGaaLlm0yGghpRMoJuwRhrNZXGGWhu,Trotwood,MO,58484,Triple,3,2002,Double Tuner
+059af0e6-a70a-11e5-8bcc-7845c4b142f6,AbwWpfNVlEqSohbYr,kRYIcnmC6Cf4RbNu2kPje7i9m,Monsey,MS,36088,Dual,4,2007,Single Tuner
+059d61e1-a70a-11e5-a94b-7845c4b142f6,JnjClOhtPKvJUUQVkBWaLwqM,s5uh2kSETmbjqEzDvr8vrkVMGMphRa,Dimmitt,AL,40067,Dual,5,2000,Double Tuner
+059d61e2-a70a-11e5-8288-7845c4b142f6,FftLyBOAEWX,OQM2lmNOxOlwoT7n9TR3uSHd,Dendron,OH,19125,Dual,4,2015,Single Tuner
+059d61e3-a70a-11e5-8b59-7845c4b142f6,taEpkTPIwybZSteyY,dZFuBrLp1VBQoGZdHGn1mvhrJeQ8R,Turrell,OR,50652,Single,1,2005,Single Tuner
+059d61e4-a70a-11e5-b8eb-7845c4b142f6,peAraobUxAObKLAbTSyStVC,AKKLb5KGbMLDkmUlWpw9EWW0BrNCrmjGc0iwVlVGF6Cj34S9,North Amity,NH,11772,Triple,3,2000,Double Tuner
+059d61e5-a70a-11e5-9293-7845c4b142f6,XIZApvXKMihyWOh,M82JK9aYwVb8ifnriqs5U9Y7Cd,Dott,MA,65436,Triple,1,2012,Single Tuner
+059d61e6-a70a-11e5-b782-7845c4b142f6,fdcTmNuFmlUweO,kt6gXxYo4seGbzfcEeTzFueH2PZ4c9RKgZ01GeDB0DAUT,Bay Port,AK,79730,Single,5,1998,Single Tuner
+059fd2de-a70a-11e5-bf2a-7845c4b142f6,WkLGrKrifsWkWMnxKHAPxtfz,Odaekb9qOZKqGPZgZrc5e17YAzm9X3XO1F3xADDZCZVfL96Q1t,Broaddus,VT,49728,Dual,3,2005,Single Tuner
+059fd2df-a70a-11e5-bae3-7845c4b142f6,uCnVjUpaQvGmOVbyRau,ylTPeUp4phrj1eUAKdSDmRGRnYYWlbnhDJi,Casstown,TX,76059,Triple,4,2015,Double Tuner
+059fd2e0-a70a-11e5-8f6d-7845c4b142f6,VQQoNGeKanQiO,uNxdFcEWVe1Uim2ACLfqp82y2C7Stv,Teller,MA,63743,Single,5,2000,Double Tuner
+059fd2e1-a70a-11e5-b505-7845c4b142f6,fpEjImtFukfFraBA,Fs6cNLr5oBMSeliUJyzNp6Mp1POa,Palo Alto,ND,30533,Single,2,2012,Single Tuner
+059fd2e2-a70a-11e5-a7dc-7845c4b142f6,ZJpXjACDKjmSHoEwGdtdA,ERHknPcF1qa663jXwjTJPE8uR,Twelve Mile,FL,96727,Triple,3,2000,Double Tuner
+059fd2e3-a70a-11e5-a2ea-7845c4b142f6,EKKwEeDlgmmZ,1nLyppDHIuiPaLLttEFdN65tlc0RA0,Carmi,NC,55047,Dual,2,1999,Double Tuner
+05a21ccf-a70a-11e5-bacc-7845c4b142f6,PoFhVWOqlxZXOkafCAIljKTJ,ynOVs9Ry4JnCF2eSV4lluY3PUg0Gc2lxxURl,Burns,NJ,79244,Dual,3,2011,Double Tuner
+05a21cd0-a70a-11e5-a399-7845c4b142f6,hiGyESuDxUN,l63vCSOXrMhdpch8qgUi5cpY2oOVY,Hallstead,KY,13754,Single,2,2010,Double Tuner
+05a21cd1-a70a-11e5-a65a-7845c4b142f6,CzmpGhhCsbMcrRfyVkhacUC,uCx3Y38CgBZP1ftlTcXuYpeQDktfb8UJMLsuiMbn2g,Port Neches,ME,55420,Single,5,1998,Single Tuner
+05a21cd2-a70a-11e5-90db-7845c4b142f6,lHYcdRZaSaf,DpjTaUFGQfe9c2LSA1hJpjnn1JIzJYIE,West Edmeston,RI,16232,Single,4,2011,Double Tuner
+05a21cd3-a70a-11e5-ad70-7845c4b142f6,NbKNvhIYKaz,fVtyVbCqlyj1Yd2mYfN28mvaGTbSe,Swayzee,OH,27054,Dual,4,2001,Single Tuner
+05a21cd4-a70a-11e5-89d5-7845c4b142f6,lipROTzgZjwiwRDltfOol,I0HncH48XkqezvKUGGOZ7QgXTrHMtHKFG58623zTLjYBW,Cranberry,HI,95698,Single,1,2002,Single Tuner
+05a48dcf-a70a-11e5-9be6-7845c4b142f6,zrflCunqEgOCsYGqnoUYge,33ZktaXxjdW8iU4JOJLi3wuYpA0GeU1dONxpiaQTfa,Barry,OH,98283,Dual,1,2002,Double Tuner
+05a48dd0-a70a-11e5-8abe-7845c4b142f6,BwcyTyDazTpcJVEKayxXTIDR,LT4N2fEUBCUFYggRMt0Bd669WBFucKazbkWyl8aQ,Salyer,NE,48840,Dual,4,2003,Single Tuner
+05a48dd1-a70a-11e5-9267-7845c4b142f6,HuoaOjAgGAlVp,WPDOtFZYENAC8OEvmk0JaasOt9Bd6SS7mx9Era4Kt99s6,Dodson,KS,66417,Single,5,2012,Double Tuner
+05a48dd2-a70a-11e5-a02f-7845c4b142f6,ZRJTpdztdWWv,htG4ntOvrkd9DJIOrQWuVqCDa3UsSRByEb,Lowndesville,ND,19365,Triple,1,2002,Double Tuner
+05a48dd3-a70a-11e5-9f6c-7845c4b142f6,WeDBBARAJBQQBkezjtihzxrZB,IQTMAwL3KohfnNrMJzYLk1fu,Rew,WY,35972,Dual,5,2007,Double Tuner
+05a48dd4-a70a-11e5-a9c8-7845c4b142f6,jZJZcMhNtkFEzIdDmZrtXyb,dgcXKxhs5ZDP7vVYtTseqqf7zbmPBZ1MDpA,Dema,WA,17252,Single,3,2009,Single Tuner
+05a6fed1-a70a-11e5-8966-7845c4b142f6,HoUhJeKDsDJiQEkXZzKE,F9dAAmOcbOVYJtuA05JyKxLh0IqVIaTshfSJE3Nr,Newton Upper Fal,UT,74442,Single,5,2005,Double Tuner
+05a6fed2-a70a-11e5-ae2f-7845c4b142f6,veSrwJCyRYhiGFcbqVoRikH,Pxwmdba20RAO23JhiB3ZhCattOqK4irxeS3Odjy8,Higginsville,WI,35988,Single,1,2003,Single Tuner
+05a6fed3-a70a-11e5-9936-7845c4b142f6,DKbrWnJNRmEQSThV,wg1FvNxKqEj3dgx7p4BVSYH96vyJvzKfuPYHtDAtEw8D4RD4,Readyville,MT,40365,Dual,4,1999,Single Tuner
+05a6fed4-a70a-11e5-a6b5-7845c4b142f6,tXNBWnlWCSrgVRjbN,71A6LyjA7KNFizfqHpbCsD4sH,Morse,MI,83462,Single,3,2009,Single Tuner
+05a6fed5-a70a-11e5-b893-7845c4b142f6,hIkAZrVwETgbzj,ieoOIjOCgnRTcgECsdxGkhu,Woodacre,OH,59436,Dual,1,1999,Double Tuner
+05a6fed6-a70a-11e5-b4e4-7845c4b142f6,QrxcqUdIliUEKWXDTfRs,DotoyM6ARhmOubKfs0OWBpsWH55a4zf,Oark,SD,50066,Dual,4,1999,Double Tuner
+05a948c0-a70a-11e5-8d7b-7845c4b142f6,SGNGFxuygXkPtdBIHduzgLCJw,rcXfWv1HhAeJikyKmxgWsz6MDbL,Marsteller,OK,37362,Single,1,2008,Double Tuner
+05a948c1-a70a-11e5-9345-7845c4b142f6,DriGZYTbeKkPo,RYgw8d0yuUwuTxEKxiYKAHlnb4,West Hollywood,LA,32725,Dual,4,2006,Single Tuner
+05a948c2-a70a-11e5-9c34-7845c4b142f6,tIpHHQdTZvgauVJdmuuXAacXa,UUjHa57ZRGv1v8RF0mb7AGfxu0vrl3diI8D,Tonkawa,KY,46340,Triple,3,2010,Double Tuner
+05a948c3-a70a-11e5-8e35-7845c4b142f6,lzFlAROompHbMinMZZ,moIksQKf3Zvd4fGgdvunTB71KCFoOkHV4G9SOsG4,Bainville,WA,13083,Dual,5,2012,Double Tuner
+05a948c4-a70a-11e5-baad-7845c4b142f6,ZoGxOGVzkBUJBCLfMXTEd,H0EwLbo3ipzw4DR4O3L7dk32jorqsgWRt0Lg00HGAK5c0M0l1,Grainfield,AK,14810,Single,5,2011,Double Tuner
+05a948c5-a70a-11e5-81aa-7845c4b142f6,JwLvJepGeJZFAYdXVzljcL,jgmp0IYndDbDWmTnPaYpwXkW,Glen Gardner,CO,6336,Triple,5,2008,Single Tuner
+05abb9c0-a70a-11e5-84e5-7845c4b142f6,ZumuIPXMopenHao,CHrppNop1dXC3mtDTRJeBVlq8uJfvhJBaieGkfZmSh,West Buxton,NM,85530,Triple,3,2005,Single Tuner
+05abb9c1-a70a-11e5-972d-7845c4b142f6,qVDCKiIttNaZCecaxEVAlJiCM,OuKGVjXjb8cRACBQe4Ox5SpjJWQEuFK2DFFxGsM1Tn,Kirkman,LA,89821,Dual,2,2003,Double Tuner
+05abb9c2-a70a-11e5-ad32-7845c4b142f6,RuKfvDlErruIP,mrw2hsPIdP8bR38PmI7LUKsjbV88xTiVuy,Forks Township,MO,12454,Triple,3,2005,Single Tuner
+05abb9c3-a70a-11e5-be27-7845c4b142f6,FBNCeUtLQhhb,1tK6BVouBj3zVhozQAFbuCPM996qQNreAeZZf7fevy,Batson,IL,30082,Triple,3,2007,Double Tuner
+05abb9c4-a70a-11e5-a71d-7845c4b142f6,wisSGHrzDetMklFUhtfKNmLv,qUUtzIw5KVIXGEcmiTxSMo6Dj9SoKvD2gDuW,Percy,MA,27941,Single,5,2006,Single Tuner
+05ae03b0-a70a-11e5-8fa6-7845c4b142f6,KFewyrcwOKlDnBTUTdWAtsbBg,eXCLwLiuiBD3gqoK8GtkVTebwSXOAlDjz5z00rko,Hobucken,UT,30673,Single,5,1999,Single Tuner
+05ae03b1-a70a-11e5-9f2f-7845c4b142f6,JLTVVLVsTEiu,465997xmDXzswtR1d1FXkc8c1EA0mPHBaID3ODYE,Mc Donough,FL,24136,Single,1,2003,Double Tuner
+05ae03b2-a70a-11e5-8c1d-7845c4b142f6,KSpfKxxENqFfHAGMH,ytceNZvaCf85gst12C6YgY0bgBpF32zx,Brookeland,MA,1566,Single,2,2014,Double Tuner
+05ae03b3-a70a-11e5-9e35-7845c4b142f6,CjgGztYiPgALnNeDOLeI,uS99WHLyPPuQ3QSq0mUYBzipdBRvbUIe6FbwntANG6OFX,Diamondhead,NC,29123,Dual,3,2002,Single Tuner
+05ae03b4-a70a-11e5-b383-7845c4b142f6,UcwRllEKeQ,O2JyLtvuifw2KHK1I4IOXyO6P1poVwGtaUqkdh5gJ7IQ,Corvallis,MN,24944,Triple,3,2011,Double Tuner
+05ae03b5-a70a-11e5-b9f3-7845c4b142f6,PuNkrNiUFPwaagluSim,9QkIBgbG29fTE4imqQSs0crC6sl6ptgF,Bridgman,AR,51445,Single,4,2000,Single Tuner
+05b09bc0-a70a-11e5-9529-7845c4b142f6,UMzGKMwoqzJx,itWKW9maZ9KqAlJ1OCcTNSCZjvzxKhUPjc4EdcsJfa,Mutual,NV,58230,Dual,3,2002,Single Tuner
+05b15f0f-a70a-11e5-bb7a-7845c4b142f6,PFVQHfxelGIoxtgOhwxvDf,vhLkJn3vRMlxEqyq2We8F6bmRsGEgkAq94CY0eCbSk1m6,Flag Pond,MT,63561,Dual,3,2008,Double Tuner
+05b1fb51-a70a-11e5-93c9-7845c4b142f6,CMpgKGDhCGJlkjvuu,fqihRVZojwNWoxahoXXYx7jIOX2fj7tXdn9w0EbVGwIP,Briarwood,MN,70815,Single,5,2008,Double Tuner
+05b27080-a70a-11e5-b1f3-7845c4b142f6,FRyOpFdWmNZbFkbms,1CjqaRqqR9bsornGi6U7jk4L5TVMjRYKFwIkpmwGZw0v31XN,Adamant,AK,19343,Single,3,2015,Double Tuner
+05b27081-a70a-11e5-bbe9-7845c4b142f6,DsbkViJXbAuqCeuvhZZy,lWdt86UTi3uu8742GgypH4k02C,Era,ME,1226,Triple,3,2005,Single Tuner
+05b27082-a70a-11e5-9331-7845c4b142f6,wwUKJIzKtlpJhqsvT,qKREK2J9nCv0u7Xnq29arnsJ,Pascoag,WY,84070,Triple,1,2000,Double Tuner
+05b27083-a70a-11e5-b8e0-7845c4b142f6,hsSYAtiJjKkjccjhU,Slhcjkge7rW90JWV3dvKhGIfOKHN3eMJdKbPkxnimEMPI3ySE,Covesville,RI,51510,Single,1,2006,Single Tuner
+05b27084-a70a-11e5-a260-7845c4b142f6,GPDRHgBvZCZTtbkDEmkwuvhx,Da2vtAvqHIsC7S3ur9XAR6oa9BRXw,Wisdom,OR,8833,Triple,3,2003,Single Tuner
+05b27085-a70a-11e5-a4bf-7845c4b142f6,mrNoahhXCKVLYsVSIH,pG1H8lzMokafslFcHBE8wdneIkVYsH,Myers Flat,KS,28747,Dual,3,2014,Double Tuner
+05b4e180-a70a-11e5-aa6b-7845c4b142f6,WqwSTmrdlWYPjxTnuqBYD,yegOXhZ7ZkIBKKuXt3e6yDXINVRRDU8t5GZf,Cankton,IL,81320,Triple,3,2002,Double Tuner
+05b4e181-a70a-11e5-aad1-7845c4b142f6,VATWejKvSJObPJCxqXD,yFtmZ7ahibpnFko4bGWbGxyGvfgTVnyddcvxFWRA5E2,Pine Castle,MI,30273,Dual,1,2013,Double Tuner
+05b4e182-a70a-11e5-b46e-7845c4b142f6,kRSZHNtsbtnZVt,fkFyBAita8hemy8FxwHWKZn3mnuVAJ9rd8kvkP5wxga6Gym,Cut Off,IA,17220,Single,1,2013,Single Tuner
+05b4e183-a70a-11e5-9c0e-7845c4b142f6,mZPCYGEnzcXdfsZpizSEece,VW8NbWqdE8kZbJmYIMd3k6xj6vMpj4oNp,Bloomsburg,WY,58463,Single,5,2008,Double Tuner
+05b4e184-a70a-11e5-a721-7845c4b142f6,rWCOlrVDQpmYqGwaZVuKMJ,OVqrYGImCvaIyBDvvR8oLbxDeJfRF2WGKp,Kenneth City,AL,27958,Single,5,2013,Double Tuner
+05b72b70-a70a-11e5-9f31-7845c4b142f6,nHINzlaVraR,qG7ghH1R4tBFdOlI43mDbXaUe4BgY7hBf72ndft0,Boyes,CO,23921,Dual,1,2011,Single Tuner
+05b72b71-a70a-11e5-8853-7845c4b142f6,BXEKlmTdipBJ,4H39X0a6i1CTitJLtlqcxNfL1zIxXtzqXgnWhE5O,Tannersville,FL,93662,Triple,4,2011,Single Tuner
+05b72b72-a70a-11e5-9f3e-7845c4b142f6,loFIguxljcvhbyWqCnJGXXF,TeU0ENUlRUj6HvmpXAnKZn8kI4kWOmCEsgPH3HAykirN2Zn,Bonita,DE,51543,Triple,4,2003,Single Tuner
+05b72b73-a70a-11e5-9825-7845c4b142f6,hSplTRPtWoq,7YyxfxJFs2uA2go4rQQ1gJE3yJIuiBDHqwumVY6,Gilbertown,NM,96137,Dual,2,2005,Double Tuner
+05b72b74-a70a-11e5-9f3a-7845c4b142f6,ouZsmKXcni,jrSG5XDad0BhMneRI7OKTV1mingoZNd9,Spring Branch,WA,56751,Dual,3,2015,Single Tuner
+05b72b75-a70a-11e5-a315-7845c4b142f6,kGEvuPvaYBmvAqzZQ,Ly2MLcPFSBbR9h1eSEwD2HKp7jlB2kEkdcdWdTwlSR49E8kF,Pontiac,MT,20902,Triple,3,2013,Double Tuner
+05b99c70-a70a-11e5-a921-7845c4b142f6,OtqLyEgUjitUWvqfoRhS,9fzDEX3GvcBkDRBnb1WrQoDGPKexVAtnirW4eY2JfZGgpln,Spearman,DE,52321,Dual,1,2005,Double Tuner
+05b99c71-a70a-11e5-ad5e-7845c4b142f6,KlOoQGfqIQBWLkBePRubOa,9oBySbwANdUw6xHqErQ0SNtphmJOYuJeX7DQze16x0,Arena,CT,34635,Single,5,2012,Double Tuner
+05b99c72-a70a-11e5-9095-7845c4b142f6,KrevbPYTxFduqSa,rnkjjIDSQJvM75lxdwnQRXyMKB0mTkcEON,Bentleyville,AZ,32224,Triple,1,2007,Double Tuner
+05b99c73-a70a-11e5-b350-7845c4b142f6,YRGiJYPxYJWrJEzflvfrO,GNdI5Ycb21nWFBOnDlLlqhiokkItc4y8ffQ,Odin,MN,64469,Triple,2,2011,Double Tuner
+05b99c74-a70a-11e5-8b62-7845c4b142f6,CSCuIIJaRMTUNgeBm,dSLgnSdj3rjOun4TkOLsCKN4TmD,Heber Springs,MN,61953,Single,2,2013,Double Tuner
+05b99c75-a70a-11e5-a4c5-7845c4b142f6,OSvucVxOdjfPakCOTYV,xP2QItpAWWiLuLr7GrjKd09UH8Z75FUa,Alta,OR,30470,Dual,4,2005,Double Tuner
+05bc0d70-a70a-11e5-84bf-7845c4b142f6,xzArdkSYEXgi,03EubeJza5GA46ZWpAQlRJeQ0H9tPmSM8JrBuch83M6Yb,Hoolehua,OH,32130,Dual,5,2012,Double Tuner
+05bc0d71-a70a-11e5-bbb2-7845c4b142f6,BblPvCQTLIiQmkLCjj,CsOBsZZRKjrEkx9qkudxMVdVWe5yYtWdhyPBDV,Montegut,VT,13328,Triple,4,2005,Single Tuner
+05bc0d72-a70a-11e5-a9c8-7845c4b142f6,KFXlXKJWSA,WXdo95aKzyadpFwc81aG3UWhOvgOwr6WeIkkQtWVY,Claremont,RI,2165,Dual,4,2012,Double Tuner
+05bc0d73-a70a-11e5-8eb1-7845c4b142f6,WzaiOENbxitzDcLCR,h9bNzchPkc86bHQpCL1778r6lEvyPbhkAPckd8fN181C,Brodhead,MO,54747,Single,1,1999,Double Tuner
+05bc0d74-a70a-11e5-87d0-7845c4b142f6,LALDjkjbSwCVGy,Y3Z5hTNyraGNI47VOd38t0EBDsQnKMlpE,Nortonville,WA,86038,Dual,1,2010,Double Tuner
+05bc0d75-a70a-11e5-938e-7845c4b142f6,IHcEHhlHsTOruItmBMp,Y2mQLj1mIezPUcBKi4VejnR75VkAYRlzRxpi,Magazine,IL,8053,Dual,4,2005,Single Tuner
+05be575e-a70a-11e5-852e-7845c4b142f6,HGBAehzbzDOOJdpXusCdsmsV,s02ZN8nJlfc1Y2X5jzUm0fCY8PArMbM3HxDba0Dtiy87tDms,Ozawkie,IL,68323,Triple,5,2012,Single Tuner
+05be575f-a70a-11e5-96ee-7845c4b142f6,BqkNcsfEfUjPtbrsHccwuytT,bEyN4zForVveRn8hoDOsIUKld,Chittenango,CO,72017,Single,1,2005,Single Tuner
+05be5760-a70a-11e5-9f92-7845c4b142f6,pDywfqCDroZUWceNXaoiHuoiJ,MkY57i03uozygx6psxysKZbm2,Argo,KS,71328,Triple,3,2009,Single Tuner
+05be5761-a70a-11e5-b57a-7845c4b142f6,vwebQcuKegYLabbPEvbN,CkWAvjAsESJh4AQDJ0OQmZJrJP,Shell Beach,RI,6796,Triple,2,2001,Double Tuner
+05be5762-a70a-11e5-b772-7845c4b142f6,ssrkNZTqBxZhKyYgyZuKqDtm,LC4r2BNTvIjylLpq8jzEHe02qeHdvfyXeIQrsAJY8,Fowler,MN,3276,Triple,5,2005,Single Tuner
+05be5763-a70a-11e5-a5d2-7845c4b142f6,OoJepEvmBdZwsTC,LhkhbxLKyEHthp6jBnx3FBQwC,Tarrs,TN,75558,Triple,2,2008,Double Tuner
+05c0c85e-a70a-11e5-8775-7845c4b142f6,QntnZtOJLqC,m64BecwJqOqDnG3xjyJi42Tp2gV,Talbotton,MA,24124,Single,2,2003,Single Tuner
+05c0c85f-a70a-11e5-b5d6-7845c4b142f6,KYTlAgkOfLxuKVxIeRVyM,FA7wKUPtJcyXyZOIx2epJtaqw,Sebeka,AR,26351,Triple,1,2014,Double Tuner
+05c0c860-a70a-11e5-b60c-7845c4b142f6,XokbFfpjvAyTruohF,58PbevQShoB4Lza8Lzah1xpnNO9IgzjdYcNS2,Devon,DC,73853,Triple,3,2012,Single Tuner
+05c0c861-a70a-11e5-898f-7845c4b142f6,CxYtLLIBouUpdbFwtXhMwL,Bpem3hreBMzyYxDX4OXFNyDVncLqe7V27X7EHg,Wintergreen,SD,28466,Dual,3,2011,Single Tuner
+05c0c862-a70a-11e5-bd11-7845c4b142f6,jZrmCdCsJKYbpvtfOFAGiJ,3etQqkQFsCHNocVRd8LH0yB0LdtBeJeiTtdjUkzQa,Mcvey,MO,53705,Single,1,2001,Double Tuner
+05c0c863-a70a-11e5-b9e8-7845c4b142f6,VtswKCqBiJOkhGT,nmIMLH5FsqZkbZD1wjHT9WpJ,Natchez,NE,13428,Single,3,1998,Single Tuner
+05c31251-a70a-11e5-a241-7845c4b142f6,zUGwWjfIFXGtiEXLixlZeRH,laoVTzAqEarrdtKP5byQJllDcsz0fuayTCZikLWRVLW5dzvCk,Kewanna,LA,68446,Single,3,2005,Double Tuner
+05c31252-a70a-11e5-8723-7845c4b142f6,wOKZIAYfhDFdwiWL,tryVBEDDVUGf5mNSqFKEA3gB,Pleasure Ridge P,LA,14026,Dual,2,1999,Single Tuner
+05c31253-a70a-11e5-a5d2-7845c4b142f6,oGDnDQpQyVTYzEZ,dpRVReH8uBE7hTU7dgaofIxMc3YORGjB,Blandinsville,CA,6801,Triple,3,2010,Single Tuner
+05c31254-a70a-11e5-bc28-7845c4b142f6,fJiQnofBWaVhkq,E6mwYdWCEIVOHvL7SOsGHL2cH3maT9AdDVMXK14OWGclO,Cape Neddick,ID,52321,Dual,1,2007,Single Tuner
+05c31255-a70a-11e5-8082-7845c4b142f6,rTQXsWsTURxqxykQxODxbj,T4hsCbW7WS3FohDp4PKTDeZP2owKClnf,Lake Mills,MA,5907,Single,1,1999,Double Tuner
+05c31256-a70a-11e5-b28e-7845c4b142f6,DuNFYhlPkWcvbaVgK,lmzERA0o7Zx63lRMmiICYFvkxonYzHaOtzg4nLVutdw10v5W,Rake,MD,48327,Dual,4,2001,Double Tuner
+05c58351-a70a-11e5-8a1e-7845c4b142f6,hZECINptXDdlmhrDRrdnRxH,Kz0LafpEe14RJW8pWEWMBDD2PiS1JmW4OGuTYIAGlyE8Fk0tjY,Saint Croix,TX,92054,Single,5,1999,Double Tuner
+05c58352-a70a-11e5-bc4d-7845c4b142f6,UdOaiEPnQBJQhkrhExP,DWtpsJ0MpPcX43se3MtXayfWidVzTOuUexMbbb9EXBL,Hellertown,WA,73145,Triple,1,2004,Single Tuner
+05c58353-a70a-11e5-b74d-7845c4b142f6,wqNKQXlIkKum,WwRyADJT5kbEh6uxW5vtM9rbOJm3W2QboJdTMB1rPZqNKD,Mendham,AR,41536,Dual,1,2003,Single Tuner
+05c58354-a70a-11e5-8aad-7845c4b142f6,XatSRbERKYYsFVYcW,jkEZN00b30spSE91pFqNFvXxvV,Thetford Center,SC,97462,Single,1,2014,Single Tuner
+05c58355-a70a-11e5-bd72-7845c4b142f6,EnTsZecgjdgIaACUzssKoKCk,pxZRPtk5kKH4RLUAys4MsJJnY6FnRVLxs,West Chazy,ID,78624,Single,2,2013,Single Tuner
+05c7f44f-a70a-11e5-8502-7845c4b142f6,arrabGXnDSHRDRCBlfDTqxWL,QdSafhd2XUQNLxhOmhCUfY2KdFWYbFNJxwwLlTn8f9lsQPP7d2,Floral,MA,50854,Dual,3,2006,Double Tuner
+05c7f450-a70a-11e5-8a59-7845c4b142f6,uMZOfPUHjoba,7JbMklUwOWYdomsY779HOdvGKA8bXM,New Harbor,MD,47161,Single,3,2013,Single Tuner
+05c7f451-a70a-11e5-a424-7845c4b142f6,GJdFWtsgKOhmSN,gRnGwywzeCXRy3ax6nP3LIR7XYF1QP4Y,Melcroft,VA,22027,Triple,2,2001,Single Tuner
+05c7f452-a70a-11e5-a824-7845c4b142f6,YmKCcRrYUwlzCbo,X2UwJprjEzKLkTQ8WvdpS3bbWe4rZXrE3pVe8eGqVihelZg0mR,Beaverlett,VA,94132,Single,2,2009,Single Tuner
+05c7f453-a70a-11e5-8c90-7845c4b142f6,XljTTYsAftjCDwTqnoYNerZH,2G8btpXKhF7Ig4X5O5zmzUk2rPWErNTzcLQoV4j,Boiling Springs,NJ,27260,Triple,1,2012,Double Tuner
+05c7f454-a70a-11e5-a7cf-7845c4b142f6,UtvlYyRczV,NAj6tKJfk7hOcEAxonEXnJMA5ovoLOX,Laurel,NM,60506,Dual,3,2010,Single Tuner
+05ca3e40-a70a-11e5-bce4-7845c4b142f6,hKcitZfLqNjAtajGdAtzBjqBk,LIRlkRrk8k7jUA9ErdQQsploi9D,Fair Haven,AL,25105,Single,4,2000,Double Tuner
+05ca3e41-a70a-11e5-ba20-7845c4b142f6,SbLnWnJPBthSXCut,yYg9tNz25waKmCgje2VxvuiKE9yO5zwAmQA1PFAEmuc,Kalama,MD,59647,Triple,2,2006,Single Tuner
+05ca3e42-a70a-11e5-970b-7845c4b142f6,DJMJacPefbjINUglCQqNQISQ,HSIyhF1KwF4B2dCKDmFEq7hIWbf4,Gibsonia,NM,32830,Dual,2,2010,Single Tuner
+05ca3e43-a70a-11e5-90a8-7845c4b142f6,mTVNRneeFcyPqRkuDyiJpNNOj,YCCUDHlOzlxagCl3lbmiaZnxu6zjmEtwLHYqaiRIjiduep,Louise,ME,14572,Single,1,1998,Double Tuner
+05ca3e44-a70a-11e5-b2b7-7845c4b142f6,mBcDktxJbLNdVLo,wvSsdvfHPQXqS9TS9uswmMnmCp9HY8,Rufe,MN,24270,Dual,5,2014,Double Tuner
+05ca3e45-a70a-11e5-90d4-7845c4b142f6,cYxfwdDcoNjOjmQvRhqTXgyA,q0GodVNcOJmLSCjeBBr4jfQYd7tgFXw3jqhAeFeQYEWgH,Castleton On Hud,KS,24283,Dual,4,2004,Single Tuner
+05ccaf40-a70a-11e5-bbd6-7845c4b142f6,tdBxSRHKOIyLlpMyB,tOjILnapU0BTWBzAl1nJE6dhneVX9Kf0jZHqdeg3iYzHd5bF9,Galliano,MN,84101,Dual,5,2002,Double Tuner
+05ccaf41-a70a-11e5-9716-7845c4b142f6,gUVCgDlNqatwTfyFLu,rjo6cmjrz1LfiKe8BYPS7RcQ5wqryHZBTbX5p3HICAH4Ra,Hammondsville,NM,38310,Dual,2,2000,Double Tuner
+05ccaf42-a70a-11e5-9595-7845c4b142f6,UqJixHSvfAzXZ,RD4InFIpPRldCSbIvnkVTxRiR6kvVBBYUI0N8zN,Spray,WV,55120,Triple,4,2009,Double Tuner
+05ccaf43-a70a-11e5-a1a5-7845c4b142f6,QoVJqnJFFQpWfXuVuzZiYnK,uebsdWmjOclcbKDbpZ5Wdr8NWoOxFjrLAe9DXyKF,Chariton,SC,33486,Dual,5,2006,Single Tuner
+05cf2040-a70a-11e5-a963-7845c4b142f6,OQmVEgdnczctCqzzMgjeHwF,Bnvs0f9FE48BvE8tpA45Svg1iZHAhK,Primos Secane,DC,55760,Triple,4,2012,Single Tuner
+05cf2041-a70a-11e5-ba5b-7845c4b142f6,GLujMiZSwcZQgentUgtNgikVl,bMVZFaOOlgeiAZEYswdiyw68xeTTED,Yorktown Heights,CO,2879,Dual,4,2011,Single Tuner
+05cf2042-a70a-11e5-930f-7845c4b142f6,AbSfknFtGNStWVUFeHNkVuU,aRff9NhkVtdMmuy4SZ0r6nezt0zplIBD2uPLI,Orient,MA,63733,Dual,2,2010,Single Tuner
+05cf2043-a70a-11e5-b2ad-7845c4b142f6,heatUGFkBeTxTbyGSGtX,ZE2N2gm3pafZvNr8vWgdavXRE90qkBP9pUuQgsI1v7yAs,South Orange,ME,13801,Dual,4,2001,Double Tuner
+05cf2044-a70a-11e5-b996-7845c4b142f6,EVxNXBXfqXRjkxjE,apxEDKUZ4sey76e0T2yfmNwUk3uIfGcfLT6LRETg,Ellenwood,NH,41653,Single,1,2000,Double Tuner
+05cf2045-a70a-11e5-8c18-7845c4b142f6,nICHyePgxxLjiH,j4dPiPg7ydDkW2HDVt4jJdTPxhmi6PuDZLrgvn,Prosper,MN,38242,Triple,1,2001,Single Tuner
+05d16a30-a70a-11e5-a42c-7845c4b142f6,PiSrrPdJZRcccypgyJcM,25K3MEgI5gf4fMNtk2k0WiSK6xlFEYzivx,New Galilee,FL,63675,Single,5,2015,Single Tuner
+05d16a31-a70a-11e5-87d8-7845c4b142f6,UCbJbooQpRGHPPXy,rM0Wgn3aJrG1bJFzPanqV3KexE4A1YrRFSRqfUWTd6j,Pledger,OH,58039,Dual,1,2009,Double Tuner
+05d16a32-a70a-11e5-9c7d-7845c4b142f6,BvnAWAjIiObqJ,DAflKjOsVGnQqh4Cz5a921pu,Spout Spring,DE,18088,Dual,3,2013,Single Tuner
+05d16a33-a70a-11e5-b191-7845c4b142f6,UpZGwCJtPZGgcMkJGNa,N9bH9T94U8wX4VWtVit480bsbImjlIJbL6uyA5GrsYjopoWdv,Westerlo,AZ,47665,Dual,3,2012,Single Tuner
+05d16a34-a70a-11e5-9da8-7845c4b142f6,OSSNQheHZMykguFpSCfshqbbO,tg9A7BG4e0TfAgLb761fJfsUhll,North Java,VT,21401,Single,3,2003,Double Tuner
+05d16a35-a70a-11e5-b081-7845c4b142f6,LPJAxzKlSpkjC,cDw3raqsEEaIELBY4RwM91iLGKQvRLaZ,Henrico,MT,31639,Triple,5,2005,Single Tuner
+05d3db30-a70a-11e5-af78-7845c4b142f6,oCeldbElaBxTBSU,8bEKIrj8WaQ8x5ccSQvXMlaH7k4pY1ZWaVjyJ18mUs3xB,Temperance,MS,47220,Single,1,2001,Single Tuner
+05d3db31-a70a-11e5-8437-7845c4b142f6,hFeUumwafskUToGLuH,32XIBLK5XAG6KeMz3U0a2HxpRuOaZc5sutzSeET,Castalia,LA,82329,Single,5,2011,Single Tuner
+05d3db32-a70a-11e5-88ae-7845c4b142f6,QZNuPOXNKPBnbAR,zGG20zlgsBuYw2zuWmwV2HLTxW,Oriental,NC,42736,Single,5,2001,Double Tuner
+05d3db33-a70a-11e5-8cdf-7845c4b142f6,nydDWXgnhVXKgolb,mP0nJ2hpuDTYRSpLx6lwnOFdpUFyk7OThUfBp8fZyGrDHwecA,Rehoboth,CT,38824,Triple,5,2008,Single Tuner
+05d3db34-a70a-11e5-878d-7845c4b142f6,AkrSvwoUEmijJpgQab,9gMlzaNHKndFkCSHzfSmqaPJCzOTYBrB3Vlr,Atterbury,DE,60437,Dual,5,1999,Double Tuner
+05d62521-a70a-11e5-ab05-7845c4b142f6,viBVWmmHztbBmzrD,r2lOKIrOc2AwLyp3dggWqy1AZ0POflhbx,Lacarne,NY,49304,Triple,5,2000,Single Tuner
+05d62522-a70a-11e5-88ec-7845c4b142f6,ElIGYbEsUJNmxCvmCDOENCKu,rzxu6xgfjju5hruhlm14CHGJN,Erieville,DC,59270,Dual,2,2002,Single Tuner
+05d62523-a70a-11e5-89c8-7845c4b142f6,LJWfuhhpqpYvLODv,AlEBwn5nvXazPa4BV1wjFM1q,Taberg,HI,94703,Dual,2,2009,Single Tuner
+05d62524-a70a-11e5-b946-7845c4b142f6,LUzZZVuQgAMo,AbnkRWpANEU551USobsu9L5ljGqzOf0UGZmmsAeUIuJUXXV4P,Steilacoom,MI,60464,Dual,5,2011,Double Tuner
+05d62525-a70a-11e5-87a3-7845c4b142f6,ZDZwqgdIzvyAKANmCG,xI9kiQolCtu9ZgT3AFjcrM77i6pe,Seaboard,NH,66227,Single,3,2007,Double Tuner
+05d62526-a70a-11e5-983d-7845c4b142f6,qMLMlFpKhryhnMzTVyH,KCzwvZhAaglLlvgXGdNhQwiynfHPwNcwXfOA7,Devol,DE,27922,Triple,1,2010,Double Tuner
+05d89621-a70a-11e5-96d9-7845c4b142f6,feWOhdTtcCx,rqIw7kD7WHyppUZGkFjAyMB9xWEqUaoTJixBs6KV5vfIXup,Rattan,LA,2657,Single,1,2015,Double Tuner
+05d89622-a70a-11e5-af4f-7845c4b142f6,mrwMcXTGtrk,uEf9OiGCoDzEDyOIlAim9irxsBpqmCeaTbZsnrVd,Mosinee,DE,49034,Dual,4,2015,Double Tuner
+05d89623-a70a-11e5-b5ab-7845c4b142f6,zCWDltOGnQdTDKi,mVetKJMh5xm8cZIO9U2vnsFSVkVM1c0y7IzeGLQPjyu,National City,IA,57006,Triple,3,1999,Single Tuner
+05d89624-a70a-11e5-980c-7845c4b142f6,GZGXwFXOlYWWfgqZEkP,duael0OAahJ2reT6Wtlhq54pNo7Eh9wO2,Rocky River,MN,55804,Dual,1,2012,Single Tuner
+05d89625-a70a-11e5-9007-7845c4b142f6,QKgoNhToSSeYoJ,6LQDLW7lLDmnM8CY0Z7zzCe8NCBeSzI2GX2nc0gE5,Cobb,DE,58451,Dual,5,2014,Single Tuner
+05d89626-a70a-11e5-a976-7845c4b142f6,kpRmlJdXbAbWZoFmXKnZeHM,4epEFaY4vVioMNlCEl7mtkRnVYHihQYnmyatkxVbzTcfomgB,Pleasant Grove,WY,22482,Single,2,1998,Single Tuner
+05db071e-a70a-11e5-b080-7845c4b142f6,rnsLmVHaQXD,Beg5AKB4JgnxMf5EXFjA5bk3tcqRj4GfaweP4dshIx8jxIp,Ruffin,ID,6105,Triple,2,2011,Single Tuner
+05db071f-a70a-11e5-b2d5-7845c4b142f6,gnmeJqySYiYHLRz,tUDyuZ3CaX22v2r5NFFjaxHce3u2hf1ImitTZjWxBk,Ord,AL,11776,Triple,5,2004,Single Tuner
+05db0720-a70a-11e5-81e8-7845c4b142f6,WnwUrFIqgNgWZJjUzjmyR,L8pWBwwgeaN22tUCbOhaRFtYXeJSyJEoAJq4k4,M M,ND,72022,Dual,5,2015,Double Tuner
+05db0721-a70a-11e5-9227-7845c4b142f6,aWhYsIcDTciresMGNj,Hik2K7cR1IHnCrI4p3BH5G1IiFyivHDSNo7pEr,Makanda,OR,62411,Triple,3,1999,Single Tuner
+05db0722-a70a-11e5-896d-7845c4b142f6,hRnFjyMoRSKJBwo,Rjtj0owa7DMUmnp5ahHRO23Adc2X0uO35BfPBNejFYw,Sharon Grove,NC,46348,Triple,3,2002,Double Tuner
+05db0723-a70a-11e5-a3ab-7845c4b142f6,RpxLzlgPbxWFRJlAto,4aL6qd22t4eiBq2lVf3XylfSNZm8aIb3BY65vxg4qoBzl,Lawton,CA,18327,Single,5,2014,Double Tuner
+05dd510f-a70a-11e5-8a56-7845c4b142f6,YPvMiVhbNx,KysQyskyH6CIc4m6Fs0O6a39aUbnnG0ZHMleb,Schererville,NV,66085,Triple,3,2014,Single Tuner
+05dd5110-a70a-11e5-add0-7845c4b142f6,sVntqdcAzGyCPhWAkKWU,QJOO6f4kvPsz6RdnXFeThiNMpSfz4KMnCTk2JIVjOPyI,Cold Brook,MT,67831,Dual,2,2000,Single Tuner
+05dd5111-a70a-11e5-b7eb-7845c4b142f6,geqqysbFnxlpuvlaVZWCMBoJ,LMzemvbxq0qnXtvKcnfuH86HDl7T7OPsqxt,Otho,CA,72442,Single,5,2003,Single Tuner
+05dd5112-a70a-11e5-b803-7845c4b142f6,yxaTSxEWHVjtHBZyjRkh,jfyeNIARDC2PbhMgKkB4aDIZlXpDP6aqDb,Dupree,IN,27355,Dual,4,1999,Single Tuner
+05dd5113-a70a-11e5-8e6b-7845c4b142f6,jKUVVkMTDwqNHeux,FzvlObHIJAnSaglSgq1SDDnhr1cMhLpGD1LkN0kBQ,Loysville,AK,70510,Triple,5,2012,Double Tuner
+05dd5114-a70a-11e5-b13f-7845c4b142f6,oluVuDXkJVxIEFkIqou,heVqBMAXuhJxO4BpLGfTF3Zt0LL2,Why,IA,64801,Triple,4,2007,Double Tuner
+05dfc20f-a70a-11e5-883d-7845c4b142f6,LMTFzrrbiDlAVbBOsM,vfDb4WS9cQ43CEn6oRKpuXll8IJYHCvGZMgG,Lobata,GA,19446,Single,1,2004,Single Tuner
+05dfc210-a70a-11e5-be4f-7845c4b142f6,PyGBpbFZIHvTIA,u2NkWEL5OssOnACo2tMv15NPX8IqMoSTxVYPYEL,Cabot,MA,80809,Triple,1,2001,Single Tuner
+05dfc211-a70a-11e5-b54e-7845c4b142f6,GqgzIXpLtZN,9oQs5cbdJFq2YYHstUrE2JAY,Jamison,FL,40445,Dual,1,2002,Double Tuner
+05dfc212-a70a-11e5-9525-7845c4b142f6,BnALsWWpgFSn,2lKAT9mHLM2M1O4qnfCvxcUUHgK,Witts Springs,DE,15639,Dual,3,2010,Double Tuner
+05dfc213-a70a-11e5-991d-7845c4b142f6,WHBnyESGSOZYYWYzQfj,Ptq579VeiMuNmmkfZMYSAMU10VFV,Farlington,ND,51446,Dual,1,2009,Single Tuner
+05dfc214-a70a-11e5-afad-7845c4b142f6,knXaxGOMoupZkblicxvd,WVrTIXSW6gDrrI3GNdjybbISDL,Collettsville,OH,98263,Single,1,2002,Double Tuner
+05e23311-a70a-11e5-b4e7-7845c4b142f6,IZViQAJeosvueJUUqnfBZEJVb,P7ZtOibbEiQwFXwv0gMzYnTyL,Powderville,VT,47616,Dual,5,2010,Double Tuner
+05e23312-a70a-11e5-bef7-7845c4b142f6,gurkcuNdNXBRUeUOpwMQNrpeC,TcDUQhpKY3Sqwva4RQT8UP4Zygtagw,Kerens,DE,62998,Dual,2,2015,Double Tuner
+05e23313-a70a-11e5-b278-7845c4b142f6,QaYIVitBHhLw,uNwhVcVL7xaf73zXjNQNp0XWh1,Burneyville,MA,12071,Dual,3,2001,Double Tuner
+05e23314-a70a-11e5-9b1c-7845c4b142f6,gRGwqnCLHfounxaJ,LgRpk0W3UGGnzrYlREGgxPevrLJbLE53eByCELz96Lm,Corfu,AZ,48502,Dual,2,2015,Double Tuner
+05e23315-a70a-11e5-aff0-7845c4b142f6,ZdnlycbwLrjDIJddPzXZa,sQsv3Tk2C99qqpSoMNSSmLVOfLXYbCrZn3yoXJ,Delanco,IL,96094,Triple,2,2013,Single Tuner
+05e23316-a70a-11e5-8a13-7845c4b142f6,tMalXOsxYBYUejfMqEqBMeAM,yQRkv86Lj4PA7GXpZYNg4QJqcHc6Lq87A,Prior Lake,RI,45065,Dual,3,2015,Single Tuner
+05e47d00-a70a-11e5-b05c-7845c4b142f6,hUtGMfprviacRAxbZatN,cGWYvSUxam8JvBNxHHsHSi8Dr1DTQHQZ2oN,Orderville,NV,77056,Triple,2,2001,Single Tuner
+05e47d01-a70a-11e5-8b09-7845c4b142f6,mQwCtYjPHOpIwyBJ,WBd5fJ1UxndMDVRizwmBVGcnq4,Hempstead,OH,66540,Dual,5,2001,Single Tuner
+05e47d02-a70a-11e5-ab98-7845c4b142f6,WdhYaCEpPNkWRfQheqTCxh,lfyfMQaIdBrHmrniH6b1lAEIpl,Oregon City,OK,73150,Dual,2,2006,Single Tuner
+05e47d03-a70a-11e5-b208-7845c4b142f6,WtuvoDAQmyci,aLRYN9PIxg822hX0tT38GxI27fIb,Bloomingrose,NH,43014,Single,4,1999,Single Tuner
+05e47d04-a70a-11e5-bc20-7845c4b142f6,ZJnjqZHNmXDZYnRxfbyA,hh6HBswT7sc7DTvz7U845LZLVcRqxI8wC2IZJ31no4Lfj9K8,Dunkerton,ME,71466,Single,3,2013,Single Tuner
+05e47d05-a70a-11e5-808d-7845c4b142f6,WsIccsoRnNSiMruaKRcwmau,tQ7fpOkjp9fS3BIvxz8WnIql6SRxagks2,Sumerco,OR,59546,Single,3,2000,Double Tuner
+05e6ee00-a70a-11e5-b8a1-7845c4b142f6,EcqUPMHBOcNanyARxq,xwV9tzPTsoe2nPXR3ODUVY7Gdel6DhGEXD4YBpXQu,Glen Aubrey,AK,30733,Triple,4,2008,Single Tuner
+05e6ee01-a70a-11e5-a020-7845c4b142f6,sijAOWwaexkDtaCqsNHR,BuGJXdC0dx76mIQGvJPxSjFeBOZba,Columbia Cross R,TN,48103,Dual,1,2003,Double Tuner
+05e6ee02-a70a-11e5-975b-7845c4b142f6,uuKbKhIuDoZqokI,N2aTnoEyWD2ArRmV44kKPUC2I4BEt9KH2s91,Hailey,MD,34684,Triple,3,2009,Single Tuner
+05e6ee03-a70a-11e5-9912-7845c4b142f6,nkdfLLwPQAKStCX,Mz49cREJJ6K7cCg6nHxB3DW0Pg,Codell,WI,51030,Triple,3,2006,Single Tuner
+05e6ee04-a70a-11e5-87de-7845c4b142f6,lryccsLtvRRKLGfP,l7sGlatpGkPzWfiLbMNQXkS4iQGfH6bUTHTtXMMhrCXUZQxiq,Ouray,IA,33411,Single,5,2015,Single Tuner
+05e6ee05-a70a-11e5-9ac2-7845c4b142f6,OjqfmehpjCVbOlTw,rjlt6nAarSN1Ezzdi4K5OBRKYgC3XMBaw5KPiCku5,Meadow Grove,MD,11375,Dual,4,2000,Double Tuner
+05e937f0-a70a-11e5-96f7-7845c4b142f6,PHqfhhLpyjcxyTwDHglgT,49gGSiyaoFTlMw8EWiNwCmMRAySeZLkvzjT7Hch8P,Vada,RI,63117,Triple,2,2010,Single Tuner
+05e937f1-a70a-11e5-a292-7845c4b142f6,xrYVsKGFnPEPj,K6bu2oOG1EgAnsiNZuDYD7MEBuDJt9pt5n6Kmkgf92g,Lucan,MO,55788,Dual,1,2006,Double Tuner
+05e937f2-a70a-11e5-99e7-7845c4b142f6,dOStdMMOnPfzjafboq,D41LkGwPvXFGONKku2DokRhV5HAjOGvJQmC5rRuJCF9sVpQI,Mount Union,IN,24348,Triple,4,2005,Single Tuner
+05e937f3-a70a-11e5-82b7-7845c4b142f6,CYhDyhYHCrCPwswKZr,SWjFkPNuKWd8inqQSMNtwdMQ7XmsOhgFAmnCPacHboQvATC,New City,OK,79061,Triple,5,2002,Single Tuner
+05e937f4-a70a-11e5-b95a-7845c4b142f6,dErUosRlCIBjQmJLc,YpKJIPrh9w0M7Bh74DS6BvsRUl04O2kRBTJDmEIFps4x,Ceres,RI,24437,Single,5,2007,Single Tuner
+05eba8f0-a70a-11e5-8049-7845c4b142f6,JVDswUDjyQpZMCuEgMNDwGnej,VWFPBlRB2agutj521Fu0MtGpnzueomwjzPbCqwQdwBdfl,Scroggins,CA,40327,Triple,2,2000,Single Tuner
+05eba8f1-a70a-11e5-99d9-7845c4b142f6,EOYRrWpPUrgxxMPzKVsGWG,GFrOgDwLrlucjYDR17SAhW8PYGafoeV72A,Silver City,UT,15920,Single,1,2002,Double Tuner
+05eba8f2-a70a-11e5-91b2-7845c4b142f6,jmnquRTYPQsPjPLlrSNFIl,1N6WOGQzd0yDi5nVUkTVcsGlgL,Fryeburg,ID,82923,Single,3,2002,Double Tuner
+05eba8f3-a70a-11e5-9abf-7845c4b142f6,biUtKEpAJoRLjGYqg,Xz8scPJ9G7TekukhgPVMzx2yXghmx,East Point,DE,12955,Dual,3,2003,Single Tuner
+05eba8f4-a70a-11e5-9df8-7845c4b142f6,zumjotGtThGcnSbruShAOzhE,0P2f99QdgBvcVnWXaH3p6QfnHcKUZ9MP2G05dU,Wingo,UT,48412,Dual,3,1999,Double Tuner
+05eba8f5-a70a-11e5-bcb6-7845c4b142f6,JpVAbVYucpllBHns,yxJZkYnxJDQP7suGRbjJfTwEhHp4PJEp47GK3g8BG0pHwDECmv,Fountainville,TN,21851,Triple,2,2014,Single Tuner
+05ee4100-a70a-11e5-a915-7845c4b142f6,cvDivlmepUs,c3dqXoBFatHme7Y1wn9S3kUWhp2ttqii1s8g21KJqR5oaB9x,Wagener,MA,75203,Triple,3,1999,Single Tuner
+05ee4101-a70a-11e5-9973-7845c4b142f6,ZcNoRhedcA,Wma1agXGbnUxRgHoy5Ados9QKYUC48FLa0EteC2K4HA,Lecompton,IL,37618,Single,4,2003,Double Tuner
+05ee4102-a70a-11e5-ba90-7845c4b142f6,GDHlNBTremXeugMORajDCdst,i4R8Y8QWn7SJ3HoX0mSRy9EyGk8zFpqMzBspnlu,Blue Mountain,NJ,60966,Triple,4,2012,Single Tuner
+05ee4103-a70a-11e5-88f4-7845c4b142f6,tFsMxSVXZjnpHKNTrBIIDQw,3kwTPWUG6eNQPsXWlmEyIZArWlAtjVBFn,Ghent,MA,59860,Dual,1,2009,Single Tuner
+05ee4104-a70a-11e5-8a77-7845c4b142f6,adjSiVjytgFSYHbsHC,EhN2Ps0voTgL9iVdLHf1aVb,Boody,ND,32212,Dual,3,2003,Single Tuner
+05ee4105-a70a-11e5-a1ae-7845c4b142f6,EPGdoaAgiHAhsXeZpbbR,QFFrPh7u0EhJ84vLIw86lh7jK,Neversink,VT,6234,Dual,3,2000,Double Tuner
+05f08af0-a70a-11e5-bc02-7845c4b142f6,tcvGTQsDyygPcVG,3baOMeJSEsi6nXjaHfAhU4EgsjRn9E5cnziesUucJEeFeAG79,Westminster,CT,64017,Dual,1,2012,Double Tuner
+05f08af1-a70a-11e5-8a01-7845c4b142f6,TFYsDTJHqot,UmZ1aVKdXw9NDupYMkiNNYkhKcrUZ5jA9MSdYmnOBXSgwkk,Ivanhoe,KY,56281,Single,1,2013,Double Tuner
+05f08af2-a70a-11e5-9948-7845c4b142f6,bSvUnINqFFY,UNx7pzWHSS3KC7j9DVOmNbc2OsciOavTeBC2KJ8UsyI0,Tukwila,MS,49905,Triple,2,2008,Single Tuner
+05f08af3-a70a-11e5-81ea-7845c4b142f6,pZaiwQIaBZguTWhDYzBSFYSYr,epWewSC4SExMvzYiL4sxF3D5WUkQnTR5FFRXO4yPNLeJb,Noonan,CA,57013,Triple,2,2010,Single Tuner
+05f08af4-a70a-11e5-a5d9-7845c4b142f6,NGVmycfLqWIXAmoRnPWEvdYE,VUTxzIewRDlfCrF0WUxQNLpBXvvfhiJc,40817,NE,37189,Dual,1,2001,Single Tuner
+05f08af5-a70a-11e5-bef3-7845c4b142f6,BZVhxsdzdIyqSwUrlvacHsrM,uKmPYcZphFj7IAiMPzSJ2Z6uiS40mSeDXHO3Nl9D82,Reed City,MA,80807,Dual,2,2001,Single Tuner
+05f2fbf0-a70a-11e5-9f52-7845c4b142f6,jQrYfPOXhKiqp,OZkzY3hCPEGbDvUGzuF86fzJqq1FLWajwj0VERcXh2jE,Pilot Hill,SD,93623,Single,5,2010,Double Tuner
+05f2fbf1-a70a-11e5-ba16-7845c4b142f6,EgvoMYVZfsE,Ig6mBIyVxsQOSiSZTsY3mnUHpCnpWDOUdOJps1AIVCeND,Rathdrum,OR,18618,Dual,2,2006,Single Tuner
+05f2fbf2-a70a-11e5-a9ae-7845c4b142f6,omxpVSswxaAePKXqIVu,DpTdmLe1U6Bwk4rQh7QS69dFdyWdjqfjCMfxClMG9lh,Butternut,TN,91024,Single,1,2003,Single Tuner
+05f2fbf3-a70a-11e5-a6fa-7845c4b142f6,gVKkrYsFwcFg,g2TQFDpHsAalfdFRgXJ6x2VVM3,Faribault,KY,78608,Single,4,2008,Double Tuner
+05f2fbf4-a70a-11e5-b5db-7845c4b142f6,VqbyRIXIMbXGZ,2AUpcMR90JOP5K2flcZCo8DQ1N7IU7dLthyZMBMPnxIXK7,Kiron,SC,40481,Single,5,2004,Double Tuner
+05f2fbf5-a70a-11e5-b30b-7845c4b142f6,fQbrvAJNKhauTXw,tCl3Qs4DrFt1SX3J1NdZfXvFYb7FM,Tijeras,MN,62822,Dual,3,2002,Single Tuner
+05f56cf0-a70a-11e5-b80a-7845c4b142f6,KjZelQJkuQI,MhkhaJLgx7hVp4yTUX3XNaNYZJimoTc9ZTRN,Saylor Park,AR,25005,Triple,4,2011,Double Tuner
+05f56cf1-a70a-11e5-aced-7845c4b142f6,cFPtZSntWZqsDurcp,dpyLdbl6pplO7ZEDmufIbOTBD,Gatlinburg,TN,2863,Dual,5,2007,Single Tuner
+05f56cf2-a70a-11e5-9db9-7845c4b142f6,WUogpVbOvtSllvdj,rvmHq5hKb6aUEmlrtRlVmyDHmabpiKa,Egan,NY,36314,Single,3,2015,Double Tuner
+05f56cf3-a70a-11e5-9af2-7845c4b142f6,XeHEApTddZvKcnewoXLCKe,twBpk16nbdmKyO8gQ9caKFL4zZzhNlTYRONjdDiXhHb,Highlands Ranch,AR,50531,Triple,1,2008,Double Tuner
+05f56cf4-a70a-11e5-8b7e-7845c4b142f6,MNcvjTVkAXLqZCXZT,xguI9U8CfNuyq61qaNpkkaHpQL5oXlkw4IovJpkwxlU3GzDC,Hawk Point,MI,77442,Triple,2,1999,Double Tuner
+05f56cf5-a70a-11e5-8cf3-7845c4b142f6,zMAMbPQZXiCHCXaHCqVufM,Na7zkGefsuyRNixwDSHx4s8eN8omb2Lwq,Proctor,DE,74369,Dual,1,2007,Single Tuner
+05f7b6e1-a70a-11e5-822f-7845c4b142f6,HUFtWALeinUVWkMuZsIOaii,4TrbIfPBc7ZF6631xeYYcv98Hrn8CrmVk16pJVQtPFSkKL,Amherst,AR,79743,Dual,3,2003,Double Tuner
+05f7b6e2-a70a-11e5-afe4-7845c4b142f6,SWBFCHuUDD,4M1opKGv4TLX4AZbVlWtbXvo45AGy4qcGR,Newcomerstown,LA,17723,Single,2,2002,Single Tuner
+05f7b6e3-a70a-11e5-b4c6-7845c4b142f6,HIXBEJhrEVnApBvtTcywU,Dif7TMhVCmwbKyzG4vCMYVYBezQFk9nwS3OocOImnYPWZ,Manvel,CO,49029,Dual,2,2014,Single Tuner
+05f7b6e4-a70a-11e5-b40c-7845c4b142f6,YpZiTgCIKarQyFYsIhiFgZmvG,5SApXX2eFcmrxFxell9wW4bdu9IM00oyj39CsYzzY2Mlmf,Rex,OH,30470,Dual,1,2001,Double Tuner
+05f7b6e5-a70a-11e5-bdb3-7845c4b142f6,PHXoLmutMDXquyD,73WKGhxzPptgmGOYw4b5BA5MhAAD,Bee,LA,22433,Dual,4,2007,Single Tuner
+05f7b6e6-a70a-11e5-99a8-7845c4b142f6,MNvAGyCULLlpewU,RZZppE2LTQyIgyGZ3XU0WejgGXwtWo,Zurich,ME,6460,Triple,1,2007,Single Tuner
+05fa27de-a70a-11e5-a213-7845c4b142f6,kqHcPozLvszuZUnAwhPOMJ,88Zt1Wwvv87RFzdIHtH89ScNI8UlATbNjkf,Mountain Top,AK,74462,Dual,2,1999,Double Tuner
+05fa27df-a70a-11e5-bed6-7845c4b142f6,EoUGIzmSzk,PMpscnrG5vJy4GdgIQEpJvS9ZuqhfhMs,Grain Valley,NV,58338,Triple,1,1999,Single Tuner
+05fa27e0-a70a-11e5-b9ef-7845c4b142f6,HyxPRQhpphTzRojQTTxHDmnh,sR5h2kKhfUDRUPD78oX66OpE7kP4TUEubjqvqRj0iNuqlUfDOG,Ripon,VT,12455,Dual,3,2014,Double Tuner
+05fa27e1-a70a-11e5-8d40-7845c4b142f6,GFXHztAimcMZWe,NBmYXf3nGkS0Obnai5uUWetPp,Scottsburg,WI,60942,Single,1,1999,Double Tuner
+05fa27e2-a70a-11e5-b8b8-7845c4b142f6,STLZuVyyGIPVLDnEqpp,A7McThOn7qgWYh0FRGwvSuuapjWqAlOnh9j6KgklxCNRJFdBif,Neeses,VT,46788,Triple,3,2011,Single Tuner
+05fa27e3-a70a-11e5-af7b-7845c4b142f6,ihmgVMpCammMrQG,EdeGO3yKGjijePWZ2kulW1O,North Powder,OH,56257,Single,2,1999,Single Tuner
+05fc71cf-a70a-11e5-9a43-7845c4b142f6,XFRdpCiysRKAOcxWJHKIKsbdO,TLhrR2zgiQ7aJpm29kpo4XWLoWVjZ8oD,Arundel,NY,85333,Triple,4,1999,Double Tuner
+05fc71d0-a70a-11e5-9938-7845c4b142f6,xdEBfTHdhxAcCc,G85YhVlDla2wKA5nFq0KaqsbyhpKfxnyAE9DyuX1MULt1,Adams Center,ID,57301,Single,3,2009,Single Tuner
+05fc71d1-a70a-11e5-b442-7845c4b142f6,vHTfKyGnoObTrqxTJB,F25pxokz6UAqSV8PhEyyfNFET,Farmington,IL,26385,Dual,1,2000,Double Tuner
+05fc71d2-a70a-11e5-ae9c-7845c4b142f6,empKNJroUfkRrggdZrTqiT,WsdrdpcMAUTibzSkOngaDNNoxBKrCuYwzzv7kaAGwMOVtXk,Zachary,WI,29323,Single,1,2000,Double Tuner
+05fc71d3-a70a-11e5-bfbb-7845c4b142f6,BeHlhzLuipsKwtuDntzntciYU,6KhSzeMbKN43zCw2T7F4oEteQZv7ojlaldNIQhXp8m9DI,Pownal,MA,64001,Triple,1,2003,Double Tuner
+05fc71d4-a70a-11e5-957e-7845c4b142f6,FhtoFufOCLHakjcsyOWFqoPC,XGgbV9UNKdbsEx1JnaraJ727gED43Gox0UQp5gqF0eE1yiocur,Preston,AL,15057,Triple,1,2002,Double Tuner
+05ff09de-a70a-11e5-8ce2-7845c4b142f6,gVtHXHfthcWPGhh,Fn9mHUBPKxL6ITNP2sWfPWinV,Tom,MO,47166,Dual,1,2004,Double Tuner
+05ff09df-a70a-11e5-9ba0-7845c4b142f6,UeBauMZALrwgd,6t0uuyhSilEBdZGjfMXrTf13JWFQou2tSCppszq,Claudville,NM,43046,Single,2,2006,Single Tuner
+05ff09e0-a70a-11e5-a53b-7845c4b142f6,LAFzixGlGdV,CKKUyZ5Zq6ppRiATaU7yOTLX2AstijE08q6npO0o,King George,IA,84052,Triple,2,2003,Double Tuner
+05ff09e1-a70a-11e5-b437-7845c4b142f6,SjqFplFKLqncAIuA,FwM0d7RdTkKfwIg729Ezits,Crosby,NY,48093,Dual,1,2015,Single Tuner
+05ff09e2-a70a-11e5-9dd9-7845c4b142f6,dbOMDyEhqjjFLEF,NdjtsFRZsP1n1iy7V9bgw2Oo,Whitleyville,PA,54559,Single,2,2014,Single Tuner
+06017ae1-a70a-11e5-9ac4-7845c4b142f6,pZWcWwXScmtrfC,13LxqFsLFtaamTs6ImggBs0DDO2MNu9chyWFgItCA,New Middletown,WI,7070,Single,3,2005,Single Tuner
+06017ae2-a70a-11e5-9794-7845c4b142f6,tNYAmeLBAAXLyCLTvk,PhrxfHQhlXF6MuiU5lwd8dWiPs57ukqNjj0vkKJpAeLk,Westtown,NH,85240,Dual,5,2007,Double Tuner
+06017ae3-a70a-11e5-958a-7845c4b142f6,ULpTpfABQQvNRCfRZbKAAMR,HMmrzgpQJlyUJ1sIXKEU389ejaA9z76IbPVz0TsM4Sor3m5Br,Charles Town,CT,2837,Single,4,2008,Double Tuner
+06017ae4-a70a-11e5-90bf-7845c4b142f6,xNaJVmfSSTPWYEtXhVhZUpEsa,TdaqPjzh2HOdUm2efSkjNM4vRxs,Shade,OH,49740,Single,4,2001,Double Tuner
+06017ae5-a70a-11e5-9a49-7845c4b142f6,zmSgQlWATQap,4Lr1S9khjcXXX2OX8LBkkTX2xFp3CjgFB5b7ImfXwOMsGa29V,Francestown,IN,4548,Triple,4,2009,Double Tuner
+06017ae6-a70a-11e5-80e8-7845c4b142f6,nLPcvsEnznHx,O4LT0oTwMTqFxAZcUC0p02yHrmrntIGV,Centerville,AR,99025,Triple,4,2010,Single Tuner
+0603c4d1-a70a-11e5-9856-7845c4b142f6,XGLyqJwndBfVhYuHwgdYYO,pvHJmf3tbJlxsR3dQUldsmzeVdk5we50ZGzqSykPP,Carnelian Bay,AK,77868,Triple,4,2005,Single Tuner
+0603c4d2-a70a-11e5-a9b0-7845c4b142f6,WsxoeuQgsfzd,GGnObKqQ7zUWTyZCNe34j3V5,Berthoud,NE,12193,Dual,2,2004,Double Tuner
+0603c4d3-a70a-11e5-a346-7845c4b142f6,wmopnttJlGb,KPIg4heZu61lYmKFVAaN9hrNb9qd5JgQsjBvQQ6VdM9D4SD,Northome,OH,87933,Dual,3,2010,Single Tuner
+0603c4d4-a70a-11e5-9e86-7845c4b142f6,KPSfmJayxLuLGjOgIVQo,i3aQAvM90mU3rH46ElhPO7zSlM,Annona,OR,88301,Triple,2,2013,Single Tuner
+0603c4d5-a70a-11e5-ab18-7845c4b142f6,hwXTRKBTqlTbmUSEiscx,t0SD24ZAnPZCELFHqnCw9CppLBdqBZnZYXE8uyUtIYJNhVK,Roseburg,MI,7035,Dual,3,2000,Double Tuner
+0603c4d6-a70a-11e5-88fc-7845c4b142f6,SQXWeUovPV,iFyolG5FVaNrYX45rJ74PJrtW0RXApSz,Cloquet,OR,25048,Single,3,2007,Double Tuner
+060635cf-a70a-11e5-8d65-7845c4b142f6,BDEftUAXtMMHNP,HGZfHYWmLQ20uVt24GuazfJIK75sgGj45,Onida,TX,94571,Single,3,2013,Double Tuner
+060635d0-a70a-11e5-95b3-7845c4b142f6,zUSucVlnUKAwqbnCRHLMxE,xi4Cbg0TBY9dOV9OqzHOGcrHVK2HAJhpLxJaq7mlQTyeMQi0,Dameron,NC,78250,Dual,5,2009,Single Tuner
+060635d1-a70a-11e5-854f-7845c4b142f6,ctmkWbEYplgpnjUnadrk,uu4P2LX27DmM8B4nJ7gtJUBoJ8LGeLwIhZSwZ,Joaquin,MT,73541,Triple,2,2012,Single Tuner
+060635d2-a70a-11e5-997c-7845c4b142f6,HELxgaAMmtnOIde,LdmshyrIc8cC1a9QY4jPuYxoIuME2AP,Harveyville,WY,57268,Single,4,2015,Single Tuner
+060635d3-a70a-11e5-874e-7845c4b142f6,THvkxsXMAhnMgyrFbC,XJp91wyEcw2rDHyvDLyUHP6,Safford,MT,85234,Single,1,2002,Single Tuner
+060635d4-a70a-11e5-aa88-7845c4b142f6,QqmdHtxPgbdHCOUlY,Xn2P6G009dR8cMaDZlESifVfamOWIjxdv1CnJQHKaeA4e7,Davenport Center,AL,35098,Triple,2,2013,Single Tuner
+0608a6cf-a70a-11e5-890d-7845c4b142f6,qXYxefagRyBzNw,er38vAcpEjLg67ezAxU0RgQaXjAk0GDPtqWrgSKCMFT5npk1,Hague,WA,98828,Single,3,1999,Single Tuner
+0608a6d0-a70a-11e5-bd9d-7845c4b142f6,zzukoNNytdT,kPBntP0Y4g1YVppS8GzrQWeBE8vuYQnuMcEQECNc,Milwaukee,OK,27104,Single,5,1998,Double Tuner
+0608a6d1-a70a-11e5-a5c2-7845c4b142f6,CxpOkewWfHNTECPS,045UwciZrdED0QDQKajH8NnR3zNNrn0zSumwdOlDXOb,Myrtle,DE,29576,Single,1,1999,Double Tuner
+0608a6d2-a70a-11e5-80e9-7845c4b142f6,IdQAHkQSYcCTY,JA4rfbI1fxpXRJDlt1aCwIuJgzZYBO,Austinburg,VT,36618,Dual,5,2013,Double Tuner
+0608a6d3-a70a-11e5-97c3-7845c4b142f6,FdqqtpxYdWuonrS,oPvvAb0GANjCfuKg3CxhNGVkMYsfD0ZvqV2FC5rXs,Bazine,VT,28543,Single,5,2000,Double Tuner
+060af0c0-a70a-11e5-9338-7845c4b142f6,rWQbgqPobchoFv,w9hynPQM0IVzXNiS6OglLFc1j8PXG5W8ZbZWZi2A4n,Triana,GA,47282,Triple,5,1998,Double Tuner
+060af0c1-a70a-11e5-ab21-7845c4b142f6,NqIohxKWOg,JCSe1imjIzM2PN7nxmqJ8S8PFTksZ,Ann Arbor,UT,48741,Triple,3,2015,Single Tuner
+060af0c2-a70a-11e5-ba51-7845c4b142f6,ufhWbdQmRMbijyAtypP,RUOZSI50lXIqp4rHYXPJGuOaIF7Ol0TXBB9md,Canova,MI,50168,Dual,4,2003,Single Tuner
+060af0c3-a70a-11e5-95e1-7845c4b142f6,QnwagUJIbeRb,UwtRXTePt3DtOJhoZdXxp3pcvkavu9BFhFoD7HhgPL4U1ylD5o,Reasnor,OK,34987,Single,1,2004,Double Tuner
+060af0c4-a70a-11e5-81a1-7845c4b142f6,bnjwFVDsNQYeBTCTDSs,uFmcmXbN63mdPzQ6nvW1qE5l9Ml58kwsvzknEhq7,Ferron,IA,77359,Dual,4,2013,Double Tuner
+060af0c5-a70a-11e5-bccc-7845c4b142f6,nZDohUUnBSNcB,1OIyKq2kvIdjhjU7AsZntqjQ6lWCAXcl,Coleman,LA,64064,Triple,5,2002,Single Tuner
+060d61c0-a70a-11e5-9fe0-7845c4b142f6,dLSlIcamxvvtMOdoBx,1QNC6EQBmWBbFLYIcfKDi8uZVknlOXCK1LtEwSPX,Laughlin,WI,43085,Triple,1,2015,Single Tuner
+060d61c1-a70a-11e5-95e2-7845c4b142f6,UvaIwBlsdSUXzYEpVwDVyxOy,0B8A2uI07Yk16nup27fYeVW,Fitzgerald,DE,28511,Single,4,2007,Single Tuner
+060d61c2-a70a-11e5-81f9-7845c4b142f6,LPppUJJdGRVzGetT,yquBs8QP311udDBck1bBkD7AFaJGf81sjrvAxuJFix5qp,Pe Ell,MO,67052,Single,2,2000,Double Tuner
+060d61c3-a70a-11e5-9ef3-7845c4b142f6,HxCsGwyPWByopE,KXC9CZB3gcCu4m1a1MmeMpIJJOlI8LgetWB1qHJ,Hyattsville,AK,24437,Triple,1,2002,Single Tuner
+060d61c4-a70a-11e5-971d-7845c4b142f6,FTcBjpifkXzRjMzn,eM4DtPisDzrlpgtsfxIFzKweyj9CZpt4wvk,Knightsen,NV,6460,Dual,4,2008,Double Tuner
+060d61c5-a70a-11e5-b0d5-7845c4b142f6,jLmlLprMuMkZO,hA6Clm4hUrkChWEVlvFnm9w5zCbqbolO1EhLeau,Drain,IA,32580,Dual,4,2000,Double Tuner
+060fd2c0-a70a-11e5-b3d2-7845c4b142f6,wFjMWYwlvFXZC,7t3Q32Iuj91rQ1YDft5L7T76ttv1JT3eiZTT05XYWXha,Shiloh,AZ,26296,Dual,3,1998,Single Tuner
+060fd2c1-a70a-11e5-abb5-7845c4b142f6,zDPszFFCZUMJNUmHZNHV,OBw8VM7dvUosp30BUmHVh5P4hgyK7wOlp,Minersville,AR,6043,Single,5,2005,Double Tuner
+060fd2c2-a70a-11e5-8ab4-7845c4b142f6,VpXgaQWodQhUZpAvr,2FB23yRnPWZnXr4MCJdFBTU3jmWnwZVSjidm2cTp27E1wn5l,Urbandale,WV,2814,Single,3,2007,Double Tuner
+060fd2c3-a70a-11e5-9259-7845c4b142f6,kxRMbAAtUje,SGuef5sXnqiHXVdM1VABIUM79D9euVdl3R3k2Rp6,Hurdsfield,WV,14886,Triple,1,2015,Single Tuner
+060fd2c4-a70a-11e5-8eb0-7845c4b142f6,OoTDFAgmcxJvJmc,YWw2hvZX7jmyD6GR6UuuNB2Cl0L6,Delton,OH,96027,Triple,5,2015,Double Tuner
+060fd2c5-a70a-11e5-a656-7845c4b142f6,vLOovAiIUOoNBEaQbiejjZE,6YR6Mmq8odpm3015ZWeNucYSDAaFtv,San Augustine,CO,26148,Dual,1,2008,Double Tuner
+06121cb0-a70a-11e5-a56b-7845c4b142f6,usLCRdMntsqCcG,RvDKdHRwpPxz7IzaAjIdIPeepb6LgE1tmIq6i,Malakoff,MI,31805,Triple,1,2006,Single Tuner
+06121cb1-a70a-11e5-aff2-7845c4b142f6,TYVuUMTDlEZTWGDc,d6uChnCPNJRIuCsPgphZGLR5mIPXnkkKNx,Rohrersville,MS,67203,Single,1,2000,Single Tuner
+06121cb2-a70a-11e5-8db4-7845c4b142f6,YGIqTxQoFrhhqaOzT,DpR4bsmdhGAT83sxf45qRAMJ1aNAj3xjMV7JjkWS,Doland,ME,82214,Single,5,2004,Double Tuner
+06121cb3-a70a-11e5-9cec-7845c4b142f6,BkJQObwqhtSKQmQkxVd,Vp8MxGJI8zDCVX7onEF2aC1v0hhbUSCwX4JHW0uvdFp3HpQ9Ek,Meade,RI,49307,Single,3,2012,Single Tuner
+06121cb4-a70a-11e5-8ffa-7845c4b142f6,mubUYRuXUTmiQnQwl,A4vfRHaylrZLtfVnmm1pGgySbMxz,Tooele,ND,62208,Triple,2,2015,Double Tuner
+06121cb5-a70a-11e5-bc37-7845c4b142f6,EXgigwLrANxaCgLDFPtHFpJXd,nEhLik8PNv8gpocfLvJmsMtp6MFAI3pbpfIDUCRML4nRXzBH8u,Sperryville,NC,90804,Triple,1,2002,Single Tuner
+06148db0-a70a-11e5-bb67-7845c4b142f6,LASsyZqOCGswS,cLSQWvxqpCoAbHm4vw5BuVI7i0YZf42EeX2bSC,Morrilton,OK,15014,Triple,1,2012,Double Tuner
+06148db1-a70a-11e5-9ed9-7845c4b142f6,UJOAJjMfqPmMbDGqwBGA,HMwZvK07ne2I5At31lRSoHIDM,Southern Shores,WA,73727,Dual,2,1999,Double Tuner
+06148db2-a70a-11e5-929e-7845c4b142f6,banhqMtbPBBOtufNyGXBTcss,e7G27m3Dle72Ph4nqQd9ihRN,Elizabethville,KY,78748,Single,5,2008,Single Tuner
+06148db3-a70a-11e5-b0db-7845c4b142f6,opAimQOKeassWYL,R2NANL3GNbMYMxsFC6aKhkbLceuw0vOmg5L7sXy10,Maybell,MI,33647,Triple,5,2002,Double Tuner
+06148db4-a70a-11e5-9c8b-7845c4b142f6,eKIYwBhdEQeagjLlqY,HZlaWW17hAgDJWvxgip4NT5or4,Maramec,CT,73642,Single,2,2000,Single Tuner
+06148db5-a70a-11e5-98e7-7845c4b142f6,nezJLBgnkcnj,9KDjE0mSiss9OdUZfzDJ67YrvJHCOh863PXF0xbaZRiSZU,Sherrard,SC,30506,Dual,3,2011,Single Tuner
+0616d7a1-a70a-11e5-9735-7845c4b142f6,SLwsUPkZzgYXacdZTrevi,XRH6lr7O6klrt517HbdV5H91svCM6,Belgium,MN,27107,Dual,3,2013,Double Tuner
+0616d7a2-a70a-11e5-9de3-7845c4b142f6,lHTzBmdgotRNkDnJh,oPR1R3q2TTUKez8TChb012ul0FwAu,El Segundo,NV,56039,Triple,4,2001,Double Tuner
+0616d7a3-a70a-11e5-afdd-7845c4b142f6,SJRMawKIKmCBPHAT,1kdQ0o5qTNzmc1kQManw9SxIJA04jv0Fpr83Viar,Cheyney,CT,54229,Single,1,2009,Single Tuner
+0616d7a4-a70a-11e5-8269-7845c4b142f6,SdxUOKdUqhAUJcT,tBfgkrbLWys4nTWftr1HCbG7uZvki6awkiNTbOqtCx,Cambridge City,CA,25917,Dual,2,2011,Single Tuner
+0616d7a5-a70a-11e5-b6f9-7845c4b142f6,msfbQuqBKUsYKkMuKpWAURX,NDP2UJHFtcXbjxrRCGDo1CYRR1BZizN60tdIzY7Z4tv9zdUlT,Cloquet,CA,93465,Dual,1,2011,Single Tuner
+0616d7a6-a70a-11e5-a615-7845c4b142f6,uRlTvSwFPdFzGtMmbimMG,UtpcbJhJ33Dj2IZZRqMX5qMber1yFuzIisgf1,Maurice,MS,58430,Triple,1,2006,Double Tuner
+0619489e-a70a-11e5-914d-7845c4b142f6,ZublFmNCcJULBVDEAYKf,DPmqL3iGlQJlGpFd9JRuMlu3uyPp9nVoPb3Rmp5,Bar Harbor,ID,53716,Triple,5,2002,Double Tuner
+0619489f-a70a-11e5-a0d4-7845c4b142f6,uaOOLgyLSZDOiOnZr,7ADKuZmyP2O1v2y3SKvVPt0NpKks8w8lhjfZvFVUQ7bXnYD,Greenleaf,NH,65604,Triple,3,2015,Single Tuner
+061948a0-a70a-11e5-a7ba-7845c4b142f6,KkwmYoQosjJGwSs,l6Ih2jtp0bVwPU3VxhdIxNIKf5pZo9uwIjLGHQxFxFgf4,El Monte,HI,27849,Dual,3,1998,Double Tuner
+061948a1-a70a-11e5-a609-7845c4b142f6,VjmgtxwPlFSBOVEktZngtR,kKtcM2EOxgq77RYL34cYn60WsGLMk39q,Dolphin,MI,46748,Dual,2,2015,Single Tuner
+061948a2-a70a-11e5-9123-7845c4b142f6,AAqYmhRtnrOIMSsBHBwvIIWmA,I3lLwyKxTdhMG9lseh4gXIBc5NIku,Durant,VT,12068,Dual,4,2014,Double Tuner
+061bb99e-a70a-11e5-b27f-7845c4b142f6,nvnTjLVMqbpd,tNBXxKPslUNCwvDwJ9XXJQJJA4PO3KmtIpcMOz,Coast Guard Isla,MI,32444,Triple,1,2011,Single Tuner
+061bb99f-a70a-11e5-99c4-7845c4b142f6,GhMkElbFQPnFOuRDfXBtENCMh,KL8v9TXSEMY01x2bsRyFqO4Xc3Ap5rJkTVp1Xq9s8,Willmar,VT,50588,Triple,3,2001,Single Tuner
+061bb9a0-a70a-11e5-b645-7845c4b142f6,MuUVglXOQfMZn,eWUHHA2MWn8ltnh3fnIJWLnbQ3W,Alton Bay,WA,48889,Dual,1,2005,Double Tuner
+061bb9a1-a70a-11e5-8421-7845c4b142f6,xclGhwtSKwrzO,G7tIxzdRwXG6LWcQPF3QkfDrCDkgTbhbzjqfZ7MAMpD90,Columbiaville,ND,19606,Dual,5,2015,Single Tuner
+061bb9a2-a70a-11e5-9e05-7845c4b142f6,KWIKfbuxMjlSmifdzlDAZeZI,CNyGZ82dbMFelbrXsuwYHEvWLjBSGDy3LmNOndQPsv,Scooba,DC,7604,Single,4,1998,Double Tuner
+061bb9a3-a70a-11e5-acf0-7845c4b142f6,tkpfFqoHxJXXaCEzqvHrX,FAvT3eW6kTy5AeahEMPn88Lclmh352iGp1SGU9k,Maeystown,CO,70549,Dual,4,2011,Double Tuner
+061e038f-a70a-11e5-ad66-7845c4b142f6,LYbzCffrBpYbnxXlXuzoWFcr,TcZXZqxtkYdutevOyUSkpbHGZVAbJfWueBS1RtU29c1M8,New Salem,KY,66047,Dual,3,2009,Single Tuner
+061e0390-a70a-11e5-a48e-7845c4b142f6,GcetomlHVuGtR,KXTkfpi1zyWH3t1wlcGuSqv3bAezVP1JZgVK9KUeb62s,Extension,IN,87575,Dual,4,2009,Double Tuner
+061e0391-a70a-11e5-b0c5-7845c4b142f6,mDntsptzmglMVSFAPWKquoXV,5dTHIBrOAihXtEQiA8rIK6DmsCOChXPKOWuhCBdlObMF,Pattison,WA,23456,Single,2,2009,Double Tuner
+061e0392-a70a-11e5-bab9-7845c4b142f6,JGDmTHwDBAgaOCF,BBtUfhPZo0461w0NBDBrNjx8,Otoe,TN,31082,Dual,4,2000,Single Tuner
+061e0393-a70a-11e5-a717-7845c4b142f6,YatmxenownprYtrdxqkuBEd,mdxeCYDPWKUps4AYBS0UluHi6GCvd,La Habra Heights,NM,44026,Dual,1,2015,Double Tuner
+061e0394-a70a-11e5-9832-7845c4b142f6,ocYrwQgoLpLMYokJDyiOjhF,h7xT0I2UKr98XJIwL610fpfqOPFrB0y2nP2B9ZccytZlY,Tallula,IL,41011,Triple,4,2015,Double Tuner
+06207491-a70a-11e5-831d-7845c4b142f6,psuVBDcfPY,OrCipTBfoP0r0imzfgFCJca,Bonsall,WY,31501,Triple,1,2013,Double Tuner
+06207492-a70a-11e5-b7dd-7845c4b142f6,EwlqrbGknHDjfOPXR,wzLnUahMV1NXRBACY4t2MolZyoYZmf8XRKZ,Brogue,OR,16063,Triple,5,2011,Single Tuner
+06207493-a70a-11e5-96ef-7845c4b142f6,zdtYBuXOtjEQSDfnTQZPuR,Y4ZpYImms8rtkm4upSBmMu6urbAj2AV,Paeonian Springs,IA,79907,Single,4,2015,Double Tuner
+06207494-a70a-11e5-9525-7845c4b142f6,QsBWSvjzMVXe,VrCN3owbztYdWJLh5N0nnXdWe,Sherando,NH,29302,Triple,1,1999,Single Tuner
+06207495-a70a-11e5-bc8b-7845c4b142f6,oBZtXeKqGHxMQnJ,o11pcw9O9RUW1rmkv4iyIi8tnxL58WmyrnVZamA3J0,Seligman,AR,6353,Dual,3,2014,Single Tuner
+06207496-a70a-11e5-badf-7845c4b142f6,qYmCkicQAFSipT,YfDV0ARkX169oEHPkJBqK7yWg9LtGaBpJ,Hickory,CA,71749,Single,1,2006,Double Tuner
+0622e591-a70a-11e5-aec4-7845c4b142f6,hDHElXWQyuKKiQjEqDrFxPJ,Q5qytlV8cvPmIjtEpTWWSYJ4FN0B,Zionville,MA,79225,Triple,4,2005,Single Tuner
+0622e592-a70a-11e5-bde3-7845c4b142f6,elgzKWaonLtJIvd,F42V5XnUQ6CbJVjNbHHhsVC1YoghKnM0T1QKxMZjtg2s,Kirkman,GA,52316,Single,4,2012,Double Tuner
+0622e593-a70a-11e5-b168-7845c4b142f6,aIjRALSXtSSQpoS,eiu82bcGL6ETADIBj2SNIPM6m1GWKpsLFVBcqdCevfMDj7,Ellery,ND,75039,Triple,5,2004,Double Tuner
+0622e594-a70a-11e5-8c1e-7845c4b142f6,ZnEmSGJOLVt,88H6oF6XYA9zpLY2pVUcqKwUPE10jpXaG5,32674,SC,20710,Dual,5,2000,Double Tuner
+0622e595-a70a-11e5-a452-7845c4b142f6,qvMAkKBwaT,uSoRqsTCFJ7HchYQYrQd3AJgDcPHdqjA,Willimantic,MN,10980,Dual,1,1999,Single Tuner
+0622e596-a70a-11e5-85c4-7845c4b142f6,OEcOPRcjiXvtMamvu,hEwI5PgQkwbPVrzICdWDGVFZmnc0s5Jgp4ViLBLOnkcRYa,Christiansburg,NY,98262,Single,1,1999,Single Tuner
+06252f80-a70a-11e5-8f9c-7845c4b142f6,AbaISGayuvyuTzW,D38HrsHWMYTEPPzldVRoYVe5IKV1NWGamPtoLqTkjvA3OOgx,Deming,WA,94568,Single,2,2011,Single Tuner
+06252f81-a70a-11e5-aaff-7845c4b142f6,aFDcVCOcEgjsbXqvECpyFrjxh,gZZ50NF4cpG7krAgMsMGTwNmmOge3CR2wvNxi6hEXjUwI,Etiwanda,NH,74965,Single,5,2013,Double Tuner

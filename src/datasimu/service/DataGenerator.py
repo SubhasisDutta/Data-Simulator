@@ -10,6 +10,7 @@ from datasimu.manager.CSVFileManager import CSVFileManager
 from datasimu.manager.CassandraManager import CassandraManager
 from datasimu.service.UniformService import UniformService
 from datasimu.service.LoadService import LoadService
+from datasimu.service.FixedLoadService import FixedLoadService
 
 
 class DataGenerator(object):
@@ -73,7 +74,9 @@ class DataGenerator(object):
         if specialtype is None or specialtype.text == 'UNIFORM':
             UniformService(self.manager,self.root).process()
         elif specialtype.text == 'LOAD_GENERATE':
-            LoadService(self.manager,self.root).process()      
+            LoadService(self.manager,self.root).process()
+        elif specialtype.text == 'FIXED_LOAD':
+            FixedLoadService(self.manager,self.root).process()      
         else:
             return False
         return True

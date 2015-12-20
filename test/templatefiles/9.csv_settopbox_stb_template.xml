@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<data>
+	<resulttype>
+		<format>CSV</format> <!-- This is a special Case for Generating Tweets in random -->
+		<mode>FILE</mode><!-- Curren support for Cassendra and CSV -->
+		<location>D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_stb_3000.csv</location>		
+	</resulttype>
+	
+	<column name="CustomerId" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>		
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_subscriber_100.csv" column="1">			
+		</choice>
+	</column>
+	<column name="NickName" dbColumnName="customerid">
+		<datatype>STRING</datatype>
+		<pattern>Random_normal</pattern>
+		<minimum>10</minimum>
+		<maximum>20</maximum>
+		<choice> 			
+			<option>lowercase</option> <!-- 'abcdefghijklmnopqrstuvwxyz' -->			
+			<option>uppercase</option> <!-- 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' -->						
+		</choice>
+	</column>
+	<column name="STB ID" dbColumnName="customerid">
+		<datatype>STRING</datatype>
+		<pattern>Random_normal</pattern>
+		<datatype>STRING</datatype>		
+		<fixed>6</fixed>
+		<choice> <!-- default is alpha numerical (digits+lowercase+uppercase) -->
+			<option>digits</option> <!-- '0123456789' -->					
+		</choice>
+	</column>
+	<column name="Model Name" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<option>Motorola</option>
+			<option>Seimens</option>
+			<option>Philips</option>
+			<option>Samsung</option>			
+		</choice>
+	</column>	
+	<column name="Installed Zipcode" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<description>This picks city zip codes from a selected column from a CSV seed data file.</description>
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\UScities.csv" column="1">			
+		</choice>
+	</column>
+			
+	<timesliceType>FIXED_LOAD</timesliceType> 
+	<totalrecord>3000</totalrecord>
+	
+</data>

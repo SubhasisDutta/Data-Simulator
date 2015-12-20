@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<data>
+	<resulttype>
+		<format>CSV</format> <!-- This is a special Case for Generating Tweets in random -->
+		<mode>FILE</mode><!-- Curren support for Cassendra and CSV -->
+		<location>D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_viewing_10000.csv</location>		
+	</resulttype>
+	
+	<column name="CustomerId" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>		
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_subscriber_100.csv" column="1">			
+		</choice>
+	</column>
+	<column name="NickName" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>		
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_stb_3000.csv" column="2">			
+		</choice>
+	</column>
+	<column name="Program Id" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>		
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_programguide_500.csv" column="1">			
+		</choice>
+	</column>
+	<column name="Recorded" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<option>Yes</option>
+			<option>No</option>						
+		</choice>
+	</column>
+	<column name="ViewStartDate" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<option>1/10/2015</option>
+			<option>2/10/2015</option>
+			<option>3/10/2015</option>
+			<option>4/10/2015</option>
+			<option>5/10/2015</option>
+			<option>6/10/2015</option>
+			<option>7/10/2015</option>
+			<option>8/10/2015</option>
+			<option>9/10/2015</option>
+			<option>10/10/2015</option>
+			<option>11/10/2015</option>
+			<option>12/10/2015</option>						
+		</choice>
+	</column>
+	<column name="ViewStartTime" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<option>1:00</option>
+			<option>2:00</option>
+			<option>3:00</option>
+			<option>4:00</option>
+			<option>5:00</option>
+			<option>6:00</option>
+			<option>7:00</option>
+			<option>8:00</option>
+			<option>9:00</option>
+			<option>10:00</option>
+			<option>11:00</option>
+			<option>12:00</option>						
+		</choice>
+	</column>
+	<column name="ViewEndTime" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<option>1:00</option>
+			<option>2:00</option>
+			<option>3:00</option>
+			<option>4:00</option>
+			<option>5:00</option>
+			<option>6:00</option>
+			<option>7:00</option>
+			<option>8:00</option>
+			<option>9:00</option>
+			<option>10:00</option>
+			<option>11:00</option>
+			<option>12:00</option>						
+		</choice>
+	</column>
+	<column name="FFWDStartTime" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<option>1:00</option>
+			<option>2:00</option>
+			<option>3:00</option>
+			<option>4:00</option>
+			<option>5:00</option>
+			<option>6:00</option>
+			<option>7:00</option>
+			<option>8:00</option>
+			<option>9:00</option>
+			<option>10:00</option>
+			<option>11:00</option>
+			<option>12:00</option>						
+		</choice>
+	</column>
+	<column name="FFWDEndTime" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<option>1:00</option>
+			<option>2:00</option>
+			<option>3:00</option>
+			<option>4:00</option>
+			<option>5:00</option>
+			<option>6:00</option>
+			<option>7:00</option>
+			<option>8:00</option>
+			<option>9:00</option>
+			<option>10:00</option>
+			<option>11:00</option>
+			<option>12:00</option>						
+		</choice>
+	</column>
+	<column name="RWDStartTime" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<option>1:00</option>
+			<option>2:00</option>
+			<option>3:00</option>
+			<option>4:00</option>
+			<option>5:00</option>
+			<option>6:00</option>
+			<option>7:00</option>
+			<option>8:00</option>
+			<option>9:00</option>
+			<option>10:00</option>
+			<option>11:00</option>
+			<option>12:00</option>						
+		</choice>
+	</column>
+	<column name="RWDEndtime" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<option>1:00</option>
+			<option>2:00</option>
+			<option>3:00</option>
+			<option>4:00</option>
+			<option>5:00</option>
+			<option>6:00</option>
+			<option>7:00</option>
+			<option>8:00</option>
+			<option>9:00</option>
+			<option>10:00</option>
+			<option>11:00</option>
+			<option>12:00</option>						
+		</choice>
+	</column>
+	<column name="OccuranceOfPlay" dbColumnName="customerid">
+		<datatype>INTEGER</datatype>
+		<mean>2</mean>
+		<minimum>1</minimum>
+		<maximum>5</maximum>
+	</column>
+	
+			
+	<timesliceType>FIXED_LOAD</timesliceType> 
+	<totalrecord>10000</totalrecord>
+	
+</data>

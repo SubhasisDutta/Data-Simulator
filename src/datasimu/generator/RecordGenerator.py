@@ -61,6 +61,40 @@ class RecordGenerator(object):
             #TO DO handle any error
             raise         
         return record
+    
+    def generateDataCount(self,count):  
+        record=[]
+        #To do for other records
+        try:        
+            for column in self.config.findall('column'):
+                dataConf=RandomConfig(column)
+                value= None
+                if dataConf.dataType == "INTEGER":                
+                    value=IntegerGenrator(dataConf).getRandom()
+                elif dataConf.dataType == "FLOAT":
+                    value=FloatGenrator(dataConf).getRandom()
+                elif dataConf.dataType == "DECIMAL":
+                    value=DecimalGenrator(dataConf).getRandom()
+                elif dataConf.dataType == "GUID":
+                    value=GUIDGenerator(dataConf).getRandom()
+                elif dataConf.dataType == "ORDINAL": 
+                    value=ORDINALGenerator(dataConf).getRandom(self.ordinalChoice[column.get('name')])
+                elif dataConf.dataType == "BOOLEAN": 
+                    value=BOOLEANGenerator(dataConf).getRandom()
+                elif dataConf.dataType == "STRING":                     
+                    value=STRINGGenerator(dataConf).getRandom(self.stringChoice[column.get('name')])
+                elif dataConf.dataType == "TIMESTAMP":
+                    value=None 
+                elif dataConf.dataType == "NULL":
+                    value=None  
+                else: 
+                    value=None                    
+                #Process column information
+                record.append(value) 
+        except:
+            #TO DO handle any error
+            raise         
+        return record
  
     def loadStringChoice(self):
         choicedict={}        

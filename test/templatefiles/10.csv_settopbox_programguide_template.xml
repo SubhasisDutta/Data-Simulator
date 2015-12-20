@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<data>
+	<resulttype>
+		<format>CSV</format> <!-- This is a special Case for Generating Tweets in random -->
+		<mode>FILE</mode><!-- Curren support for Cassendra and CSV -->
+		<location>D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_programguide_500.csv</location>		
+	</resulttype>
+	
+	<column name="ProgramId" dbColumnName="customerid">
+		<datatype>GUID</datatype>
+	</column>
+	<column name="Name" dbColumnName="customerid">
+		<datatype>STRING</datatype>
+		<pattern>Random_normal</pattern>
+		<minimum>10</minimum>
+		<maximum>25</maximum>
+		<choice> 			
+			<option>lowercase</option> <!-- 'abcdefghijklmnopqrstuvwxyz' -->			
+			<option>uppercase</option> <!-- 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' -->						
+		</choice>
+	</column>
+	<column name="Channel" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<option>abc</option>
+			<option>cnn</option>
+			<option>fox</option>
+			<option>cbs</option>
+			<option>hbo</option>			
+		</choice>
+	</column>
+	<column name="Show" dbColumnName="customerid">
+		<datatype>INTEGER</datatype>
+		<mean>5</mean>
+		<minimum>1</minimum>
+		<maximum>9</maximum>
+	</column>
+	<column name="AiringDay" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<option>Sunday</option>
+			<option>Monday</option>
+			<option>Tuesday</option>
+			<option>Wednesday</option>
+			<option>Thursday</option>
+			<option>Friday</option>
+			<option>Saturday</option>			
+		</choice>
+	</column>
+	<column name="AiringTime" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<option>1:00</option>
+			<option>2:00</option>
+			<option>3:00</option>
+			<option>4:00</option>
+			<option>5:00</option>
+			<option>6:00</option>
+			<option>7:00</option>
+			<option>8:00</option>
+			<option>9:00</option>
+			<option>10:00</option>
+			<option>11:00</option>
+			<option>12:00</option>						
+		</choice>
+	</column>
+	<column name="Duration" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<option>60</option>									
+		</choice>
+	</column>
+	<column name="Genre" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<option>Comedy</option>
+			<option>Action</option>
+			<option>Reality</option>	
+			<option>Sports</option>
+			<option>News</option>
+		</choice>
+	</column>	
+	<column name="Live/Recorded" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<option>Recorded</option>
+			<option>Live</option>						
+		</choice>
+	</column>
+		
+	<timesliceType>FIXED_LOAD</timesliceType> 
+	<totalrecord>500</totalrecord>
+	
+</data>

@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<data>
+	<resulttype>
+		<format>CSV</format> <!-- This is a special Case for Generating Tweets in random -->
+		<mode>FILE</mode><!-- Curren support for Cassendra and CSV -->
+		<location>D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_subscriber_100.csv</location>		
+	</resulttype>
+	
+	<column name="CustomerId" dbColumnName="customerid">
+		<datatype>GUID</datatype>
+	</column>
+	<column name="Name" dbColumnName="customerid">
+		<datatype>STRING</datatype>
+		<pattern>Random_normal</pattern>
+		<minimum>10</minimum>
+		<maximum>25</maximum>
+		<choice> 			
+			<option>lowercase</option> <!-- 'abcdefghijklmnopqrstuvwxyz' -->			
+			<option>uppercase</option> <!-- 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' -->						
+		</choice>
+	</column>
+	<column name="Street Address" dbColumnName="customerid">
+		<datatype>STRING</datatype>
+		<pattern>Random_normal</pattern>
+		<minimum>23</minimum>
+		<maximum>50</maximum>
+		<choice> <!-- default is alpha numerical (digits+lowercase+uppercase) -->
+			<option>digits</option> <!-- '0123456789' -->			
+			<option>lowercase</option> <!-- 'abcdefghijklmnopqrstuvwxyz' -->			
+			<option>uppercase</option> <!-- 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' -->				
+		</choice>
+	</column>
+	<column name="City" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<description>This picks city names from a selected column from a CSV seed data file.</description>
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\UScities.csv" column="3">			
+		</choice>
+	</column>
+	<column name="State" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<description>This picks state code from a selected column from a CSV seed data file.</description>
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\USstates.csv" column="2">			
+		</choice>
+	</column>
+	<column name="Zipcode" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<description>This picks city zip codes from a selected column from a CSV seed data file.</description>
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\UScities.csv" column="1">			
+		</choice>
+	</column>
+	<column name="Subscription PlanId" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<option>Dual</option>
+			<option>Single</option>
+			<option>Triple</option>			
+		</choice>
+	</column>
+	<column name="NumOfSTB" dbColumnName="customerid">
+		<datatype>INTEGER</datatype>
+		<mean>1</mean>
+		<minimum>1</minimum>
+		<maximum>5</maximum>
+	</column>
+	<column name="CustomerSince" dbColumnName="customerid">
+		<datatype>INTEGER</datatype>
+		<mean>2010</mean>
+		<minimum>1998</minimum>
+		<maximum>2015</maximum>
+	</column>
+	<column name="DVR Model" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<option>Single Tuner</option>
+			<option>Double Tuner</option>						
+		</choice>
+	</column>
+		
+	<timesliceType>FIXED_LOAD</timesliceType> 
+	<totalrecord>1000</totalrecord>
+	
+</data>
