@@ -11,24 +11,15 @@
 	</column>
 	<column name="Name" dbColumnName="customerid">
 		<datatype>STRING</datatype>
-		<pattern>Random_normal</pattern>
-		<minimum>10</minimum>
-		<maximum>25</maximum>
-		<choice> 			
-			<option>lowercase</option> <!-- 'abcdefghijklmnopqrstuvwxyz' -->			
-			<option>uppercase</option> <!-- 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' -->						
-		</choice>
+		<pattern>User_Name</pattern>		
+	</column>
+	<column name="User E-Mail" dbColumnName="customerid">
+		<datatype>STRING</datatype>
+		<pattern>E_Mail</pattern>
 	</column>
 	<column name="Street Address" dbColumnName="customerid">
 		<datatype>STRING</datatype>
-		<pattern>Random_normal</pattern>
-		<minimum>23</minimum>
-		<maximum>50</maximum>
-		<choice> <!-- default is alpha numerical (digits+lowercase+uppercase) -->
-			<option>digits</option> <!-- '0123456789' -->			
-			<option>lowercase</option> <!-- 'abcdefghijklmnopqrstuvwxyz' -->			
-			<option>uppercase</option> <!-- 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' -->				
-		</choice>
+		<pattern>Postal_Address</pattern>
 	</column>
 	<column name="City" dbColumnName="customerid">
 		<datatype>ORDINAL</datatype>
