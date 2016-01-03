@@ -1,0 +1,1001 @@
+CustomerId,Program Id,Live/Recorded,Gender,Age Range
+1821,50139,Live,Male,35 - 54
+1023,50123,Recorded,Male,35 - 54
+1184,50105,Live,Male,25 - 34
+1657,50025,Live,Male,35 - 54
+1051,50109,Live,Female,18 - 24
+1678,50121,Recorded,Female,35 - 54
+1340,50009,Live,Female,25 - 34
+1262,50079,Live,Male,35 - 54
+1132,50067,Live,Female,25 - 34
+1122,50017,Recorded,Male,35 - 54
+1185,50101,Recorded,Male,25 - 34
+1059,50075,Live,Male,35 - 54
+1562,50003,Recorded,Male,35 - 54
+1136,50003,Recorded,Male,35 - 54
+1728,50139,Recorded,Male,55 +
+1261,50037,Live,Female,25 - 34
+1249,50103,Live,Female,35 - 54
+1938,50047,Recorded,Male,35 - 54
+1559,50133,Live,Male,35 - 54
+1935,50079,Recorded,Male,35 - 54
+1184,50061,Recorded,Male,35 - 54
+1926,50033,Live,Male,25 - 34
+1913,50005,Live,Female,35 - 54
+1680,50107,Live,Female,55 +
+1087,50133,Recorded,Male,35 - 54
+1234,50059,Recorded,Male,25 - 34
+1359,50101,Live,Male,35 - 54
+1886,50025,Live,Male,25 - 34
+1810,50131,Live,Female,18 - 24
+1443,50113,Live,Male,25 - 34
+1301,50087,Recorded,Male,35 - 54
+1258,50085,Live,Male,25 - 34
+1309,50025,Live,Male,35 - 54
+1544,50135,Recorded,Male,55 +
+1873,50039,Live,Male,25 - 34
+1992,50135,Recorded,Female,35 - 54
+1121,50111,Recorded,Male,35 - 54
+1448,50059,Live,Female,35 - 54
+1213,50045,Recorded,Male,35 - 54
+1638,50037,Recorded,Female,35 - 54
+1708,50123,Live,Male,18 - 24
+1309,50139,Recorded,Female,35 - 54
+1501,50013,Recorded,Male,35 - 54
+1187,50049,Recorded,Male,35 - 54
+1624,50133,Recorded,Male,25 - 34
+1387,50081,Live,Male,35 - 54
+1371,50011,Live,Male,18 - 24
+1949,50111,Live,Male,35 - 54
+1736,50013,Live,Male,35 - 54
+1799,50027,Live,Male,35 - 54
+1016,50043,Recorded,Male,25 - 34
+1233,50085,Live,Male,55 +
+1813,50009,Recorded,Female,35 - 54
+1019,50011,Recorded,Male,35 - 54
+1576,50093,Live,Male,35 - 54
+1657,50119,Recorded,Male,35 - 54
+1616,50041,Live,Male,35 - 54
+1542,50127,Recorded,Male,35 - 54
+1387,50105,Live,Male,25 - 34
+1803,50059,Live,Male,18 - 24
+1459,50121,Live,Male,35 - 54
+1388,50035,Live,Male,25 - 34
+1573,50017,Recorded,Male,35 - 54
+1758,50059,Recorded,Male,55 +
+1169,50025,Recorded,Male,35 - 54
+1086,50023,Recorded,Male,25 - 34
+1136,50017,Recorded,Male,55 +
+1623,50055,Recorded,Male,18 - 24
+1172,50041,Recorded,Male,35 - 54
+1624,50033,Recorded,Male,35 - 54
+1166,50101,Recorded,Male,35 - 54
+1642,50005,Recorded,Male,35 - 54
+1419,50053,Recorded,Male,35 - 54
+1274,50009,Live,Male,35 - 54
+1357,50083,Live,Male,35 - 54
+1752,50135,Recorded,Male,35 - 54
+1962,50105,Live,Male,55 +
+1464,50135,Live,Male,55 +
+1262,50047,Recorded,Male,35 - 54
+1732,50011,Recorded,Male,35 - 54
+1955,50021,Recorded,Female,25 - 34
+1528,50127,Recorded,Male,35 - 54
+1070,50093,Live,Male,35 - 54
+1399,50127,Live,Male,55 +
+1187,50043,Recorded,Male,35 - 54
+1044,50069,Recorded,Male,25 - 34
+1570,50141,Live,Male,35 - 54
+1553,50045,Recorded,Male,35 - 54
+1733,50121,Recorded,Male,35 - 54
+1817,50049,Live,Male,18 - 24
+1764,50043,Live,Male,25 - 34
+1803,50041,Live,Male,35 - 54
+1694,50085,Live,Female,18 - 24
+1245,50091,Live,Male,35 - 54
+1569,50103,Recorded,Male,35 - 54
+1747,50085,Recorded,Male,25 - 34
+1045,50001,Live,Male,35 - 54
+1299,50083,Recorded,Female,35 - 54
+1540,50057,Live,Male,18 - 24
+1090,50101,Live,Male,35 - 54
+1405,50079,Recorded,Male,18 - 24
+1434,50059,Recorded,Male,35 - 54
+1542,50041,Recorded,Male,35 - 54
+1338,50081,Recorded,Male,35 - 54
+1007,50079,Live,Male,35 - 54
+1899,50029,Live,Male,55 +
+1839,50053,Live,Female,55 +
+1669,50105,Recorded,Male,25 - 34
+1999,50077,Live,Male,35 - 54
+1988,50027,Recorded,Male,35 - 54
+1884,50123,Recorded,Male,35 - 54
+1331,50081,Live,Male,55 +
+1641,50103,Recorded,Male,35 - 54
+1862,50049,Live,Male,25 - 34
+1243,50099,Recorded,Male,35 - 54
+1761,50079,Recorded,Male,18 - 24
+1436,50043,Recorded,Male,25 - 34
+1665,50075,Live,Male,35 - 54
+1171,50141,Recorded,Male,25 - 34
+1246,50019,Live,Male,25 - 34
+1093,50041,Recorded,Female,35 - 54
+1223,50041,Recorded,Male,35 - 54
+1346,50019,Live,Male,18 - 24
+1291,50103,Live,Female,18 - 24
+1383,50111,Recorded,Male,55 +
+1901,50115,Live,Female,35 - 54
+1833,50125,Live,Male,25 - 34
+1716,50023,Recorded,Female,35 - 54
+1264,50099,Live,Male,35 - 54
+1882,50035,Live,Female,35 - 54
+1204,50045,Recorded,Female,18 - 24
+1196,50023,Live,Male,25 - 34
+1908,50093,Live,Male,35 - 54
+1853,50069,Live,Male,35 - 54
+1044,50027,Recorded,Male,55 +
+1730,50031,Live,Male,18 - 24
+1925,50001,Recorded,Male,35 - 54
+1103,50101,Recorded,Male,35 - 54
+1758,50121,Live,Male,25 - 34
+1396,50043,Recorded,Male,35 - 54
+1209,50007,Recorded,Female,25 - 34
+1118,50109,Recorded,Male,18 - 24
+1602,50141,Live,Male,55 +
+1538,50099,Live,Male,35 - 54
+1878,50137,Live,Male,55 +
+1109,50065,Live,Male,35 - 54
+1154,50101,Live,Male,55 +
+1337,50049,Recorded,Male,35 - 54
+1623,50039,Recorded,Male,35 - 54
+1956,50027,Live,Female,55 +
+1175,50063,Live,Female,25 - 34
+1739,50099,Recorded,Male,35 - 54
+1633,50101,Live,Male,35 - 54
+1914,50035,Live,Male,35 - 54
+1679,50047,Recorded,Male,25 - 34
+1374,50125,Recorded,Male,18 - 24
+1967,50113,Live,Female,35 - 54
+1287,50003,Recorded,Male,35 - 54
+1209,50001,Recorded,Male,35 - 54
+1776,50027,Live,Male,25 - 34
+1835,50089,Recorded,Male,35 - 54
+1917,50039,Recorded,Male,25 - 34
+1277,50113,Recorded,Male,35 - 54
+1547,50031,Live,Male,25 - 34
+1149,50125,Recorded,Female,25 - 34
+1704,50115,Live,Male,35 - 54
+1659,50007,Recorded,Male,35 - 54
+1794,50113,Live,Male,25 - 34
+1819,50021,Live,Male,35 - 54
+1014,50065,Live,Female,35 - 54
+1860,50017,Live,Male,35 - 54
+1243,50041,Recorded,Male,35 - 54
+1261,50039,Live,Male,35 - 54
+1725,50027,Live,Male,35 - 54
+1103,50011,Live,Female,25 - 34
+1833,50055,Live,Male,18 - 24
+1068,50031,Live,Male,25 - 34
+1956,50005,Recorded,Male,18 - 24
+1950,50067,Live,Male,35 - 54
+1047,50067,Live,Male,35 - 54
+1150,50075,Live,Male,18 - 24
+1842,50043,Recorded,Male,35 - 54
+1582,50009,Live,Male,35 - 54
+1072,50101,Live,Male,35 - 54
+1515,50127,Live,Male,18 - 24
+1398,50009,Live,Female,25 - 34
+1886,50047,Recorded,Male,55 +
+1406,50115,Live,Male,35 - 54
+1008,50071,Live,Female,25 - 34
+1934,50091,Live,Male,35 - 54
+1753,50077,Live,Female,35 - 54
+1353,50119,Live,Male,35 - 54
+1512,50057,Live,Male,55 +
+1054,50017,Live,Male,25 - 34
+1310,50109,Recorded,Female,18 - 24
+1119,50035,Recorded,Male,35 - 54
+1754,50141,Live,Male,55 +
+1544,50083,Recorded,Male,35 - 54
+1707,50135,Live,Male,25 - 34
+1714,50019,Live,Male,18 - 24
+1916,50097,Recorded,Male,35 - 54
+1792,50099,Recorded,Male,35 - 54
+1647,50055,Live,Male,18 - 24
+1204,50043,Recorded,Male,55 +
+1962,50003,Recorded,Male,25 - 34
+1900,50125,Recorded,Male,35 - 54
+1295,50023,Live,Male,55 +
+1691,50131,Recorded,Male,35 - 54
+1151,50071,Recorded,Female,18 - 24
+1353,50041,Live,Male,35 - 54
+1815,50141,Recorded,Male,25 - 34
+1705,50097,Live,Male,35 - 54
+1262,50077,Live,Male,25 - 34
+1077,50075,Recorded,Male,35 - 54
+1701,50137,Live,Male,55 +
+1324,50071,Live,Female,55 +
+1899,50135,Recorded,Male,35 - 54
+1240,50097,Recorded,Male,35 - 54
+1519,50077,Recorded,Male,18 - 24
+1070,50081,Live,Male,18 - 24
+1766,50089,Recorded,Male,25 - 34
+1310,50011,Recorded,Male,35 - 54
+1035,50017,Recorded,Male,35 - 54
+1394,50023,Live,Male,35 - 54
+1919,50019,Recorded,Female,18 - 24
+1401,50039,Recorded,Male,35 - 54
+1202,50037,Live,Male,35 - 54
+1738,50027,Recorded,Female,18 - 24
+1347,50067,Live,Female,55 +
+1932,50037,Recorded,Male,35 - 54
+1890,50135,Recorded,Male,35 - 54
+1276,50021,Live,Male,25 - 34
+1824,50015,Live,Female,35 - 54
+1474,50043,Live,Female,35 - 54
+1165,50013,Recorded,Female,35 - 54
+1630,50083,Live,Male,55 +
+1142,50027,Recorded,Male,25 - 34
+1306,50135,Live,Male,25 - 34
+1414,50077,Live,Male,55 +
+1695,50117,Live,Male,35 - 54
+1221,50009,Live,Female,55 +
+1707,50099,Recorded,Male,35 - 54
+1696,50127,Live,Male,55 +
+1572,50047,Live,Male,35 - 54
+1232,50125,Live,Male,25 - 34
+1431,50123,Recorded,Male,35 - 54
+1303,50043,Live,Male,35 - 54
+1406,50101,Live,Male,35 - 54
+1531,50053,Live,Male,35 - 54
+1579,50031,Live,Male,35 - 54
+1618,50049,Live,Female,35 - 54
+1321,50003,Live,Male,35 - 54
+1103,50007,Recorded,Male,35 - 54
+1008,50133,Live,Male,55 +
+1595,50005,Live,Male,35 - 54
+1211,50059,Live,Male,35 - 54
+1817,50083,Live,Male,35 - 54
+1619,50093,Recorded,Male,35 - 54
+1393,50071,Recorded,Male,35 - 54
+1373,50009,Live,Male,25 - 34
+1334,50015,Live,Male,35 - 54
+1373,50011,Recorded,Male,35 - 54
+1958,50113,Live,Male,18 - 24
+1358,50103,Recorded,Male,35 - 54
+1193,50067,Recorded,Male,55 +
+1948,50125,Recorded,Female,35 - 54
+1933,50017,Live,Male,35 - 54
+1386,50067,Recorded,Male,55 +
+1819,50025,Live,Male,25 - 34
+1872,50041,Live,Male,35 - 54
+1486,50077,Live,Male,35 - 54
+1716,50103,Live,Male,35 - 54
+1105,50135,Live,Male,25 - 34
+1539,50129,Recorded,Male,35 - 54
+1902,50113,Live,Male,35 - 54
+1963,50009,Live,Male,35 - 54
+1986,50049,Recorded,Male,55 +
+1743,50095,Recorded,Male,25 - 34
+1425,50021,Recorded,Male,35 - 54
+1251,50123,Recorded,Female,18 - 24
+1278,50043,Recorded,Male,35 - 54
+1595,50027,Live,Male,25 - 34
+1791,50111,Recorded,Male,55 +
+1890,50001,Recorded,Male,35 - 54
+1512,50093,Recorded,Male,55 +
+1108,50113,Recorded,Male,35 - 54
+1482,50139,Live,Male,18 - 24
+1981,50059,Recorded,Male,35 - 54
+1731,50053,Live,Male,25 - 34
+1029,50067,Live,Male,55 +
+1793,50063,Live,Male,35 - 54
+1805,50087,Live,Male,35 - 54
+1120,50035,Recorded,Male,18 - 24
+1506,50075,Live,Female,35 - 54
+1573,50013,Recorded,Female,55 +
+1459,50135,Live,Male,18 - 24
+1608,50015,Recorded,Male,18 - 24
+1038,50095,Live,Male,35 - 54
+1860,50137,Live,Female,35 - 54
+1234,50047,Recorded,Male,35 - 54
+1841,50017,Recorded,Male,18 - 24
+1738,50065,Recorded,Male,35 - 54
+1774,50011,Live,Female,35 - 54
+1841,50033,Live,Male,18 - 24
+1794,50031,Live,Male,25 - 34
+1963,50107,Live,Male,35 - 54
+1353,50019,Recorded,Male,25 - 34
+1893,50083,Recorded,Female,35 - 54
+1182,50057,Recorded,Female,25 - 34
+1949,50113,Recorded,Male,25 - 34
+1829,50021,Recorded,Male,35 - 54
+1545,50131,Recorded,Male,18 - 24
+1694,50101,Live,Female,55 +
+1129,50051,Recorded,Male,35 - 54
+1266,50087,Recorded,Male,35 - 54
+1417,50109,Live,Male,35 - 54
+1861,50131,Recorded,Male,55 +
+1359,50025,Live,Male,35 - 54
+1277,50003,Recorded,Male,35 - 54
+1017,50041,Live,Male,25 - 34
+1716,50057,Live,Male,25 - 34
+1906,50017,Recorded,Male,35 - 54
+1489,50121,Live,Female,18 - 24
+1362,50063,Recorded,Male,35 - 54
+1686,50025,Live,Male,35 - 54
+1398,50095,Recorded,Male,35 - 54
+1712,50123,Recorded,Male,35 - 54
+1573,50095,Live,Male,35 - 54
+1936,50019,Recorded,Female,18 - 24
+1896,50037,Live,Male,25 - 34
+1457,50085,Live,Male,35 - 54
+1098,50039,Live,Male,35 - 54
+1517,50039,Live,Female,35 - 54
+1858,50011,Recorded,Male,35 - 54
+1898,50071,Recorded,Male,35 - 54
+1733,50103,Recorded,Male,35 - 54
+1110,50035,Recorded,Male,25 - 34
+1976,50095,Live,Male,35 - 54
+1246,50083,Recorded,Male,35 - 54
+1786,50087,Recorded,Male,18 - 24
+1161,50031,Recorded,Female,35 - 54
+1528,50061,Live,Male,35 - 54
+1981,50027,Recorded,Male,35 - 54
+1547,50101,Live,Female,35 - 54
+1987,50099,Recorded,Male,35 - 54
+1925,50009,Recorded,Male,35 - 54
+1870,50059,Recorded,Female,35 - 54
+1588,50049,Live,Male,25 - 34
+1708,50055,Live,Male,18 - 24
+1493,50115,Live,Female,35 - 54
+1288,50081,Recorded,Male,35 - 54
+1146,50007,Live,Female,35 - 54
+1538,50099,Recorded,Male,55 +
+1647,50085,Recorded,Male,35 - 54
+1265,50099,Live,Male,35 - 54
+1311,50137,Live,Male,25 - 34
+1724,50035,Live,Male,35 - 54
+1843,50035,Live,Male,35 - 54
+1946,50133,Recorded,Male,35 - 54
+1169,50095,Recorded,Male,35 - 54
+1877,50003,Live,Male,35 - 54
+1755,50139,Live,Female,55 +
+1767,50013,Live,Female,35 - 54
+1795,50137,Live,Male,18 - 24
+1700,50017,Live,Male,25 - 34
+1880,50125,Live,Male,25 - 34
+1150,50089,Live,Male,25 - 34
+1101,50065,Live,Male,18 - 24
+1428,50127,Recorded,Male,35 - 54
+1384,50139,Live,Female,35 - 54
+1478,50017,Recorded,Male,35 - 54
+1693,50023,Live,Female,25 - 34
+1889,50027,Live,Female,55 +
+1179,50055,Live,Female,18 - 24
+1551,50061,Recorded,Male,25 - 34
+1223,50073,Live,Female,25 - 34
+1320,50065,Recorded,Male,25 - 34
+1805,50001,Recorded,Male,18 - 24
+1918,50141,Recorded,Male,25 - 34
+1345,50071,Recorded,Male,35 - 54
+1247,50041,Live,Male,25 - 34
+1342,50137,Recorded,Female,35 - 54
+1106,50105,Recorded,Female,35 - 54
+1033,50117,Recorded,Male,35 - 54
+1441,50001,Recorded,Male,55 +
+1440,50103,Live,Male,35 - 54
+1845,50003,Recorded,Male,35 - 54
+1708,50057,Live,Male,35 - 54
+1371,50011,Live,Female,35 - 54
+1587,50127,Recorded,Male,35 - 54
+1993,50099,Live,Male,35 - 54
+1441,50059,Live,Male,35 - 54
+1257,50061,Recorded,Male,25 - 34
+1685,50073,Recorded,Female,35 - 54
+1459,50031,Recorded,Male,35 - 54
+1508,50077,Live,Male,25 - 34
+1326,50079,Recorded,Male,35 - 54
+1024,50113,Live,Male,35 - 54
+1558,50001,Live,Male,35 - 54
+1262,50097,Live,Male,25 - 34
+1839,50031,Recorded,Male,25 - 34
+1316,50063,Live,Male,35 - 54
+1459,50095,Live,Male,25 - 34
+1810,50011,Recorded,Male,35 - 54
+1215,50109,Recorded,Male,18 - 24
+1815,50005,Recorded,Male,35 - 54
+1027,50133,Recorded,Female,18 - 24
+1342,50045,Live,Female,55 +
+1560,50135,Recorded,Female,35 - 54
+1654,50137,Live,Female,35 - 54
+1399,50053,Recorded,Female,18 - 24
+1992,50091,Recorded,Male,35 - 54
+1456,50119,Recorded,Male,35 - 54
+1267,50133,Recorded,Male,35 - 54
+1918,50093,Recorded,Male,35 - 54
+1182,50117,Live,Male,18 - 24
+1506,50033,Live,Male,35 - 54
+1256,50075,Recorded,Male,35 - 54
+1837,50021,Live,Male,35 - 54
+1189,50053,Recorded,Male,35 - 54
+1817,50011,Recorded,Male,55 +
+1195,50009,Recorded,Female,18 - 24
+1286,50045,Recorded,Male,25 - 34
+1379,50029,Recorded,Male,35 - 54
+1814,50119,Recorded,Male,25 - 34
+1005,50137,Recorded,Male,35 - 54
+1012,50119,Recorded,Male,25 - 34
+1331,50031,Live,Male,35 - 54
+1217,50127,Live,Male,35 - 54
+1657,50093,Live,Male,35 - 54
+1325,50127,Live,Male,35 - 54
+1357,50093,Recorded,Male,55 +
+1015,50055,Live,Male,35 - 54
+1057,50065,Recorded,Male,25 - 34
+1495,50015,Recorded,Male,35 - 54
+1564,50007,Recorded,Male,25 - 34
+1990,50019,Live,Male,35 - 54
+1461,50125,Live,Male,35 - 54
+1897,50129,Recorded,Male,35 - 54
+1814,50123,Recorded,Female,35 - 54
+1330,50115,Live,Female,35 - 54
+1857,50059,Recorded,Male,35 - 54
+1572,50037,Live,Male,25 - 34
+1852,50011,Recorded,Male,55 +
+1877,50127,Live,Female,18 - 24
+1781,50003,Recorded,Male,55 +
+1209,50083,Live,Female,18 - 24
+1081,50037,Live,Male,18 - 24
+1306,50047,Live,Male,35 - 54
+1995,50011,Live,Male,25 - 34
+1210,50109,Live,Female,25 - 34
+1295,50069,Live,Female,25 - 34
+1288,50071,Recorded,Male,35 - 54
+1242,50077,Live,Female,35 - 54
+1662,50027,Live,Male,35 - 54
+1011,50121,Live,Male,35 - 54
+1014,50081,Recorded,Male,35 - 54
+1878,50141,Recorded,Male,35 - 54
+1654,50081,Live,Male,35 - 54
+1292,50041,Recorded,Male,35 - 54
+1703,50037,Live,Male,35 - 54
+1696,50029,Live,Male,35 - 54
+1610,50121,Live,Female,25 - 34
+1778,50113,Live,Male,35 - 54
+1929,50003,Recorded,Male,25 - 34
+1263,50095,Recorded,Female,55 +
+1754,50043,Recorded,Female,18 - 24
+1071,50099,Live,Male,35 - 54
+1553,50029,Recorded,Female,35 - 54
+1771,50137,Recorded,Male,35 - 54
+1312,50009,Live,Female,35 - 54
+1528,50131,Recorded,Female,35 - 54
+1785,50023,Recorded,Male,25 - 34
+1293,50049,Live,Male,18 - 24
+1996,50041,Recorded,Male,25 - 34
+1759,50013,Recorded,Female,18 - 24
+1768,50133,Recorded,Male,25 - 34
+1629,50013,Live,Male,25 - 34
+1952,50085,Recorded,Female,35 - 54
+1249,50025,Recorded,Female,35 - 54
+1824,50107,Live,Male,25 - 34
+1714,50019,Recorded,Female,55 +
+1205,50023,Live,Male,25 - 34
+1142,50135,Live,Male,35 - 54
+1817,50091,Live,Male,35 - 54
+1956,50079,Live,Female,35 - 54
+1649,50089,Recorded,Female,35 - 54
+1618,50119,Live,Male,18 - 24
+1185,50105,Live,Male,18 - 24
+1798,50017,Recorded,Male,35 - 54
+1891,50021,Live,Female,25 - 34
+1394,50005,Recorded,Male,25 - 34
+1576,50107,Live,Male,35 - 54
+1779,50125,Recorded,Male,35 - 54
+1811,50119,Live,Male,35 - 54
+1440,50065,Live,Male,25 - 34
+1284,50041,Recorded,Female,18 - 24
+1056,50081,Recorded,Male,35 - 54
+1014,50109,Recorded,Female,35 - 54
+1376,50001,Live,Male,55 +
+1888,50001,Recorded,Male,35 - 54
+1957,50013,Live,Male,55 +
+1780,50103,Live,Female,35 - 54
+1548,50069,Live,Male,35 - 54
+1025,50137,Recorded,Female,25 - 34
+1463,50129,Live,Male,55 +
+1675,50045,Live,Male,35 - 54
+1513,50055,Recorded,Male,35 - 54
+1751,50085,Live,Male,35 - 54
+1021,50075,Live,Male,55 +
+1079,50109,Recorded,Male,35 - 54
+1127,50089,Live,Male,18 - 24
+1071,50075,Recorded,Male,25 - 34
+1023,50001,Recorded,Male,35 - 54
+1036,50025,Recorded,Male,35 - 54
+1993,50033,Live,Male,35 - 54
+1630,50129,Live,Male,35 - 54
+1510,50101,Recorded,Female,35 - 54
+1614,50055,Live,Male,35 - 54
+1932,50065,Live,Male,25 - 34
+1513,50041,Recorded,Female,18 - 24
+1566,50125,Recorded,Male,35 - 54
+1928,50129,Live,Female,35 - 54
+1585,50047,Live,Male,35 - 54
+1734,50051,Live,Male,35 - 54
+1555,50061,Recorded,Female,35 - 54
+1567,50133,Live,Male,55 +
+1749,50047,Recorded,Male,35 - 54
+1204,50069,Live,Female,25 - 34
+1486,50007,Live,Female,55 +
+1821,50127,Recorded,Female,35 - 54
+1260,50041,Recorded,Male,35 - 54
+1021,50099,Recorded,Male,35 - 54
+1726,50053,Live,Male,35 - 54
+1758,50049,Recorded,Male,35 - 54
+1348,50131,Live,Male,35 - 54
+1078,50031,Live,Female,25 - 34
+1761,50007,Live,Male,35 - 54
+1442,50115,Live,Female,35 - 54
+1953,50029,Recorded,Male,35 - 54
+1891,50111,Recorded,Male,35 - 54
+1825,50039,Recorded,Female,25 - 34
+1668,50123,Live,Male,35 - 54
+1773,50095,Live,Male,25 - 34
+1183,50073,Live,Male,25 - 34
+1978,50051,Live,Male,35 - 54
+1748,50127,Live,Male,35 - 54
+1537,50077,Live,Male,35 - 54
+1358,50133,Recorded,Male,35 - 54
+1256,50135,Live,Female,35 - 54
+1676,50063,Recorded,Male,25 - 34
+1764,50071,Recorded,Male,35 - 54
+1559,50091,Live,Male,35 - 54
+1779,50061,Recorded,Male,35 - 54
+1738,50135,Live,Female,35 - 54
+1518,50127,Recorded,Male,35 - 54
+1743,50005,Live,Male,35 - 54
+1368,50055,Live,Male,35 - 54
+1428,50039,Live,Male,35 - 54
+1144,50003,Recorded,Male,35 - 54
+1391,50047,Recorded,Female,35 - 54
+1071,50063,Live,Male,18 - 24
+1649,50115,Live,Male,35 - 54
+1301,50101,Live,Female,25 - 34
+1885,50083,Recorded,Male,35 - 54
+1552,50055,Recorded,Male,18 - 24
+1853,50121,Recorded,Female,25 - 34
+1300,50079,Recorded,Male,35 - 54
+1201,50067,Recorded,Male,25 - 34
+1671,50081,Live,Male,35 - 54
+1390,50047,Live,Female,35 - 54
+1676,50133,Recorded,Male,35 - 54
+1415,50067,Recorded,Male,35 - 54
+1550,50009,Recorded,Male,18 - 24
+1720,50077,Recorded,Male,35 - 54
+1179,50083,Live,Male,55 +
+1056,50077,Live,Male,35 - 54
+1424,50093,Live,Male,35 - 54
+1415,50017,Recorded,Male,35 - 54
+1996,50003,Recorded,Female,35 - 54
+1636,50019,Live,Male,35 - 54
+1252,50009,Live,Male,25 - 34
+1405,50001,Recorded,Male,35 - 54
+1324,50131,Live,Male,18 - 24
+1410,50011,Live,Male,35 - 54
+1810,50077,Live,Male,25 - 34
+1161,50103,Live,Male,35 - 54
+1682,50081,Recorded,Male,35 - 54
+1793,50053,Recorded,Male,25 - 34
+1986,50073,Recorded,Male,35 - 54
+1888,50107,Recorded,Female,25 - 34
+1816,50113,Recorded,Male,25 - 34
+1844,50047,Live,Male,35 - 54
+1923,50115,Live,Male,35 - 54
+1973,50069,Recorded,Male,35 - 54
+1513,50093,Live,Male,25 - 34
+1647,50093,Live,Male,35 - 54
+1425,50013,Live,Male,25 - 34
+1847,50083,Recorded,Male,35 - 54
+1318,50011,Recorded,Male,25 - 34
+1488,50035,Live,Male,35 - 54
+1286,50107,Live,Male,35 - 54
+1929,50097,Recorded,Male,35 - 54
+1169,50061,Live,Male,25 - 34
+1546,50133,Live,Male,35 - 54
+1733,50123,Recorded,Male,25 - 34
+1856,50109,Live,Male,35 - 54
+1794,50057,Live,Male,35 - 54
+1145,50139,Recorded,Male,55 +
+1529,50095,Recorded,Male,55 +
+1081,50001,Live,Female,35 - 54
+1754,50101,Recorded,Male,25 - 34
+1874,50085,Recorded,Male,18 - 24
+1614,50017,Live,Male,55 +
+1677,50107,Recorded,Male,25 - 34
+1157,50013,Live,Male,25 - 34
+1143,50117,Recorded,Female,35 - 54
+1783,50099,Recorded,Male,25 - 34
+1563,50091,Recorded,Male,35 - 54
+1670,50087,Live,Male,35 - 54
+1807,50103,Live,Male,35 - 54
+1118,50105,Recorded,Male,55 +
+1842,50099,Recorded,Male,35 - 54
+1127,50023,Recorded,Male,25 - 34
+1466,50031,Recorded,Male,35 - 54
+1716,50067,Recorded,Male,25 - 34
+1384,50103,Recorded,Male,35 - 54
+1802,50043,Live,Male,35 - 54
+1100,50127,Recorded,Female,25 - 34
+1460,50011,Recorded,Male,35 - 54
+1151,50087,Recorded,Female,35 - 54
+1840,50013,Live,Male,18 - 24
+1817,50137,Live,Male,18 - 24
+1042,50021,Live,Male,35 - 54
+1115,50093,Live,Male,25 - 34
+1945,50059,Recorded,Female,18 - 24
+1234,50087,Recorded,Male,55 +
+1839,50061,Live,Male,25 - 34
+1803,50091,Recorded,Male,35 - 54
+1465,50137,Recorded,Male,35 - 54
+1402,50011,Recorded,Male,18 - 24
+1875,50039,Live,Female,35 - 54
+1493,50055,Live,Male,35 - 54
+1580,50129,Recorded,Male,35 - 54
+1204,50069,Recorded,Male,35 - 54
+1052,50045,Live,Male,55 +
+1083,50089,Recorded,Male,35 - 54
+1768,50105,Live,Male,25 - 34
+1090,50033,Live,Male,35 - 54
+1470,50029,Recorded,Female,35 - 54
+1258,50077,Recorded,Female,35 - 54
+1928,50097,Live,Male,35 - 54
+1249,50047,Recorded,Male,55 +
+1215,50059,Live,Male,35 - 54
+1354,50077,Recorded,Male,25 - 34
+1543,50051,Recorded,Male,35 - 54
+1097,50111,Recorded,Male,35 - 54
+1889,50059,Recorded,Male,35 - 54
+1994,50117,Recorded,Female,25 - 34
+1182,50075,Live,Male,35 - 54
+1670,50021,Live,Male,35 - 54
+1425,50025,Recorded,Male,35 - 54
+1772,50091,Live,Male,35 - 54
+1019,50021,Live,Male,35 - 54
+1170,50115,Recorded,Male,35 - 54
+1664,50119,Live,Male,35 - 54
+1755,50129,Live,Male,35 - 54
+1253,50003,Recorded,Male,25 - 34
+1707,50139,Live,Male,25 - 34
+1654,50109,Recorded,Female,18 - 24
+1987,50057,Recorded,Female,35 - 54
+1530,50033,Recorded,Male,35 - 54
+1170,50137,Recorded,Male,35 - 54
+1029,50099,Live,Male,35 - 54
+1784,50003,Live,Male,35 - 54
+1968,50007,Live,Male,55 +
+1197,50049,Recorded,Male,25 - 34
+1515,50121,Recorded,Male,25 - 34
+1533,50049,Live,Male,35 - 54
+1285,50141,Live,Male,25 - 34
+1979,50085,Recorded,Male,18 - 24
+1013,50135,Live,Male,55 +
+1430,50011,Live,Female,18 - 24
+1888,50027,Recorded,Male,35 - 54
+1385,50023,Live,Male,35 - 54
+1940,50017,Recorded,Male,55 +
+1506,50087,Recorded,Female,55 +
+1898,50091,Recorded,Male,25 - 34
+1596,50111,Live,Female,55 +
+1905,50043,Recorded,Female,25 - 34
+1085,50137,Recorded,Female,35 - 54
+1750,50115,Recorded,Male,55 +
+1643,50139,Recorded,Male,18 - 24
+1784,50029,Live,Female,18 - 24
+1091,50037,Live,Male,35 - 54
+1941,50055,Recorded,Male,25 - 34
+1062,50011,Recorded,Male,35 - 54
+1290,50045,Live,Male,18 - 24
+1208,50103,Live,Male,18 - 24
+1795,50013,Recorded,Female,35 - 54
+1636,50133,Recorded,Male,35 - 54
+1807,50109,Recorded,Male,35 - 54
+1066,50067,Recorded,Male,35 - 54
+1785,50001,Live,Male,55 +
+1655,50025,Live,Male,25 - 34
+1373,50053,Live,Male,25 - 34
+1910,50079,Live,Male,35 - 54
+1867,50051,Live,Male,25 - 34
+1234,50107,Recorded,Male,35 - 54
+1774,50087,Recorded,Male,35 - 54
+1027,50069,Recorded,Female,25 - 34
+1716,50113,Live,Female,25 - 34
+1706,50109,Live,Male,35 - 54
+1688,50043,Recorded,Male,35 - 54
+1475,50137,Recorded,Male,25 - 34
+1507,50069,Recorded,Male,25 - 34
+1487,50133,Recorded,Male,25 - 34
+1069,50069,Recorded,Male,25 - 34
+1376,50043,Live,Female,35 - 54
+1258,50123,Live,Male,18 - 24
+1932,50005,Live,Male,35 - 54
+1575,50021,Recorded,Female,55 +
+1162,50061,Live,Female,35 - 54
+1300,50097,Recorded,Male,25 - 34
+1924,50027,Live,Male,35 - 54
+1445,50057,Live,Female,35 - 54
+1920,50051,Live,Male,25 - 34
+1102,50091,Recorded,Female,35 - 54
+1031,50075,Recorded,Male,35 - 54
+1983,50079,Recorded,Male,55 +
+1584,50017,Live,Female,18 - 24
+1894,50097,Live,Male,35 - 54
+1912,50011,Live,Female,18 - 24
+1156,50081,Recorded,Male,25 - 34
+1297,50011,Recorded,Male,35 - 54
+1564,50039,Recorded,Male,35 - 54
+1625,50037,Live,Male,35 - 54
+1791,50081,Live,Male,25 - 34
+1106,50123,Recorded,Female,35 - 54
+1006,50051,Recorded,Male,35 - 54
+1983,50057,Recorded,Female,35 - 54
+1934,50075,Live,Male,25 - 34
+1393,50139,Recorded,Male,25 - 34
+1659,50111,Recorded,Female,35 - 54
+1382,50091,Recorded,Male,25 - 34
+1912,50073,Recorded,Male,35 - 54
+1226,50037,Recorded,Male,35 - 54
+1803,50005,Live,Male,25 - 34
+1903,50091,Recorded,Female,35 - 54
+1859,50055,Recorded,Male,35 - 54
+1037,50033,Live,Female,35 - 54
+1233,50087,Recorded,Male,35 - 54
+1083,50141,Recorded,Female,55 +
+1570,50063,Recorded,Male,35 - 54
+1259,50079,Recorded,Female,18 - 24
+1460,50111,Recorded,Male,18 - 24
+1695,50113,Recorded,Male,55 +
+1250,50071,Live,Male,35 - 54
+1209,50073,Live,Male,35 - 54
+1764,50059,Live,Male,55 +
+1902,50037,Recorded,Male,35 - 54
+1269,50107,Live,Male,35 - 54
+1259,50019,Recorded,Male,35 - 54
+1007,50067,Recorded,Male,35 - 54
+1958,50033,Recorded,Male,18 - 24
+1109,50009,Recorded,Male,25 - 34
+1369,50011,Live,Female,35 - 54
+1636,50005,Recorded,Male,35 - 54
+1403,50021,Live,Male,55 +
+1648,50097,Recorded,Female,25 - 34
+1253,50113,Live,Male,35 - 54
+1313,50135,Recorded,Male,18 - 24
+1218,50027,Live,Male,35 - 54
+1669,50075,Recorded,Male,25 - 34
+1239,50037,Live,Male,35 - 54
+1582,50065,Live,Male,35 - 54
+1622,50133,Live,Male,35 - 54
+1951,50057,Live,Female,25 - 34
+1463,50073,Live,Male,35 - 54
+1897,50117,Live,Male,25 - 34
+1460,50047,Live,Male,55 +
+1888,50021,Live,Male,35 - 54
+1461,50097,Live,Male,35 - 54
+1224,50027,Recorded,Male,35 - 54
+1554,50091,Recorded,Male,35 - 54
+1013,50075,Recorded,Female,25 - 34
+1528,50007,Live,Male,18 - 24
+1047,50079,Recorded,Male,18 - 24
+1651,50017,Live,Female,35 - 54
+1525,50045,Live,Male,35 - 54
+1815,50139,Live,Male,35 - 54
+1194,50099,Live,Male,18 - 24
+1856,50093,Live,Male,55 +
+1609,50037,Recorded,Male,35 - 54
+1587,50003,Live,Male,35 - 54
+1019,50075,Recorded,Male,35 - 54
+1988,50069,Recorded,Male,55 +
+1896,50007,Recorded,Male,25 - 34
+1810,50077,Live,Male,25 - 34
+1282,50053,Recorded,Male,35 - 54
+1251,50127,Recorded,Female,35 - 54
+1052,50021,Live,Male,35 - 54
+1220,50101,Recorded,Male,35 - 54
+1477,50083,Live,Male,55 +
+1553,50001,Live,Female,35 - 54
+1545,50003,Recorded,Male,18 - 24
+1266,50073,Recorded,Male,55 +
+1983,50005,Live,Male,18 - 24
+1219,50021,Recorded,Male,25 - 34
+1997,50131,Recorded,Male,35 - 54
+1330,50059,Live,Male,35 - 54
+1739,50023,Recorded,Male,25 - 34
+1081,50127,Live,Male,35 - 54
+1350,50033,Live,Male,35 - 54
+1468,50015,Live,Male,35 - 54
+1882,50121,Live,Male,35 - 54
+1895,50089,Live,Male,25 - 34
+1402,50079,Live,Male,35 - 54
+1237,50031,Recorded,Male,25 - 34
+1446,50129,Recorded,Female,25 - 34
+1046,50057,Live,Male,35 - 54
+1216,50055,Live,Female,18 - 24
+1925,50043,Recorded,Female,35 - 54
+1461,50077,Recorded,Female,25 - 34
+1908,50129,Recorded,Female,35 - 54
+1693,50141,Live,Male,55 +
+1173,50109,Live,Male,18 - 24
+1864,50059,Live,Female,35 - 54
+1750,50123,Recorded,Male,35 - 54
+1818,50065,Recorded,Male,35 - 54
+1370,50049,Live,Male,55 +
+1891,50129,Recorded,Female,18 - 24
+1335,50121,Recorded,Male,18 - 24
+1613,50037,Recorded,Male,55 +
+1232,50077,Recorded,Male,18 - 24
+1060,50005,Recorded,Male,35 - 54
+1511,50053,Live,Male,25 - 34
+1292,50079,Recorded,Male,35 - 54
+1518,50019,Recorded,Female,55 +
+1284,50051,Live,Male,35 - 54
+1890,50097,Recorded,Male,35 - 54
+1390,50009,Recorded,Male,35 - 54
+1534,50001,Live,Male,25 - 34
+1098,50053,Live,Male,25 - 34
+1421,50111,Recorded,Female,35 - 54
+1634,50035,Recorded,Male,35 - 54
+1681,50005,Live,Male,35 - 54
+1877,50069,Live,Male,18 - 24
+1374,50073,Recorded,Male,55 +
+1143,50095,Recorded,Male,35 - 54
+1291,50111,Live,Male,25 - 34
+1111,50041,Recorded,Male,35 - 54
+1360,50057,Recorded,Male,35 - 54
+1332,50011,Live,Female,35 - 54
+1296,50003,Live,Male,35 - 54
+1017,50119,Live,Male,35 - 54
+1086,50075,Recorded,Male,35 - 54
+1277,50035,Live,Male,35 - 54
+1603,50043,Live,Male,25 - 34
+1973,50037,Live,Male,35 - 54
+1994,50047,Recorded,Male,35 - 54
+1342,50057,Live,Male,18 - 24
+1381,50085,Recorded,Female,35 - 54
+1592,50009,Recorded,Male,55 +
+1382,50095,Live,Male,35 - 54
+1644,50043,Live,Male,35 - 54
+1491,50127,Recorded,Male,35 - 54
+1611,50051,Recorded,Female,55 +
+1161,50067,Recorded,Male,55 +
+1401,50049,Live,Female,35 - 54
+1923,50033,Live,Female,35 - 54
+1265,50141,Live,Male,18 - 24
+1012,50045,Recorded,Male,35 - 54
+1942,50033,Live,Male,25 - 34
+1847,50057,Live,Male,18 - 24
+1774,50055,Live,Female,35 - 54
+1322,50119,Live,Female,35 - 54
+1435,50059,Live,Female,35 - 54
+1792,50127,Live,Female,25 - 34
+1003,50099,Recorded,Male,35 - 54
+1548,50055,Live,Male,55 +
+1595,50137,Live,Male,55 +
+1199,50041,Recorded,Male,35 - 54
+1011,50063,Live,Male,35 - 54
+1388,50091,Recorded,Male,35 - 54
+1441,50039,Live,Male,35 - 54
+1395,50005,Live,Female,35 - 54
+1554,50089,Recorded,Male,25 - 34
+1923,50081,Live,Male,25 - 34
+1649,50025,Recorded,Male,35 - 54
+1010,50019,Live,Male,35 - 54
+1789,50013,Recorded,Male,35 - 54
+1492,50137,Recorded,Female,25 - 34
+1273,50091,Recorded,Female,35 - 54
+1200,50139,Live,Male,35 - 54
+1934,50011,Live,Male,55 +
+1721,50015,Recorded,Male,55 +
+1684,50107,Recorded,Male,25 - 34
+1939,50129,Live,Female,55 +
+1310,50091,Live,Male,25 - 34
+1579,50057,Recorded,Male,35 - 54
+1633,50045,Live,Male,18 - 24
+1881,50081,Recorded,Male,35 - 54
+1098,50137,Recorded,Male,35 - 54
+1017,50027,Live,Male,35 - 54
+1589,50073,Live,Female,35 - 54
+1759,50069,Recorded,Male,55 +
+1413,50091,Live,Male,55 +
+1165,50037,Live,Male,35 - 54
+1575,50041,Recorded,Male,35 - 54
+1913,50043,Live,Male,18 - 24
+1009,50075,Live,Female,35 - 54
+1655,50017,Live,Female,35 - 54
+1036,50027,Live,Male,35 - 54
+1172,50093,Recorded,Male,25 - 34
+1662,50133,Live,Male,35 - 54
+1118,50121,Recorded,Female,25 - 34
+1811,50083,Live,Male,25 - 34
+1844,50111,Live,Male,35 - 54
+1234,50039,Live,Male,35 - 54
+1430,50001,Recorded,Male,35 - 54
+1263,50135,Live,Male,25 - 34
+1341,50031,Live,Male,35 - 54
+1830,50037,Recorded,Male,35 - 54
+1338,50017,Recorded,Male,18 - 24
+1532,50141,Live,Female,25 - 34
+1822,50027,Live,Male,25 - 34
+1005,50009,Recorded,Female,35 - 54
+1387,50047,Live,Female,18 - 24
+1638,50031,Recorded,Male,18 - 24
+1940,50113,Recorded,Female,35 - 54
+1982,50065,Live,Male,18 - 24
+1208,50033,Live,Female,25 - 34
+1800,50117,Recorded,Male,35 - 54
+1298,50109,Recorded,Male,25 - 34
+1961,50061,Recorded,Male,35 - 54
+1930,50133,Recorded,Male,25 - 34
+1702,50023,Recorded,Male,25 - 34
+1465,50115,Live,Male,55 +
+1501,50123,Live,Male,35 - 54
+1910,50071,Recorded,Female,35 - 54
+1497,50061,Live,Male,55 +
+1833,50053,Recorded,Male,35 - 54
+1891,50023,Live,Male,18 - 24
+1988,50061,Recorded,Female,18 - 24
+1538,50023,Recorded,Male,25 - 34
+1953,50061,Live,Male,35 - 54
+1549,50035,Recorded,Male,18 - 24
+1837,50005,Recorded,Female,35 - 54
+1965,50053,Recorded,Male,35 - 54
+1076,50141,Recorded,Male,35 - 54
+1804,50061,Recorded,Male,35 - 54
+1637,50095,Live,Male,25 - 34
+1602,50081,Live,Male,18 - 24
+1330,50017,Live,Male,35 - 54
+1352,50117,Live,Female,25 - 34
+1673,50081,Recorded,Male,25 - 34
+1975,50119,Live,Male,35 - 54
+1187,50133,Recorded,Female,25 - 34
+1284,50083,Live,Male,18 - 24
+1270,50079,Recorded,Male,35 - 54
+1027,50079,Recorded,Male,35 - 54
+1179,50001,Recorded,Male,55 +
+1787,50139,Recorded,Female,18 - 24
+1119,50041,Recorded,Male,35 - 54
+1243,50029,Live,Male,35 - 54
+1201,50091,Live,Male,35 - 54
+1159,50063,Live,Male,55 +
+1043,50067,Live,Male,35 - 54
+1862,50093,Live,Male,25 - 34
+1477,50013,Recorded,Male,35 - 54
+1134,50043,Live,Male,18 - 24
+1113,50075,Recorded,Male,35 - 54
+1329,50123,Recorded,Female,35 - 54
+1776,50029,Recorded,Male,35 - 54
+1935,50063,Live,Male,18 - 24
+1014,50065,Live,Male,35 - 54
+1519,50047,Recorded,Male,35 - 54
+1011,50095,Recorded,Male,55 +
+1087,50075,Live,Male,25 - 34
+1349,50015,Recorded,Male,35 - 54
+1278,50047,Recorded,Male,35 - 54
+1025,50019,Live,Male,35 - 54
+1241,50035,Recorded,Male,25 - 34
+1541,50005,Live,Male,35 - 54
+1507,50019,Live,Male,35 - 54
+1286,50105,Recorded,Male,55 +
+1624,50105,Recorded,Male,35 - 54
+1240,50033,Recorded,Male,35 - 54
+1085,50123,Recorded,Male,35 - 54
+1082,50015,Recorded,Male,25 - 34
+1966,50105,Recorded,Male,35 - 54
+1360,50093,Live,Male,35 - 54
+1753,50127,Live,Female,35 - 54
+1478,50139,Live,Male,35 - 54
+1602,50019,Recorded,Male,18 - 24
+1365,50009,Live,Female,55 +
+1982,50125,Recorded,Female,25 - 34
+1963,50123,Live,Female,35 - 54
+1074,50091,Recorded,Male,35 - 54

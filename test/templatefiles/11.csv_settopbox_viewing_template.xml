@@ -8,7 +8,7 @@
 	
 	<column name="CustomerId" dbColumnName="customerid">
 		<datatype>ORDINAL</datatype>		
-		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_subscriber_1000.csv" column="1">			
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_subscriber_1000.csv" column="1" bias="">			
 		</choice>
 	</column>
 	<!--<column name="NickName" dbColumnName="customerid">
@@ -18,7 +18,7 @@
 	</column>-->
 	<column name="Program Id" dbColumnName="customerid">
 		<datatype>ORDINAL</datatype>		
-		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_programguide_500.csv" column="1">			
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_programguide_500.csv" column="1" bias="">			
 		</choice>
 	</column>
 	<column name="Live/Recorded" dbColumnName="customerid">
@@ -31,18 +31,18 @@
 	<column name="Gender" dbColumnName="customerid">
 		<datatype>ORDINAL</datatype>
 		<choice>
-			<option>Male</option>
-			<option>Female</option>						
+			<option bias="0.3">Male</option>
+			<option bias="0.7">Female</option>						
 		</choice>
 	</column>
 	<column name="Age Range" dbColumnName="customerid">
 		<datatype>ORDINAL</datatype>
 		<choice>
 			<!--<option>13 - 17</option>-->
-			<option>18 - 24</option>
-			<option>25 - 34</option>
-			<option>35 - 54</option>
-			<option>55 +</option>			
+			<option bias="0.1">18 - 24</option>
+			<option bias="0.2">25 - 34</option>
+			<option bias="0.6">35 - 54</option>
+			<option bias="0.1">55 +</option>			
 		</choice>
 	</column>
 	<!--<column name="Recorded" dbColumnName="customerid">

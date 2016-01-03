@@ -25,7 +25,7 @@ class RecordGenerator(object):
         Constructor
         '''
         self.config=config
-        self.ordinalChoice=self.loadOrdinalChoice()
+        self.ordinalChoice,self.odinalBias=self.loadOrdinalChoice()
         self.stringChoice=self.loadStringChoice()
     
     def generateData(self,timeStamp):  
@@ -44,7 +44,7 @@ class RecordGenerator(object):
                 elif dataConf.dataType == "GUID":
                     value=GUIDGenerator(dataConf).getRandom()
                 elif dataConf.dataType == "ORDINAL": 
-                    value=ORDINALGenerator(dataConf).getRandom(self.ordinalChoice[column.get('name')])
+                    value=ORDINALGenerator(dataConf).getRandom(self.ordinalChoice[column.get('name')],self.odinalBias[column.get('name')])
                 elif dataConf.dataType == "BOOLEAN": 
                     value=BOOLEANGenerator(dataConf).getRandom()
                 elif dataConf.dataType == "STRING":                     
@@ -81,7 +81,7 @@ class RecordGenerator(object):
                 elif dataConf.dataType == "GUID":
                     value=GUIDGenerator(dataConf).getRandom()
                 elif dataConf.dataType == "ORDINAL": 
-                    value=ORDINALGenerator(dataConf).getRandom(self.ordinalChoice[column.get('name')])
+                    value=ORDINALGenerator(dataConf).getRandom(self.ordinalChoice[column.get('name')],self.odinalBias[column.get('name')])
                 elif dataConf.dataType == "BOOLEAN": 
                     value=BOOLEANGenerator(dataConf).getRandom()
                 elif dataConf.dataType == "STRING":                     
@@ -99,8 +99,10 @@ class RecordGenerator(object):
             raise         
         return record
  
+    
+ 
     def loadStringChoice(self):
-        choicedict={}        
+        choicedict={}
         for column in self.config.findall('column'):
             if "STRING" == column.findtext('datatype',default=None):  
                 choice=column.find('choice')
@@ -128,9 +130,11 @@ class RecordGenerator(object):
     
     def loadOrdinalChoice(self):
         choicedict={}
+        bias_dict={}   
         for column in self.config.findall('column'):              
             if "ORDINAL" == column.findtext('datatype',default=None):  
                 options=[]
+                bias_list=[]
                 choice=column.find('choice')
                 seed=choice.get('seed',default=None)
                 if seed is not None:
@@ -143,8 +147,28 @@ class RecordGenerator(object):
                 else:
                     for opt in choice.findall('option'):
                         options.append(opt.text)        
-                choicedict[column.get('name')]= options      
-        return choicedict  
+                choicedict[column.get('name')]= options 
+                optionsCount=len(options)
+                choiceBias=choice.get('bias',default=None)
+                if choiceBias is None:
+                    for opt in choice.findall('option'):
+                        if opt.get('bias',default=None) is None:                            
+                            bias_list.append(1.0/optionsCount)
+                        else:
+                            bias_list.append(float(opt.get('bias',default=None)))
+                else:
+#                     print "Options Count",optionsCount 
+                    for i in range(optionsCount):
+                        bias_list.append(1.0/optionsCount)  
+#                     print bias_list      
+                scale=[]
+                for i in range(optionsCount):
+                    s=0
+                    for j in range(i+1):
+                       s+=bias_list[j]
+                    scale.append(s)
+                bias_dict[column.get('name')]=scale     
+        return choicedict,bias_dict  
 
     def loadSelectedColumn(self,seed,column):
         columnNo=int(column)-1                                

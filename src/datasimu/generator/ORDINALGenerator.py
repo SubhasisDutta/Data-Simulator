@@ -17,7 +17,16 @@ class ORDINALGenerator(object):
         '''
         self.dataConf=dataConf        
     
-    def getRandom(self,choice):
-        count=len(choice)
-        c= random.randint(0,count-1)
+    def getRandom(self,choice,bias):
+        r=random.random()
+        c= self.findBiasChoice(r,bias)
         return choice[c]
+    
+    def findBiasChoice(self,r,bias):
+        i=0
+        for c in bias:
+            if r < c:
+                return i
+            else:
+                i+=1
+        return i
