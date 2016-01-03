@@ -18,7 +18,7 @@
 	<!-- This provids a unique id whic is ideal for keeping track of records -->
 	
 	<column name="Transaction ID">
-		<description>This is a unique ID generated for each retail transaction.</description>		
+		<description>This is a unique ID generated for each retail transaction.</description>	
 		<datatype>GUID</datatype>
 	</column>
 	<column name="Time Stamp">

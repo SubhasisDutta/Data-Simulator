@@ -24,4 +24,6 @@ class RandomConfig(object):
             if self.minimum is None:
                 self.minimum = column.findtext('fixed',default=None)
         self.unit =column.findtext('unit',default=None)
-            
+        if self.pattern == "Sequence": 
+            self.sequence_start=column.find('pattern').get('start',default=1)
+            self.sequence_step=column.find('pattern').get('step',default=1)

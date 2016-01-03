@@ -7,17 +7,22 @@
 	</resulttype>
 	
 	<column name="ProgramId" dbColumnName="customerid">
-		<datatype>GUID</datatype>
+		<!--<datatype>GUID</datatype>-->
+		<datatype>INTEGER</datatype>
+		<pattern start="50001" step="2">Sequence</pattern>
 	</column>
 	<column name="Name" dbColumnName="customerid">
-		<datatype>STRING</datatype>
+		<datatype>ORDINAL</datatype>		
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\movies.csv" column="2">			
+		</choice>
+		<!--<datatype>STRING</datatype>
 		<pattern>Random_normal</pattern>
 		<minimum>10</minimum>
 		<maximum>25</maximum>
 		<choice> 			
-			<option>lowercase</option> <!-- 'abcdefghijklmnopqrstuvwxyz' -->			
-			<option>uppercase</option> <!-- 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' -->						
-		</choice>
+			<option>lowercase</option> 		
+			<option>uppercase</option> 
+		</choice>-->
 	</column>
 	<column name="Channel" dbColumnName="customerid">
 		<datatype>ORDINAL</datatype>
@@ -80,14 +85,14 @@
 			<option>News</option>
 		</choice>
 	</column>	
-	<column name="Live/Recorded" dbColumnName="customerid">
+	<!--<column name="Live/Recorded" dbColumnName="customerid">
 		<datatype>ORDINAL</datatype>
 		<choice>
 			<option>Recorded</option>
 			<option>Live</option>						
 		</choice>
 	</column>
-		
+	--->
 	<timesliceType>FIXED_LOAD</timesliceType> 
 	<totalrecord>500</totalrecord>
 	

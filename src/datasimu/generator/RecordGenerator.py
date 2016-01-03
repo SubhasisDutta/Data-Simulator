@@ -69,8 +69,11 @@ class RecordGenerator(object):
             for column in self.config.findall('column'):
                 dataConf=RandomConfig(column)
                 value= None
-                if dataConf.dataType == "INTEGER":                
-                    value=IntegerGenrator(dataConf).getRandom()
+                if dataConf.dataType == "INTEGER":  
+                    if dataConf.pattern == "Sequence":
+                        value=IntegerGenrator(dataConf).getRandom(count)
+                    else:
+                        value=IntegerGenrator(dataConf).getRandom()
                 elif dataConf.dataType == "FLOAT":
                     value=FloatGenrator(dataConf).getRandom()
                 elif dataConf.dataType == "DECIMAL":

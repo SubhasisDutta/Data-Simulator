@@ -1,501 +1,72 @@
-ProgramId,Name,Channel,Show,AiringDay,AiringTime,Duration,Genre,Live/Recorded
-deb27940-a70d-11e5-a91e-7845c4b142f6,RRBcAkuJcliXqbOE,cbs,5,Wednesday,10:00,60,Reality,Recorded
-deb27941-a70d-11e5-b640-7845c4b142f6,zREBIiprbLVtBcPURcKMxl,abc,4,Wednesday,11:00,60,Sports,Live
-deb27942-a70d-11e5-b3b9-7845c4b142f6,wbTPLKluXHoswCe,abc,5,Thursday,12:00,60,News,Recorded
-deb4ea40-a70d-11e5-b151-7845c4b142f6,nsSCOsvuAfJjMaVrKcdMfOw,hbo,6,Monday,2:00,60,Action,Recorded
-deb4ea41-a70d-11e5-8db3-7845c4b142f6,rxpYDSXxDLsSgwfvM,fox,8,Saturday,12:00,60,News,Recorded
-deb4ea42-a70d-11e5-9272-7845c4b142f6,CqfZbXKsjsXc,cbs,6,Thursday,6:00,60,News,Live
-deb4ea43-a70d-11e5-bc1b-7845c4b142f6,GPlaUbTVNTIMtYjPUcjMINo,hbo,6,Saturday,7:00,60,Comedy,Live
-deb4ea44-a70d-11e5-941c-7845c4b142f6,scnWbsAMwIP,fox,3,Thursday,5:00,60,Comedy,Recorded
-deb4ea45-a70d-11e5-ab04-7845c4b142f6,kZMnNpXBIn,hbo,7,Monday,1:00,60,Action,Recorded
-deb4ea46-a70d-11e5-8cd1-7845c4b142f6,PrDvKEgwGSCK,cnn,9,Thursday,8:00,60,Reality,Recorded
-deb4ea47-a70d-11e5-9e9e-7845c4b142f6,xMeceeYVeLjUWb,abc,9,Tuesday,6:00,60,Action,Live
-deb73430-a70d-11e5-a2db-7845c4b142f6,XKZwTHbBVn,cnn,2,Saturday,4:00,60,Action,Live
-deb73431-a70d-11e5-81fb-7845c4b142f6,PfubdyuRRjcRnMgDqMBh,abc,3,Thursday,6:00,60,News,Live
-deb73432-a70d-11e5-a4c0-7845c4b142f6,MjtIsMKVehRMdFsEtGiq,abc,9,Tuesday,12:00,60,News,Live
-deb73433-a70d-11e5-b207-7845c4b142f6,XksMrRUMiyPFFuzklhPZPsml,abc,9,Wednesday,2:00,60,Sports,Live
-deb73434-a70d-11e5-b993-7845c4b142f6,TGgioGbgSWudf,hbo,4,Monday,9:00,60,Comedy,Recorded
-deb73435-a70d-11e5-a879-7845c4b142f6,OiWqlRYNUYGhTV,fox,4,Thursday,6:00,60,News,Live
-deb73436-a70d-11e5-aad5-7845c4b142f6,LqLhRfWTVItpzpg,hbo,3,Friday,8:00,60,News,Live
-deb73437-a70d-11e5-bd83-7845c4b142f6,cCQgymkpgow,fox,6,Tuesday,9:00,60,News,Recorded
-deb73438-a70d-11e5-9c35-7845c4b142f6,cWxCzqegnksaXfF,abc,1,Wednesday,5:00,60,Comedy,Live
-deb9a530-a70d-11e5-b3bb-7845c4b142f6,gcahSzPkACxcFlEaOmis,cbs,3,Thursday,7:00,60,Reality,Recorded
-deb9a531-a70d-11e5-86ef-7845c4b142f6,DqUtBYfjEtovogelTSBvozTiG,cnn,3,Sunday,11:00,60,Action,Live
-deb9a532-a70d-11e5-b913-7845c4b142f6,dgWLHhSWJvWboISitnpSStY,cnn,3,Thursday,10:00,60,Reality,Live
-deb9a533-a70d-11e5-a9c0-7845c4b142f6,nRBBtxnfvzLilSZri,fox,7,Wednesday,11:00,60,Reality,Live
-deb9a534-a70d-11e5-aa7b-7845c4b142f6,NIlolLsWxhkGRifpJG,fox,5,Friday,3:00,60,Sports,Recorded
-deb9a535-a70d-11e5-905e-7845c4b142f6,NeUkaqNVqthKt,hbo,6,Thursday,9:00,60,Action,Recorded
-deb9a536-a70d-11e5-8939-7845c4b142f6,oGeFZEOfLRqMsLq,cbs,5,Saturday,12:00,60,News,Live
-deb9a537-a70d-11e5-9f2d-7845c4b142f6,OILbsthgTEMyEuL,cnn,1,Saturday,12:00,60,Action,Live
-debbef1e-a70d-11e5-b877-7845c4b142f6,KjUSgYJWTvkpUiOXDPOJZfz,fox,5,Friday,1:00,60,News,Live
-debbef1f-a70d-11e5-8dfa-7845c4b142f6,BzZARGddgvcli,abc,2,Sunday,10:00,60,Sports,Live
-debbef20-a70d-11e5-97c8-7845c4b142f6,whPwVXmJWKexsNeR,hbo,2,Friday,11:00,60,Sports,Live
-debbef21-a70d-11e5-b51d-7845c4b142f6,vzdHBuVLmHIIKqQJtaAY,fox,7,Saturday,11:00,60,Comedy,Live
-debbef22-a70d-11e5-9501-7845c4b142f6,dpTkZOByGFLqzCZpu,hbo,3,Sunday,10:00,60,News,Recorded
-debbef23-a70d-11e5-b771-7845c4b142f6,HskpxxcmKe,abc,3,Saturday,7:00,60,Sports,Live
-debbef24-a70d-11e5-b269-7845c4b142f6,VueyeWvQyVLQKIuOMGrRIfE,abc,8,Tuesday,3:00,60,Reality,Live
-debe601e-a70d-11e5-a7b4-7845c4b142f6,sBJxNnJGOmGmc,cbs,9,Wednesday,1:00,60,Sports,Live
-debe601f-a70d-11e5-91b9-7845c4b142f6,iDYLgfnhyPyqdCPJ,cbs,2,Tuesday,3:00,60,Comedy,Recorded
-debe6020-a70d-11e5-81b0-7845c4b142f6,tzCXEjrSJKJrcZpCHjXaoXz,abc,9,Friday,7:00,60,Sports,Recorded
-debe6021-a70d-11e5-96d3-7845c4b142f6,IPrNchIXAfZhCXqgsBLaeFV,abc,7,Friday,8:00,60,Comedy,Recorded
-debe6022-a70d-11e5-910c-7845c4b142f6,xSFiMPwhHflQLgUZMtaOKQ,cbs,8,Sunday,4:00,60,Reality,Live
-debe6023-a70d-11e5-9407-7845c4b142f6,CqMQMWjDCWgSFGpFBP,cbs,6,Thursday,4:00,60,Action,Recorded
-debe6024-a70d-11e5-8a39-7845c4b142f6,CCIlDYIksPDSMSdqV,hbo,3,Monday,7:00,60,Sports,Recorded
-dec0d11e-a70d-11e5-932e-7845c4b142f6,mlqbPlWkVZ,abc,5,Sunday,3:00,60,Action,Live
-dec0d11f-a70d-11e5-a007-7845c4b142f6,ttSDtqHHQBZbmeKLdhdGi,hbo,3,Wednesday,8:00,60,Sports,Live
-dec0d120-a70d-11e5-a585-7845c4b142f6,DqZwETKRrWfZisXy,fox,6,Monday,9:00,60,Reality,Live
-dec0d121-a70d-11e5-8f1a-7845c4b142f6,oYtMUNenezcL,cbs,1,Saturday,6:00,60,Comedy,Recorded
-dec0d122-a70d-11e5-8f67-7845c4b142f6,NuzpzkGQdjwFKENQCrKcary,abc,8,Saturday,12:00,60,Sports,Live
-dec0d123-a70d-11e5-9740-7845c4b142f6,pSJBlwBkmkXzjJViKsUuPkCH,cnn,3,Saturday,3:00,60,Sports,Recorded
-dec0d124-a70d-11e5-8c19-7845c4b142f6,ciMmEnHZYqfJZl,cnn,3,Monday,2:00,60,Action,Recorded
-dec31b11-a70d-11e5-9943-7845c4b142f6,GLNaCsVKgOLd,cbs,1,Sunday,10:00,60,News,Recorded
-dec31b12-a70d-11e5-afbf-7845c4b142f6,hvHFZtSDXoKmoKlDCyxvBBivf,cbs,3,Tuesday,12:00,60,Sports,Live
-dec31b13-a70d-11e5-8216-7845c4b142f6,iXWqiiLmAYaB,abc,6,Tuesday,7:00,60,News,Live
-dec31b14-a70d-11e5-bd3c-7845c4b142f6,rpqLsDYWuhGZbIWkwoKNtr,cbs,5,Thursday,10:00,60,Comedy,Live
-dec31b15-a70d-11e5-a557-7845c4b142f6,zGbufMmXoZZ,cbs,6,Thursday,3:00,60,Sports,Live
-dec31b16-a70d-11e5-8d08-7845c4b142f6,cGOwouPgpTItfbNhTdcIaI,cnn,4,Tuesday,5:00,60,Action,Recorded
-dec31b17-a70d-11e5-bb6f-7845c4b142f6,SAZRHXLasxOMTUydvHA,cbs,2,Sunday,7:00,60,Action,Live
-dec58c11-a70d-11e5-a61b-7845c4b142f6,gPlAmDdYuq,abc,5,Sunday,8:00,60,Reality,Recorded
-dec58c12-a70d-11e5-9ae2-7845c4b142f6,gLIneEgcOBkkqFrIpJwncKNwG,cnn,8,Saturday,9:00,60,Sports,Recorded
-dec58c13-a70d-11e5-be25-7845c4b142f6,NCyxvpLsXGCeNbgRsM,hbo,3,Wednesday,7:00,60,Reality,Live
-dec58c14-a70d-11e5-bb83-7845c4b142f6,xusgCoIMtN,abc,9,Friday,3:00,60,Sports,Live
-dec58c15-a70d-11e5-b1cd-7845c4b142f6,sGNGEbfERUZYLT,abc,2,Friday,10:00,60,News,Recorded
-dec58c16-a70d-11e5-b2db-7845c4b142f6,kBTfehvzMQYhQyzkLqKq,hbo,9,Saturday,5:00,60,Action,Live
-dec58c17-a70d-11e5-98f4-7845c4b142f6,kdQrrdlpyVMSxI,abc,9,Sunday,8:00,60,Action,Live
-dec58c18-a70d-11e5-a448-7845c4b142f6,oNFevftTHVfeItsVKy,cnn,1,Sunday,4:00,60,Action,Recorded
-dec7fd0f-a70d-11e5-873a-7845c4b142f6,SSuPoYLrvot,hbo,9,Friday,7:00,60,Sports,Live
-dec7fd10-a70d-11e5-ba09-7845c4b142f6,VUBGumRjmORSxftGFr,cbs,2,Tuesday,4:00,60,Reality,Recorded
-dec7fd11-a70d-11e5-b7ce-7845c4b142f6,UEYxyaSLWJaihwZqOsQ,abc,7,Wednesday,4:00,60,Comedy,Recorded
-dec7fd12-a70d-11e5-861f-7845c4b142f6,GCSCzSVvCQVwqh,cbs,3,Monday,7:00,60,News,Recorded
-dec7fd13-a70d-11e5-b9d2-7845c4b142f6,iIgPvNKIJeMJK,abc,3,Sunday,8:00,60,Comedy,Recorded
-dec7fd14-a70d-11e5-9ed4-7845c4b142f6,SMQAjqdzbHbJwWPoJLMXii,fox,3,Saturday,2:00,60,Action,Live
-dec7fd15-a70d-11e5-b7e8-7845c4b142f6,OOxHZiuFDSlBxzlaMIMeJcap,cbs,8,Friday,8:00,60,Sports,Recorded
-deca4700-a70d-11e5-8ab0-7845c4b142f6,mnwzkOriQt,hbo,5,Thursday,11:00,60,Sports,Recorded
-deca4701-a70d-11e5-b465-7845c4b142f6,kqmSDfnIkxPqNZcESiJ,abc,6,Tuesday,4:00,60,Comedy,Live
-deca4702-a70d-11e5-8d37-7845c4b142f6,vXjdsXtPKHk,hbo,9,Friday,12:00,60,Action,Recorded
-deca4703-a70d-11e5-9ec6-7845c4b142f6,MXKNSNSCgAS,cnn,4,Tuesday,6:00,60,News,Recorded
-deca4704-a70d-11e5-961e-7845c4b142f6,hJXCLnDKxe,hbo,1,Sunday,8:00,60,Reality,Recorded
-deca4705-a70d-11e5-867f-7845c4b142f6,mGqeMAWBWDSuyiXJBF,hbo,1,Friday,5:00,60,News,Live
-deca4706-a70d-11e5-b1c2-7845c4b142f6,XBsgBrDWFPTFuyceXqFHw,cnn,8,Monday,12:00,60,Sports,Recorded
-deccb800-a70d-11e5-8871-7845c4b142f6,yWPvIgqjUiGSPEXZtPizLnycc,cnn,6,Wednesday,6:00,60,Comedy,Recorded
-deccb801-a70d-11e5-a894-7845c4b142f6,lQXvtrdIzpRkGcMk,abc,9,Sunday,6:00,60,Reality,Live
-deccb802-a70d-11e5-a24b-7845c4b142f6,hPBwGDAoMPmuqPKzGJ,cnn,7,Monday,1:00,60,Comedy,Live
-deccb803-a70d-11e5-bb67-7845c4b142f6,RabjDUkDNnW,abc,8,Tuesday,11:00,60,News,Recorded
-deccb804-a70d-11e5-95e2-7845c4b142f6,ROPaTdXotZAZEJjAzYNh,hbo,6,Wednesday,12:00,60,News,Recorded
-deccb805-a70d-11e5-9d68-7845c4b142f6,xEsnmKHEbBRWCJKxtApkeS,cnn,5,Tuesday,4:00,60,Action,Recorded
-deccb806-a70d-11e5-8b82-7845c4b142f6,DKKCIJGACPtfgNIGZhrJ,cbs,4,Friday,7:00,60,Action,Recorded
-decf01ee-a70d-11e5-bbe9-7845c4b142f6,zxsdEDyVuYsLz,abc,6,Saturday,9:00,60,Comedy,Recorded
-decf01ef-a70d-11e5-9741-7845c4b142f6,jLtaNuxSrye,hbo,6,Monday,2:00,60,Sports,Live
-decf01f0-a70d-11e5-87d5-7845c4b142f6,OcGCDYJkgCtMLoJWsZMnEShKZ,cnn,4,Monday,7:00,60,Sports,Live
-decf01f1-a70d-11e5-8aec-7845c4b142f6,PWDIEFLMCNp,fox,3,Wednesday,9:00,60,Reality,Live
-decf01f2-a70d-11e5-8974-7845c4b142f6,XTfPbKsFScFzDqcAf,hbo,2,Friday,10:00,60,Reality,Recorded
-decf01f3-a70d-11e5-a16f-7845c4b142f6,ThiawnAnjYPDTzgfjHd,cnn,5,Thursday,2:00,60,Sports,Recorded
-decf01f4-a70d-11e5-932c-7845c4b142f6,nKzuGdvyzKnJAqBwLcFcp,fox,2,Friday,2:00,60,News,Live
-ded172f0-a70d-11e5-8d41-7845c4b142f6,AkUvHpEOfuNRz,cbs,5,Friday,3:00,60,News,Recorded
-ded172f1-a70d-11e5-8b43-7845c4b142f6,ALRtWIKRSnFvWzIrdz,cnn,2,Sunday,11:00,60,Sports,Recorded
-ded172f2-a70d-11e5-b035-7845c4b142f6,EvQiCWyLEiEpk,cbs,6,Sunday,7:00,60,Comedy,Recorded
-ded172f3-a70d-11e5-bb64-7845c4b142f6,RwmUkKINurfLiuARH,hbo,1,Sunday,12:00,60,Sports,Recorded
-ded172f4-a70d-11e5-903b-7845c4b142f6,FsudnJQtKS,hbo,9,Sunday,8:00,60,Comedy,Recorded
-ded172f5-a70d-11e5-ab30-7845c4b142f6,XYoYSlkihMlVQZwzCPV,hbo,2,Tuesday,6:00,60,Action,Live
-ded172f6-a70d-11e5-9c67-7845c4b142f6,CNlOTUxyQAL,cnn,6,Sunday,5:00,60,Sports,Recorded
-ded172f7-a70d-11e5-8aa7-7845c4b142f6,BCsdJHDgiOhdFB,fox,1,Friday,5:00,60,News,Live
-ded3e3f0-a70d-11e5-a02c-7845c4b142f6,DwoLhIYaxFWPurkR,cnn,5,Thursday,8:00,60,News,Live
-ded3e3f1-a70d-11e5-8025-7845c4b142f6,HeVpDDdrKGWUhs,cbs,8,Thursday,3:00,60,News,Recorded
-ded3e3f2-a70d-11e5-b3d3-7845c4b142f6,rSJQvDrXVn,fox,6,Wednesday,11:00,60,Action,Live
-ded3e3f3-a70d-11e5-bc52-7845c4b142f6,TjIcVlNRQZGvtSreGz,cbs,6,Sunday,6:00,60,News,Recorded
-ded3e3f4-a70d-11e5-ac3a-7845c4b142f6,fqZSPDlwbytkdYzavcDmu,cnn,3,Monday,8:00,60,Comedy,Recorded
-ded3e3f5-a70d-11e5-9666-7845c4b142f6,VlyrJCYoItRmLNUeabXqAJd,abc,5,Friday,1:00,60,Reality,Recorded
-ded3e3f6-a70d-11e5-b85e-7845c4b142f6,yluKqmTQJSXiLMe,abc,6,Thursday,2:00,60,Reality,Live
-ded654f0-a70d-11e5-a9f6-7845c4b142f6,EmRTuiXZBdbBTpgOcmYCCM,cnn,9,Saturday,2:00,60,Reality,Recorded
-ded654f1-a70d-11e5-ab82-7845c4b142f6,qYCmSOBakXGIv,abc,3,Thursday,11:00,60,Comedy,Recorded
-ded654f2-a70d-11e5-b56b-7845c4b142f6,xbYtUkYgDr,cnn,1,Wednesday,7:00,60,Comedy,Live
-ded654f3-a70d-11e5-8b07-7845c4b142f6,ocUKNazKhcl,cbs,1,Wednesday,9:00,60,Action,Recorded
-ded654f4-a70d-11e5-9d7f-7845c4b142f6,MDdusLNHEgFxshnzuTuI,cbs,2,Tuesday,3:00,60,Reality,Live
-ded654f5-a70d-11e5-ae7e-7845c4b142f6,bCghwrnMWNUQqsAnsTLjRGP,fox,5,Friday,6:00,60,Comedy,Live
-ded654f6-a70d-11e5-ac1d-7845c4b142f6,QEEEoqjESIJhgLEWk,abc,4,Monday,4:00,60,Sports,Live
-ded89ee1-a70d-11e5-a818-7845c4b142f6,emRXkyMaqaDawPsdbxkNnoImS,abc,3,Tuesday,9:00,60,Reality,Live
-ded89ee2-a70d-11e5-8ffe-7845c4b142f6,lfHxSyCMZr,cbs,2,Saturday,4:00,60,Reality,Live
-ded89ee3-a70d-11e5-9eb3-7845c4b142f6,FrNISaJMipoj,fox,4,Sunday,7:00,60,Reality,Live
-ded89ee4-a70d-11e5-b736-7845c4b142f6,BIDpJNpaHIXyGlKRQEGQr,cnn,9,Thursday,2:00,60,Comedy,Live
-ded89ee5-a70d-11e5-82b5-7845c4b142f6,XgYVydZqCyrmG,fox,7,Wednesday,3:00,60,Action,Recorded
-ded89ee6-a70d-11e5-a378-7845c4b142f6,PfpHSyMOLHmoNBCPTjitxAfV,fox,5,Wednesday,1:00,60,News,Recorded
-ded89ee7-a70d-11e5-a913-7845c4b142f6,lvXLVhJvzBjFLjKoIMcfi,hbo,3,Tuesday,10:00,60,Sports,Live
-ded89ee8-a70d-11e5-9b6a-7845c4b142f6,MbSWmxysFeWVQt,cbs,5,Saturday,11:00,60,Action,Live
-dedb0fde-a70d-11e5-aae1-7845c4b142f6,tFYVUnoOvUtFljYYyj,cbs,2,Monday,11:00,60,News,Live
-dedb0fdf-a70d-11e5-bbb8-7845c4b142f6,JvVBvQMcVWxtZuVVwBKVw,cnn,5,Saturday,2:00,60,Action,Live
-dedb0fe0-a70d-11e5-bc0f-7845c4b142f6,qyDPqKiMydvIgzVmr,hbo,3,Wednesday,6:00,60,Action,Live
-dedb0fe1-a70d-11e5-b080-7845c4b142f6,YhceUnZOBejwNBZiYcWTRhR,abc,2,Saturday,12:00,60,Reality,Live
-dedb0fe2-a70d-11e5-93d2-7845c4b142f6,DAaWEEApyVyVNbS,cbs,3,Thursday,3:00,60,Action,Recorded
-dedb0fe3-a70d-11e5-9b49-7845c4b142f6,zmtxcFEPbJgHxkWHDPVvfBUH,abc,2,Sunday,11:00,60,Action,Live
-dedb0fe4-a70d-11e5-934f-7845c4b142f6,GInmfmrjlq,cbs,8,Saturday,1:00,60,Reality,Recorded
-dedd80de-a70d-11e5-bfbd-7845c4b142f6,uWVflnshUbPv,cbs,7,Saturday,6:00,60,Action,Recorded
-dedd80df-a70d-11e5-8bd1-7845c4b142f6,waxXHbzpUWWxyhY,hbo,2,Tuesday,3:00,60,Comedy,Live
-dedd80e0-a70d-11e5-aef8-7845c4b142f6,qKWHSStqBFgDlZRkh,abc,3,Sunday,9:00,60,Sports,Live
-dedd80e1-a70d-11e5-9964-7845c4b142f6,fKngLRLlggPPuXv,cbs,4,Friday,1:00,60,Action,Recorded
-dedd80e2-a70d-11e5-999e-7845c4b142f6,QLmRbQNbdIvIefIjPZ,abc,8,Tuesday,11:00,60,Action,Recorded
-dedd80e3-a70d-11e5-a124-7845c4b142f6,ZIngRagRpeO,hbo,7,Monday,8:00,60,Action,Recorded
-dedd80e4-a70d-11e5-b078-7845c4b142f6,kKOkrbbqenu,cbs,6,Sunday,8:00,60,Comedy,Live
-dedfcacf-a70d-11e5-8b82-7845c4b142f6,BNzzzdwhyfojdZQWrHdDR,hbo,4,Thursday,11:00,60,Action,Recorded
-dedfcad0-a70d-11e5-b856-7845c4b142f6,FpeLieXUsOAyc,fox,1,Monday,10:00,60,Action,Recorded
-dedfcad1-a70d-11e5-94b9-7845c4b142f6,CHAJjUNFRkBTciQmeOdr,cnn,2,Friday,12:00,60,Comedy,Recorded
-dedfcad2-a70d-11e5-9bde-7845c4b142f6,cTBeQHDjmOfSITpD,hbo,7,Monday,9:00,60,Comedy,Recorded
-dedfcad3-a70d-11e5-b6bc-7845c4b142f6,vjHcFBPJOTktNjFqZ,cbs,2,Saturday,4:00,60,Comedy,Recorded
-dedfcad4-a70d-11e5-b527-7845c4b142f6,eOcuJBthgkQ,cnn,9,Friday,12:00,60,Reality,Recorded
-dedfcad5-a70d-11e5-8503-7845c4b142f6,sqaQOMKXWmmvhxSFCuSOxS,fox,8,Friday,12:00,60,Reality,Recorded
-dee23bd1-a70d-11e5-bd86-7845c4b142f6,KIwNDyITFoekpPvi,abc,4,Thursday,11:00,60,Sports,Live
-dee23bd2-a70d-11e5-ac2f-7845c4b142f6,mbGRzDJrBKBIywhk,fox,7,Tuesday,2:00,60,Action,Live
-dee23bd3-a70d-11e5-a4f8-7845c4b142f6,cDyFxSzbIbcrXtOL,cnn,4,Friday,10:00,60,Comedy,Live
-dee23bd4-a70d-11e5-afbb-7845c4b142f6,ACohMQZebXKeTKkApHtc,fox,9,Wednesday,5:00,60,Comedy,Recorded
-dee23bd5-a70d-11e5-9f12-7845c4b142f6,imduJYzsaDfDxdCTfO,abc,1,Friday,5:00,60,Action,Live
-dee23bd6-a70d-11e5-b7af-7845c4b142f6,uJDsYDnVElGe,abc,8,Tuesday,7:00,60,Reality,Recorded
-dee23bd7-a70d-11e5-b411-7845c4b142f6,OrNxTDigCy,fox,4,Monday,6:00,60,Sports,Recorded
-dee4acd1-a70d-11e5-a6f5-7845c4b142f6,IOPoHkQfzoMvwV,hbo,8,Monday,9:00,60,Comedy,Recorded
-dee4d3e1-a70d-11e5-a7c7-7845c4b142f6,HSCaVPgUlk,cbs,5,Wednesday,8:00,60,Comedy,Recorded
-dee4d3e2-a70d-11e5-9f37-7845c4b142f6,uvsluexXxk,fox,1,Tuesday,7:00,60,News,Recorded
-dee4d3e3-a70d-11e5-b913-7845c4b142f6,jIreaslEsubLCzafSQVCkC,fox,5,Friday,10:00,60,Reality,Recorded
-dee4d3e4-a70d-11e5-b4bb-7845c4b142f6,uSJanKzwmiGrTmaNCoNg,fox,6,Thursday,12:00,60,News,Live
-dee4d3e5-a70d-11e5-8c21-7845c4b142f6,GgLdMDUaupkRkAuSlWl,cbs,1,Sunday,3:00,60,Reality,Recorded
-dee4d3e6-a70d-11e5-96f0-7845c4b142f6,FFLrommwwDH,hbo,2,Sunday,2:00,60,Sports,Live
-dee4d3e7-a70d-11e5-98f1-7845c4b142f6,VzuMsakTQHo,cbs,2,Tuesday,8:00,60,News,Recorded
-dee71dcf-a70d-11e5-ae2d-7845c4b142f6,TmnNoSEsPDLlVI,cbs,4,Wednesday,12:00,60,Sports,Recorded
-dee71dd0-a70d-11e5-94d8-7845c4b142f6,iQzJVufyKafqo,fox,8,Sunday,4:00,60,News,Live
-dee71dd1-a70d-11e5-99d9-7845c4b142f6,KWvpIxNWjUuM,fox,8,Monday,5:00,60,Action,Recorded
-dee71dd2-a70d-11e5-a6ef-7845c4b142f6,eesbHmbYMQbK,hbo,7,Friday,11:00,60,Action,Recorded
-dee71dd3-a70d-11e5-a8c2-7845c4b142f6,EMpYCiTXzqtemYHMyPmL,cnn,6,Sunday,9:00,60,News,Live
-dee71dd4-a70d-11e5-afe3-7845c4b142f6,qMWwvPczioeeVjFbOhNLIJST,abc,4,Monday,7:00,60,News,Recorded
-dee71dd5-a70d-11e5-b6f5-7845c4b142f6,UgDystFQUif,fox,8,Sunday,10:00,60,News,Recorded
-dee98ecf-a70d-11e5-a6dd-7845c4b142f6,gDESliFeuq,cnn,5,Saturday,3:00,60,Reality,Live
-dee98ed0-a70d-11e5-8dcc-7845c4b142f6,oUCzajiBalgJFhyHqVPxzQRRT,abc,1,Tuesday,6:00,60,News,Live
-dee98ed1-a70d-11e5-ac7b-7845c4b142f6,bWZXnsZLPzj,cnn,7,Saturday,7:00,60,News,Live
-dee98ed2-a70d-11e5-9ebc-7845c4b142f6,ChzEYkVfKMPFcIqLqIQ,cbs,7,Tuesday,6:00,60,News,Live
-dee98ed3-a70d-11e5-b5a0-7845c4b142f6,dYijfAjPNWbxwNIX,cbs,4,Sunday,6:00,60,Action,Recorded
-dee98ed4-a70d-11e5-a3c3-7845c4b142f6,lUqDOdEcfluF,fox,4,Saturday,11:00,60,Action,Recorded
-dee98ed5-a70d-11e5-b892-7845c4b142f6,UkIPGKgvXKFqhuGaLxq,cbs,2,Friday,2:00,60,Action,Live
-deebffcf-a70d-11e5-a368-7845c4b142f6,FcAMRgNPnaKfEpAykr,hbo,7,Wednesday,6:00,60,Comedy,Recorded
-deec26de-a70d-11e5-b2b6-7845c4b142f6,TnhCzmmfteVOy,abc,3,Sunday,6:00,60,News,Recorded
-deec26df-a70d-11e5-9567-7845c4b142f6,kbkcCpIBHqxPVjyuuQBBjFbn,hbo,6,Saturday,1:00,60,News,Live
-deec26e0-a70d-11e5-815d-7845c4b142f6,oogpaLaDTSrOwTsYrpBNqjGsa,abc,9,Monday,1:00,60,Comedy,Recorded
-deec26e1-a70d-11e5-84f0-7845c4b142f6,JQsYEvoCsHVsWyuG,cbs,1,Thursday,1:00,60,Action,Live
-deec26e2-a70d-11e5-9125-7845c4b142f6,DUaDFLFqlHZITNf,cbs,8,Saturday,8:00,60,Action,Recorded
-deec26e3-a70d-11e5-a3c7-7845c4b142f6,VoSRdGFzMSOJaWrZcYLztyRdm,cbs,9,Sunday,4:00,60,Reality,Recorded
-deec26e4-a70d-11e5-8848-7845c4b142f6,YgUdkvQGTESpt,cnn,9,Friday,12:00,60,Sports,Live
-deee97de-a70d-11e5-bff5-7845c4b142f6,XSiuhfYLukdVD,hbo,9,Saturday,1:00,60,Comedy,Live
-deee97df-a70d-11e5-a5fe-7845c4b142f6,eVngsqkaTjTisBoKvKejmjJsd,cnn,5,Wednesday,5:00,60,Comedy,Live
-deee97e0-a70d-11e5-b7de-7845c4b142f6,AhbzDBhhPmVwNyUqaUAZnJVr,hbo,8,Sunday,3:00,60,Action,Live
-deee97e1-a70d-11e5-bcb8-7845c4b142f6,FiMRKRddpMrpzANAZWcx,cnn,6,Tuesday,7:00,60,Reality,Recorded
-deee97e2-a70d-11e5-a88a-7845c4b142f6,pzhuCnknwFDHdInZUu,cnn,5,Monday,9:00,60,Action,Recorded
-deee97e3-a70d-11e5-b3d4-7845c4b142f6,LiQaEFvdZqIDJclEdWjDaP,fox,2,Wednesday,1:00,60,Comedy,Recorded
-deee97e4-a70d-11e5-b282-7845c4b142f6,NFTUTLTtlXxn,abc,5,Friday,6:00,60,Comedy,Live
-def108de-a70d-11e5-824d-7845c4b142f6,NtupryyYIzjWin,hbo,3,Friday,12:00,60,News,Recorded
-def108df-a70d-11e5-95da-7845c4b142f6,xQJlDRJKLHxMtIXqR,cnn,7,Friday,9:00,60,News,Live
-def108e0-a70d-11e5-9286-7845c4b142f6,cpsllcQhDfTwAqANkguLXov,fox,8,Wednesday,7:00,60,Sports,Live
-def108e1-a70d-11e5-875d-7845c4b142f6,vFBrdKiBooqKKmPlmClPZz,abc,4,Saturday,7:00,60,Reality,Live
-def108e2-a70d-11e5-bddd-7845c4b142f6,TPqEekhbZUCGQPiNLAYpwil,cbs,9,Monday,2:00,60,Sports,Recorded
-def108e3-a70d-11e5-b8d6-7845c4b142f6,GchwouusgeCLttpkrBwYAD,fox,6,Saturday,4:00,60,Sports,Live
-def108e4-a70d-11e5-ad89-7845c4b142f6,OdhPuvsxohbSVfhwG,cnn,9,Saturday,8:00,60,Comedy,Recorded
-def352d1-a70d-11e5-8e3d-7845c4b142f6,YljJhOKgIuNJVFxOHNxKHi,cbs,7,Sunday,6:00,60,Sports,Live
-def352d2-a70d-11e5-bef5-7845c4b142f6,ZldyDZjbkWsOywUPKwbbWYvx,cnn,1,Monday,1:00,60,News,Recorded
-def352d3-a70d-11e5-bad0-7845c4b142f6,FQITGDOofiuLPGUviW,hbo,4,Wednesday,9:00,60,Action,Recorded
-def352d4-a70d-11e5-9914-7845c4b142f6,bDgoCSZXczwajI,cnn,4,Tuesday,9:00,60,Reality,Recorded
-def352d5-a70d-11e5-903f-7845c4b142f6,gVUcqNvibBRiCtzh,abc,8,Tuesday,1:00,60,Comedy,Recorded
-def352d6-a70d-11e5-ab61-7845c4b142f6,wuzMXIApwMhrPPaXO,fox,2,Friday,6:00,60,Reality,Live
-def5c3d1-a70d-11e5-86c5-7845c4b142f6,ZxdHoXYqngICJ,cnn,2,Sunday,7:00,60,Sports,Live
-def5c3d2-a70d-11e5-a5cb-7845c4b142f6,YPPAgCFktIwAFWQpEaWg,cbs,8,Wednesday,1:00,60,Comedy,Recorded
-def5c3d3-a70d-11e5-9944-7845c4b142f6,tlagrjeBGAt,cbs,9,Wednesday,4:00,60,Comedy,Recorded
-def5c3d4-a70d-11e5-b20b-7845c4b142f6,XCAbQjJczPqZnyEmIelXXxkXw,cnn,9,Friday,4:00,60,Reality,Recorded
-def5c3d5-a70d-11e5-ab53-7845c4b142f6,TVLXpViLCDYjhdheOdVh,cnn,5,Saturday,10:00,60,Comedy,Recorded
-def834cf-a70d-11e5-8516-7845c4b142f6,KXclzIrmccwFCGIfdjWnQvZPL,hbo,1,Friday,11:00,60,Action,Live
-def834d0-a70d-11e5-ac05-7845c4b142f6,HxEGYQpLGfEfTJWCKkH,fox,6,Thursday,3:00,60,Action,Recorded
-def834d1-a70d-11e5-9108-7845c4b142f6,RbrtJCclRNxdHf,hbo,1,Wednesday,12:00,60,News,Live
-def834d2-a70d-11e5-85e7-7845c4b142f6,fErJWmdHSvWbWJpRljb,cnn,2,Monday,10:00,60,Comedy,Recorded
-def834d3-a70d-11e5-823e-7845c4b142f6,aVgOWDUQgZqeA,abc,7,Monday,8:00,60,Reality,Live
-def834d4-a70d-11e5-92d9-7845c4b142f6,EzQgywCsIEatTCDHIurkhn,fox,4,Thursday,12:00,60,Comedy,Live
-defa7ec0-a70d-11e5-9e2a-7845c4b142f6,ihPiOLFqsanqxY,abc,2,Friday,6:00,60,News,Recorded
-defa7ec1-a70d-11e5-a254-7845c4b142f6,CVoTXmWLxAka,cnn,5,Friday,8:00,60,Reality,Live
-defa7ec2-a70d-11e5-a191-7845c4b142f6,uVFwhwPvMTCHCZMEbYmWkqDg,cbs,4,Tuesday,10:00,60,Comedy,Live
-defa7ec3-a70d-11e5-8180-7845c4b142f6,eVtRFrIUknUvRur,cnn,5,Tuesday,10:00,60,Action,Recorded
-defa7ec4-a70d-11e5-a9f2-7845c4b142f6,EWIOlzgOuHUTUMEYuPKq,cnn,5,Friday,8:00,60,News,Live
-defa7ec5-a70d-11e5-9639-7845c4b142f6,hFdHtRHnXerhd,hbo,3,Tuesday,2:00,60,News,Live
-defa7ec6-a70d-11e5-b614-7845c4b142f6,XcFaxVvlupvbXND,hbo,7,Monday,2:00,60,Comedy,Live
-defa7ec7-a70d-11e5-b52e-7845c4b142f6,UVfvrTVUryLK,hbo,7,Tuesday,3:00,60,Comedy,Recorded
-defcefc0-a70d-11e5-a141-7845c4b142f6,qYvUOyWrnDYGerFyHRSSr,abc,6,Sunday,8:00,60,Sports,Recorded
-defcefc1-a70d-11e5-a013-7845c4b142f6,dBJbqmUTpdOr,cnn,6,Monday,1:00,60,News,Recorded
-defcefc2-a70d-11e5-98bf-7845c4b142f6,GhyIkNlUJeSNknyvAFvQ,abc,8,Tuesday,12:00,60,News,Live
-defcefc3-a70d-11e5-b6d0-7845c4b142f6,MAjzYoiOevGtUUeMlg,cbs,7,Tuesday,12:00,60,Reality,Recorded
-defcefc4-a70d-11e5-81ce-7845c4b142f6,TYaALQIxVcDOidqBHXqwjmj,fox,7,Saturday,11:00,60,News,Live
-defcefc5-a70d-11e5-a249-7845c4b142f6,QoJbjGSdGpybGeoGZHJ,fox,9,Thursday,10:00,60,Sports,Recorded
-deff39ae-a70d-11e5-a230-7845c4b142f6,hUaaImKsSSgdxAJIeI,hbo,7,Saturday,4:00,60,Reality,Live
-deff39af-a70d-11e5-8c93-7845c4b142f6,TEZoLiNsLdsyPFKZmfu,cnn,1,Thursday,8:00,60,Action,Live
-deff39b0-a70d-11e5-bcf6-7845c4b142f6,vuURaXvoOUsAVOGcJcWmi,hbo,8,Tuesday,4:00,60,Sports,Live
-deff39b1-a70d-11e5-8f9a-7845c4b142f6,rVBVHfTNzn,fox,3,Tuesday,6:00,60,Reality,Live
-deff39b2-a70d-11e5-a55b-7845c4b142f6,oYDXUjMEwvWEJiyBElLL,cnn,7,Tuesday,12:00,60,Sports,Recorded
-deff39b3-a70d-11e5-89b6-7845c4b142f6,cLWMyTeanyqyjpeUCfm,abc,9,Saturday,6:00,60,News,Recorded
-deff39b4-a70d-11e5-99ce-7845c4b142f6,TVGesMCpxRs,abc,7,Tuesday,12:00,60,Sports,Live
-df01aaae-a70d-11e5-b93c-7845c4b142f6,QvXRjFEuLXsaVOffEgvFjWrQB,abc,4,Sunday,8:00,60,Sports,Recorded
-df01aaaf-a70d-11e5-83b1-7845c4b142f6,TcoMYFLpyyzttcuFyAPeGOHZe,cbs,9,Sunday,2:00,60,Action,Recorded
-df01aab0-a70d-11e5-a7b5-7845c4b142f6,wpRIrobTwd,cnn,8,Saturday,2:00,60,Sports,Recorded
-df01aab1-a70d-11e5-b166-7845c4b142f6,BVFCaWdkoqDogx,cbs,7,Friday,1:00,60,Reality,Live
-df01aab2-a70d-11e5-a8b3-7845c4b142f6,nnyVOPVSdqtKcotZYOq,abc,6,Monday,5:00,60,Action,Recorded
-df01aab3-a70d-11e5-bf30-7845c4b142f6,mxSbOXsREUcFuPaEAXdHO,abc,5,Tuesday,1:00,60,Comedy,Recorded
-df01aab4-a70d-11e5-a35d-7845c4b142f6,VOcerIOUpQu,abc,6,Friday,12:00,60,News,Recorded
-df041bb0-a70d-11e5-a743-7845c4b142f6,SlbCuJEqOudeirqGJrFSZoc,hbo,7,Monday,5:00,60,Reality,Live
-df041bb1-a70d-11e5-a137-7845c4b142f6,XVyCNtOrNNDLyVXmLwyqcK,hbo,6,Saturday,4:00,60,Sports,Live
-df041bb2-a70d-11e5-96b8-7845c4b142f6,UZVZsmphIizEzbCBgR,cnn,9,Sunday,7:00,60,News,Recorded
-df041bb3-a70d-11e5-9502-7845c4b142f6,GkCbnvIcaKzuuIYfEVaNoex,fox,7,Saturday,1:00,60,Reality,Recorded
-df041bb4-a70d-11e5-9e62-7845c4b142f6,sVYSgQqTgCfuCUI,abc,3,Tuesday,11:00,60,Reality,Recorded
-df041bb5-a70d-11e5-8eff-7845c4b142f6,wYlpWuLMyZhNlqwMHM,fox,4,Saturday,2:00,60,Comedy,Live
-df041bb6-a70d-11e5-a6db-7845c4b142f6,OeQpjesYtK,abc,2,Thursday,3:00,60,News,Recorded
-df0665a1-a70d-11e5-a751-7845c4b142f6,RHHIpzgjqrFZVJkl,hbo,8,Saturday,2:00,60,Action,Live
-df0665a2-a70d-11e5-98e7-7845c4b142f6,xUKhPCjzHVcWPD,cnn,8,Friday,12:00,60,Sports,Recorded
-df0665a3-a70d-11e5-8835-7845c4b142f6,HKNEXWRoNeZmZIIgu,fox,8,Saturday,9:00,60,Reality,Live
-df0665a4-a70d-11e5-b1b1-7845c4b142f6,ldoTsTrwzOUAz,abc,3,Monday,11:00,60,Reality,Live
-df0665a5-a70d-11e5-9e43-7845c4b142f6,SGvJZuXdgujZv,fox,4,Friday,5:00,60,News,Recorded
-df0665a6-a70d-11e5-983e-7845c4b142f6,YhCzBtElYPfEstHF,abc,6,Saturday,5:00,60,News,Recorded
-df0665a7-a70d-11e5-a0fa-7845c4b142f6,IhgxxmKzUjivlOPcoF,cnn,9,Wednesday,4:00,60,Sports,Live
-df08d6a1-a70d-11e5-91dd-7845c4b142f6,UWvPvzDfIlPzhWCs,fox,4,Thursday,5:00,60,Reality,Live
-df08d6a2-a70d-11e5-b51b-7845c4b142f6,ANYnGwDfIfKBuxJv,cbs,3,Monday,3:00,60,Comedy,Live
-df08d6a3-a70d-11e5-93d3-7845c4b142f6,eCNIBbMMlnYxCB,abc,2,Friday,5:00,60,News,Recorded
-df08d6a4-a70d-11e5-afab-7845c4b142f6,TJcLvXdwKESHszWiqmGyziPgQ,cnn,4,Thursday,9:00,60,Reality,Recorded
-df08d6a5-a70d-11e5-b465-7845c4b142f6,sADpfOJbQhlGsGhRcqQQsGnsK,cbs,2,Sunday,9:00,60,Sports,Live
-df08d6a6-a70d-11e5-9f0e-7845c4b142f6,JFXSrAeDdqWRvuczMW,cbs,8,Thursday,6:00,60,Comedy,Live
-df08d6a7-a70d-11e5-87ab-7845c4b142f6,uMmhMgTHWkxGIGHxUQBN,cbs,7,Thursday,10:00,60,Reality,Recorded
-df0b479e-a70d-11e5-8a33-7845c4b142f6,JYAmZBNJUFwLFUCG,cbs,3,Tuesday,3:00,60,Action,Live
-df0b479f-a70d-11e5-9f09-7845c4b142f6,iQLYEjcAAC,cbs,1,Friday,10:00,60,Reality,Recorded
-df0b47a0-a70d-11e5-9bfe-7845c4b142f6,KZRxUhTYJqI,fox,3,Friday,4:00,60,Reality,Live
-df0b47a1-a70d-11e5-bb2c-7845c4b142f6,TwsrYCAPoyOn,cnn,1,Sunday,1:00,60,Comedy,Recorded
-df0b47a2-a70d-11e5-bd4a-7845c4b142f6,gayvGtJxCwfqKDoPopisNfWWz,hbo,1,Sunday,9:00,60,News,Live
-df0b47a3-a70d-11e5-a6d2-7845c4b142f6,dvBCkOwNdXqyyQyfjb,cnn,5,Wednesday,12:00,60,Reality,Recorded
-df0d918f-a70d-11e5-b748-7845c4b142f6,epLYoQWBUdwRjclogrkDQZ,hbo,9,Sunday,5:00,60,Action,Recorded
-df0d9190-a70d-11e5-885a-7845c4b142f6,bjWjCLjtkNTxUWE,fox,6,Wednesday,7:00,60,Reality,Recorded
-df0d9191-a70d-11e5-b35a-7845c4b142f6,xPrlQEvrPLOMadgMrtWGfXf,hbo,3,Saturday,4:00,60,Comedy,Live
-df0d9192-a70d-11e5-9c4b-7845c4b142f6,tgOsqdXZrFuqoIQjhjmsNEWU,cbs,2,Saturday,8:00,60,Sports,Recorded
-df0d9193-a70d-11e5-b6f6-7845c4b142f6,KGDVBfjmXfpY,cbs,6,Thursday,11:00,60,News,Recorded
-df0d9194-a70d-11e5-a909-7845c4b142f6,KsBbDZkbHp,cbs,4,Wednesday,10:00,60,Sports,Live
-df0d9195-a70d-11e5-ae72-7845c4b142f6,CeflZYCbKBXJVJXsT,fox,7,Monday,11:00,60,News,Live
-df10028f-a70d-11e5-afe2-7845c4b142f6,ExWagKWWgSfvL,cbs,8,Monday,9:00,60,Comedy,Live
-df100290-a70d-11e5-a53f-7845c4b142f6,UDUDRyiGGazmz,cbs,8,Monday,7:00,60,Sports,Live
-df100291-a70d-11e5-bbe0-7845c4b142f6,TCKhAdwDBBykBCjXBMm,cnn,2,Friday,12:00,60,Reality,Recorded
-df100292-a70d-11e5-a205-7845c4b142f6,droWEyqBzzGdmjHG,cnn,4,Saturday,8:00,60,Reality,Live
-df100293-a70d-11e5-978b-7845c4b142f6,QtIvkqIpQCnGkKlkBzcfMTibr,fox,3,Friday,6:00,60,Sports,Live
-df100294-a70d-11e5-963e-7845c4b142f6,HVnKruQwViHLkolH,cbs,8,Wednesday,6:00,60,Reality,Live
-df100295-a70d-11e5-8053-7845c4b142f6,PZRnkbTLGsDtbLsQouNGY,abc,1,Wednesday,7:00,60,Comedy,Live
-df124c80-a70d-11e5-a82a-7845c4b142f6,uQCOORkqLKDGf,cbs,1,Saturday,6:00,60,Action,Recorded
-df124c81-a70d-11e5-b3a8-7845c4b142f6,erRCBjfAarXatABUN,cnn,1,Monday,10:00,60,Sports,Recorded
-df124c82-a70d-11e5-bd59-7845c4b142f6,DwLlxGtmPoiFTKb,cbs,9,Monday,11:00,60,Comedy,Live
-df124c83-a70d-11e5-bf16-7845c4b142f6,FKomfpEYvOQWRtMwT,cbs,8,Tuesday,6:00,60,Action,Live
-df124c84-a70d-11e5-8e0e-7845c4b142f6,DvJWGZqiUugFxOGjtXNBhYk,hbo,1,Friday,3:00,60,News,Recorded
-df124c85-a70d-11e5-95af-7845c4b142f6,tLIBtyIUcKLCWeX,hbo,6,Tuesday,7:00,60,News,Recorded
-df124c86-a70d-11e5-ae2c-7845c4b142f6,jucEZKoIcxiauTwcfLJDS,abc,2,Wednesday,8:00,60,News,Live
-df14bd80-a70d-11e5-a2eb-7845c4b142f6,FWMIFpQISLir,cnn,4,Wednesday,7:00,60,Action,Recorded
-df14bd81-a70d-11e5-a140-7845c4b142f6,PSrNYOCMTWDdMmHPUOaD,hbo,9,Sunday,12:00,60,Comedy,Live
-df14bd82-a70d-11e5-9ce5-7845c4b142f6,lEbntZaOTSjzbxMtAuxTGD,abc,6,Friday,9:00,60,Action,Live
-df14bd83-a70d-11e5-9b02-7845c4b142f6,MKjSzAqQEWyf,cnn,1,Friday,9:00,60,News,Recorded
-df14bd84-a70d-11e5-8fc2-7845c4b142f6,KJaUNeGOBNEBvsuhTPfYTVGxy,hbo,2,Tuesday,7:00,60,Action,Live
-df14bd85-a70d-11e5-a537-7845c4b142f6,cxogTEjJeCNKhFQEHKnHOUfL,cnn,6,Friday,7:00,60,Sports,Live
-df14bd86-a70d-11e5-a84f-7845c4b142f6,ZehwJFaQaSVMupvqmFHTXXZXa,fox,3,Thursday,4:00,60,News,Live
-df172e80-a70d-11e5-9255-7845c4b142f6,uZDDXPQZvlgJeajVCpSvTWjTN,abc,7,Saturday,2:00,60,News,Live
-df172e81-a70d-11e5-9681-7845c4b142f6,syqpWYoBNebroOr,abc,2,Friday,12:00,60,News,Live
-df172e82-a70d-11e5-be2d-7845c4b142f6,VzSmAwzRkdZOQDmVPMguZbewI,fox,1,Friday,7:00,60,Sports,Live
-df172e83-a70d-11e5-99ef-7845c4b142f6,YOrzidanmYGKMOpIvhYRBXcSp,fox,3,Wednesday,3:00,60,News,Recorded
-df172e84-a70d-11e5-b17b-7845c4b142f6,hVdmUYGiVwbUPFEGWmQ,abc,4,Tuesday,10:00,60,Comedy,Recorded
-df172e85-a70d-11e5-929b-7845c4b142f6,tkcMBpUHYLOvBzylV,fox,3,Tuesday,5:00,60,Action,Live
-df172e86-a70d-11e5-971a-7845c4b142f6,WmZKwHxAmSbyKQ,hbo,4,Tuesday,2:00,60,Action,Recorded
-df197870-a70d-11e5-baf0-7845c4b142f6,ONgIhUmxePKcvLvJPQA,cnn,3,Saturday,5:00,60,Comedy,Recorded
-df197871-a70d-11e5-aa2b-7845c4b142f6,QairPAVFHFuBTFmc,cbs,4,Tuesday,12:00,60,Action,Recorded
-df197872-a70d-11e5-b365-7845c4b142f6,EaeENsTZvSGevwvkCpxpNU,hbo,3,Wednesday,1:00,60,Comedy,Live
-df197873-a70d-11e5-8b61-7845c4b142f6,XsGDqXqyIXib,hbo,6,Monday,1:00,60,Comedy,Recorded
-df197874-a70d-11e5-865f-7845c4b142f6,YZTAfJiVFyeg,cbs,6,Thursday,12:00,60,Comedy,Live
-df197875-a70d-11e5-8376-7845c4b142f6,GKXTseXtdv,abc,1,Saturday,7:00,60,Comedy,Recorded
-df197876-a70d-11e5-87ae-7845c4b142f6,kpOqntjagtfkNn,hbo,1,Wednesday,6:00,60,Reality,Live
-df197877-a70d-11e5-9ed8-7845c4b142f6,ZjKwWvIioh,abc,8,Thursday,8:00,60,Sports,Recorded
-df1be970-a70d-11e5-8252-7845c4b142f6,qLhphWMSEaEYEUODCfhWYOd,hbo,8,Thursday,6:00,60,Sports,Recorded
-df1be971-a70d-11e5-8b2b-7845c4b142f6,qQuHGpkALMFrvlcVxxU,abc,3,Friday,11:00,60,Comedy,Recorded
-df1be972-a70d-11e5-8add-7845c4b142f6,wMARkyVnuTYZbksZnQ,cbs,6,Thursday,12:00,60,Sports,Live
-df1be973-a70d-11e5-82ec-7845c4b142f6,SaponIOnnjrykdwAulNEhJV,hbo,4,Monday,2:00,60,News,Recorded
-df1be974-a70d-11e5-85a0-7845c4b142f6,aIAnjJTQXWEqAMYgMvQQSmY,fox,2,Thursday,2:00,60,Reality,Live
-df1be975-a70d-11e5-a118-7845c4b142f6,xFCPIqjLyFLtUTvBvwYBg,cbs,7,Monday,10:00,60,Reality,Recorded
-df1be976-a70d-11e5-89f3-7845c4b142f6,taOBIhZnwlrHGFyRilVaTkm,cbs,5,Friday,5:00,60,Reality,Live
-df1e5a6e-a70d-11e5-9a72-7845c4b142f6,WAYdfyyQGLFmVSV,abc,7,Saturday,4:00,60,Sports,Live
-df1e5a6f-a70d-11e5-977d-7845c4b142f6,QWBUvabYFRfgoCdsme,cbs,3,Tuesday,7:00,60,Action,Live
-df1e5a70-a70d-11e5-861f-7845c4b142f6,JeHuOIEGhbnazaXcceRZ,hbo,1,Saturday,4:00,60,Action,Live
-df1e5a71-a70d-11e5-8b27-7845c4b142f6,YjYfYxXUiKS,cbs,3,Monday,12:00,60,Comedy,Recorded
-df1e5a72-a70d-11e5-83db-7845c4b142f6,NNJiWSUWjPJC,cnn,1,Monday,1:00,60,News,Recorded
-df1e5a73-a70d-11e5-b45f-7845c4b142f6,FbUOJpNXdnUcEHy,fox,2,Thursday,3:00,60,News,Live
-df1e5a74-a70d-11e5-8062-7845c4b142f6,pJWVNgVRTkEhqNQPzm,abc,4,Friday,5:00,60,Comedy,Recorded
-df20a45e-a70d-11e5-b333-7845c4b142f6,odHkIXrIfYOGJatYba,abc,4,Thursday,3:00,60,Action,Live
-df20a45f-a70d-11e5-b91f-7845c4b142f6,qVGHwpgKhGsJiJ,cnn,1,Tuesday,8:00,60,Action,Live
-df20a460-a70d-11e5-bcc6-7845c4b142f6,LocDLHVfoUPnQYywUcwoJ,cbs,8,Friday,2:00,60,Comedy,Live
-df20a461-a70d-11e5-9a39-7845c4b142f6,RTjDOMxaxJEHPv,cbs,2,Thursday,11:00,60,Action,Recorded
-df20a462-a70d-11e5-8530-7845c4b142f6,BrhLrYtYprrmTlT,hbo,7,Friday,6:00,60,Action,Recorded
-df20a463-a70d-11e5-ab5c-7845c4b142f6,gXFQAXATPTcVNAaZbT,cbs,7,Monday,9:00,60,Sports,Live
-df231561-a70d-11e5-aee4-7845c4b142f6,HlctHsgOgsePQjbAd,cnn,9,Monday,12:00,60,Action,Live
-df231562-a70d-11e5-9d4a-7845c4b142f6,GIMZSqpNVO,cnn,8,Tuesday,12:00,60,Comedy,Live
-df231563-a70d-11e5-8dce-7845c4b142f6,WuKnjRLtxlnZlGhNOCLNTz,hbo,2,Thursday,11:00,60,News,Live
-df231564-a70d-11e5-853c-7845c4b142f6,OZUIUvFEaLhuJ,fox,8,Thursday,10:00,60,Reality,Recorded
-df231565-a70d-11e5-a606-7845c4b142f6,CqWsXpsjmRWykdfcKezy,hbo,9,Saturday,5:00,60,News,Live
-df231566-a70d-11e5-9093-7845c4b142f6,bUlzlqudNd,cnn,2,Sunday,12:00,60,News,Recorded
-df231567-a70d-11e5-be39-7845c4b142f6,EWbnuuefGhQhJcQLp,fox,3,Wednesday,3:00,60,Sports,Recorded
-df231568-a70d-11e5-8d50-7845c4b142f6,WIJNrEsWBEY,cbs,9,Wednesday,6:00,60,Action,Live
-df255f4f-a70d-11e5-97b8-7845c4b142f6,VVoLlBUbnjziVJDEdMFuRzMa,cbs,6,Wednesday,8:00,60,Reality,Live
-df255f50-a70d-11e5-9a9a-7845c4b142f6,OCkAqxKNKNISencPwpmqnK,abc,1,Sunday,10:00,60,Action,Recorded
-df255f51-a70d-11e5-b926-7845c4b142f6,RouMMtFLiiuXEJo,abc,1,Thursday,5:00,60,Sports,Live
-df255f52-a70d-11e5-a930-7845c4b142f6,hDfXCvIXvCuBGIzEFelngKMM,abc,3,Wednesday,12:00,60,Comedy,Live
-df255f53-a70d-11e5-9934-7845c4b142f6,wLJjmeGHBjxWfZr,cbs,9,Wednesday,10:00,60,Comedy,Live
-df255f54-a70d-11e5-89f2-7845c4b142f6,zrRVJMRDtAdFvnlHyfQCvFDq,cbs,5,Friday,5:00,60,Comedy,Recorded
-df27d04f-a70d-11e5-a792-7845c4b142f6,MiAToUbGnpIsAmeFaMVJEi,hbo,3,Thursday,10:00,60,News,Recorded
-df27d050-a70d-11e5-8b33-7845c4b142f6,KrlRbYyLJZmPbsZzRLdvsZvtq,cbs,5,Sunday,11:00,60,Sports,Recorded
-df27d051-a70d-11e5-a573-7845c4b142f6,IacrLLKoDlqqpZPjxA,hbo,7,Saturday,7:00,60,Reality,Live
-df27d052-a70d-11e5-a773-7845c4b142f6,hsQrAeUOfUgyXherkKTYCos,cnn,8,Sunday,11:00,60,Reality,Recorded
-df27d053-a70d-11e5-a54e-7845c4b142f6,NUlfUquQzXYrI,hbo,5,Wednesday,4:00,60,Action,Recorded
-df27d054-a70d-11e5-a94d-7845c4b142f6,AaPbUrTXvTRmdeHgsQyG,fox,8,Tuesday,10:00,60,News,Recorded
-df27d055-a70d-11e5-a16a-7845c4b142f6,HDJQTAJOtjzhvQU,fox,3,Thursday,1:00,60,Reality,Recorded
-df2a414f-a70d-11e5-a95f-7845c4b142f6,nXJFUBpYKUeXXwpWGTetIFoy,cbs,6,Saturday,3:00,60,Sports,Recorded
-df2a4150-a70d-11e5-9a89-7845c4b142f6,HjXZeKZVhZnC,fox,6,Thursday,12:00,60,Reality,Recorded
-df2a4151-a70d-11e5-b814-7845c4b142f6,KftJcdwhwEgAGbyfgPh,abc,4,Wednesday,7:00,60,News,Recorded
-df2a4152-a70d-11e5-ad22-7845c4b142f6,MLCHRDIaisqi,fox,7,Wednesday,10:00,60,Reality,Recorded
-df2a4153-a70d-11e5-af01-7845c4b142f6,TjDSzlOJqAdYdpiLlkxPSH,cbs,1,Tuesday,9:00,60,News,Recorded
-df2a4154-a70d-11e5-9eac-7845c4b142f6,zlCiDlrDGatiNeuMPE,fox,3,Tuesday,2:00,60,Sports,Live
-df2c8b40-a70d-11e5-8957-7845c4b142f6,bxkgIKGvsiaqw,hbo,7,Thursday,10:00,60,News,Recorded
-df2c8b41-a70d-11e5-a927-7845c4b142f6,oLPsbyBEXYcjkazvB,cnn,1,Thursday,1:00,60,News,Live
-df2c8b42-a70d-11e5-847c-7845c4b142f6,gifcFTWZSJqWkHSjrshXLsj,cbs,8,Saturday,2:00,60,News,Recorded
-df2c8b43-a70d-11e5-9630-7845c4b142f6,RAqcIcIzhiGYJoNHaMLz,fox,4,Friday,3:00,60,Comedy,Recorded
-df2c8b44-a70d-11e5-9a47-7845c4b142f6,fOMDaXyrMMEr,fox,1,Friday,8:00,60,Action,Recorded
-df2c8b45-a70d-11e5-b94a-7845c4b142f6,ujewZMAqUsdmUsDnvDqKTheD,hbo,6,Wednesday,6:00,60,Sports,Live
-df2c8b46-a70d-11e5-90fd-7845c4b142f6,YMksnhMoUFYESofdilFAIDnj,cnn,3,Saturday,2:00,60,Sports,Recorded
-df2efc40-a70d-11e5-aa94-7845c4b142f6,IqoSJGtcADmalVmPOyth,cbs,3,Thursday,4:00,60,Comedy,Live
-df2efc41-a70d-11e5-8c54-7845c4b142f6,eFCurNjYZGFharcmTePsXxe,cnn,8,Sunday,2:00,60,Reality,Live
-df2efc42-a70d-11e5-a0e4-7845c4b142f6,UklGkSnCLrx,abc,7,Saturday,9:00,60,News,Live
-df2efc43-a70d-11e5-babc-7845c4b142f6,LftYLyGvlRUEmEboCsT,abc,8,Friday,2:00,60,Sports,Live
-df2efc44-a70d-11e5-a3c8-7845c4b142f6,ARqyCVuBprrFHXQbefTBQmZL,fox,8,Monday,6:00,60,Action,Live
-df2efc45-a70d-11e5-bd5c-7845c4b142f6,HACCOMWolSTHHOLQlHzg,hbo,7,Thursday,7:00,60,News,Recorded
-df2efc46-a70d-11e5-a3c3-7845c4b142f6,GXamOxqDZdlCAoga,cnn,6,Tuesday,6:00,60,Action,Live
-df316d40-a70d-11e5-9b63-7845c4b142f6,GzDwacyssoY,hbo,6,Sunday,8:00,60,News,Live
-df316d41-a70d-11e5-ab22-7845c4b142f6,UxdHRwAhfbntSfvcZxyhLhW,cbs,4,Wednesday,10:00,60,News,Live
-df316d42-a70d-11e5-a454-7845c4b142f6,dOTpBMqroIE,hbo,2,Sunday,2:00,60,Action,Recorded
-df316d43-a70d-11e5-8cfa-7845c4b142f6,lHHVxDlPsPPGYz,abc,8,Thursday,12:00,60,Sports,Live
-df316d44-a70d-11e5-a70f-7845c4b142f6,wqZoOiBjZSVgCI,cnn,2,Friday,10:00,60,News,Live
-df316d45-a70d-11e5-a005-7845c4b142f6,SDjFMwwyOyYcVaOXLixLCZG,cbs,1,Saturday,12:00,60,Sports,Live
-df316d46-a70d-11e5-9548-7845c4b142f6,nxcFAjtnOMCIsRK,hbo,2,Tuesday,8:00,60,Sports,Recorded
-df33b730-a70d-11e5-b488-7845c4b142f6,xIvNhNiOeTiO,fox,6,Tuesday,9:00,60,Action,Live
-df33b731-a70d-11e5-a010-7845c4b142f6,itNLscXSuUaRHBho,cbs,3,Thursday,9:00,60,Reality,Recorded
-df33b732-a70d-11e5-a3b0-7845c4b142f6,JLUrrjbnFPdiYigEuJXVhbarQ,cbs,6,Friday,7:00,60,Comedy,Recorded
-df33b733-a70d-11e5-8d08-7845c4b142f6,TpZmmTnUBnw,fox,1,Tuesday,7:00,60,Sports,Live
-df33b734-a70d-11e5-8853-7845c4b142f6,gaIWxqhwkQwxwkMespzUKMP,hbo,5,Thursday,6:00,60,Reality,Recorded
-df33b735-a70d-11e5-ad05-7845c4b142f6,JJHEatAtGtAbDklSyKgIc,hbo,7,Sunday,12:00,60,Sports,Live
-df362830-a70d-11e5-b1d7-7845c4b142f6,SFjtMVErCnXeUvJBtKsM,cbs,4,Wednesday,7:00,60,Sports,Recorded
-df362831-a70d-11e5-8866-7845c4b142f6,TaazNSzIZCREZIOwkQaDVmz,abc,5,Sunday,7:00,60,Sports,Live
-df362832-a70d-11e5-811d-7845c4b142f6,IEnMCXTCAaDKghVLie,cnn,1,Thursday,8:00,60,Reality,Recorded
-df362833-a70d-11e5-ab05-7845c4b142f6,udMODoFQpfnsZGfvC,cbs,8,Sunday,7:00,60,Comedy,Live
-df362834-a70d-11e5-a340-7845c4b142f6,PFamleWvpEkFTQe,cbs,6,Monday,10:00,60,Action,Live
-df362835-a70d-11e5-8d6e-7845c4b142f6,erdzJizrfrxThvkKwT,hbo,3,Friday,11:00,60,News,Recorded
-df362836-a70d-11e5-b1ff-7845c4b142f6,mvYGVjglcChbkSwhfOgHOX,abc,7,Monday,10:00,60,Sports,Live
-df389930-a70d-11e5-86d0-7845c4b142f6,UEyPustrlcrA,cbs,3,Thursday,12:00,60,News,Recorded
-df389931-a70d-11e5-bae8-7845c4b142f6,bTcLHjMGNXYPQNhQfBvdkqGPb,hbo,3,Thursday,6:00,60,Action,Recorded
-df389932-a70d-11e5-b7b6-7845c4b142f6,mvElJvHBSCPOZZyAvycxNfmJm,cnn,2,Friday,5:00,60,Sports,Live
-df389933-a70d-11e5-82ad-7845c4b142f6,NTFwgIArEXnqxoArZOpa,cbs,9,Monday,10:00,60,Reality,Recorded
-df389934-a70d-11e5-a43e-7845c4b142f6,TpnajgPwRdQRMGSQ,cnn,4,Friday,1:00,60,Sports,Live
-df389935-a70d-11e5-b20b-7845c4b142f6,KiAvQCZFHPMFyCZyX,cnn,2,Tuesday,7:00,60,Sports,Recorded
-df389936-a70d-11e5-85fe-7845c4b142f6,TVBYVribWrfjQFoq,fox,2,Saturday,8:00,60,Comedy,Live
-df389937-a70d-11e5-a3f7-7845c4b142f6,oXRGkAqYEuJh,cnn,8,Thursday,5:00,60,Reality,Recorded
-df3ae31e-a70d-11e5-a0f7-7845c4b142f6,ZXvsrAShjYMEOjFKoySStP,abc,7,Tuesday,10:00,60,News,Live
-df3ae31f-a70d-11e5-9155-7845c4b142f6,QNAkLUSORolPRjNcfiYNelO,abc,3,Sunday,8:00,60,Sports,Recorded
-df3ae320-a70d-11e5-acbc-7845c4b142f6,LrHrgjNaXraaogtISUhyYrhPS,cnn,7,Wednesday,3:00,60,News,Live
-df3ae321-a70d-11e5-b1b7-7845c4b142f6,XtcYcIslNIotbXUBSIJ,hbo,1,Thursday,11:00,60,Reality,Live
-df3ae322-a70d-11e5-bf2d-7845c4b142f6,PJblgZLVWegTpZzZVbYDwocc,cnn,4,Thursday,3:00,60,Sports,Recorded
-df3ae323-a70d-11e5-ba4f-7845c4b142f6,JSNndoFwlZCfLfrq,abc,1,Sunday,8:00,60,Sports,Recorded
-df3ae324-a70d-11e5-8923-7845c4b142f6,yjsxmnKbiCvs,abc,2,Sunday,6:00,60,Sports,Live
-df3d541e-a70d-11e5-b9bc-7845c4b142f6,nqVFqLZuioSYrPopOPwQW,fox,8,Monday,3:00,60,Action,Recorded
-df3d541f-a70d-11e5-8658-7845c4b142f6,JLMqKJPIZLrhVZvvdR,hbo,9,Saturday,11:00,60,News,Live
-df3d5420-a70d-11e5-95ce-7845c4b142f6,tcqazVribukHyC,hbo,9,Saturday,10:00,60,Reality,Live
-df3d5421-a70d-11e5-beab-7845c4b142f6,HqveTSbUNU,hbo,9,Saturday,8:00,60,News,Recorded
-df3d5422-a70d-11e5-bd77-7845c4b142f6,fbPlebXpCMEWQf,fox,2,Thursday,1:00,60,News,Recorded
-df3d5423-a70d-11e5-8562-7845c4b142f6,MbGeMVMdLWNPX,cnn,4,Wednesday,1:00,60,Comedy,Recorded
-df3d5424-a70d-11e5-9c2e-7845c4b142f6,tRTLCGAOJrLdZOTaaLtvlSsVF,cbs,1,Friday,11:00,60,Reality,Recorded
-df3f9e11-a70d-11e5-a3c2-7845c4b142f6,DRpZTVxHbfEgqPVAP,hbo,1,Friday,12:00,60,Action,Live
-df3f9e12-a70d-11e5-a0e5-7845c4b142f6,YGnNZjzANh,hbo,8,Monday,8:00,60,Sports,Live
-df3f9e13-a70d-11e5-923f-7845c4b142f6,DNPSgtIoQGwnUMo,fox,5,Sunday,5:00,60,News,Live
-df3f9e14-a70d-11e5-9224-7845c4b142f6,HtFqVRpGEBbqeMHnrvogJUuW,hbo,7,Thursday,4:00,60,Reality,Recorded
-df3f9e15-a70d-11e5-a94b-7845c4b142f6,MLWvaOVpkLB,fox,8,Tuesday,2:00,60,Comedy,Live
-df3f9e16-a70d-11e5-a038-7845c4b142f6,NVCfXdvBfBpeSzcif,cbs,7,Wednesday,12:00,60,News,Live
-df3f9e17-a70d-11e5-aa93-7845c4b142f6,CrbVSaggJQRNeBujvUPXHxw,cbs,1,Monday,8:00,60,Sports,Recorded
-df420f11-a70d-11e5-bda6-7845c4b142f6,PbKuAnvtLCdnbv,fox,8,Friday,1:00,60,News,Recorded
-df420f12-a70d-11e5-be3f-7845c4b142f6,iBpPSMUUsRAkcSUMdHIweG,abc,9,Sunday,12:00,60,Reality,Recorded
-df420f13-a70d-11e5-82d5-7845c4b142f6,szgVmnMmyxFhjXmnvvLdRDp,abc,5,Monday,12:00,60,Reality,Live
-df420f14-a70d-11e5-b8ec-7845c4b142f6,oqILFFAbRo,hbo,3,Thursday,9:00,60,Comedy,Recorded
-df420f15-a70d-11e5-aacc-7845c4b142f6,qDMcFYySCQCysEtiJiKthJMNK,hbo,5,Wednesday,10:00,60,Reality,Recorded
-df420f16-a70d-11e5-b694-7845c4b142f6,oRfxTWTdxQrfUtm,abc,4,Wednesday,6:00,60,Action,Recorded
-df420f17-a70d-11e5-a63d-7845c4b142f6,ggxOCUJZKMRXzkUCEJdNt,cbs,2,Sunday,6:00,60,Reality,Recorded
-df44800f-a70d-11e5-8753-7845c4b142f6,VnBREengIytUrhEtJ,cnn,9,Sunday,11:00,60,Action,Recorded
-df448010-a70d-11e5-9b03-7845c4b142f6,YNzHVuUaeqtUNHfXD,abc,5,Tuesday,11:00,60,Reality,Recorded
-df448011-a70d-11e5-9a01-7845c4b142f6,oddAWmRrOlOvzixNDKbCxE,cnn,5,Sunday,9:00,60,News,Live
-df448012-a70d-11e5-8b66-7845c4b142f6,LseaMAREebxGDYsAsC,abc,1,Saturday,2:00,60,Action,Live
-df448013-a70d-11e5-b75b-7845c4b142f6,GKUmaiDtYEiuYsRP,cbs,6,Saturday,6:00,60,Reality,Recorded
-df448014-a70d-11e5-ace6-7845c4b142f6,gFHOGLWWgtdLeZRwrgY,hbo,8,Tuesday,6:00,60,News,Recorded
-df448015-a70d-11e5-ab11-7845c4b142f6,YdeOOfMuHMQofTFRUX,cnn,6,Friday,3:00,60,News,Live
-df46ca00-a70d-11e5-8ea8-7845c4b142f6,YjPuIkjBmVRtdYdwICfLENx,cbs,3,Sunday,10:00,60,Comedy,Recorded
-df46ca01-a70d-11e5-8bb6-7845c4b142f6,ZFAspPeBDGwOvRPhYKYARIMF,abc,7,Monday,10:00,60,Sports,Live
-df46ca02-a70d-11e5-9ee9-7845c4b142f6,VYHGsZAblvBmMoaJDl,fox,2,Saturday,3:00,60,Action,Recorded
-df46ca03-a70d-11e5-881f-7845c4b142f6,lmvdhJruCBKhMvShHnEMWSs,hbo,7,Saturday,1:00,60,Sports,Recorded
-df46ca04-a70d-11e5-8a33-7845c4b142f6,uBHrSkebGvtQdGMjXrx,hbo,3,Saturday,2:00,60,News,Live
-df46ca05-a70d-11e5-b004-7845c4b142f6,pzptKNKphlMEYSWgzZfWp,hbo,8,Wednesday,7:00,60,Action,Recorded
-df46ca06-a70d-11e5-90b6-7845c4b142f6,XxgdPqKSNHMpDG,hbo,8,Wednesday,11:00,60,Reality,Live
-df49620f-a70d-11e5-bf50-7845c4b142f6,PvZxyRWjIszgC,abc,3,Wednesday,2:00,60,Reality,Live
-df49d740-a70d-11e5-8756-7845c4b142f6,ZtiyeBIQpDlfY,cnn,5,Tuesday,9:00,60,Action,Recorded
-df4a4c70-a70d-11e5-92b6-7845c4b142f6,uKZzpLrLQvfaWViDDlPzOiKAX,fox,7,Thursday,10:00,60,News,Live
-df4ae8b0-a70d-11e5-84ff-7845c4b142f6,epgCFjWPxQaYpNmU,hbo,4,Thursday,3:00,60,Comedy,Live
-df4b36cf-a70d-11e5-b097-7845c4b142f6,PFroWPMEZLWBqsPoqSfmW,hbo,9,Monday,12:00,60,Sports,Live
-df4b36d0-a70d-11e5-9961-7845c4b142f6,RuenlMBLnoLj,fox,5,Saturday,7:00,60,Reality,Recorded
-df4b36d1-a70d-11e5-8202-7845c4b142f6,etfZkNOfPxVrlh,cbs,1,Wednesday,6:00,60,Reality,Live
-df4b36d2-a70d-11e5-bed7-7845c4b142f6,wqaMJiBNFXhTxoSorUCM,hbo,6,Saturday,12:00,60,Action,Recorded
-df4b36d3-a70d-11e5-a5db-7845c4b142f6,uOtIGHSuLMJuKOvhvz,cnn,1,Tuesday,6:00,60,News,Recorded
-df4b36d4-a70d-11e5-9a97-7845c4b142f6,tMDHyIEPQRadEZqQPeIiQr,fox,5,Monday,8:00,60,Reality,Live
-df4da7d1-a70d-11e5-8f16-7845c4b142f6,sQJDexhHpgdApsfx,cnn,4,Friday,7:00,60,Action,Recorded
-df4da7d2-a70d-11e5-bfd3-7845c4b142f6,rilKDYmlQXhlXNIZVBdUUmVu,cbs,8,Saturday,1:00,60,News,Live
-df4da7d3-a70d-11e5-94a8-7845c4b142f6,SdDvEDsCiTYdpuB,cnn,3,Sunday,11:00,60,Comedy,Live
-df4da7d4-a70d-11e5-854a-7845c4b142f6,VsKRgMFJGzwbWPUNwxDVq,cnn,6,Thursday,8:00,60,Sports,Recorded
-df4da7d5-a70d-11e5-a0ed-7845c4b142f6,kSQnobJaxCtGNArbg,cbs,9,Saturday,12:00,60,News,Live
-df4da7d6-a70d-11e5-a352-7845c4b142f6,JEQBzczhHgvrucqDUftBhfQW,cnn,4,Saturday,2:00,60,Sports,Recorded
-df4da7d7-a70d-11e5-abd7-7845c4b142f6,YucSaRTPSRnj,cbs,8,Tuesday,5:00,60,Action,Recorded
-df4ff1c0-a70d-11e5-a3cd-7845c4b142f6,TyZExWSjdLtXexHQVZ,cnn,4,Wednesday,4:00,60,Reality,Recorded
-df4ff1c1-a70d-11e5-8bc4-7845c4b142f6,LjrCrlEOdbXqQLHaKOeiBqbsa,abc,6,Monday,12:00,60,News,Recorded
-df4ff1c2-a70d-11e5-9b63-7845c4b142f6,BnTESumOWepaYVo,cbs,9,Monday,2:00,60,Comedy,Recorded
-df4ff1c3-a70d-11e5-9077-7845c4b142f6,sEMdeyKVzJpq,cnn,6,Friday,12:00,60,News,Live
-df4ff1c4-a70d-11e5-b42f-7845c4b142f6,fykMCbjKrGhyt,cbs,8,Friday,7:00,60,Sports,Live
-df4ff1c5-a70d-11e5-8ad3-7845c4b142f6,yTJDiPgzbeiupqcnOVkWPoU,cnn,3,Saturday,10:00,60,News,Live
-df5262c0-a70d-11e5-a4d8-7845c4b142f6,CmpmBQlOoaD,cbs,7,Sunday,12:00,60,News,Recorded
-df5262c1-a70d-11e5-b16f-7845c4b142f6,igAOtLUAtHtNnFKnlszo,cbs,8,Sunday,12:00,60,Sports,Recorded
-df5262c2-a70d-11e5-b167-7845c4b142f6,sFPqlnZdid,fox,1,Monday,2:00,60,Action,Live
-df5262c3-a70d-11e5-8b5d-7845c4b142f6,DpZuMnBTYHG,fox,5,Thursday,10:00,60,Reality,Live
-df5262c4-a70d-11e5-ad96-7845c4b142f6,AEtCUutMbdvCDrEZr,abc,9,Monday,2:00,60,News,Recorded
-df5262c5-a70d-11e5-8c94-7845c4b142f6,YZxkcikiDMWWKAmO,abc,5,Saturday,8:00,60,Sports,Live
-df5262c6-a70d-11e5-85ef-7845c4b142f6,wXiFBOMcUHPCfIb,fox,3,Wednesday,8:00,60,Reality,Recorded
-df54acb0-a70d-11e5-b8c1-7845c4b142f6,TYTjvRmFldlRJCi,fox,8,Saturday,2:00,60,Comedy,Live
-df54acb1-a70d-11e5-bec1-7845c4b142f6,CeUcyCPiKaXIHsCSDzrjlI,cnn,4,Thursday,7:00,60,Comedy,Live
-df54acb2-a70d-11e5-a24a-7845c4b142f6,qBcEIqrQaepOsfJJidsykI,abc,5,Friday,11:00,60,Action,Recorded
-df54acb3-a70d-11e5-a09a-7845c4b142f6,vzQLmGhZZObvs,fox,2,Tuesday,5:00,60,Comedy,Recorded
-df54acb4-a70d-11e5-82e7-7845c4b142f6,JrDWwXWDSWqigklHzYyg,fox,9,Friday,1:00,60,Sports,Recorded
-df54acb5-a70d-11e5-91d8-7845c4b142f6,sbZmJZhrHuxxtcmXrwfhz,fox,5,Thursday,4:00,60,Reality,Recorded
-df54acb6-a70d-11e5-8abb-7845c4b142f6,jZMbjBiJrOwtS,abc,3,Wednesday,2:00,60,Reality,Live
-df571db0-a70d-11e5-95a3-7845c4b142f6,KplxxPMwymZ,hbo,3,Monday,2:00,60,News,Live
-df571db1-a70d-11e5-b00c-7845c4b142f6,dyEghbDsbGKndshJlBid,fox,4,Tuesday,12:00,60,News,Recorded
-df571db2-a70d-11e5-9f1d-7845c4b142f6,SBavnGjFNZZEwQ,abc,3,Monday,3:00,60,Reality,Live
-df571db3-a70d-11e5-b0e6-7845c4b142f6,BsRSjOVjwlN,fox,1,Sunday,3:00,60,Comedy,Live
-df571db4-a70d-11e5-ac5a-7845c4b142f6,QcmLRZEZFHvJpVZ,fox,4,Friday,2:00,60,Sports,Recorded
-df571db5-a70d-11e5-b795-7845c4b142f6,qXPMKFVvNZtwcLcLmjHtn,hbo,1,Sunday,6:00,60,Sports,Live
-df571db6-a70d-11e5-83f3-7845c4b142f6,HrgqqpbFFjeDX,hbo,8,Thursday,12:00,60,Comedy,Recorded
-df571db7-a70d-11e5-9f02-7845c4b142f6,lzyXBdoDrfBSLzOFsoRrMnFoB,hbo,7,Tuesday,2:00,60,News,Recorded
-df598eae-a70d-11e5-a3af-7845c4b142f6,gjmeMGbypuwoebkRZyPZSjwqD,hbo,2,Tuesday,2:00,60,News,Live
-df598eaf-a70d-11e5-897d-7845c4b142f6,dQRFInCvrXjKkiVpZsYWxhJ,cbs,4,Saturday,3:00,60,News,Live
-df598eb0-a70d-11e5-8d24-7845c4b142f6,feaoDomtIbbyX,abc,3,Friday,6:00,60,Action,Live
-df598eb1-a70d-11e5-8fe0-7845c4b142f6,SqgvgtJQwGDBhxHaaA,cnn,7,Saturday,11:00,60,News,Live
-df598eb2-a70d-11e5-bd50-7845c4b142f6,WAVicEqtFDSaUUIFMXrDX,hbo,9,Wednesday,9:00,60,Reality,Live
-df598eb3-a70d-11e5-9cc9-7845c4b142f6,UelywQAZPXvG,fox,6,Wednesday,11:00,60,Comedy,Recorded
-df5bd8a1-a70d-11e5-b2be-7845c4b142f6,urrNRQRADXAE,hbo,4,Monday,6:00,60,Sports,Recorded
-df5bd8a2-a70d-11e5-a2d2-7845c4b142f6,zaZKPHIdTDi,hbo,7,Saturday,12:00,60,Action,Live
-df5bd8a3-a70d-11e5-bd71-7845c4b142f6,cYBBYXxDjGvSQErjXQt,cnn,8,Monday,10:00,60,News,Recorded
-df5bd8a4-a70d-11e5-9321-7845c4b142f6,TLlawzaqEIRPRppjy,hbo,4,Wednesday,11:00,60,Reality,Live
-df5bd8a5-a70d-11e5-aec8-7845c4b142f6,SVTBQKPdHpaANNXrtGUNLeDO,abc,5,Thursday,4:00,60,Sports,Live
-df5bd8a6-a70d-11e5-a845-7845c4b142f6,TEZajVNuDesyURCpvn,abc,8,Monday,8:00,60,Sports,Recorded
-df5bd8a7-a70d-11e5-8369-7845c4b142f6,NsVBEKtZdOjit,cnn,6,Thursday,4:00,60,Sports,Recorded
-df5e49a1-a70d-11e5-9cd7-7845c4b142f6,MglOTffiSJdVq,cnn,5,Sunday,5:00,60,News,Recorded
-df5e49a2-a70d-11e5-8fcc-7845c4b142f6,eHbmuegQtUMlhHTlrfNR,fox,5,Monday,7:00,60,Comedy,Recorded
+ProgramId,Name,Channel,AiringDay,AiringTime,Duration,Genre
+50001,Undercover Boss,cbs,Sunday,20:00,60,Reality-TV
+50003,Limitless,cbs,Sunday,21:00,120,"Drama, Sci-Fi, Thriller"
+50005,Supergirl,cbs,Monday,20:00,60,"Action, Adventure, Sci-Fi"
+50007,Scorpion,cbs,Monday,21:00,60,"Action, Drama"
+50009,NCIS: Los Angeles,cbs,Monday,22:00,60,"Crime, Drama, Mystery"
+50011,NCIS,cbs,Tuesday,20:00,60,"Crime, Drama, Mystery"
+50013,NCIS: New Orleans,cbs,Tuesday,21:00,60,"Crime, Drama, Mystery"
+50015,Limitless,cbs,Tuesday,22:00,60,"Drama, Sci-Fi, Thriller"
+50017,2 Broke Girls,cbs,Wednesday,20:00,30,Comedy
+50019,Mike & Molly,cbs,Wednesday,20:30,30,Comedy
+50021,People's Choice Awards,cbs,Wednesday,21:00,120,Reality-TV
+50023,The Big Bang Theory,cbs,Thursday,20:00,30,Comedy
+50025,Life in Pieces,cbs,Thursday,20:30,30,Comedy
+50027,Mom,cbs,Thursday,21:00,30,"Comedy, Romance"
+50029,Angel From Hell,cbs,Thursday,21:30,30,Comedy
+50031,Elementary,cbs,Thursday,22:00,60,"Crime, Drama, Mystery"
+50033,Undercover Boss,cbs,Friday,20:00,60,Reality-TV
+50035,Hawaii Five-0,cbs,Friday,21:00,60,"Action, Crime, Drama"
+50037,Blue Bloods,cbs,Friday,22:00,60,"Crime, Drama"
+50039,Code Black,cbs,Saturday,20:00,60,Drama
+50041,Criminal Minds,cbs,Saturday,21:00,60,"Crime, Drama, Mystery"
+50043,48 Hours,cbs,Saturday,22:00,60,"Action, Comedy, Crime"
+50045,Galavant,abc,Saturday,20:00,120,"Comedy, Musical"
+50047,20/20 Saturday,abc,Saturday,22:00,60,"Documentary, News"
+50049,Rosewood,fox,Saturday,20:00,60,"Crime, Drama, Mystery"
+50051,Gotham,fox,Saturday,21:00,60,"Crime, Drama, Thriller"
+50053,Family Guy,fox,Sunday,20:00,30,"Animation, Comedy"
+50055,Bordertown,fox,Sunday,20:30,30," Animation, Comedy"
+50057,Fox 4 News at 9,fox,Sunday,21:00,30,News
+50059,Sports Sunday With Mike,fox,Sunday,21:30,30,"Sports,News"
+50061,TMZ,fox,Sunday,22:00,60,"Comedy, News"
+50063,Quantico,abc,Sunday,20:00,120,"Crime, Drama, Mystery"
+50065,News 8 Update,abc,Sunday,22:00,30,News
+50067,Dale Hansen Sports,abc,Sunday,22:30,30,"Sports,News"
+50069,Superhuman,fox,Monday,20:00,60,Reality-TV
+50071,Fox 4 News at 9,fox,Monday,21:00,60,News
+50073,Fox 4 News at 10,fox,Monday,22:00,30,News
+50075,Modern Family,fox,Monday,22:30,30,Comedy
+50077,The Bachelor,abc,Monday,20:00,60,"Game-Show, Reality-TV, Romance"
+50079,Bachelor Live,abc,Monday,21:00,60,"Game-Show, Reality-TV, Romance"
+50081,News 8 Update,abc,Monday,22:00,30,News
+50083,Jimmy Kimmel Live,abc,Monday,22:30,30,"Comedy, Music, Talk-Show"
+50085,Brooklyn Nine-Nine,fox,Tuesday,20:00,30,"Comedy, Crime"
+50087,The Grinder,fox,Tuesday,20:30,30,Comedy
+50089,Fox 4 News at 9,fox,Tuesday,21:00,60,News
+50091,Fox 4 News at 10,fox,Tuesday,22:00,30,News
+50093,Modern Family,fox,Tuesday,22:30,30,Comedy
+50095,Shark Tank,abc,Tuesday,20:00,60,Reality-TV
+50097,Beyond the Tank,abc,Tuesday,21:00,60,Reality-TV
+50099,News 8 Update,abc,Tuesday,22:00,30,News
+50101,Jimmy Kimmel Live,abc,Tuesday,22:30,30,"Comedy, Music, Talk-Show"
+50103,Blackish,abc,Wednesday,20:00,60,Comedy
+50105,American Crime,abc,Wednesday,21:00,60,Drama
+50107,News 8 Update,abc,Wednesday,22:00,30,News
+50109,Jimmy Kimmel Live,abc,Wednesday,22:30,30,"Comedy, Music, Talk-Show"
+50111,American Idol,fox,Wednesday,20:00,120,Reality-TV
+50113,Fox 4 News at 10,fox,Wednesday,22:00,30,News
+50115,Modern Family,fox,Wednesday,22:30,30,Comedy
+50117,My Diet is Better Than Yours,abc,Thursday,20:00,120,Reality-TV
+50119,News 8 Update,abc,Thursday,22:00,30,News
+50121,Jimmy Kimmel Live,abc,Thursday,22:30,30,Comedy
+50123,American Idol,fox,Thursday,20:00,120,Reality-TV
+50125,Fox 4 News at 10,fox,Thursday,22:00,30,News
+50127,Modern Family,fox,Thursday,22:30,30,Comedy
+50129,Shark Tank,abc,Friday,20:00,60,Reality-TV
+50131,20/20,abc,Friday,21:00,60,"Documentary, News"
+50133,News 8 Update,abc,Friday,22:00,30,News
+50135,Jimmy Kimmel Live,abc,Friday,22:30,30,Comedy
+50137,Master Chef Junior,fox,Friday,20:00,120,Reality-TV
+50139,Fox 4 News at 10,fox,Friday,22:00,30,News
+50141,Modern Family,fox,Friday,22:30,30,Comedy

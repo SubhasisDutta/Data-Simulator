@@ -3,32 +3,56 @@
 	<resulttype>
 		<format>CSV</format> <!-- This is a special Case for Generating Tweets in random -->
 		<mode>FILE</mode><!-- Curren support for Cassendra and CSV -->
-		<location>D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_viewing_10000.csv</location>		
+		<location>D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_viewing_100000.csv</location>		
 	</resulttype>
 	
 	<column name="CustomerId" dbColumnName="customerid">
 		<datatype>ORDINAL</datatype>		
-		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_subscriber_100.csv" column="1">			
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_subscriber_1000.csv" column="1">			
 		</choice>
 	</column>
-	<column name="NickName" dbColumnName="customerid">
+	<!--<column name="NickName" dbColumnName="customerid">
 		<datatype>ORDINAL</datatype>		
 		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_stb_3000.csv" column="2">			
 		</choice>
-	</column>
+	</column>-->
 	<column name="Program Id" dbColumnName="customerid">
 		<datatype>ORDINAL</datatype>		
 		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_programguide_500.csv" column="1">			
 		</choice>
 	</column>
-	<column name="Recorded" dbColumnName="customerid">
+	<column name="Live/Recorded" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<option>Recorded</option>
+			<option>Live</option>						
+		</choice>
+	</column>	
+	<column name="Gender" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<option>Male</option>
+			<option>Female</option>						
+		</choice>
+	</column>
+	<column name="Age Range" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<!--<option>13 - 17</option>-->
+			<option>18 - 24</option>
+			<option>25 - 34</option>
+			<option>35 - 54</option>
+			<option>55 +</option>			
+		</choice>
+	</column>
+	<!--<column name="Recorded" dbColumnName="customerid">
 		<datatype>ORDINAL</datatype>
 		<choice>
 			<option>Yes</option>
 			<option>No</option>						
 		</choice>
-	</column>
-	<column name="ViewStartDate" dbColumnName="customerid">
+	</column>-->
+	<!--<column name="ViewStartDate" dbColumnName="customerid">
 		<datatype>ORDINAL</datatype>
 		<choice>
 			<option>1/10/2015</option>
@@ -152,10 +176,10 @@
 		<mean>2</mean>
 		<minimum>1</minimum>
 		<maximum>5</maximum>
-	</column>
+	</column>-->
 	
 			
 	<timesliceType>FIXED_LOAD</timesliceType> 
-	<totalrecord>10000</totalrecord>
+	<totalrecord>100000</totalrecord>
 	
 </data>

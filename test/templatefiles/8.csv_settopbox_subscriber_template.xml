@@ -3,21 +3,27 @@
 	<resulttype>
 		<format>CSV</format> <!-- This is a special Case for Generating Tweets in random -->
 		<mode>FILE</mode><!-- Curren support for Cassendra and CSV -->
-		<location>D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_subscriber_100.csv</location>		
+		<location>D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_subscriber_1000.csv</location>		
 	</resulttype>
 	
 	<column name="CustomerId" dbColumnName="customerid">
-		<datatype>GUID</datatype>
-	</column>
+		<!--<datatype>GUID</datatype>-->
+		<datatype>INTEGER</datatype>
+		<pattern start="1001" step="1">Sequence</pattern>
+	</column>	
 	<column name="Name" dbColumnName="customerid">
-		<datatype>STRING</datatype>
-		<pattern>User_Name</pattern>		
+		<datatype>ORDINAL</datatype>
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\FullName.csv"></choice>
+		<!--<datatype>STRING</datatype>
+		<pattern>User_Name</pattern>-->		
 	</column>
 	<column name="User E-Mail" dbColumnName="customerid">
-		<datatype>STRING</datatype>
-		<pattern>E_Mail</pattern>
+		<datatype>ORDINAL</datatype>
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\EmailAddress.csv"></choice>
+		<!--<datatype>STRING</datatype>
+		<pattern>E_Mail</pattern>-->
 	</column>
-	<column name="Gender" dbColumnName="customerid">
+	<!--<column name="Gender" dbColumnName="customerid">
 		<datatype>ORDINAL</datatype>
 		<choice>
 			<option>Male</option>
@@ -27,17 +33,18 @@
 	<column name="Age Range" dbColumnName="customerid">
 		<datatype>ORDINAL</datatype>
 		<choice>
-			<option>5-15 Age</option>
-			<option>15-25 age</option>
-			<option>25-35 age</option>
-			<option>35-45 age</option>
-			<option>Above 45</option>
-			<option>Unknown</option>
+			<option>13 - 17</option>
+			<option>18 - 24</option>
+			<option>25 - 34</option>
+			<option>35 - 54</option>
+			<option>55 +</option>			
 		</choice>
-	</column>
+	</column>-->
 	<column name="Street Address" dbColumnName="customerid">
-		<datatype>STRING</datatype>
-		<pattern>Postal_Address</pattern>
+		<datatype>ORDINAL</datatype>
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\StreetAddress.csv"></choice>
+		<!--<datatype>STRING</datatype>
+		<pattern>Postal_Address</pattern>-->
 	</column>
 	<column name="City" dbColumnName="customerid">
 		<datatype>ORDINAL</datatype>
@@ -65,13 +72,30 @@
 			<option>Triple</option>			
 		</choice>
 	</column>
-	<column name="NumOfSTB" dbColumnName="customerid">
+	<!--<column name="NumOfSTB" dbColumnName="customerid">
 		<datatype>INTEGER</datatype>
 		<mean>1</mean>
 		<minimum>1</minimum>
 		<maximum>5</maximum>
+	</column>-->
+	<column name="Customer Joining Month" dbColumnName="customerid">
+		<datatype>ORDINAL</datatype>
+		<choice>
+			<option>January</option>
+			<option>February</option>
+			<option>March</option>
+			<option>April </option>
+			<option>May</option>
+			<option>June</option>
+			<option>July</option>
+			<option>August</option>
+			<option>September</option>
+			<option>October </option>
+			<option>November</option>
+			<option>December</option>			
+		</choice>
 	</column>
-	<column name="CustomerSince" dbColumnName="customerid">
+	<column name="Customer Joining Year" dbColumnName="customerid">
 		<datatype>INTEGER</datatype>
 		<mean>2010</mean>
 		<minimum>1998</minimum>

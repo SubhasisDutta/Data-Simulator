@@ -8,7 +8,7 @@
 	
 	<column name="CustomerId" dbColumnName="customerid">
 		<datatype>ORDINAL</datatype>		
-		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_subscriber_100.csv" column="1">			
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_subscriber_1000.csv" column="1">			
 		</choice>
 	</column>
 	<column name="NickName" dbColumnName="customerid">
