@@ -157,16 +157,27 @@ class RecordGenerator(object):
                         else:
                             bias_list.append(float(opt.get('bias',default=None)))
                 else:
-#                     print "Options Count",optionsCount 
-                    for i in range(optionsCount):
-                        bias_list.append(1.0/optionsCount)  
-#                     print bias_list      
-                scale=[]
+                    bias_string=choice.get('bias').split(',') 
+                    uniformCount=optionsCount
+                    remainingProbability=1.0
+                    bias_choices={}
+                    for s in bias_string:
+                        v=s.split(':') 
+                        if len(v)>1:
+                            bias_choices[v[0]]=float(v[1])
+                            remainingProbability-=float(v[1])                                          
+                    for option in options:
+                        if option in bias_choices:
+                            bias_list.append(bias_choices[option])
+                        else:
+                            bias_list.append(remainingProbability/uniformCount) 
+                scale=[]                
                 for i in range(optionsCount):
                     s=0
                     for j in range(i+1):
-                       s+=bias_list[j]
+                        s+=bias_list[j]
                     scale.append(s)
+                scale[-1]=1.01                
                 bias_dict[column.get('name')]=scale     
         return choicedict,bias_dict  
 

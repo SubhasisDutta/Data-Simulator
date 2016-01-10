@@ -3,7 +3,7 @@
 	<resulttype>
 		<format>CSV</format> <!-- This is a special Case for Generating Tweets in random -->
 		<mode>FILE</mode><!-- Curren support for Cassendra and CSV -->
-		<location>D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_viewing_100000.csv</location>		
+		<location>D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_viewing_100000_bias.csv</location>		
 	</resulttype>
 	
 	<column name="CustomerId" dbColumnName="customerid">
@@ -18,7 +18,7 @@
 	</column>-->
 	<column name="Program Id" dbColumnName="customerid">
 		<datatype>ORDINAL</datatype>		
-		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_programguide_500.csv" column="1" bias="">			
+		<choice seed="D:\Workspace\freelance\serendio\RandomDataSimulator\test\data\set_top_box_programguide_500.csv" column="1" bias="50023:0.2,50111:0.1,50123:0.1">			
 		</choice>
 	</column>
 	<column name="Live/Recorded" dbColumnName="customerid">
