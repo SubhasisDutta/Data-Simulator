@@ -8,6 +8,7 @@ import xml.etree.ElementTree as ET
 from datasimu.validator.ConfigValidator import ConfigValidator
 from datasimu.manager.CSVFileManager import CSVFileManager
 from datasimu.manager.CassandraManager import CassandraManager
+from datasimu.manager.MySqlManager import MySqlManager
 from datasimu.service.UniformService import UniformService
 from datasimu.service.LoadService import LoadService
 from datasimu.service.FixedLoadService import FixedLoadService
@@ -46,6 +47,8 @@ class DataGenerator(object):
             self.manager.push(self.getHeading(),'wb')
         elif self.outputMode == 'CASSANDRA':
             self.manager=CassandraManager(self.root)
+        elif self.outputMode == 'MYSQL':
+            self.manager=MySqlManager(self.root)
         else:
             raise IOError
     

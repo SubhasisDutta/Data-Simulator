@@ -3,35 +3,38 @@ Created on Sep 16, 2015
 
 @author: Subhasis
 '''
+import mysql.connector
 
-from cassandra.cluster import Cluster
-from cassandra.query import BatchStatement
-
-class CassandraManager(object):
+class MySqlManager(object):
     '''
-    This class takes care of writing the results into a cassandra file.
+    This class takes care of writing the results into a mysql table.
     '''
     def __init__(self, config):
         '''
         Constructor
         '''
-        self.config=config
-        self.keyspace=self.config.find('resulttype').find('keyspace').text
+        self.config=config   
+        self.username=self.config.find('resulttype').find('username').text
+        self.password=self.config.find('resulttype').find('password').text      
+        self.schema=self.config.find('resulttype').find('schema').text
         self.resultTable=self.config.find('resulttype').find('table').text
         self.batchSize=int(self.config.find('resulttype').find('batchsize').text)
-        self.cluster = Cluster(self.getNodesInCluster())
-        self.session = self.cluster.connect(self.keyspace)
+        self.cluster = self.getNodesInCluster()
+        self.connection = mysql.connector.connect(host=self.cluster[0],
+                        user=self.username,
+                        passwd=self.password,
+                        db=self.schema)
         self.dbColumnList=self.getDBColumnNames()
         self.insertPoints=self.getInsertPointString()
-        self.insertBatch= BatchStatement()
+        self.insertBatch= []
         self.batchCount=0        
         columnstr = ','.join(self.dbColumnList)             
-        self.insertQuery=self.session.prepare('INSERT INTO '+self.resultTable+' ('+columnstr+') VALUES ('+self.insertPoints+')')        
+        self.insertQuery='INSERT INTO '+self.resultTable+' ('+columnstr+') VALUES ('+self.insertPoints+')' 
                         
     def getInsertPointString(self):
         insertPoints=''        
         for i in range(len(self.dbColumnList)):
-            insertPoints+="?,"
+            insertPoints+="%s,"
         return insertPoints[:-1]
     
     def getNodesInCluster(self):
@@ -46,21 +49,27 @@ class CassandraManager(object):
             dbCols.append(column.get('dbColumnName'))
         return dbCols
     
-    def push(self,dataList,writeType='ab'):
+    def push(self,dataList,writeType='ab'):        
         return self.batchQuery(self.insertQuery, dataList)
     
     def batchQuery(self,statement,dataList):
         if self.batchCount < self.batchSize:
-            self.insertBatch.add(statement,dataList)
+            self.insertBatch.append(tuple(dataList))
             self.batchCount +=1
         else:
-            self.insertBatch.add(statement,dataList)
-            self.session.execute(self.insertBatch)
+            self.insertBatch.append(tuple(dataList))
+            cursor=self.connection.cursor()
+            cursor.executemany(self.insertQuery,self.insertBatch)
             self.batchCount =0
-            self.insertBatch= BatchStatement()
+            self.connection.commit()
+            self.insertBatch= []
         return True
     
     def flushBatch(self):
-        self.session.execute(self.insertBatch)
+        cursor=self.connection.cursor()
+        cursor.executemany(self.insertQuery,self.insertBatch)
+        self.batchCount =0
+        self.connection.commit()
+        self.insertBatch= []
         return True
             

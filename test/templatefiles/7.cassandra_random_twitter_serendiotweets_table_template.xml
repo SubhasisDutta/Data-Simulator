@@ -4,7 +4,7 @@
 		<format>CSV</format> <!-- Currently only csv , TODO: JSON,XML or any other -->
 		<mode>CASSANDRA</mode><!-- TO DO : STREAMING -->
 		<clusters>
-			<cluser>127.0.0.1</cluser>
+			<host>127.0.0.1</host>
 		</clusters>
 		<port>9042</port>
 		<batchsize>1000</batchsize>

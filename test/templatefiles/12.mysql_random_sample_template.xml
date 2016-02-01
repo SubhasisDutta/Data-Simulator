@@ -2,14 +2,16 @@
 <data>
 	<resulttype>
 		<format>CSV</format> <!-- Currently only csv , TODO: JSON,XML or any other -->
-		<mode>CASSANDRA</mode><!-- TO DO : STREAMING -->
+		<mode>MYSQL</mode><!-- TO DO : STREAMING -->
 		<clusters>
 			<host>127.0.0.1</host>
 		</clusters>
-		<port>9042</port>
+		<port>3306</port>
+		<username>root</username>
+		<password>root</password>
 		<batchsize>10</batchsize>
-		<keyspace>DataSimulator</keyspace> <!-- Data simulator assumes tat the keyspace is already present in Cassandra -->
-		<table>"RandomDataTest"</table> <!-- Data Simulator assumes that the table has been created in Cassandra. The script to creat the table is Cql_for_Cassandra_random_sample_template.cql -->		
+		<schema>datasimulator</schema> 
+		<table>datatest</table> 
 		<!-- The Table should have a id column as Primary Key of type uuid -->
 	</resulttype>
 	
@@ -17,7 +19,7 @@
 	<!--<timesliceType>UNIFORM</timesliceType>-->
 	
 	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the start time from which simulation records will be generated -->
-	<startindex name="Time Stamp" dbColumnName='"TimeStamp"' type="timestamp">2012-09-28T16:41:12</startindex>
+	<startindex name="Time Stamp" dbColumnName='timestamp' type="timestamp">2012-09-28T16:41:12</startindex>
 	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the end time till which simulation records will be generated -->
 	<endindex>2012-10-28T23:57:44</endindex>
 	<!-- This is the time delta between two generated records. This will be in milliseconds. -->
@@ -28,15 +30,15 @@
 	<column name="ID" dbColumnName='id'>				
 		<datatype>GUID</datatype>
 	</column>
-	<column name="Time Stamp" dbColumnName='"TimeStamp"'>
+	<column name="Time Stamp" dbColumnName='timestamp'>
 		<description>This puts the time stamp.</description>
 		<datatype>TIMESTAMP</datatype>
 	</column>
-	<column name="Basic Random Float Numbers" dbColumnName='"BasicRandomFloatNumbers"'>
+	<column name="Basic Random Float Numbers" dbColumnName='basicrandomfloatnumbers'>
 		<description>This column will generate random float numbers in he interval [0,1). 
 		If not additional information is available his option will be chosen. </description>		
 	</column>
-	<column name="Basic Random Integer Numbers" dbColumnName='"BasicRandomIntegerNumbers"'>
+	<column name="Basic Random Integer Numbers" dbColumnName='basicrandomintegernumbers'>
 		<description>This column will generate random integer numbers in the interval [minimum,maximum]. 
 		If not additional information is available his option will be chosen. </description>		
 		<datatype>INTEGER</datatype>		
@@ -44,7 +46,7 @@
 		<minimum>10</minimum>
 		<maximum>1000</maximum>		
 	</column>
-	<column name="Basic Random Integer Numbers With Step" dbColumnName='"BasicRandomIntegerNumbersWithStep"'>
+	<column name="Basic Random Integer Numbers With Step" dbColumnName='basicrandomintegernumberswithstep'>
 		<description>This column will generate random integer numbers in he interval [minimum,maximum]. 
 		The Step can be used to choose select integers in the range[]. </description>		
 		<datatype>INTEGER</datatype>		
@@ -53,7 +55,7 @@
 		<maximum>100001</maximum>	
 		<step>2</step>	<!-- Step 2 will ensure only even or odd are generated based on mimimum -->
 	</column>
-	<column name="Basic Random Float Numbers In a Range" dbColumnName='"BasicRandomFloatNumbersInaRange"'>
+	<column name="Basic Random Float Numbers In a Range" dbColumnName='basicrandomfloatnumbersinarange'>
 		<description>This column will generate random float numbers in he interval [mimimum,maximum]. 
 		</description>		
 		<datatype>FLOAT</datatype>		
@@ -61,7 +63,7 @@
 		<minimum>5</minimum>
 		<maximum>50</maximum>		
 	</column>
-	<column name="Basic Random Float Numbers In a Range with maximum distribution near mean" dbColumnName='"BasicRandomFloatNumbersInaRangewithmaximumdistributionnearmean"'>
+	<column name="Basic Random Float Numbers In a Range with maximum distribution near mean" dbColumnName='basicrandomfloatnumbersinarangewithmaximumdistributionnearmean'>
 		<description>A random floating point number N such that it is in [minimum,maximum] and with the specified mean between those bounds.
 		The mean argument defaults to the midpoint between the bounds, giving a symmetric distribution.</description>
 		<!-- Datatype supported - Integer, Float -->

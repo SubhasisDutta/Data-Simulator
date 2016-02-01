@@ -43,6 +43,8 @@ class RecordGenerator(object):
                     value=DecimalGenrator(dataConf).getRandom()
                 elif dataConf.dataType == "GUID":
                     value=GUIDGenerator(dataConf).getRandom()
+                    if self.config.find('resulttype').find('mode').text=='MYSQL':
+                        value=str(value)                         
                 elif dataConf.dataType == "ORDINAL": 
                     value=ORDINALGenerator(dataConf).getRandom(self.ordinalChoice[column.get('name')],self.odinalBias[column.get('name')])
                 elif dataConf.dataType == "BOOLEAN": 
