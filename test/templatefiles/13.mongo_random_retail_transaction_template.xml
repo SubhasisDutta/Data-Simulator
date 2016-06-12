@@ -1,12 +1,20 @@
 <?xml version="1.0"?>
 <data>
 	<resulttype>
-		<format>CSV</format> <!-- Currently only csv , TODO: JSON,XML or any other -->
-		<mode>FILE</mode><!-- TO DO : STREAMING -->
-		<location>C:\Workspace\SerendioGitLab\data-simulator\target\test_retail_data_new.csv</location>  <!-- Please change the target path before running -->
-		<!-- Before running he code ensure a dummy file with same name is present in the location -->
-		<!-- Needed if mode is FILE. The path is an absolute path -->
+		<format>CSV</format> 
+		<mode>MONGODB</mode>
+		<clusters>
+			<host>127.0.0.1</host>
+		</clusters>
+		<port>27017</port>
+		<username></username>
+		<password></password>
+		<batchsize>10</batchsize>
+		<schema>datasimulator</schema>  <!-- database-->
+		<table>datatest</table> <!-- collection in mongoDB -->		
 	</resulttype>
+	
+	
 	<timesliceType>UNIFORM</timesliceType>
 	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the start time from which simulation records will be generated -->
 	<startindex name="Time Stamp">2012-09-28T16:41:12</startindex>
@@ -17,26 +25,26 @@
 	<timedeltaunit>minutes</timedeltaunit><!-- microseconds, milliseconds, seconds, minutes, hours, days, weeks. Default is seconds -->
 	<!-- This provids a unique id whic is ideal for keeping track of records -->
 	
-	<column name="Transaction ID">
+	<column name="Transaction ID" dbColumnName="_id">
 		<description>This is a unique ID generated for each retail transaction.</description>	
 		<datatype>GUID</datatype>
 	</column>
-	<column name="Time Stamp">
+	<column name="Time Stamp" dbColumnName="timestamp">
 		<description>This puts the time stamp.</description>
 		<datatype>TIMESTAMP</datatype>
 	</column>
-	<column name="Paid">
+	<column name="Paid" dbColumnName="ispaid">
 		<description>Gives a boolean value to say if the transaction has been paid.</description>
 		<datatype>BOOLEAN</datatype>
 	</column>
 	<!-- This selects a random choice from a list of choice -->
-	<column name="User ID">
+	<column name="User ID" dbColumnName="userid">
 		<description>This selects a user Id from a list of user ID's available.</description>		
 		<datatype>ORDINAL</datatype>
 		<choice seed="C:\Workspace\SerendioGitLab\data-simulator\test\data\UserID.txt" bias=""></choice>
 	</column>
 	<!-- Select a random integer between 1 and 10 -->
-	<column name="Quantity Purchased">
+	<column name="Quantity Purchased" dbColumnName="quantitypurchased">
 		<description>Number of items purchased.</description>		
 		<datatype>INTEGER</datatype>		
 		<pattern>Random_normal</pattern>
@@ -44,7 +52,7 @@
 		<maximum>10</maximum>		
 	</column>
 	<!-- This selects a random choice from a list of choice -->
-	<column name="Item ID">
+	<column name="Item ID" dbColumnName="itemid">
 		<description>This selects a random item from a list of item.</description>		
 		<datatype>ORDINAL</datatype>
 		<choice>
@@ -60,7 +68,7 @@
 	</column>
 	
 	<!-- This shows how to randomly generate a string of length bounded by minimum and maximum length -->
-	<column name="Transaction description">
+	<column name="Transaction description" dbColumnName="transactiondescription">
 		<description>This generates a random string.</description>		
 		<datatype>STRING</datatype>
 		<pattern>Random_normal</pattern>
@@ -77,13 +85,13 @@
 		</choice>
 	</column>
 	<!-- This shows how to randomly generate a string of fixed length  -->
-	<column name="Transaction Code">
+	<column name="Transaction Code" dbColumnName="transactioncode">
 		<description>This generates a default alpha numeric random string.</description>		
 		<datatype>STRING</datatype>		
 		<fixed>6</fixed>
 	</column>
 	<!-- This shows how to randomly generate a digit of fixed length  -->
-	<column name="Transaction Number">
+	<column name="Transaction Number" dbColumnName="transactionnumber">
 		<description>This generates a default numeric random string of fixed length.</description>		
 		<datatype>STRING</datatype>		
 		<fixed>10</fixed>
@@ -91,7 +99,7 @@
 			<option>digits</option> <!-- '0123456789' -->					
 		</choice>
 	</column>	
-	<column name="Price of transaction">
+	<column name="Price of transaction" dbColumnName="priceoftransaction">
 		<description>This column will generate random float numbers in he interval [mimimum,maximum]. 
 		</description>		
 		<datatype>DECIMAL</datatype>		

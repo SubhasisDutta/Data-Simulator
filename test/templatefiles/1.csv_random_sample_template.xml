@@ -3,7 +3,7 @@
 	<resulttype>
 		<format>CSV</format> <!-- Currently only csv , TODO: JSON,XML or any other -->
 		<mode>FILE</mode><!-- TO DO : STREAMING -->
-		<location>D:\Workspace\target\testdata_new.csv</location>  <!-- Please change the target path before running -->
+		<location>C:\Workspace\SerendioGitLab\data-simulator\target\testdata_new.csv</location>  <!-- Please change the target path before running -->
 		<!-- Before running he code ensure a dummy file with same name is present in the location -->
 		<!-- Needed if mode is FILE. The path is an absolute path -->
 	</resulttype>

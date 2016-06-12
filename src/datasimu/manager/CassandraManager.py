@@ -26,7 +26,11 @@ class CassandraManager(object):
         self.insertBatch= BatchStatement()
         self.batchCount=0        
         columnstr = ','.join(self.dbColumnList)             
-        self.insertQuery=self.session.prepare('INSERT INTO '+self.resultTable+' ('+columnstr+') VALUES ('+self.insertPoints+')')        
+        self.insertQuery=self.session.prepare('INSERT INTO '+self.resultTable+' ('+columnstr+') VALUES ('+self.insertPoints+')') 
+        self.createTableIfNotExist()
+        
+    def createTableIfNotExist(self):
+        pass       
                         
     def getInsertPointString(self):
         insertPoints=''        

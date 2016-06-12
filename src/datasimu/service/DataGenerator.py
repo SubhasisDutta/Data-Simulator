@@ -12,7 +12,7 @@ from datasimu.manager.MySqlManager import MySqlManager
 from datasimu.service.UniformService import UniformService
 from datasimu.service.LoadService import LoadService
 from datasimu.service.FixedLoadService import FixedLoadService
-
+from datasimu.manager.MongoDBManager import MongoDBManager
 
 class DataGenerator(object):
     '''
@@ -49,6 +49,8 @@ class DataGenerator(object):
             self.manager=CassandraManager(self.root)
         elif self.outputMode == 'MYSQL':
             self.manager=MySqlManager(self.root)
+        elif self.outputMode == 'MONGODB':
+            self.manager=MongoDBManager(self.root)
         else:
             raise IOError
     

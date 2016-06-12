@@ -30,6 +30,13 @@ class MySqlManager(object):
         self.batchCount=0        
         columnstr = ','.join(self.dbColumnList)             
         self.insertQuery='INSERT INTO '+self.resultTable+' ('+columnstr+') VALUES ('+self.insertPoints+')' 
+#         self.createTableIfNotExist()
+    
+    def createTableIfNotExist(self):
+        cursor=self.connection.cursor()
+        
+        createString='CREATE TABLE IF NOT EXISTS '+self.resultTable+' (<column definitions>)'
+        cursor.execute(createString)        
                         
     def getInsertPointString(self):
         insertPoints=''        
