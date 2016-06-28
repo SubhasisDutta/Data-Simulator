@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<data>
+	<!-- Configuration for Data Distribution -->
+	<resulttype>
+		<!-- Format of output -->
+		<format>CSV</format> 
+		<!-- Storage Option -->
+		<mode>FILE</mode>
+		<location><!-- If mode is FILE location to store output file.--></location>
+	</resulttype>
+	
+	<!-- Configuration for Data Generation -->
+	<!-- Used to generate record with a uniform time gap -->
+	<timesliceType>UNIFORM</timesliceType>
+	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the start time from which simulation records will be generated -->
+	<startindex name="Time Stamp">2012-09-28T16:41:12</startindex>
+	<!-- This is in %Y-%m-%dT%H:%M:%S.%f format that indicates the end time till which simulation records will be generated -->
+	<endindex>2012-10-28T23:57:44</endindex>
+	<!-- This is the time delta between two generated records. This will be in milliseconds. -->
+	<timedelta>120</timedelta>
+	<!-- microseconds, milliseconds, seconds, minutes, hours, days, weeks. Default is seconds -->
+	<timedeltaunit>minutes</timedeltaunit>
+	
+	
+	<!-- Data Generation Description -->
+	<column name="Humidity">
+		<description>This column will generate random integer numbers in the interval [minimum,maximum].
+		The Step can be used to choose select integers in the range[].Basic Random Integer Numbers With Step </description>
+		<datatype>Integer</datatype>		
+		<pattern>Random_normal</pattern>
+		<minimum>1000</minimum>
+		<maximum>100001</maximum>	
+		<step>2</step>	<!-- Step 2 will ensure only even or odd are generated based on mimimum -->
+	</column>	
+	<column name="Temperature">
+		<description>A random floating point number N such that it is in [minimum,maximum] and with the specified mean between those bounds.
+		The mean argument defaults to the midpoint between the bounds, giving a symmetric distribution.</description>
+		<!-- Datatype supported - Integer, Float -->		
+		<datatype>Float</datatype>		
+		<minimum>5</minimum>
+		<maximum>50</maximum>
+		<!-- Mean : This can be used to generate a bell curve data. -->
+		<mean>40</mean>		
+	</column>
+	<column name="Pressure">
+		<description>The random number is modified with a fixed slope and intersept constant in integer.</description>		
+		<datatype>Integer</datatype>		
+		<pattern>Trending_Random</pattern>
+		<minimum>5</minimum>
+		<maximum>50</maximum>		
+		<mean>40</mean>
+		<slope>-0.5</slope>		
+	</column>
+	<!-- Generating incrasing or decrasing trend datapoints with varience -->
+	<column name="Trending Number generated from Random Float">
+		<description>The random number is modified with a fixed slope and intersept constant in float.</description>		
+		<datatype>Float</datatype>		
+		<pattern>Trending_Random</pattern>		
+		<!-- Mean : This can be used to generate a bell curve data. -->
+		<mean>30</mean>
+		<!-- Standard Deviation -->
+		<stdev>1</stdev> 
+		<slope>-8</slope>		
+	</column>
+	<!-- This coud be used to generate changing temperatiure data -->
+	<column name="Sine Random Noise"> 
+		<description>Generats a random float of Sine(x)+random[0,1]</description>		
+		<datatype>Float</datatype>		
+		<pattern>Sine_RandomNoise</pattern>
+		<mean>30</mean>
+	</column>	
+	<column name="Random Sine Noise">
+		<description>Generats a random float of Sine(random[0,1])+random[0,1]</description>		
+		<datatype>Float</datatype>		
+		<pattern>RandomSine_Noise</pattern>
+	</column>	
+	<column name="Time Stamp">
+		<description>This puts the time stamp.</description>
+		<datatype>TIMESTAMP</datatype>
+	</column>
+</data>
