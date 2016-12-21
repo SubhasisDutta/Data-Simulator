@@ -3,6 +3,10 @@ Data Simulator
 
 This tool hlps to generate massive amount of random data that can be used for testing or various demos that require massive chunks of data.
 
+# Demo
+
+App Link : http://demo.serendio.com/bigsim
+
 Currrently it suports Random Data Generation to a CSV file. In Intger and float datatypes.
 New feature to Support String datatype as well as pushing data to Cassandra will be added soon.
 
