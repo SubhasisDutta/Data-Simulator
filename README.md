@@ -7,6 +7,10 @@ This tool hlps to generate massive amount of random data that can be used for te
 
 App Link : http://demo.serendio.com/bigsim
 
+# Blog Post
+Link : http://subhasisproject.blogspot.com/2015/10/data-simulation-tool-using-distributed.html
+
+
 Currrently it suports Random Data Generation to a CSV file. In Intger and float datatypes.
 New feature to Support String datatype as well as pushing data to Cassandra will be added soon.
 
